@@ -1,0 +1,1040 @@
+{
+  "text": "Anna, do you remember our last discussion about the remote work stipend? I've talked again with the team and we still have the same issue. Some people think it should be used for technology while others suggest office furniture. Do you have any ideas on how to solve this? How about we split the stipend into two parts? That way people can use part of it for technology upgrades and part for office furniture or other home office needs. That's a good idea, but wouldn't it complicate the budget? It might be easier to stick with one category. I see your point, but flexibility might be better. Think about it. Wouldn't it be simpler to let people decide how to use their stipend based on their individual needs? Maybe, but we also need to ensure that everyone has the basic equipment to work remotely. What if we set a minimum requirement and anything beyond that can be used for personal preferences? That could work. If we create a list of essential items like a laptop, webcam, and headset, then anything extra could be allocated as they wish. That's a reasonable suggestion. If we do that, people will have the essentials while still having some freedom to choose.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.84,
+      "word": "Anna,"
+    },
+    {
+      "startTime": 1.02,
+      "finishTime": 1.22,
+      "word": "do"
+    },
+    {
+      "startTime": 1.22,
+      "finishTime": 1.3,
+      "word": "you"
+    },
+    {
+      "startTime": 1.3,
+      "finishTime": 1.62,
+      "word": "remember"
+    },
+    {
+      "startTime": 1.62,
+      "finishTime": 1.84,
+      "word": "our"
+    },
+    {
+      "startTime": 1.84,
+      "finishTime": 2.1,
+      "word": "last"
+    },
+    {
+      "startTime": 2.1,
+      "finishTime": 2.64,
+      "word": "discussion"
+    },
+    {
+      "startTime": 2.64,
+      "finishTime": 3,
+      "word": "about"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.2,
+      "word": "the"
+    },
+    {
+      "startTime": 3.2,
+      "finishTime": 3.44,
+      "word": "remote"
+    },
+    {
+      "startTime": 3.44,
+      "finishTime": 3.7,
+      "word": "work"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 4.12,
+      "word": "stipend?"
+    },
+    {
+      "startTime": 4.42,
+      "finishTime": 4.76,
+      "word": "I've"
+    },
+    {
+      "startTime": 4.76,
+      "finishTime": 4.96,
+      "word": "talked"
+    },
+    {
+      "startTime": 4.96,
+      "finishTime": 5.2,
+      "word": "again"
+    },
+    {
+      "startTime": 5.2,
+      "finishTime": 5.38,
+      "word": "with"
+    },
+    {
+      "startTime": 5.38,
+      "finishTime": 5.58,
+      "word": "the"
+    },
+    {
+      "startTime": 5.58,
+      "finishTime": 5.8,
+      "word": "team"
+    },
+    {
+      "startTime": 5.8,
+      "finishTime": 5.98,
+      "word": "and"
+    },
+    {
+      "startTime": 5.98,
+      "finishTime": 6.22,
+      "word": "we"
+    },
+    {
+      "startTime": 6.22,
+      "finishTime": 6.48,
+      "word": "still"
+    },
+    {
+      "startTime": 6.48,
+      "finishTime": 6.7,
+      "word": "have"
+    },
+    {
+      "startTime": 6.7,
+      "finishTime": 6.84,
+      "word": "the"
+    },
+    {
+      "startTime": 6.84,
+      "finishTime": 7.06,
+      "word": "same"
+    },
+    {
+      "startTime": 7.06,
+      "finishTime": 7.44,
+      "word": "issue."
+    },
+    {
+      "startTime": 7.86,
+      "finishTime": 8.14,
+      "word": "Some"
+    },
+    {
+      "startTime": 8.14,
+      "finishTime": 8.44,
+      "word": "people"
+    },
+    {
+      "startTime": 8.44,
+      "finishTime": 8.66,
+      "word": "think"
+    },
+    {
+      "startTime": 8.66,
+      "finishTime": 8.82,
+      "word": "it"
+    },
+    {
+      "startTime": 8.82,
+      "finishTime": 8.96,
+      "word": "should"
+    },
+    {
+      "startTime": 8.96,
+      "finishTime": 9.16,
+      "word": "be"
+    },
+    {
+      "startTime": 9.16,
+      "finishTime": 9.32,
+      "word": "used"
+    },
+    {
+      "startTime": 9.32,
+      "finishTime": 9.56,
+      "word": "for"
+    },
+    {
+      "startTime": 9.56,
+      "finishTime": 10.18,
+      "word": "technology"
+    },
+    {
+      "startTime": 10.18,
+      "finishTime": 10.72,
+      "word": "while"
+    },
+    {
+      "startTime": 10.72,
+      "finishTime": 11.12,
+      "word": "others"
+    },
+    {
+      "startTime": 11.12,
+      "finishTime": 11.66,
+      "word": "suggest"
+    },
+    {
+      "startTime": 11.66,
+      "finishTime": 12.14,
+      "word": "office"
+    },
+    {
+      "startTime": 12.14,
+      "finishTime": 12.62,
+      "word": "furniture."
+    },
+    {
+      "startTime": 13.1,
+      "finishTime": 13.2,
+      "word": "Do"
+    },
+    {
+      "startTime": 13.2,
+      "finishTime": 13.38,
+      "word": "you"
+    },
+    {
+      "startTime": 13.38,
+      "finishTime": 13.5,
+      "word": "have"
+    },
+    {
+      "startTime": 13.5,
+      "finishTime": 13.72,
+      "word": "any"
+    },
+    {
+      "startTime": 13.72,
+      "finishTime": 14.12,
+      "word": "ideas"
+    },
+    {
+      "startTime": 14.12,
+      "finishTime": 14.7,
+      "word": "on"
+    },
+    {
+      "startTime": 14.7,
+      "finishTime": 14.92,
+      "word": "how"
+    },
+    {
+      "startTime": 14.92,
+      "finishTime": 15.12,
+      "word": "to"
+    },
+    {
+      "startTime": 15.12,
+      "finishTime": 15.32,
+      "word": "solve"
+    },
+    {
+      "startTime": 15.32,
+      "finishTime": 15.7,
+      "word": "this?"
+    },
+    {
+      "startTime": 16.76,
+      "finishTime": 16.94,
+      "word": "How"
+    },
+    {
+      "startTime": 16.94,
+      "finishTime": 17.12,
+      "word": "about"
+    },
+    {
+      "startTime": 17.12,
+      "finishTime": 17.44,
+      "word": "we"
+    },
+    {
+      "startTime": 17.44,
+      "finishTime": 17.56,
+      "word": "split"
+    },
+    {
+      "startTime": 17.56,
+      "finishTime": 17.82,
+      "word": "the"
+    },
+    {
+      "startTime": 17.82,
+      "finishTime": 18.18,
+      "word": "stipend"
+    },
+    {
+      "startTime": 18.18,
+      "finishTime": 18.42,
+      "word": "into"
+    },
+    {
+      "startTime": 18.42,
+      "finishTime": 18.7,
+      "word": "two"
+    },
+    {
+      "startTime": 18.7,
+      "finishTime": 19.14,
+      "word": "parts?"
+    },
+    {
+      "startTime": 19.48,
+      "finishTime": 19.76,
+      "word": "That"
+    },
+    {
+      "startTime": 19.76,
+      "finishTime": 20,
+      "word": "way"
+    },
+    {
+      "startTime": 20,
+      "finishTime": 20.24,
+      "word": "people"
+    },
+    {
+      "startTime": 20.24,
+      "finishTime": 20.44,
+      "word": "can"
+    },
+    {
+      "startTime": 20.44,
+      "finishTime": 20.62,
+      "word": "use"
+    },
+    {
+      "startTime": 20.62,
+      "finishTime": 20.82,
+      "word": "part"
+    },
+    {
+      "startTime": 20.82,
+      "finishTime": 20.94,
+      "word": "of"
+    },
+    {
+      "startTime": 20.94,
+      "finishTime": 21.04,
+      "word": "it"
+    },
+    {
+      "startTime": 21.04,
+      "finishTime": 21.22,
+      "word": "for"
+    },
+    {
+      "startTime": 21.22,
+      "finishTime": 21.7,
+      "word": "technology"
+    },
+    {
+      "startTime": 21.7,
+      "finishTime": 22.16,
+      "word": "upgrades"
+    },
+    {
+      "startTime": 22.16,
+      "finishTime": 22.48,
+      "word": "and"
+    },
+    {
+      "startTime": 22.48,
+      "finishTime": 22.64,
+      "word": "part"
+    },
+    {
+      "startTime": 22.64,
+      "finishTime": 22.9,
+      "word": "for"
+    },
+    {
+      "startTime": 22.9,
+      "finishTime": 23.14,
+      "word": "office"
+    },
+    {
+      "startTime": 23.14,
+      "finishTime": 23.54,
+      "word": "furniture"
+    },
+    {
+      "startTime": 23.54,
+      "finishTime": 23.88,
+      "word": "or"
+    },
+    {
+      "startTime": 23.88,
+      "finishTime": 24.1,
+      "word": "other"
+    },
+    {
+      "startTime": 24.1,
+      "finishTime": 24.38,
+      "word": "home"
+    },
+    {
+      "startTime": 24.38,
+      "finishTime": 24.64,
+      "word": "office"
+    },
+    {
+      "startTime": 24.64,
+      "finishTime": 25,
+      "word": "needs."
+    },
+    {
+      "startTime": 25.54,
+      "finishTime": 25.84,
+      "word": "That's"
+    },
+    {
+      "startTime": 25.84,
+      "finishTime": 25.88,
+      "word": "a"
+    },
+    {
+      "startTime": 25.88,
+      "finishTime": 26,
+      "word": "good"
+    },
+    {
+      "startTime": 26,
+      "finishTime": 26.5,
+      "word": "idea,"
+    },
+    {
+      "startTime": 26.5,
+      "finishTime": 26.98,
+      "word": "but"
+    },
+    {
+      "startTime": 26.98,
+      "finishTime": 27.24,
+      "word": "wouldn't"
+    },
+    {
+      "startTime": 27.24,
+      "finishTime": 27.56,
+      "word": "it"
+    },
+    {
+      "startTime": 27.56,
+      "finishTime": 27.94,
+      "word": "complicate"
+    },
+    {
+      "startTime": 27.94,
+      "finishTime": 28.12,
+      "word": "the"
+    },
+    {
+      "startTime": 28.12,
+      "finishTime": 28.36,
+      "word": "budget?"
+    },
+    {
+      "startTime": 28.36,
+      "finishTime": 28.9,
+      "word": "It"
+    },
+    {
+      "startTime": 28.9,
+      "finishTime": 29.2,
+      "word": "might"
+    },
+    {
+      "startTime": 29.2,
+      "finishTime": 29.5,
+      "word": "be"
+    },
+    {
+      "startTime": 29.5,
+      "finishTime": 29.74,
+      "word": "easier"
+    },
+    {
+      "startTime": 29.74,
+      "finishTime": 29.98,
+      "word": "to"
+    },
+    {
+      "startTime": 29.98,
+      "finishTime": 30.1,
+      "word": "stick"
+    },
+    {
+      "startTime": 30.1,
+      "finishTime": 30.28,
+      "word": "with"
+    },
+    {
+      "startTime": 30.28,
+      "finishTime": 30.52,
+      "word": "one"
+    },
+    {
+      "startTime": 30.52,
+      "finishTime": 31.08,
+      "word": "category."
+    },
+    {
+      "startTime": 31.78,
+      "finishTime": 31.78,
+      "word": "I"
+    },
+    {
+      "startTime": 31.78,
+      "finishTime": 31.96,
+      "word": "see"
+    },
+    {
+      "startTime": 31.96,
+      "finishTime": 32.22,
+      "word": "your"
+    },
+    {
+      "startTime": 32.22,
+      "finishTime": 32.48,
+      "word": "point,"
+    },
+    {
+      "startTime": 32.72,
+      "finishTime": 32.8,
+      "word": "but"
+    },
+    {
+      "startTime": 32.8,
+      "finishTime": 33.32,
+      "word": "flexibility"
+    },
+    {
+      "startTime": 33.32,
+      "finishTime": 33.64,
+      "word": "might"
+    },
+    {
+      "startTime": 33.64,
+      "finishTime": 33.84,
+      "word": "be"
+    },
+    {
+      "startTime": 33.84,
+      "finishTime": 34.14,
+      "word": "better."
+    },
+    {
+      "startTime": 34.32,
+      "finishTime": 34.5,
+      "word": "Think"
+    },
+    {
+      "startTime": 34.5,
+      "finishTime": 34.78,
+      "word": "about"
+    },
+    {
+      "startTime": 34.78,
+      "finishTime": 35.08,
+      "word": "it."
+    },
+    {
+      "startTime": 35.18,
+      "finishTime": 35.3,
+      "word": "Wouldn't"
+    },
+    {
+      "startTime": 35.3,
+      "finishTime": 35.44,
+      "word": "it"
+    },
+    {
+      "startTime": 35.44,
+      "finishTime": 35.64,
+      "word": "be"
+    },
+    {
+      "startTime": 35.64,
+      "finishTime": 35.88,
+      "word": "simpler"
+    },
+    {
+      "startTime": 35.88,
+      "finishTime": 36.06,
+      "word": "to"
+    },
+    {
+      "startTime": 36.06,
+      "finishTime": 36.2,
+      "word": "let"
+    },
+    {
+      "startTime": 36.2,
+      "finishTime": 36.48,
+      "word": "people"
+    },
+    {
+      "startTime": 36.48,
+      "finishTime": 36.92,
+      "word": "decide"
+    },
+    {
+      "startTime": 36.92,
+      "finishTime": 37.18,
+      "word": "how"
+    },
+    {
+      "startTime": 37.18,
+      "finishTime": 37.34,
+      "word": "to"
+    },
+    {
+      "startTime": 37.34,
+      "finishTime": 37.5,
+      "word": "use"
+    },
+    {
+      "startTime": 37.5,
+      "finishTime": 37.74,
+      "word": "their"
+    },
+    {
+      "startTime": 37.74,
+      "finishTime": 38.1,
+      "word": "stipend"
+    },
+    {
+      "startTime": 38.1,
+      "finishTime": 38.38,
+      "word": "based"
+    },
+    {
+      "startTime": 38.38,
+      "finishTime": 38.54,
+      "word": "on"
+    },
+    {
+      "startTime": 38.54,
+      "finishTime": 38.78,
+      "word": "their"
+    },
+    {
+      "startTime": 38.78,
+      "finishTime": 39.2,
+      "word": "individual"
+    },
+    {
+      "startTime": 39.2,
+      "finishTime": 39.64,
+      "word": "needs?"
+    },
+    {
+      "startTime": 40.5,
+      "finishTime": 40.78,
+      "word": "Maybe,"
+    },
+    {
+      "startTime": 41,
+      "finishTime": 41.18,
+      "word": "but"
+    },
+    {
+      "startTime": 41.18,
+      "finishTime": 41.4,
+      "word": "we"
+    },
+    {
+      "startTime": 41.4,
+      "finishTime": 41.72,
+      "word": "also"
+    },
+    {
+      "startTime": 41.72,
+      "finishTime": 41.98,
+      "word": "need"
+    },
+    {
+      "startTime": 41.98,
+      "finishTime": 42.2,
+      "word": "to"
+    },
+    {
+      "startTime": 42.2,
+      "finishTime": 42.52,
+      "word": "ensure"
+    },
+    {
+      "startTime": 42.52,
+      "finishTime": 42.9,
+      "word": "that"
+    },
+    {
+      "startTime": 42.9,
+      "finishTime": 43.18,
+      "word": "everyone"
+    },
+    {
+      "startTime": 43.18,
+      "finishTime": 43.42,
+      "word": "has"
+    },
+    {
+      "startTime": 43.42,
+      "finishTime": 43.6,
+      "word": "the"
+    },
+    {
+      "startTime": 43.6,
+      "finishTime": 43.98,
+      "word": "basic"
+    },
+    {
+      "startTime": 43.98,
+      "finishTime": 44.48,
+      "word": "equipment"
+    },
+    {
+      "startTime": 44.48,
+      "finishTime": 44.76,
+      "word": "to"
+    },
+    {
+      "startTime": 44.76,
+      "finishTime": 44.9,
+      "word": "work"
+    },
+    {
+      "startTime": 44.9,
+      "finishTime": 45.4,
+      "word": "remotely."
+    },
+    {
+      "startTime": 45.88,
+      "finishTime": 46.08,
+      "word": "What"
+    },
+    {
+      "startTime": 46.08,
+      "finishTime": 46.2,
+      "word": "if"
+    },
+    {
+      "startTime": 46.2,
+      "finishTime": 46.42,
+      "word": "we"
+    },
+    {
+      "startTime": 46.42,
+      "finishTime": 46.52,
+      "word": "set"
+    },
+    {
+      "startTime": 46.52,
+      "finishTime": 46.74,
+      "word": "a"
+    },
+    {
+      "startTime": 46.74,
+      "finishTime": 47.06,
+      "word": "minimum"
+    },
+    {
+      "startTime": 47.06,
+      "finishTime": 47.62,
+      "word": "requirement"
+    },
+    {
+      "startTime": 47.62,
+      "finishTime": 48.16,
+      "word": "and"
+    },
+    {
+      "startTime": 48.16,
+      "finishTime": 48.6,
+      "word": "anything"
+    },
+    {
+      "startTime": 48.6,
+      "finishTime": 48.92,
+      "word": "beyond"
+    },
+    {
+      "startTime": 48.92,
+      "finishTime": 49.22,
+      "word": "that"
+    },
+    {
+      "startTime": 49.22,
+      "finishTime": 49.4,
+      "word": "can"
+    },
+    {
+      "startTime": 49.4,
+      "finishTime": 49.58,
+      "word": "be"
+    },
+    {
+      "startTime": 49.58,
+      "finishTime": 49.8,
+      "word": "used"
+    },
+    {
+      "startTime": 49.8,
+      "finishTime": 50.08,
+      "word": "for"
+    },
+    {
+      "startTime": 50.08,
+      "finishTime": 50.54,
+      "word": "personal"
+    },
+    {
+      "startTime": 50.54,
+      "finishTime": 51.04,
+      "word": "preferences?"
+    },
+    {
+      "startTime": 51.64,
+      "finishTime": 51.82,
+      "word": "That"
+    },
+    {
+      "startTime": 51.82,
+      "finishTime": 52.04,
+      "word": "could"
+    },
+    {
+      "startTime": 52.04,
+      "finishTime": 52.38,
+      "word": "work."
+    },
+    {
+      "startTime": 52.64,
+      "finishTime": 52.8,
+      "word": "If"
+    },
+    {
+      "startTime": 52.8,
+      "finishTime": 53.06,
+      "word": "we"
+    },
+    {
+      "startTime": 53.06,
+      "finishTime": 53.24,
+      "word": "create"
+    },
+    {
+      "startTime": 53.24,
+      "finishTime": 53.42,
+      "word": "a"
+    },
+    {
+      "startTime": 53.42,
+      "finishTime": 53.56,
+      "word": "list"
+    },
+    {
+      "startTime": 53.56,
+      "finishTime": 53.78,
+      "word": "of"
+    },
+    {
+      "startTime": 53.78,
+      "finishTime": 54.12,
+      "word": "essential"
+    },
+    {
+      "startTime": 54.12,
+      "finishTime": 54.6,
+      "word": "items"
+    },
+    {
+      "startTime": 54.6,
+      "finishTime": 54.88,
+      "word": "like"
+    },
+    {
+      "startTime": 54.88,
+      "finishTime": 55.02,
+      "word": "a"
+    },
+    {
+      "startTime": 55.02,
+      "finishTime": 55.56,
+      "word": "laptop,"
+    },
+    {
+      "startTime": 55.86,
+      "finishTime": 56.16,
+      "word": "webcam,"
+    },
+    {
+      "startTime": 56.36,
+      "finishTime": 56.52,
+      "word": "and"
+    },
+    {
+      "startTime": 56.52,
+      "finishTime": 56.88,
+      "word": "headset,"
+    },
+    {
+      "startTime": 56.88,
+      "finishTime": 57.32,
+      "word": "then"
+    },
+    {
+      "startTime": 57.32,
+      "finishTime": 57.68,
+      "word": "anything"
+    },
+    {
+      "startTime": 57.68,
+      "finishTime": 58,
+      "word": "extra"
+    },
+    {
+      "startTime": 58,
+      "finishTime": 58.18,
+      "word": "could"
+    },
+    {
+      "startTime": 58.18,
+      "finishTime": 58.44,
+      "word": "be"
+    },
+    {
+      "startTime": 58.44,
+      "finishTime": 58.74,
+      "word": "allocated"
+    },
+    {
+      "startTime": 58.74,
+      "finishTime": 58.96,
+      "word": "as"
+    },
+    {
+      "startTime": 58.96,
+      "finishTime": 59.14,
+      "word": "they"
+    },
+    {
+      "startTime": 59.14,
+      "finishTime": 59.36,
+      "word": "wish."
+    },
+    {
+      "startTime": 59.76,
+      "finishTime": 60.14,
+      "word": "That's"
+    },
+    {
+      "startTime": 60.14,
+      "finishTime": 60.22,
+      "word": "a"
+    },
+    {
+      "startTime": 60.22,
+      "finishTime": 60.62,
+      "word": "reasonable"
+    },
+    {
+      "startTime": 60.62,
+      "finishTime": 61.18,
+      "word": "suggestion."
+    },
+    {
+      "startTime": 61.48,
+      "finishTime": 61.58,
+      "word": "If"
+    },
+    {
+      "startTime": 61.58,
+      "finishTime": 61.74,
+      "word": "we"
+    },
+    {
+      "startTime": 61.74,
+      "finishTime": 61.94,
+      "word": "do"
+    },
+    {
+      "startTime": 61.94,
+      "finishTime": 62.28,
+      "word": "that,"
+    },
+    {
+      "startTime": 62.48,
+      "finishTime": 62.72,
+      "word": "people"
+    },
+    {
+      "startTime": 62.72,
+      "finishTime": 62.98,
+      "word": "will"
+    },
+    {
+      "startTime": 62.98,
+      "finishTime": 63.14,
+      "word": "have"
+    },
+    {
+      "startTime": 63.14,
+      "finishTime": 63.38,
+      "word": "the"
+    },
+    {
+      "startTime": 63.38,
+      "finishTime": 63.68,
+      "word": "essentials"
+    },
+    {
+      "startTime": 63.68,
+      "finishTime": 64.08,
+      "word": "while"
+    },
+    {
+      "startTime": 64.08,
+      "finishTime": 64.36,
+      "word": "still"
+    },
+    {
+      "startTime": 64.36,
+      "finishTime": 64.62,
+      "word": "having"
+    },
+    {
+      "startTime": 64.62,
+      "finishTime": 64.98,
+      "word": "some"
+    },
+    {
+      "startTime": 64.98,
+      "finishTime": 65.24,
+      "word": "freedom"
+    },
+    {
+      "startTime": 65.24,
+      "finishTime": 65.58,
+      "word": "to"
+    },
+    {
+      "startTime": 65.58,
+      "finishTime": 65.84,
+      "word": "choose."
+    }
+  ]
+}

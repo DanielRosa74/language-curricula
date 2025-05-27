@@ -1,0 +1,1230 @@
+{
+  "text": "Hey, Lisa, I need your help with something. There's a strange issue with the software, but I'm not sure how to describe it. Can you take a look? Sure, Mark. What's going on? Well, when I click on the menu, it sometimes disappears or shows the wrong options. It's like it's glitching or something. Does that make sense? I think so. It could be a rendering problem. Does it happen every time you click or just sometimes? It's more random. Sometimes it works fine, but other times it acts weird. I tried restarting, but it didn't help. Do you know what might be causing it? It could be a JavaScript issue. Maybe there's a problem with the event handling. Does it affect other parts of the software or just the menu? Mostly the menu. Oh, and there's another thing. Sometimes the screen flickers when I switch between tabs. It's not consistent, but it happens enough to be annoying. Any ideas? Flickering could be a graphics driver issue or a problem with the UI framework. Have you updated the drivers recently? Not that I know of. Should I try updating them to see if that helps? Yes, that's a good start. If it doesn't work, we might need to dig into the code or run some diagnostics. Does that sound OK? Yeah, that sounds good. Thanks for your help, Lisa. I appreciate it. No problem, Mark. If you run into any other issues, let me know.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.78,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.78,
+      "finishTime": 1.14,
+      "word": "Lisa,"
+    },
+    {
+      "startTime": 1.36,
+      "finishTime": 1.48,
+      "word": "I"
+    },
+    {
+      "startTime": 1.48,
+      "finishTime": 1.64,
+      "word": "need"
+    },
+    {
+      "startTime": 1.64,
+      "finishTime": 1.82,
+      "word": "your"
+    },
+    {
+      "startTime": 1.82,
+      "finishTime": 1.96,
+      "word": "help"
+    },
+    {
+      "startTime": 1.96,
+      "finishTime": 2.18,
+      "word": "with"
+    },
+    {
+      "startTime": 2.18,
+      "finishTime": 2.46,
+      "word": "something."
+    },
+    {
+      "startTime": 2.88,
+      "finishTime": 3.2,
+      "word": "There's"
+    },
+    {
+      "startTime": 3.2,
+      "finishTime": 3.44,
+      "word": "a"
+    },
+    {
+      "startTime": 3.44,
+      "finishTime": 3.62,
+      "word": "strange"
+    },
+    {
+      "startTime": 3.62,
+      "finishTime": 3.9,
+      "word": "issue"
+    },
+    {
+      "startTime": 3.9,
+      "finishTime": 4.08,
+      "word": "with"
+    },
+    {
+      "startTime": 4.08,
+      "finishTime": 4.26,
+      "word": "the"
+    },
+    {
+      "startTime": 4.26,
+      "finishTime": 4.6,
+      "word": "software,"
+    },
+    {
+      "startTime": 4.6,
+      "finishTime": 5.02,
+      "word": "but"
+    },
+    {
+      "startTime": 5.02,
+      "finishTime": 5.18,
+      "word": "I'm"
+    },
+    {
+      "startTime": 5.18,
+      "finishTime": 5.36,
+      "word": "not"
+    },
+    {
+      "startTime": 5.36,
+      "finishTime": 5.48,
+      "word": "sure"
+    },
+    {
+      "startTime": 5.48,
+      "finishTime": 5.66,
+      "word": "how"
+    },
+    {
+      "startTime": 5.66,
+      "finishTime": 5.88,
+      "word": "to"
+    },
+    {
+      "startTime": 5.88,
+      "finishTime": 6.14,
+      "word": "describe"
+    },
+    {
+      "startTime": 6.14,
+      "finishTime": 6.48,
+      "word": "it."
+    },
+    {
+      "startTime": 6.52,
+      "finishTime": 6.7,
+      "word": "Can"
+    },
+    {
+      "startTime": 6.7,
+      "finishTime": 6.84,
+      "word": "you"
+    },
+    {
+      "startTime": 6.84,
+      "finishTime": 7.02,
+      "word": "take"
+    },
+    {
+      "startTime": 7.02,
+      "finishTime": 7.16,
+      "word": "a"
+    },
+    {
+      "startTime": 7.16,
+      "finishTime": 7.42,
+      "word": "look?"
+    },
+    {
+      "startTime": 7.92,
+      "finishTime": 8.1,
+      "word": "Sure,"
+    },
+    {
+      "startTime": 8.2,
+      "finishTime": 8.36,
+      "word": "Mark."
+    },
+    {
+      "startTime": 8.42,
+      "finishTime": 8.7,
+      "word": "What's"
+    },
+    {
+      "startTime": 8.7,
+      "finishTime": 8.9,
+      "word": "going"
+    },
+    {
+      "startTime": 8.9,
+      "finishTime": 9.1,
+      "word": "on?"
+    },
+    {
+      "startTime": 9.6,
+      "finishTime": 9.94,
+      "word": "Well,"
+    },
+    {
+      "startTime": 10.06,
+      "finishTime": 10.26,
+      "word": "when"
+    },
+    {
+      "startTime": 10.26,
+      "finishTime": 10.44,
+      "word": "I"
+    },
+    {
+      "startTime": 10.44,
+      "finishTime": 10.56,
+      "word": "click"
+    },
+    {
+      "startTime": 10.56,
+      "finishTime": 10.78,
+      "word": "on"
+    },
+    {
+      "startTime": 10.78,
+      "finishTime": 10.92,
+      "word": "the"
+    },
+    {
+      "startTime": 10.92,
+      "finishTime": 11.14,
+      "word": "menu,"
+    },
+    {
+      "startTime": 11.26,
+      "finishTime": 11.4,
+      "word": "it"
+    },
+    {
+      "startTime": 11.4,
+      "finishTime": 11.82,
+      "word": "sometimes"
+    },
+    {
+      "startTime": 11.82,
+      "finishTime": 12.42,
+      "word": "disappears"
+    },
+    {
+      "startTime": 12.42,
+      "finishTime": 12.72,
+      "word": "or"
+    },
+    {
+      "startTime": 12.72,
+      "finishTime": 12.96,
+      "word": "shows"
+    },
+    {
+      "startTime": 12.96,
+      "finishTime": 13.16,
+      "word": "the"
+    },
+    {
+      "startTime": 13.16,
+      "finishTime": 13.32,
+      "word": "wrong"
+    },
+    {
+      "startTime": 13.32,
+      "finishTime": 13.76,
+      "word": "options."
+    },
+    {
+      "startTime": 14.32,
+      "finishTime": 14.62,
+      "word": "It's"
+    },
+    {
+      "startTime": 14.62,
+      "finishTime": 14.78,
+      "word": "like"
+    },
+    {
+      "startTime": 14.78,
+      "finishTime": 15.32,
+      "word": "it's"
+    },
+    {
+      "startTime": 15.32,
+      "finishTime": 15.7,
+      "word": "glitching"
+    },
+    {
+      "startTime": 15.7,
+      "finishTime": 15.86,
+      "word": "or"
+    },
+    {
+      "startTime": 15.86,
+      "finishTime": 16.14,
+      "word": "something."
+    },
+    {
+      "startTime": 16.38,
+      "finishTime": 16.52,
+      "word": "Does"
+    },
+    {
+      "startTime": 16.52,
+      "finishTime": 16.7,
+      "word": "that"
+    },
+    {
+      "startTime": 16.7,
+      "finishTime": 16.84,
+      "word": "make"
+    },
+    {
+      "startTime": 16.84,
+      "finishTime": 17.22,
+      "word": "sense?"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 17.9,
+      "word": "I"
+    },
+    {
+      "startTime": 17.9,
+      "finishTime": 18.14,
+      "word": "think"
+    },
+    {
+      "startTime": 18.14,
+      "finishTime": 18.48,
+      "word": "so."
+    },
+    {
+      "startTime": 18.66,
+      "finishTime": 18.8,
+      "word": "It"
+    },
+    {
+      "startTime": 18.8,
+      "finishTime": 18.94,
+      "word": "could"
+    },
+    {
+      "startTime": 18.94,
+      "finishTime": 19.14,
+      "word": "be"
+    },
+    {
+      "startTime": 19.14,
+      "finishTime": 19.26,
+      "word": "a"
+    },
+    {
+      "startTime": 19.26,
+      "finishTime": 19.6,
+      "word": "rendering"
+    },
+    {
+      "startTime": 19.6,
+      "finishTime": 20.04,
+      "word": "problem."
+    },
+    {
+      "startTime": 20.34,
+      "finishTime": 20.48,
+      "word": "Does"
+    },
+    {
+      "startTime": 20.48,
+      "finishTime": 20.66,
+      "word": "it"
+    },
+    {
+      "startTime": 20.66,
+      "finishTime": 20.9,
+      "word": "happen"
+    },
+    {
+      "startTime": 20.9,
+      "finishTime": 21.24,
+      "word": "every"
+    },
+    {
+      "startTime": 21.24,
+      "finishTime": 21.4,
+      "word": "time"
+    },
+    {
+      "startTime": 21.4,
+      "finishTime": 21.58,
+      "word": "you"
+    },
+    {
+      "startTime": 21.58,
+      "finishTime": 21.76,
+      "word": "click"
+    },
+    {
+      "startTime": 21.76,
+      "finishTime": 21.96,
+      "word": "or"
+    },
+    {
+      "startTime": 21.96,
+      "finishTime": 22.26,
+      "word": "just"
+    },
+    {
+      "startTime": 22.26,
+      "finishTime": 22.66,
+      "word": "sometimes?"
+    },
+    {
+      "startTime": 22.9,
+      "finishTime": 23.2,
+      "word": "It's"
+    },
+    {
+      "startTime": 23.2,
+      "finishTime": 23.5,
+      "word": "more"
+    },
+    {
+      "startTime": 23.5,
+      "finishTime": 23.88,
+      "word": "random."
+    },
+    {
+      "startTime": 24.1,
+      "finishTime": 24.48,
+      "word": "Sometimes"
+    },
+    {
+      "startTime": 24.48,
+      "finishTime": 24.66,
+      "word": "it"
+    },
+    {
+      "startTime": 24.66,
+      "finishTime": 24.82,
+      "word": "works"
+    },
+    {
+      "startTime": 24.82,
+      "finishTime": 25.24,
+      "word": "fine,"
+    },
+    {
+      "startTime": 25.4,
+      "finishTime": 25.68,
+      "word": "but"
+    },
+    {
+      "startTime": 25.68,
+      "finishTime": 25.94,
+      "word": "other"
+    },
+    {
+      "startTime": 25.94,
+      "finishTime": 26.16,
+      "word": "times"
+    },
+    {
+      "startTime": 26.16,
+      "finishTime": 26.32,
+      "word": "it"
+    },
+    {
+      "startTime": 26.32,
+      "finishTime": 26.46,
+      "word": "acts"
+    },
+    {
+      "startTime": 26.46,
+      "finishTime": 26.84,
+      "word": "weird."
+    },
+    {
+      "startTime": 27.06,
+      "finishTime": 27.26,
+      "word": "I"
+    },
+    {
+      "startTime": 27.26,
+      "finishTime": 27.44,
+      "word": "tried"
+    },
+    {
+      "startTime": 27.44,
+      "finishTime": 28.06,
+      "word": "restarting,"
+    },
+    {
+      "startTime": 28.12,
+      "finishTime": 28.2,
+      "word": "but"
+    },
+    {
+      "startTime": 28.2,
+      "finishTime": 28.38,
+      "word": "it"
+    },
+    {
+      "startTime": 28.38,
+      "finishTime": 28.56,
+      "word": "didn't"
+    },
+    {
+      "startTime": 28.56,
+      "finishTime": 28.88,
+      "word": "help."
+    },
+    {
+      "startTime": 28.88,
+      "finishTime": 29.32,
+      "word": "Do"
+    },
+    {
+      "startTime": 29.32,
+      "finishTime": 29.42,
+      "word": "you"
+    },
+    {
+      "startTime": 29.42,
+      "finishTime": 29.62,
+      "word": "know"
+    },
+    {
+      "startTime": 29.62,
+      "finishTime": 29.82,
+      "word": "what"
+    },
+    {
+      "startTime": 29.82,
+      "finishTime": 30.02,
+      "word": "might"
+    },
+    {
+      "startTime": 30.02,
+      "finishTime": 30.28,
+      "word": "be"
+    },
+    {
+      "startTime": 30.28,
+      "finishTime": 30.48,
+      "word": "causing"
+    },
+    {
+      "startTime": 30.48,
+      "finishTime": 30.94,
+      "word": "it?"
+    },
+    {
+      "startTime": 31.58,
+      "finishTime": 31.58,
+      "word": "It"
+    },
+    {
+      "startTime": 31.58,
+      "finishTime": 31.78,
+      "word": "could"
+    },
+    {
+      "startTime": 31.78,
+      "finishTime": 31.98,
+      "word": "be"
+    },
+    {
+      "startTime": 31.98,
+      "finishTime": 32.12,
+      "word": "a"
+    },
+    {
+      "startTime": 32.12,
+      "finishTime": 32.54,
+      "word": "JavaScript"
+    },
+    {
+      "startTime": 32.54,
+      "finishTime": 33.08,
+      "word": "issue."
+    },
+    {
+      "startTime": 33.4,
+      "finishTime": 33.54,
+      "word": "Maybe"
+    },
+    {
+      "startTime": 33.54,
+      "finishTime": 33.76,
+      "word": "there's"
+    },
+    {
+      "startTime": 33.76,
+      "finishTime": 33.9,
+      "word": "a"
+    },
+    {
+      "startTime": 33.9,
+      "finishTime": 34.1,
+      "word": "problem"
+    },
+    {
+      "startTime": 34.1,
+      "finishTime": 34.32,
+      "word": "with"
+    },
+    {
+      "startTime": 34.32,
+      "finishTime": 34.54,
+      "word": "the"
+    },
+    {
+      "startTime": 34.54,
+      "finishTime": 34.68,
+      "word": "event"
+    },
+    {
+      "startTime": 34.68,
+      "finishTime": 35.2,
+      "word": "handling."
+    },
+    {
+      "startTime": 35.66,
+      "finishTime": 35.74,
+      "word": "Does"
+    },
+    {
+      "startTime": 35.74,
+      "finishTime": 35.94,
+      "word": "it"
+    },
+    {
+      "startTime": 35.94,
+      "finishTime": 36.16,
+      "word": "affect"
+    },
+    {
+      "startTime": 36.16,
+      "finishTime": 36.44,
+      "word": "other"
+    },
+    {
+      "startTime": 36.44,
+      "finishTime": 36.64,
+      "word": "parts"
+    },
+    {
+      "startTime": 36.64,
+      "finishTime": 36.8,
+      "word": "of"
+    },
+    {
+      "startTime": 36.8,
+      "finishTime": 36.94,
+      "word": "the"
+    },
+    {
+      "startTime": 36.94,
+      "finishTime": 37.26,
+      "word": "software"
+    },
+    {
+      "startTime": 37.26,
+      "finishTime": 37.5,
+      "word": "or"
+    },
+    {
+      "startTime": 37.5,
+      "finishTime": 37.78,
+      "word": "just"
+    },
+    {
+      "startTime": 37.78,
+      "finishTime": 37.96,
+      "word": "the"
+    },
+    {
+      "startTime": 37.96,
+      "finishTime": 38.24,
+      "word": "menu?"
+    },
+    {
+      "startTime": 38.6,
+      "finishTime": 38.92,
+      "word": "Mostly"
+    },
+    {
+      "startTime": 38.92,
+      "finishTime": 39.24,
+      "word": "the"
+    },
+    {
+      "startTime": 39.24,
+      "finishTime": 39.54,
+      "word": "menu."
+    },
+    {
+      "startTime": 39.76,
+      "finishTime": 40.06,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 40.12,
+      "finishTime": 40.3,
+      "word": "and"
+    },
+    {
+      "startTime": 40.3,
+      "finishTime": 40.58,
+      "word": "there's"
+    },
+    {
+      "startTime": 40.58,
+      "finishTime": 40.8,
+      "word": "another"
+    },
+    {
+      "startTime": 40.8,
+      "finishTime": 41.14,
+      "word": "thing."
+    },
+    {
+      "startTime": 41.28,
+      "finishTime": 41.74,
+      "word": "Sometimes"
+    },
+    {
+      "startTime": 41.74,
+      "finishTime": 42.04,
+      "word": "the"
+    },
+    {
+      "startTime": 42.04,
+      "finishTime": 42.22,
+      "word": "screen"
+    },
+    {
+      "startTime": 42.22,
+      "finishTime": 42.74,
+      "word": "flickers"
+    },
+    {
+      "startTime": 42.74,
+      "finishTime": 42.88,
+      "word": "when"
+    },
+    {
+      "startTime": 42.88,
+      "finishTime": 43.08,
+      "word": "I"
+    },
+    {
+      "startTime": 43.08,
+      "finishTime": 43.28,
+      "word": "switch"
+    },
+    {
+      "startTime": 43.28,
+      "finishTime": 43.62,
+      "word": "between"
+    },
+    {
+      "startTime": 43.62,
+      "finishTime": 44,
+      "word": "tabs."
+    },
+    {
+      "startTime": 44.54,
+      "finishTime": 44.74,
+      "word": "It's"
+    },
+    {
+      "startTime": 44.74,
+      "finishTime": 44.94,
+      "word": "not"
+    },
+    {
+      "startTime": 44.94,
+      "finishTime": 45.58,
+      "word": "consistent,"
+    },
+    {
+      "startTime": 45.58,
+      "finishTime": 46.12,
+      "word": "but"
+    },
+    {
+      "startTime": 46.12,
+      "finishTime": 46.38,
+      "word": "it"
+    },
+    {
+      "startTime": 46.38,
+      "finishTime": 46.62,
+      "word": "happens"
+    },
+    {
+      "startTime": 46.62,
+      "finishTime": 46.9,
+      "word": "enough"
+    },
+    {
+      "startTime": 46.9,
+      "finishTime": 47.06,
+      "word": "to"
+    },
+    {
+      "startTime": 47.06,
+      "finishTime": 47.28,
+      "word": "be"
+    },
+    {
+      "startTime": 47.28,
+      "finishTime": 47.58,
+      "word": "annoying."
+    },
+    {
+      "startTime": 47.98,
+      "finishTime": 48.18,
+      "word": "Any"
+    },
+    {
+      "startTime": 48.18,
+      "finishTime": 48.7,
+      "word": "ideas?"
+    },
+    {
+      "startTime": 49.56,
+      "finishTime": 49.98,
+      "word": "Flickering"
+    },
+    {
+      "startTime": 49.98,
+      "finishTime": 50.22,
+      "word": "could"
+    },
+    {
+      "startTime": 50.22,
+      "finishTime": 50.44,
+      "word": "be"
+    },
+    {
+      "startTime": 50.44,
+      "finishTime": 50.64,
+      "word": "a"
+    },
+    {
+      "startTime": 50.64,
+      "finishTime": 50.96,
+      "word": "graphics"
+    },
+    {
+      "startTime": 50.96,
+      "finishTime": 51.3,
+      "word": "driver"
+    },
+    {
+      "startTime": 51.3,
+      "finishTime": 51.68,
+      "word": "issue"
+    },
+    {
+      "startTime": 51.68,
+      "finishTime": 52.02,
+      "word": "or"
+    },
+    {
+      "startTime": 52.02,
+      "finishTime": 52.22,
+      "word": "a"
+    },
+    {
+      "startTime": 52.22,
+      "finishTime": 52.4,
+      "word": "problem"
+    },
+    {
+      "startTime": 52.4,
+      "finishTime": 52.6,
+      "word": "with"
+    },
+    {
+      "startTime": 52.6,
+      "finishTime": 52.8,
+      "word": "the"
+    },
+    {
+      "startTime": 52.8,
+      "finishTime": 53.04,
+      "word": "UI"
+    },
+    {
+      "startTime": 53.04,
+      "finishTime": 53.48,
+      "word": "framework."
+    },
+    {
+      "startTime": 53.82,
+      "finishTime": 53.96,
+      "word": "Have"
+    },
+    {
+      "startTime": 53.96,
+      "finishTime": 54.12,
+      "word": "you"
+    },
+    {
+      "startTime": 54.12,
+      "finishTime": 54.4,
+      "word": "updated"
+    },
+    {
+      "startTime": 54.4,
+      "finishTime": 54.64,
+      "word": "the"
+    },
+    {
+      "startTime": 54.64,
+      "finishTime": 54.82,
+      "word": "drivers"
+    },
+    {
+      "startTime": 54.82,
+      "finishTime": 55.32,
+      "word": "recently?"
+    },
+    {
+      "startTime": 55.7,
+      "finishTime": 55.9,
+      "word": "Not"
+    },
+    {
+      "startTime": 55.9,
+      "finishTime": 56.08,
+      "word": "that"
+    },
+    {
+      "startTime": 56.08,
+      "finishTime": 56.2,
+      "word": "I"
+    },
+    {
+      "startTime": 56.2,
+      "finishTime": 56.4,
+      "word": "know"
+    },
+    {
+      "startTime": 56.4,
+      "finishTime": 56.68,
+      "word": "of."
+    },
+    {
+      "startTime": 56.68,
+      "finishTime": 56.98,
+      "word": "Should"
+    },
+    {
+      "startTime": 56.98,
+      "finishTime": 57.18,
+      "word": "I"
+    },
+    {
+      "startTime": 57.18,
+      "finishTime": 57.38,
+      "word": "try"
+    },
+    {
+      "startTime": 57.38,
+      "finishTime": 57.74,
+      "word": "updating"
+    },
+    {
+      "startTime": 57.74,
+      "finishTime": 58.1,
+      "word": "them"
+    },
+    {
+      "startTime": 58.1,
+      "finishTime": 58.5,
+      "word": "to"
+    },
+    {
+      "startTime": 58.5,
+      "finishTime": 58.62,
+      "word": "see"
+    },
+    {
+      "startTime": 58.62,
+      "finishTime": 58.7,
+      "word": "if"
+    },
+    {
+      "startTime": 58.7,
+      "finishTime": 58.9,
+      "word": "that"
+    },
+    {
+      "startTime": 58.9,
+      "finishTime": 59.16,
+      "word": "helps?"
+    },
+    {
+      "startTime": 60,
+      "finishTime": 60.08,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 60.14,
+      "finishTime": 60.4,
+      "word": "that's"
+    },
+    {
+      "startTime": 60.4,
+      "finishTime": 60.48,
+      "word": "a"
+    },
+    {
+      "startTime": 60.48,
+      "finishTime": 60.62,
+      "word": "good"
+    },
+    {
+      "startTime": 60.62,
+      "finishTime": 60.92,
+      "word": "start."
+    },
+    {
+      "startTime": 61.34,
+      "finishTime": 61.42,
+      "word": "If"
+    },
+    {
+      "startTime": 61.42,
+      "finishTime": 61.58,
+      "word": "it"
+    },
+    {
+      "startTime": 61.58,
+      "finishTime": 61.86,
+      "word": "doesn't"
+    },
+    {
+      "startTime": 61.86,
+      "finishTime": 62.04,
+      "word": "work,"
+    },
+    {
+      "startTime": 62.2,
+      "finishTime": 62.24,
+      "word": "we"
+    },
+    {
+      "startTime": 62.24,
+      "finishTime": 62.4,
+      "word": "might"
+    },
+    {
+      "startTime": 62.4,
+      "finishTime": 62.6,
+      "word": "need"
+    },
+    {
+      "startTime": 62.6,
+      "finishTime": 62.74,
+      "word": "to"
+    },
+    {
+      "startTime": 62.74,
+      "finishTime": 62.86,
+      "word": "dig"
+    },
+    {
+      "startTime": 62.86,
+      "finishTime": 63.08,
+      "word": "into"
+    },
+    {
+      "startTime": 63.08,
+      "finishTime": 63.34,
+      "word": "the"
+    },
+    {
+      "startTime": 63.34,
+      "finishTime": 63.52,
+      "word": "code"
+    },
+    {
+      "startTime": 63.52,
+      "finishTime": 63.8,
+      "word": "or"
+    },
+    {
+      "startTime": 63.8,
+      "finishTime": 63.98,
+      "word": "run"
+    },
+    {
+      "startTime": 63.98,
+      "finishTime": 64.24,
+      "word": "some"
+    },
+    {
+      "startTime": 64.24,
+      "finishTime": 64.96,
+      "word": "diagnostics."
+    },
+    {
+      "startTime": 65.04,
+      "finishTime": 65.12,
+      "word": "Does"
+    },
+    {
+      "startTime": 65.12,
+      "finishTime": 65.32,
+      "word": "that"
+    },
+    {
+      "startTime": 65.32,
+      "finishTime": 65.46,
+      "word": "sound"
+    },
+    {
+      "startTime": 65.46,
+      "finishTime": 65.78,
+      "word": "OK?"
+    },
+    {
+      "startTime": 66.06,
+      "finishTime": 66.34,
+      "word": "Yeah,"
+    },
+    {
+      "startTime": 66.5,
+      "finishTime": 66.6,
+      "word": "that"
+    },
+    {
+      "startTime": 66.6,
+      "finishTime": 66.82,
+      "word": "sounds"
+    },
+    {
+      "startTime": 66.82,
+      "finishTime": 67.16,
+      "word": "good."
+    },
+    {
+      "startTime": 67.38,
+      "finishTime": 67.56,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 67.56,
+      "finishTime": 67.7,
+      "word": "for"
+    },
+    {
+      "startTime": 67.7,
+      "finishTime": 67.82,
+      "word": "your"
+    },
+    {
+      "startTime": 67.82,
+      "finishTime": 67.94,
+      "word": "help,"
+    },
+    {
+      "startTime": 68.08,
+      "finishTime": 68.2,
+      "word": "Lisa."
+    },
+    {
+      "startTime": 68.42,
+      "finishTime": 68.6,
+      "word": "I"
+    },
+    {
+      "startTime": 68.6,
+      "finishTime": 68.94,
+      "word": "appreciate"
+    },
+    {
+      "startTime": 68.94,
+      "finishTime": 69.26,
+      "word": "it."
+    },
+    {
+      "startTime": 69.52,
+      "finishTime": 69.68,
+      "word": "No"
+    },
+    {
+      "startTime": 69.68,
+      "finishTime": 69.92,
+      "word": "problem,"
+    },
+    {
+      "startTime": 70.06,
+      "finishTime": 70.18,
+      "word": "Mark."
+    },
+    {
+      "startTime": 70.32,
+      "finishTime": 70.42,
+      "word": "If"
+    },
+    {
+      "startTime": 70.42,
+      "finishTime": 70.54,
+      "word": "you"
+    },
+    {
+      "startTime": 70.54,
+      "finishTime": 70.7,
+      "word": "run"
+    },
+    {
+      "startTime": 70.7,
+      "finishTime": 70.88,
+      "word": "into"
+    },
+    {
+      "startTime": 70.88,
+      "finishTime": 71.08,
+      "word": "any"
+    },
+    {
+      "startTime": 71.08,
+      "finishTime": 71.3,
+      "word": "other"
+    },
+    {
+      "startTime": 71.3,
+      "finishTime": 71.6,
+      "word": "issues,"
+    },
+    {
+      "startTime": 71.7,
+      "finishTime": 71.82,
+      "word": "let"
+    },
+    {
+      "startTime": 71.82,
+      "finishTime": 71.98,
+      "word": "me"
+    },
+    {
+      "startTime": 71.98,
+      "finishTime": 72.14,
+      "word": "know."
+    }
+  ]
+}

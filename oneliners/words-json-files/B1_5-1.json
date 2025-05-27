@@ -1,0 +1,910 @@
+{
+  "text": "Maria, the next system update is scheduled for this Saturday at 2am. It's crucial to enhance our firewall settings to prevent any potential denial of service attacks. Yes, Jake. I've reviewed the timetable. The server downtime starts exactly when the user traffic is at its lowest, correct? That's right. The update should last about two hours. Our main goal is to minimize disruption while strengthening our defenses. Will the support team be on call during the update? We need to make sure they're ready to handle any immediate issues that come up. Absolutely. The entire technical support team will be on duty. They've been briefed and are prepared to manage any unexpected situations. Great. And when does the team perform the final checks? The final system checks are set for Friday night. We'll confirm that all security patches are ready to be deployed without any complications. Perfect. And the training session for the new security protocols, when is that planned? The training is planned for Thursday afternoon. Every team member must understand the changes and how these will impact our operations.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.62,
+      "word": "Maria,"
+    },
+    {
+      "startTime": 0.9,
+      "finishTime": 1.02,
+      "word": "the"
+    },
+    {
+      "startTime": 1.02,
+      "finishTime": 1.28,
+      "word": "next"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.58,
+      "word": "system"
+    },
+    {
+      "startTime": 1.58,
+      "finishTime": 1.88,
+      "word": "update"
+    },
+    {
+      "startTime": 1.88,
+      "finishTime": 2.06,
+      "word": "is"
+    },
+    {
+      "startTime": 2.06,
+      "finishTime": 2.44,
+      "word": "scheduled"
+    },
+    {
+      "startTime": 2.44,
+      "finishTime": 2.68,
+      "word": "for"
+    },
+    {
+      "startTime": 2.68,
+      "finishTime": 2.9,
+      "word": "this"
+    },
+    {
+      "startTime": 2.9,
+      "finishTime": 3.2,
+      "word": "Saturday"
+    },
+    {
+      "startTime": 3.2,
+      "finishTime": 3.44,
+      "word": "at"
+    },
+    {
+      "startTime": 3.44,
+      "finishTime": 3.94,
+      "word": "2am."
+    },
+    {
+      "startTime": 4.22,
+      "finishTime": 4.48,
+      "word": "It's"
+    },
+    {
+      "startTime": 4.48,
+      "finishTime": 4.84,
+      "word": "crucial"
+    },
+    {
+      "startTime": 4.84,
+      "finishTime": 5.06,
+      "word": "to"
+    },
+    {
+      "startTime": 5.06,
+      "finishTime": 5.44,
+      "word": "enhance"
+    },
+    {
+      "startTime": 5.44,
+      "finishTime": 5.74,
+      "word": "our"
+    },
+    {
+      "startTime": 5.74,
+      "finishTime": 6.12,
+      "word": "firewall"
+    },
+    {
+      "startTime": 6.12,
+      "finishTime": 6.52,
+      "word": "settings"
+    },
+    {
+      "startTime": 6.52,
+      "finishTime": 6.86,
+      "word": "to"
+    },
+    {
+      "startTime": 6.86,
+      "finishTime": 7.12,
+      "word": "prevent"
+    },
+    {
+      "startTime": 7.12,
+      "finishTime": 7.8,
+      "word": "any"
+    },
+    {
+      "startTime": 7.8,
+      "finishTime": 8.46,
+      "word": "potential"
+    },
+    {
+      "startTime": 8.46,
+      "finishTime": 8.88,
+      "word": "denial"
+    },
+    {
+      "startTime": 8.88,
+      "finishTime": 9.18,
+      "word": "of"
+    },
+    {
+      "startTime": 9.18,
+      "finishTime": 9.48,
+      "word": "service"
+    },
+    {
+      "startTime": 9.48,
+      "finishTime": 9.94,
+      "word": "attacks."
+    },
+    {
+      "startTime": 10.9,
+      "finishTime": 11.1,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 11.12,
+      "finishTime": 11.3,
+      "word": "Jake."
+    },
+    {
+      "startTime": 11.42,
+      "finishTime": 11.62,
+      "word": "I've"
+    },
+    {
+      "startTime": 11.62,
+      "finishTime": 11.84,
+      "word": "reviewed"
+    },
+    {
+      "startTime": 11.84,
+      "finishTime": 12.08,
+      "word": "the"
+    },
+    {
+      "startTime": 12.08,
+      "finishTime": 12.6,
+      "word": "timetable."
+    },
+    {
+      "startTime": 12.84,
+      "finishTime": 12.9,
+      "word": "The"
+    },
+    {
+      "startTime": 12.9,
+      "finishTime": 13.2,
+      "word": "server"
+    },
+    {
+      "startTime": 13.2,
+      "finishTime": 13.58,
+      "word": "downtime"
+    },
+    {
+      "startTime": 13.58,
+      "finishTime": 13.9,
+      "word": "starts"
+    },
+    {
+      "startTime": 13.9,
+      "finishTime": 14.36,
+      "word": "exactly"
+    },
+    {
+      "startTime": 14.36,
+      "finishTime": 14.52,
+      "word": "when"
+    },
+    {
+      "startTime": 14.52,
+      "finishTime": 14.72,
+      "word": "the"
+    },
+    {
+      "startTime": 14.72,
+      "finishTime": 14.92,
+      "word": "user"
+    },
+    {
+      "startTime": 14.92,
+      "finishTime": 15.24,
+      "word": "traffic"
+    },
+    {
+      "startTime": 15.24,
+      "finishTime": 15.44,
+      "word": "is"
+    },
+    {
+      "startTime": 15.44,
+      "finishTime": 15.54,
+      "word": "at"
+    },
+    {
+      "startTime": 15.54,
+      "finishTime": 15.78,
+      "word": "its"
+    },
+    {
+      "startTime": 15.78,
+      "finishTime": 16.06,
+      "word": "lowest,"
+    },
+    {
+      "startTime": 16.24,
+      "finishTime": 16.52,
+      "word": "correct?"
+    },
+    {
+      "startTime": 17.4,
+      "finishTime": 17.7,
+      "word": "That's"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 17.96,
+      "word": "right."
+    },
+    {
+      "startTime": 18.14,
+      "finishTime": 18.32,
+      "word": "The"
+    },
+    {
+      "startTime": 18.32,
+      "finishTime": 18.62,
+      "word": "update"
+    },
+    {
+      "startTime": 18.62,
+      "finishTime": 18.82,
+      "word": "should"
+    },
+    {
+      "startTime": 18.82,
+      "finishTime": 19.08,
+      "word": "last"
+    },
+    {
+      "startTime": 19.08,
+      "finishTime": 19.38,
+      "word": "about"
+    },
+    {
+      "startTime": 19.38,
+      "finishTime": 19.64,
+      "word": "two"
+    },
+    {
+      "startTime": 19.64,
+      "finishTime": 20.06,
+      "word": "hours."
+    },
+    {
+      "startTime": 20.42,
+      "finishTime": 20.62,
+      "word": "Our"
+    },
+    {
+      "startTime": 20.62,
+      "finishTime": 20.82,
+      "word": "main"
+    },
+    {
+      "startTime": 20.82,
+      "finishTime": 21.14,
+      "word": "goal"
+    },
+    {
+      "startTime": 21.14,
+      "finishTime": 21.46,
+      "word": "is"
+    },
+    {
+      "startTime": 21.46,
+      "finishTime": 21.72,
+      "word": "to"
+    },
+    {
+      "startTime": 21.72,
+      "finishTime": 22.12,
+      "word": "minimize"
+    },
+    {
+      "startTime": 22.12,
+      "finishTime": 22.74,
+      "word": "disruption"
+    },
+    {
+      "startTime": 22.74,
+      "finishTime": 23.2,
+      "word": "while"
+    },
+    {
+      "startTime": 23.2,
+      "finishTime": 23.72,
+      "word": "strengthening"
+    },
+    {
+      "startTime": 23.72,
+      "finishTime": 24.08,
+      "word": "our"
+    },
+    {
+      "startTime": 24.08,
+      "finishTime": 24.52,
+      "word": "defenses."
+    },
+    {
+      "startTime": 25.1,
+      "finishTime": 25.22,
+      "word": "Will"
+    },
+    {
+      "startTime": 25.22,
+      "finishTime": 25.42,
+      "word": "the"
+    },
+    {
+      "startTime": 25.42,
+      "finishTime": 25.64,
+      "word": "support"
+    },
+    {
+      "startTime": 25.64,
+      "finishTime": 25.84,
+      "word": "team"
+    },
+    {
+      "startTime": 25.84,
+      "finishTime": 26.08,
+      "word": "be"
+    },
+    {
+      "startTime": 26.08,
+      "finishTime": 26.26,
+      "word": "on"
+    },
+    {
+      "startTime": 26.26,
+      "finishTime": 26.44,
+      "word": "call"
+    },
+    {
+      "startTime": 26.44,
+      "finishTime": 26.7,
+      "word": "during"
+    },
+    {
+      "startTime": 26.7,
+      "finishTime": 26.96,
+      "word": "the"
+    },
+    {
+      "startTime": 26.96,
+      "finishTime": 27.24,
+      "word": "update?"
+    },
+    {
+      "startTime": 27.24,
+      "finishTime": 27.68,
+      "word": "We"
+    },
+    {
+      "startTime": 27.68,
+      "finishTime": 27.88,
+      "word": "need"
+    },
+    {
+      "startTime": 27.88,
+      "finishTime": 28,
+      "word": "to"
+    },
+    {
+      "startTime": 28,
+      "finishTime": 28.12,
+      "word": "make"
+    },
+    {
+      "startTime": 28.12,
+      "finishTime": 28.28,
+      "word": "sure"
+    },
+    {
+      "startTime": 28.28,
+      "finishTime": 28.44,
+      "word": "they're"
+    },
+    {
+      "startTime": 28.44,
+      "finishTime": 28.66,
+      "word": "ready"
+    },
+    {
+      "startTime": 28.66,
+      "finishTime": 28.8,
+      "word": "to"
+    },
+    {
+      "startTime": 28.8,
+      "finishTime": 29.12,
+      "word": "handle"
+    },
+    {
+      "startTime": 29.12,
+      "finishTime": 29.44,
+      "word": "any"
+    },
+    {
+      "startTime": 29.44,
+      "finishTime": 29.82,
+      "word": "immediate"
+    },
+    {
+      "startTime": 29.82,
+      "finishTime": 30.14,
+      "word": "issues"
+    },
+    {
+      "startTime": 30.14,
+      "finishTime": 30.3,
+      "word": "that"
+    },
+    {
+      "startTime": 30.3,
+      "finishTime": 30.48,
+      "word": "come"
+    },
+    {
+      "startTime": 30.48,
+      "finishTime": 30.76,
+      "word": "up."
+    },
+    {
+      "startTime": 31.78,
+      "finishTime": 31.78,
+      "word": "Absolutely."
+    },
+    {
+      "startTime": 32.06,
+      "finishTime": 32.2,
+      "word": "The"
+    },
+    {
+      "startTime": 32.2,
+      "finishTime": 32.56,
+      "word": "entire"
+    },
+    {
+      "startTime": 32.56,
+      "finishTime": 33,
+      "word": "technical"
+    },
+    {
+      "startTime": 33,
+      "finishTime": 33.4,
+      "word": "support"
+    },
+    {
+      "startTime": 33.4,
+      "finishTime": 33.62,
+      "word": "team"
+    },
+    {
+      "startTime": 33.62,
+      "finishTime": 33.8,
+      "word": "will"
+    },
+    {
+      "startTime": 33.8,
+      "finishTime": 33.98,
+      "word": "be"
+    },
+    {
+      "startTime": 33.98,
+      "finishTime": 34.18,
+      "word": "on"
+    },
+    {
+      "startTime": 34.18,
+      "finishTime": 34.44,
+      "word": "duty."
+    },
+    {
+      "startTime": 34.82,
+      "finishTime": 35.04,
+      "word": "They've"
+    },
+    {
+      "startTime": 35.04,
+      "finishTime": 35.28,
+      "word": "been"
+    },
+    {
+      "startTime": 35.28,
+      "finishTime": 35.78,
+      "word": "briefed"
+    },
+    {
+      "startTime": 35.78,
+      "finishTime": 35.84,
+      "word": "and"
+    },
+    {
+      "startTime": 35.84,
+      "finishTime": 36.14,
+      "word": "are"
+    },
+    {
+      "startTime": 36.14,
+      "finishTime": 36.44,
+      "word": "prepared"
+    },
+    {
+      "startTime": 36.44,
+      "finishTime": 36.62,
+      "word": "to"
+    },
+    {
+      "startTime": 36.62,
+      "finishTime": 37.06,
+      "word": "manage"
+    },
+    {
+      "startTime": 37.06,
+      "finishTime": 37.6,
+      "word": "any"
+    },
+    {
+      "startTime": 37.6,
+      "finishTime": 38.16,
+      "word": "unexpected"
+    },
+    {
+      "startTime": 38.16,
+      "finishTime": 39,
+      "word": "situations."
+    },
+    {
+      "startTime": 39.5,
+      "finishTime": 39.84,
+      "word": "Great."
+    },
+    {
+      "startTime": 39.86,
+      "finishTime": 40.06,
+      "word": "And"
+    },
+    {
+      "startTime": 40.06,
+      "finishTime": 40.2,
+      "word": "when"
+    },
+    {
+      "startTime": 40.2,
+      "finishTime": 40.38,
+      "word": "does"
+    },
+    {
+      "startTime": 40.38,
+      "finishTime": 40.52,
+      "word": "the"
+    },
+    {
+      "startTime": 40.52,
+      "finishTime": 40.68,
+      "word": "team"
+    },
+    {
+      "startTime": 40.68,
+      "finishTime": 41.02,
+      "word": "perform"
+    },
+    {
+      "startTime": 41.02,
+      "finishTime": 41.22,
+      "word": "the"
+    },
+    {
+      "startTime": 41.22,
+      "finishTime": 41.42,
+      "word": "final"
+    },
+    {
+      "startTime": 41.42,
+      "finishTime": 41.74,
+      "word": "checks?"
+    },
+    {
+      "startTime": 42.12,
+      "finishTime": 42.4,
+      "word": "The"
+    },
+    {
+      "startTime": 42.4,
+      "finishTime": 42.66,
+      "word": "final"
+    },
+    {
+      "startTime": 42.66,
+      "finishTime": 43,
+      "word": "system"
+    },
+    {
+      "startTime": 43,
+      "finishTime": 43.28,
+      "word": "checks"
+    },
+    {
+      "startTime": 43.28,
+      "finishTime": 43.6,
+      "word": "are"
+    },
+    {
+      "startTime": 43.6,
+      "finishTime": 43.8,
+      "word": "set"
+    },
+    {
+      "startTime": 43.8,
+      "finishTime": 44.1,
+      "word": "for"
+    },
+    {
+      "startTime": 44.1,
+      "finishTime": 44.4,
+      "word": "Friday"
+    },
+    {
+      "startTime": 44.4,
+      "finishTime": 44.78,
+      "word": "night."
+    },
+    {
+      "startTime": 45.1,
+      "finishTime": 45.42,
+      "word": "We'll"
+    },
+    {
+      "startTime": 45.42,
+      "finishTime": 45.76,
+      "word": "confirm"
+    },
+    {
+      "startTime": 45.76,
+      "finishTime": 46.04,
+      "word": "that"
+    },
+    {
+      "startTime": 46.04,
+      "finishTime": 46.34,
+      "word": "all"
+    },
+    {
+      "startTime": 46.34,
+      "finishTime": 46.74,
+      "word": "security"
+    },
+    {
+      "startTime": 46.74,
+      "finishTime": 47.1,
+      "word": "patches"
+    },
+    {
+      "startTime": 47.1,
+      "finishTime": 47.44,
+      "word": "are"
+    },
+    {
+      "startTime": 47.44,
+      "finishTime": 47.68,
+      "word": "ready"
+    },
+    {
+      "startTime": 47.68,
+      "finishTime": 47.92,
+      "word": "to"
+    },
+    {
+      "startTime": 47.92,
+      "finishTime": 48.1,
+      "word": "be"
+    },
+    {
+      "startTime": 48.1,
+      "finishTime": 48.52,
+      "word": "deployed"
+    },
+    {
+      "startTime": 48.52,
+      "finishTime": 49.06,
+      "word": "without"
+    },
+    {
+      "startTime": 49.06,
+      "finishTime": 49.6,
+      "word": "any"
+    },
+    {
+      "startTime": 49.6,
+      "finishTime": 50.18,
+      "word": "complications."
+    },
+    {
+      "startTime": 50.76,
+      "finishTime": 51.14,
+      "word": "Perfect."
+    },
+    {
+      "startTime": 51.24,
+      "finishTime": 51.42,
+      "word": "And"
+    },
+    {
+      "startTime": 51.42,
+      "finishTime": 51.58,
+      "word": "the"
+    },
+    {
+      "startTime": 51.58,
+      "finishTime": 51.8,
+      "word": "training"
+    },
+    {
+      "startTime": 51.8,
+      "finishTime": 52.1,
+      "word": "session"
+    },
+    {
+      "startTime": 52.1,
+      "finishTime": 52.3,
+      "word": "for"
+    },
+    {
+      "startTime": 52.3,
+      "finishTime": 52.42,
+      "word": "the"
+    },
+    {
+      "startTime": 52.42,
+      "finishTime": 52.56,
+      "word": "new"
+    },
+    {
+      "startTime": 52.56,
+      "finishTime": 52.94,
+      "word": "security"
+    },
+    {
+      "startTime": 52.94,
+      "finishTime": 53.42,
+      "word": "protocols,"
+    },
+    {
+      "startTime": 53.58,
+      "finishTime": 53.8,
+      "word": "when"
+    },
+    {
+      "startTime": 53.8,
+      "finishTime": 53.96,
+      "word": "is"
+    },
+    {
+      "startTime": 53.96,
+      "finishTime": 54.18,
+      "word": "that"
+    },
+    {
+      "startTime": 54.18,
+      "finishTime": 54.42,
+      "word": "planned?"
+    },
+    {
+      "startTime": 54.42,
+      "finishTime": 55.24,
+      "word": "The"
+    },
+    {
+      "startTime": 55.24,
+      "finishTime": 55.46,
+      "word": "training"
+    },
+    {
+      "startTime": 55.46,
+      "finishTime": 55.7,
+      "word": "is"
+    },
+    {
+      "startTime": 55.7,
+      "finishTime": 55.86,
+      "word": "planned"
+    },
+    {
+      "startTime": 55.86,
+      "finishTime": 56.12,
+      "word": "for"
+    },
+    {
+      "startTime": 56.12,
+      "finishTime": 56.44,
+      "word": "Thursday"
+    },
+    {
+      "startTime": 56.44,
+      "finishTime": 56.98,
+      "word": "afternoon."
+    },
+    {
+      "startTime": 57.44,
+      "finishTime": 57.7,
+      "word": "Every"
+    },
+    {
+      "startTime": 57.7,
+      "finishTime": 57.96,
+      "word": "team"
+    },
+    {
+      "startTime": 57.96,
+      "finishTime": 58.34,
+      "word": "member"
+    },
+    {
+      "startTime": 58.34,
+      "finishTime": 58.66,
+      "word": "must"
+    },
+    {
+      "startTime": 58.66,
+      "finishTime": 59.24,
+      "word": "understand"
+    },
+    {
+      "startTime": 59.24,
+      "finishTime": 59.48,
+      "word": "the"
+    },
+    {
+      "startTime": 59.48,
+      "finishTime": 59.78,
+      "word": "changes"
+    },
+    {
+      "startTime": 59.78,
+      "finishTime": 60.14,
+      "word": "and"
+    },
+    {
+      "startTime": 60.14,
+      "finishTime": 60.32,
+      "word": "how"
+    },
+    {
+      "startTime": 60.32,
+      "finishTime": 60.52,
+      "word": "these"
+    },
+    {
+      "startTime": 60.52,
+      "finishTime": 60.78,
+      "word": "will"
+    },
+    {
+      "startTime": 60.78,
+      "finishTime": 61.22,
+      "word": "impact"
+    },
+    {
+      "startTime": 61.22,
+      "finishTime": 61.58,
+      "word": "our"
+    },
+    {
+      "startTime": 61.58,
+      "finishTime": 62.06,
+      "word": "operations."
+    }
+  ]
+}

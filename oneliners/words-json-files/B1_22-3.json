@@ -1,0 +1,905 @@
+{
+  "text": "Good morning, James. I heard you're setting up your new workstation today. Need help finding anything? Hi, Sarah. Yes, that would be great. I'm trying to find an extra monitor. Do you know where they've moved them? Sure. They've placed them outside of the IT room now. If you head straight down this corridor and turn left at the break area, you'll see them stored right across from the coffee machine. Got it. And what about the new keyboards? I heard we received a shipment last week. Yes, they're in a small storage room. Go back towards the main entrance, but before you get there, take a right. It's the second door on your left opposite the mailroom. Perfect. Thanks. Lastly, I need some Ethernet cables. Any idea where those ended up? Actually, yes. They're a bit out of the way. Go to the server room, but instead of going inside, turn right just before the door. There's a closet there where we're keeping all cables and related accessories. That's a bit of a trick. Thanks for helping me, Sarah.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.14,
+      "word": "Good"
+    },
+    {
+      "startTime": 0.14,
+      "finishTime": 0.36,
+      "word": "morning,"
+    },
+    {
+      "startTime": 0.42,
+      "finishTime": 0.6,
+      "word": "James."
+    },
+    {
+      "startTime": 0.9,
+      "finishTime": 1.12,
+      "word": "I"
+    },
+    {
+      "startTime": 1.12,
+      "finishTime": 1.3,
+      "word": "heard"
+    },
+    {
+      "startTime": 1.3,
+      "finishTime": 1.44,
+      "word": "you're"
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.66,
+      "word": "setting"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 1.88,
+      "word": "up"
+    },
+    {
+      "startTime": 1.88,
+      "finishTime": 1.96,
+      "word": "your"
+    },
+    {
+      "startTime": 1.96,
+      "finishTime": 2.1,
+      "word": "new"
+    },
+    {
+      "startTime": 2.1,
+      "finishTime": 2.46,
+      "word": "workstation"
+    },
+    {
+      "startTime": 2.46,
+      "finishTime": 2.84,
+      "word": "today."
+    },
+    {
+      "startTime": 3.02,
+      "finishTime": 3.46,
+      "word": "Need"
+    },
+    {
+      "startTime": 3.46,
+      "finishTime": 3.64,
+      "word": "help"
+    },
+    {
+      "startTime": 3.64,
+      "finishTime": 3.88,
+      "word": "finding"
+    },
+    {
+      "startTime": 3.88,
+      "finishTime": 4.14,
+      "word": "anything?"
+    },
+    {
+      "startTime": 4.5,
+      "finishTime": 4.78,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 4.78,
+      "finishTime": 5,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 5.14,
+      "finishTime": 5.34,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 5.5,
+      "finishTime": 5.62,
+      "word": "that"
+    },
+    {
+      "startTime": 5.62,
+      "finishTime": 5.78,
+      "word": "would"
+    },
+    {
+      "startTime": 5.78,
+      "finishTime": 5.92,
+      "word": "be"
+    },
+    {
+      "startTime": 5.92,
+      "finishTime": 6.18,
+      "word": "great."
+    },
+    {
+      "startTime": 6.32,
+      "finishTime": 6.58,
+      "word": "I'm"
+    },
+    {
+      "startTime": 6.58,
+      "finishTime": 6.78,
+      "word": "trying"
+    },
+    {
+      "startTime": 6.78,
+      "finishTime": 6.92,
+      "word": "to"
+    },
+    {
+      "startTime": 6.92,
+      "finishTime": 7.14,
+      "word": "find"
+    },
+    {
+      "startTime": 7.14,
+      "finishTime": 7.28,
+      "word": "an"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.54,
+      "word": "extra"
+    },
+    {
+      "startTime": 7.54,
+      "finishTime": 7.88,
+      "word": "monitor."
+    },
+    {
+      "startTime": 8.12,
+      "finishTime": 8.32,
+      "word": "Do"
+    },
+    {
+      "startTime": 8.32,
+      "finishTime": 8.4,
+      "word": "you"
+    },
+    {
+      "startTime": 8.4,
+      "finishTime": 8.5,
+      "word": "know"
+    },
+    {
+      "startTime": 8.5,
+      "finishTime": 8.66,
+      "word": "where"
+    },
+    {
+      "startTime": 8.66,
+      "finishTime": 8.84,
+      "word": "they've"
+    },
+    {
+      "startTime": 8.84,
+      "finishTime": 9.08,
+      "word": "moved"
+    },
+    {
+      "startTime": 9.08,
+      "finishTime": 9.3,
+      "word": "them?"
+    },
+    {
+      "startTime": 9.88,
+      "finishTime": 10.32,
+      "word": "Sure."
+    },
+    {
+      "startTime": 10.46,
+      "finishTime": 10.72,
+      "word": "They've"
+    },
+    {
+      "startTime": 10.72,
+      "finishTime": 10.98,
+      "word": "placed"
+    },
+    {
+      "startTime": 10.98,
+      "finishTime": 11.12,
+      "word": "them"
+    },
+    {
+      "startTime": 11.12,
+      "finishTime": 11.44,
+      "word": "outside"
+    },
+    {
+      "startTime": 11.44,
+      "finishTime": 11.7,
+      "word": "of"
+    },
+    {
+      "startTime": 11.7,
+      "finishTime": 11.76,
+      "word": "the"
+    },
+    {
+      "startTime": 11.76,
+      "finishTime": 12,
+      "word": "IT"
+    },
+    {
+      "startTime": 12,
+      "finishTime": 12.28,
+      "word": "room"
+    },
+    {
+      "startTime": 12.28,
+      "finishTime": 12.52,
+      "word": "now."
+    },
+    {
+      "startTime": 12.68,
+      "finishTime": 13.06,
+      "word": "If"
+    },
+    {
+      "startTime": 13.06,
+      "finishTime": 13.16,
+      "word": "you"
+    },
+    {
+      "startTime": 13.16,
+      "finishTime": 13.28,
+      "word": "head"
+    },
+    {
+      "startTime": 13.28,
+      "finishTime": 13.54,
+      "word": "straight"
+    },
+    {
+      "startTime": 13.54,
+      "finishTime": 13.78,
+      "word": "down"
+    },
+    {
+      "startTime": 13.78,
+      "finishTime": 13.96,
+      "word": "this"
+    },
+    {
+      "startTime": 13.96,
+      "finishTime": 14.26,
+      "word": "corridor"
+    },
+    {
+      "startTime": 14.26,
+      "finishTime": 14.6,
+      "word": "and"
+    },
+    {
+      "startTime": 14.6,
+      "finishTime": 14.8,
+      "word": "turn"
+    },
+    {
+      "startTime": 14.8,
+      "finishTime": 15.04,
+      "word": "left"
+    },
+    {
+      "startTime": 15.04,
+      "finishTime": 15.24,
+      "word": "at"
+    },
+    {
+      "startTime": 15.24,
+      "finishTime": 15.3,
+      "word": "the"
+    },
+    {
+      "startTime": 15.3,
+      "finishTime": 15.46,
+      "word": "break"
+    },
+    {
+      "startTime": 15.46,
+      "finishTime": 15.7,
+      "word": "area,"
+    },
+    {
+      "startTime": 15.94,
+      "finishTime": 16.12,
+      "word": "you'll"
+    },
+    {
+      "startTime": 16.12,
+      "finishTime": 16.28,
+      "word": "see"
+    },
+    {
+      "startTime": 16.28,
+      "finishTime": 16.42,
+      "word": "them"
+    },
+    {
+      "startTime": 16.42,
+      "finishTime": 16.68,
+      "word": "stored"
+    },
+    {
+      "startTime": 16.68,
+      "finishTime": 16.94,
+      "word": "right"
+    },
+    {
+      "startTime": 16.94,
+      "finishTime": 17.16,
+      "word": "across"
+    },
+    {
+      "startTime": 17.16,
+      "finishTime": 17.38,
+      "word": "from"
+    },
+    {
+      "startTime": 17.38,
+      "finishTime": 17.5,
+      "word": "the"
+    },
+    {
+      "startTime": 17.5,
+      "finishTime": 17.66,
+      "word": "coffee"
+    },
+    {
+      "startTime": 17.66,
+      "finishTime": 17.92,
+      "word": "machine."
+    },
+    {
+      "startTime": 18.36,
+      "finishTime": 18.64,
+      "word": "Got"
+    },
+    {
+      "startTime": 18.64,
+      "finishTime": 18.78,
+      "word": "it."
+    },
+    {
+      "startTime": 18.84,
+      "finishTime": 19.02,
+      "word": "And"
+    },
+    {
+      "startTime": 19.02,
+      "finishTime": 19.18,
+      "word": "what"
+    },
+    {
+      "startTime": 19.18,
+      "finishTime": 19.36,
+      "word": "about"
+    },
+    {
+      "startTime": 19.36,
+      "finishTime": 19.5,
+      "word": "the"
+    },
+    {
+      "startTime": 19.5,
+      "finishTime": 19.62,
+      "word": "new"
+    },
+    {
+      "startTime": 19.62,
+      "finishTime": 20.02,
+      "word": "keyboards?"
+    },
+    {
+      "startTime": 20.22,
+      "finishTime": 20.44,
+      "word": "I"
+    },
+    {
+      "startTime": 20.44,
+      "finishTime": 20.64,
+      "word": "heard"
+    },
+    {
+      "startTime": 20.64,
+      "finishTime": 20.8,
+      "word": "we"
+    },
+    {
+      "startTime": 20.8,
+      "finishTime": 21.14,
+      "word": "received"
+    },
+    {
+      "startTime": 21.14,
+      "finishTime": 21.3,
+      "word": "a"
+    },
+    {
+      "startTime": 21.3,
+      "finishTime": 21.56,
+      "word": "shipment"
+    },
+    {
+      "startTime": 21.56,
+      "finishTime": 21.8,
+      "word": "last"
+    },
+    {
+      "startTime": 21.8,
+      "finishTime": 22.14,
+      "word": "week."
+    },
+    {
+      "startTime": 22.74,
+      "finishTime": 23.18,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 23.2,
+      "finishTime": 23.44,
+      "word": "they're"
+    },
+    {
+      "startTime": 23.44,
+      "finishTime": 23.54,
+      "word": "in"
+    },
+    {
+      "startTime": 23.54,
+      "finishTime": 23.62,
+      "word": "a"
+    },
+    {
+      "startTime": 23.62,
+      "finishTime": 23.9,
+      "word": "small"
+    },
+    {
+      "startTime": 23.9,
+      "finishTime": 24.28,
+      "word": "storage"
+    },
+    {
+      "startTime": 24.28,
+      "finishTime": 24.6,
+      "word": "room."
+    },
+    {
+      "startTime": 24.74,
+      "finishTime": 24.98,
+      "word": "Go"
+    },
+    {
+      "startTime": 24.98,
+      "finishTime": 25.18,
+      "word": "back"
+    },
+    {
+      "startTime": 25.18,
+      "finishTime": 25.42,
+      "word": "towards"
+    },
+    {
+      "startTime": 25.42,
+      "finishTime": 25.68,
+      "word": "the"
+    },
+    {
+      "startTime": 25.68,
+      "finishTime": 25.8,
+      "word": "main"
+    },
+    {
+      "startTime": 25.8,
+      "finishTime": 26.1,
+      "word": "entrance,"
+    },
+    {
+      "startTime": 26.26,
+      "finishTime": 26.42,
+      "word": "but"
+    },
+    {
+      "startTime": 26.42,
+      "finishTime": 26.66,
+      "word": "before"
+    },
+    {
+      "startTime": 26.66,
+      "finishTime": 26.86,
+      "word": "you"
+    },
+    {
+      "startTime": 26.86,
+      "finishTime": 26.96,
+      "word": "get"
+    },
+    {
+      "startTime": 26.96,
+      "finishTime": 27.22,
+      "word": "there,"
+    },
+    {
+      "startTime": 27.32,
+      "finishTime": 27.52,
+      "word": "take"
+    },
+    {
+      "startTime": 27.52,
+      "finishTime": 27.66,
+      "word": "a"
+    },
+    {
+      "startTime": 27.66,
+      "finishTime": 27.86,
+      "word": "right."
+    },
+    {
+      "startTime": 28.08,
+      "finishTime": 28.52,
+      "word": "It's"
+    },
+    {
+      "startTime": 28.52,
+      "finishTime": 28.62,
+      "word": "the"
+    },
+    {
+      "startTime": 28.62,
+      "finishTime": 28.84,
+      "word": "second"
+    },
+    {
+      "startTime": 28.84,
+      "finishTime": 29.1,
+      "word": "door"
+    },
+    {
+      "startTime": 29.1,
+      "finishTime": 29.28,
+      "word": "on"
+    },
+    {
+      "startTime": 29.28,
+      "finishTime": 29.4,
+      "word": "your"
+    },
+    {
+      "startTime": 29.4,
+      "finishTime": 29.76,
+      "word": "left"
+    },
+    {
+      "startTime": 29.76,
+      "finishTime": 30.18,
+      "word": "opposite"
+    },
+    {
+      "startTime": 30.18,
+      "finishTime": 30.44,
+      "word": "the"
+    },
+    {
+      "startTime": 30.44,
+      "finishTime": 30.72,
+      "word": "mailroom."
+    },
+    {
+      "startTime": 31.16,
+      "finishTime": 31.6,
+      "word": "Perfect."
+    },
+    {
+      "startTime": 31.76,
+      "finishTime": 32.12,
+      "word": "Thanks."
+    },
+    {
+      "startTime": 33.1,
+      "finishTime": 33.54,
+      "word": "Lastly,"
+    },
+    {
+      "startTime": 33.54,
+      "finishTime": 33.98,
+      "word": "I"
+    },
+    {
+      "startTime": 33.98,
+      "finishTime": 34.18,
+      "word": "need"
+    },
+    {
+      "startTime": 34.18,
+      "finishTime": 34.34,
+      "word": "some"
+    },
+    {
+      "startTime": 34.34,
+      "finishTime": 34.88,
+      "word": "Ethernet"
+    },
+    {
+      "startTime": 34.88,
+      "finishTime": 35.18,
+      "word": "cables."
+    },
+    {
+      "startTime": 35.38,
+      "finishTime": 35.74,
+      "word": "Any"
+    },
+    {
+      "startTime": 35.74,
+      "finishTime": 36.04,
+      "word": "idea"
+    },
+    {
+      "startTime": 36.04,
+      "finishTime": 36.24,
+      "word": "where"
+    },
+    {
+      "startTime": 36.24,
+      "finishTime": 36.4,
+      "word": "those"
+    },
+    {
+      "startTime": 36.4,
+      "finishTime": 36.62,
+      "word": "ended"
+    },
+    {
+      "startTime": 36.62,
+      "finishTime": 36.86,
+      "word": "up?"
+    },
+    {
+      "startTime": 37.42,
+      "finishTime": 37.86,
+      "word": "Actually,"
+    },
+    {
+      "startTime": 37.88,
+      "finishTime": 38.14,
+      "word": "yes."
+    },
+    {
+      "startTime": 38.34,
+      "finishTime": 38.78,
+      "word": "They're"
+    },
+    {
+      "startTime": 38.78,
+      "finishTime": 38.84,
+      "word": "a"
+    },
+    {
+      "startTime": 38.84,
+      "finishTime": 39.02,
+      "word": "bit"
+    },
+    {
+      "startTime": 39.02,
+      "finishTime": 39.22,
+      "word": "out"
+    },
+    {
+      "startTime": 39.22,
+      "finishTime": 39.32,
+      "word": "of"
+    },
+    {
+      "startTime": 39.32,
+      "finishTime": 39.4,
+      "word": "the"
+    },
+    {
+      "startTime": 39.4,
+      "finishTime": 39.6,
+      "word": "way."
+    },
+    {
+      "startTime": 39.74,
+      "finishTime": 40.18,
+      "word": "Go"
+    },
+    {
+      "startTime": 40.18,
+      "finishTime": 40.32,
+      "word": "to"
+    },
+    {
+      "startTime": 40.32,
+      "finishTime": 40.4,
+      "word": "the"
+    },
+    {
+      "startTime": 40.4,
+      "finishTime": 40.62,
+      "word": "server"
+    },
+    {
+      "startTime": 40.62,
+      "finishTime": 40.88,
+      "word": "room,"
+    },
+    {
+      "startTime": 41.02,
+      "finishTime": 41.26,
+      "word": "but"
+    },
+    {
+      "startTime": 41.26,
+      "finishTime": 41.46,
+      "word": "instead"
+    },
+    {
+      "startTime": 41.46,
+      "finishTime": 41.66,
+      "word": "of"
+    },
+    {
+      "startTime": 41.66,
+      "finishTime": 41.8,
+      "word": "going"
+    },
+    {
+      "startTime": 41.8,
+      "finishTime": 42.18,
+      "word": "inside,"
+    },
+    {
+      "startTime": 42.54,
+      "finishTime": 42.78,
+      "word": "turn"
+    },
+    {
+      "startTime": 42.78,
+      "finishTime": 43.08,
+      "word": "right"
+    },
+    {
+      "startTime": 43.08,
+      "finishTime": 43.34,
+      "word": "just"
+    },
+    {
+      "startTime": 43.34,
+      "finishTime": 43.56,
+      "word": "before"
+    },
+    {
+      "startTime": 43.56,
+      "finishTime": 43.76,
+      "word": "the"
+    },
+    {
+      "startTime": 43.76,
+      "finishTime": 43.98,
+      "word": "door."
+    },
+    {
+      "startTime": 44.18,
+      "finishTime": 44.62,
+      "word": "There's"
+    },
+    {
+      "startTime": 44.62,
+      "finishTime": 44.68,
+      "word": "a"
+    },
+    {
+      "startTime": 44.68,
+      "finishTime": 45.04,
+      "word": "closet"
+    },
+    {
+      "startTime": 45.04,
+      "finishTime": 45.32,
+      "word": "there"
+    },
+    {
+      "startTime": 45.32,
+      "finishTime": 45.66,
+      "word": "where"
+    },
+    {
+      "startTime": 45.66,
+      "finishTime": 45.82,
+      "word": "we're"
+    },
+    {
+      "startTime": 45.82,
+      "finishTime": 45.98,
+      "word": "keeping"
+    },
+    {
+      "startTime": 45.98,
+      "finishTime": 46.22,
+      "word": "all"
+    },
+    {
+      "startTime": 46.22,
+      "finishTime": 46.64,
+      "word": "cables"
+    },
+    {
+      "startTime": 46.64,
+      "finishTime": 46.88,
+      "word": "and"
+    },
+    {
+      "startTime": 46.88,
+      "finishTime": 47.14,
+      "word": "related"
+    },
+    {
+      "startTime": 47.14,
+      "finishTime": 47.6,
+      "word": "accessories."
+    },
+    {
+      "startTime": 48.2,
+      "finishTime": 48.64,
+      "word": "That's"
+    },
+    {
+      "startTime": 48.64,
+      "finishTime": 48.68,
+      "word": "a"
+    },
+    {
+      "startTime": 48.68,
+      "finishTime": 48.86,
+      "word": "bit"
+    },
+    {
+      "startTime": 48.86,
+      "finishTime": 48.98,
+      "word": "of"
+    },
+    {
+      "startTime": 48.98,
+      "finishTime": 49.06,
+      "word": "a"
+    },
+    {
+      "startTime": 49.06,
+      "finishTime": 49.32,
+      "word": "trick."
+    },
+    {
+      "startTime": 49.76,
+      "finishTime": 50.2,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 50.2,
+      "finishTime": 50.36,
+      "word": "for"
+    },
+    {
+      "startTime": 50.36,
+      "finishTime": 50.6,
+      "word": "helping"
+    },
+    {
+      "startTime": 50.6,
+      "finishTime": 50.8,
+      "word": "me,"
+    },
+    {
+      "startTime": 50.86,
+      "finishTime": 51,
+      "word": "Sarah."
+    }
+  ]
+}

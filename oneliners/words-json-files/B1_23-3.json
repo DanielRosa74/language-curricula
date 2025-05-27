@@ -1,0 +1,1300 @@
+{
+  "text": "Hey Tom, we need to go through our software tools inventory today. Let's start with the licenses. How many do we currently have in total? We have about 50 licenses right now. Most of them, around 30, are allocated to the design team. Okay, and where are these licenses stored? I need to update our records. They're mainly on the central server under the Licensed Software folder. A few are also in the cloud storage, specifically in the Backup Licenses section. Got it. Next, let's count the graphic tablets. I saw some in the storage room. How many are there? There are 10 tablets in the storage room, right between the spare monitors and the old project files. We should have another 5 in the workshop area. Perfect. That makes 15 in total. Now, about the design software updates, do we have any pending? Yes, there are updates pending for 5 of our main design tools. These updates are critical and should be installed by next week. Alright, I'll schedule those updates. Can we review the usage stats for our main design platform? I'm interested in the average usage over the past month. Of course. The platform was used an average of about 60 hours per week by the team. The peak usage was around 80 hours two weeks ago. Thanks, Tom. This information helps a lot. I'll compile everything and send a summary to the team so we can discuss any further needs. Sounds good, Sophie. Let me know if you need any more details for the summary.",
+  "words": [
+    {
+      "startTime": 0.5199999999999996,
+      "finishTime": 1,
+      "word": "Hey"
+    },
+    {
+      "startTime": 1,
+      "finishTime": 1.3,
+      "word": "Tom,"
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.66,
+      "word": "we"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 1.8,
+      "word": "need"
+    },
+    {
+      "startTime": 1.8,
+      "finishTime": 1.9,
+      "word": "to"
+    },
+    {
+      "startTime": 1.9,
+      "finishTime": 2,
+      "word": "go"
+    },
+    {
+      "startTime": 2,
+      "finishTime": 2.2,
+      "word": "through"
+    },
+    {
+      "startTime": 2.2,
+      "finishTime": 2.38,
+      "word": "our"
+    },
+    {
+      "startTime": 2.38,
+      "finishTime": 2.72,
+      "word": "software"
+    },
+    {
+      "startTime": 2.72,
+      "finishTime": 3.02,
+      "word": "tools"
+    },
+    {
+      "startTime": 3.02,
+      "finishTime": 3.42,
+      "word": "inventory"
+    },
+    {
+      "startTime": 3.42,
+      "finishTime": 3.94,
+      "word": "today."
+    },
+    {
+      "startTime": 4.22,
+      "finishTime": 4.7,
+      "word": "Let's"
+    },
+    {
+      "startTime": 4.7,
+      "finishTime": 4.86,
+      "word": "start"
+    },
+    {
+      "startTime": 4.86,
+      "finishTime": 5.06,
+      "word": "with"
+    },
+    {
+      "startTime": 5.06,
+      "finishTime": 5.24,
+      "word": "the"
+    },
+    {
+      "startTime": 5.24,
+      "finishTime": 5.56,
+      "word": "licenses."
+    },
+    {
+      "startTime": 5.94,
+      "finishTime": 6.08,
+      "word": "How"
+    },
+    {
+      "startTime": 6.08,
+      "finishTime": 6.26,
+      "word": "many"
+    },
+    {
+      "startTime": 6.26,
+      "finishTime": 6.4,
+      "word": "do"
+    },
+    {
+      "startTime": 6.4,
+      "finishTime": 6.54,
+      "word": "we"
+    },
+    {
+      "startTime": 6.54,
+      "finishTime": 6.76,
+      "word": "currently"
+    },
+    {
+      "startTime": 6.76,
+      "finishTime": 7.06,
+      "word": "have"
+    },
+    {
+      "startTime": 7.06,
+      "finishTime": 7.22,
+      "word": "in"
+    },
+    {
+      "startTime": 7.22,
+      "finishTime": 7.48,
+      "word": "total?"
+    },
+    {
+      "startTime": 7.78,
+      "finishTime": 7.92,
+      "word": "We"
+    },
+    {
+      "startTime": 7.92,
+      "finishTime": 8.12,
+      "word": "have"
+    },
+    {
+      "startTime": 8.12,
+      "finishTime": 8.34,
+      "word": "about"
+    },
+    {
+      "startTime": 8.34,
+      "finishTime": 8.72,
+      "word": "50"
+    },
+    {
+      "startTime": 8.72,
+      "finishTime": 9.2,
+      "word": "licenses"
+    },
+    {
+      "startTime": 9.2,
+      "finishTime": 9.56,
+      "word": "right"
+    },
+    {
+      "startTime": 9.56,
+      "finishTime": 9.8,
+      "word": "now."
+    },
+    {
+      "startTime": 9.96,
+      "finishTime": 10.44,
+      "word": "Most"
+    },
+    {
+      "startTime": 10.44,
+      "finishTime": 10.56,
+      "word": "of"
+    },
+    {
+      "startTime": 10.56,
+      "finishTime": 10.8,
+      "word": "them,"
+    },
+    {
+      "startTime": 10.82,
+      "finishTime": 11.06,
+      "word": "around"
+    },
+    {
+      "startTime": 11.06,
+      "finishTime": 11.46,
+      "word": "30,"
+    },
+    {
+      "startTime": 11.64,
+      "finishTime": 11.92,
+      "word": "are"
+    },
+    {
+      "startTime": 11.92,
+      "finishTime": 12.36,
+      "word": "allocated"
+    },
+    {
+      "startTime": 12.36,
+      "finishTime": 12.72,
+      "word": "to"
+    },
+    {
+      "startTime": 12.72,
+      "finishTime": 12.84,
+      "word": "the"
+    },
+    {
+      "startTime": 12.84,
+      "finishTime": 13.12,
+      "word": "design"
+    },
+    {
+      "startTime": 13.12,
+      "finishTime": 13.46,
+      "word": "team."
+    },
+    {
+      "startTime": 14.1,
+      "finishTime": 14.34,
+      "word": "Okay,"
+    },
+    {
+      "startTime": 14.44,
+      "finishTime": 14.64,
+      "word": "and"
+    },
+    {
+      "startTime": 14.64,
+      "finishTime": 14.9,
+      "word": "where"
+    },
+    {
+      "startTime": 14.9,
+      "finishTime": 15.1,
+      "word": "are"
+    },
+    {
+      "startTime": 15.1,
+      "finishTime": 15.24,
+      "word": "these"
+    },
+    {
+      "startTime": 15.24,
+      "finishTime": 15.64,
+      "word": "licenses"
+    },
+    {
+      "startTime": 15.64,
+      "finishTime": 16,
+      "word": "stored?"
+    },
+    {
+      "startTime": 16.28,
+      "finishTime": 16.42,
+      "word": "I"
+    },
+    {
+      "startTime": 16.42,
+      "finishTime": 16.56,
+      "word": "need"
+    },
+    {
+      "startTime": 16.56,
+      "finishTime": 16.66,
+      "word": "to"
+    },
+    {
+      "startTime": 16.66,
+      "finishTime": 16.86,
+      "word": "update"
+    },
+    {
+      "startTime": 16.86,
+      "finishTime": 17.04,
+      "word": "our"
+    },
+    {
+      "startTime": 17.04,
+      "finishTime": 17.28,
+      "word": "records."
+    },
+    {
+      "startTime": 17.74,
+      "finishTime": 18.02,
+      "word": "They're"
+    },
+    {
+      "startTime": 18.02,
+      "finishTime": 18.24,
+      "word": "mainly"
+    },
+    {
+      "startTime": 18.24,
+      "finishTime": 18.52,
+      "word": "on"
+    },
+    {
+      "startTime": 18.52,
+      "finishTime": 18.66,
+      "word": "the"
+    },
+    {
+      "startTime": 18.66,
+      "finishTime": 18.92,
+      "word": "central"
+    },
+    {
+      "startTime": 18.92,
+      "finishTime": 19.32,
+      "word": "server"
+    },
+    {
+      "startTime": 19.32,
+      "finishTime": 19.76,
+      "word": "under"
+    },
+    {
+      "startTime": 19.76,
+      "finishTime": 20,
+      "word": "the"
+    },
+    {
+      "startTime": 20,
+      "finishTime": 20.66,
+      "word": "Licensed"
+    },
+    {
+      "startTime": 20.66,
+      "finishTime": 20.9,
+      "word": "Software"
+    },
+    {
+      "startTime": 20.9,
+      "finishTime": 21.4,
+      "word": "folder."
+    },
+    {
+      "startTime": 21.76,
+      "finishTime": 22.24,
+      "word": "A"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.44,
+      "word": "few"
+    },
+    {
+      "startTime": 22.44,
+      "finishTime": 22.58,
+      "word": "are"
+    },
+    {
+      "startTime": 22.58,
+      "finishTime": 22.9,
+      "word": "also"
+    },
+    {
+      "startTime": 22.9,
+      "finishTime": 23.1,
+      "word": "in"
+    },
+    {
+      "startTime": 23.1,
+      "finishTime": 23.22,
+      "word": "the"
+    },
+    {
+      "startTime": 23.22,
+      "finishTime": 23.44,
+      "word": "cloud"
+    },
+    {
+      "startTime": 23.44,
+      "finishTime": 23.78,
+      "word": "storage,"
+    },
+    {
+      "startTime": 23.98,
+      "finishTime": 24.62,
+      "word": "specifically"
+    },
+    {
+      "startTime": 24.62,
+      "finishTime": 25.2,
+      "word": "in"
+    },
+    {
+      "startTime": 25.2,
+      "finishTime": 25.34,
+      "word": "the"
+    },
+    {
+      "startTime": 25.34,
+      "finishTime": 25.76,
+      "word": "Backup"
+    },
+    {
+      "startTime": 25.76,
+      "finishTime": 26.3,
+      "word": "Licenses"
+    },
+    {
+      "startTime": 26.3,
+      "finishTime": 26.72,
+      "word": "section."
+    },
+    {
+      "startTime": 27.359999999999996,
+      "finishTime": 27.84,
+      "word": "Got"
+    },
+    {
+      "startTime": 27.84,
+      "finishTime": 28.04,
+      "word": "it."
+    },
+    {
+      "startTime": 28.16,
+      "finishTime": 28.62,
+      "word": "Next,"
+    },
+    {
+      "startTime": 28.74,
+      "finishTime": 29.04,
+      "word": "let's"
+    },
+    {
+      "startTime": 29.04,
+      "finishTime": 29.2,
+      "word": "count"
+    },
+    {
+      "startTime": 29.2,
+      "finishTime": 29.4,
+      "word": "the"
+    },
+    {
+      "startTime": 29.4,
+      "finishTime": 29.68,
+      "word": "graphic"
+    },
+    {
+      "startTime": 29.68,
+      "finishTime": 30.1,
+      "word": "tablets."
+    },
+    {
+      "startTime": 30.44,
+      "finishTime": 30.58,
+      "word": "I"
+    },
+    {
+      "startTime": 30.58,
+      "finishTime": 30.8,
+      "word": "saw"
+    },
+    {
+      "startTime": 30.8,
+      "finishTime": 30.98,
+      "word": "some"
+    },
+    {
+      "startTime": 30.98,
+      "finishTime": 31.12,
+      "word": "in"
+    },
+    {
+      "startTime": 31.12,
+      "finishTime": 31.18,
+      "word": "the"
+    },
+    {
+      "startTime": 31.18,
+      "finishTime": 31.44,
+      "word": "storage"
+    },
+    {
+      "startTime": 31.44,
+      "finishTime": 31.74,
+      "word": "room."
+    },
+    {
+      "startTime": 31.88,
+      "finishTime": 32.06,
+      "word": "How"
+    },
+    {
+      "startTime": 32.06,
+      "finishTime": 32.2,
+      "word": "many"
+    },
+    {
+      "startTime": 32.2,
+      "finishTime": 32.36,
+      "word": "are"
+    },
+    {
+      "startTime": 32.36,
+      "finishTime": 32.54,
+      "word": "there?"
+    },
+    {
+      "startTime": 33.04,
+      "finishTime": 33.2,
+      "word": "There"
+    },
+    {
+      "startTime": 33.2,
+      "finishTime": 33.34,
+      "word": "are"
+    },
+    {
+      "startTime": 33.34,
+      "finishTime": 33.5,
+      "word": "10"
+    },
+    {
+      "startTime": 33.5,
+      "finishTime": 33.92,
+      "word": "tablets"
+    },
+    {
+      "startTime": 33.92,
+      "finishTime": 34.1,
+      "word": "in"
+    },
+    {
+      "startTime": 34.1,
+      "finishTime": 34.18,
+      "word": "the"
+    },
+    {
+      "startTime": 34.18,
+      "finishTime": 34.48,
+      "word": "storage"
+    },
+    {
+      "startTime": 34.48,
+      "finishTime": 34.76,
+      "word": "room,"
+    },
+    {
+      "startTime": 34.84,
+      "finishTime": 35.22,
+      "word": "right"
+    },
+    {
+      "startTime": 35.22,
+      "finishTime": 35.48,
+      "word": "between"
+    },
+    {
+      "startTime": 35.48,
+      "finishTime": 35.72,
+      "word": "the"
+    },
+    {
+      "startTime": 35.72,
+      "finishTime": 35.92,
+      "word": "spare"
+    },
+    {
+      "startTime": 35.92,
+      "finishTime": 36.32,
+      "word": "monitors"
+    },
+    {
+      "startTime": 36.32,
+      "finishTime": 36.76,
+      "word": "and"
+    },
+    {
+      "startTime": 36.76,
+      "finishTime": 36.88,
+      "word": "the"
+    },
+    {
+      "startTime": 36.88,
+      "finishTime": 37.1,
+      "word": "old"
+    },
+    {
+      "startTime": 37.1,
+      "finishTime": 37.46,
+      "word": "project"
+    },
+    {
+      "startTime": 37.46,
+      "finishTime": 37.74,
+      "word": "files."
+    },
+    {
+      "startTime": 38.04,
+      "finishTime": 38.46,
+      "word": "We"
+    },
+    {
+      "startTime": 38.46,
+      "finishTime": 38.62,
+      "word": "should"
+    },
+    {
+      "startTime": 38.62,
+      "finishTime": 38.78,
+      "word": "have"
+    },
+    {
+      "startTime": 38.78,
+      "finishTime": 38.98,
+      "word": "another"
+    },
+    {
+      "startTime": 38.98,
+      "finishTime": 39.28,
+      "word": "5"
+    },
+    {
+      "startTime": 39.28,
+      "finishTime": 39.52,
+      "word": "in"
+    },
+    {
+      "startTime": 39.52,
+      "finishTime": 39.58,
+      "word": "the"
+    },
+    {
+      "startTime": 39.58,
+      "finishTime": 39.86,
+      "word": "workshop"
+    },
+    {
+      "startTime": 39.86,
+      "finishTime": 40.22,
+      "word": "area."
+    },
+    {
+      "startTime": 40.88,
+      "finishTime": 41.28,
+      "word": "Perfect."
+    },
+    {
+      "startTime": 41.42,
+      "finishTime": 41.6,
+      "word": "That"
+    },
+    {
+      "startTime": 41.6,
+      "finishTime": 41.82,
+      "word": "makes"
+    },
+    {
+      "startTime": 41.82,
+      "finishTime": 42.16,
+      "word": "15"
+    },
+    {
+      "startTime": 42.16,
+      "finishTime": 42.4,
+      "word": "in"
+    },
+    {
+      "startTime": 42.4,
+      "finishTime": 42.64,
+      "word": "total."
+    },
+    {
+      "startTime": 42.92,
+      "finishTime": 43.26,
+      "word": "Now,"
+    },
+    {
+      "startTime": 43.28,
+      "finishTime": 43.58,
+      "word": "about"
+    },
+    {
+      "startTime": 43.58,
+      "finishTime": 43.76,
+      "word": "the"
+    },
+    {
+      "startTime": 43.76,
+      "finishTime": 44,
+      "word": "design"
+    },
+    {
+      "startTime": 44,
+      "finishTime": 44.36,
+      "word": "software"
+    },
+    {
+      "startTime": 44.36,
+      "finishTime": 44.8,
+      "word": "updates,"
+    },
+    {
+      "startTime": 45.08,
+      "finishTime": 45.22,
+      "word": "do"
+    },
+    {
+      "startTime": 45.22,
+      "finishTime": 45.34,
+      "word": "we"
+    },
+    {
+      "startTime": 45.34,
+      "finishTime": 45.48,
+      "word": "have"
+    },
+    {
+      "startTime": 45.48,
+      "finishTime": 45.64,
+      "word": "any"
+    },
+    {
+      "startTime": 45.64,
+      "finishTime": 45.94,
+      "word": "pending?"
+    },
+    {
+      "startTime": 46.42,
+      "finishTime": 46.9,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 46.94,
+      "finishTime": 47.16,
+      "word": "there"
+    },
+    {
+      "startTime": 47.16,
+      "finishTime": 47.32,
+      "word": "are"
+    },
+    {
+      "startTime": 47.32,
+      "finishTime": 47.66,
+      "word": "updates"
+    },
+    {
+      "startTime": 47.66,
+      "finishTime": 47.94,
+      "word": "pending"
+    },
+    {
+      "startTime": 47.94,
+      "finishTime": 48.3,
+      "word": "for"
+    },
+    {
+      "startTime": 48.3,
+      "finishTime": 48.58,
+      "word": "5"
+    },
+    {
+      "startTime": 48.58,
+      "finishTime": 48.76,
+      "word": "of"
+    },
+    {
+      "startTime": 48.76,
+      "finishTime": 48.9,
+      "word": "our"
+    },
+    {
+      "startTime": 48.9,
+      "finishTime": 49.14,
+      "word": "main"
+    },
+    {
+      "startTime": 49.14,
+      "finishTime": 49.4,
+      "word": "design"
+    },
+    {
+      "startTime": 49.4,
+      "finishTime": 49.7,
+      "word": "tools."
+    },
+    {
+      "startTime": 50.02,
+      "finishTime": 50.36,
+      "word": "These"
+    },
+    {
+      "startTime": 50.36,
+      "finishTime": 50.74,
+      "word": "updates"
+    },
+    {
+      "startTime": 50.74,
+      "finishTime": 51,
+      "word": "are"
+    },
+    {
+      "startTime": 51,
+      "finishTime": 51.36,
+      "word": "critical"
+    },
+    {
+      "startTime": 51.36,
+      "finishTime": 51.72,
+      "word": "and"
+    },
+    {
+      "startTime": 51.72,
+      "finishTime": 51.92,
+      "word": "should"
+    },
+    {
+      "startTime": 51.92,
+      "finishTime": 52.1,
+      "word": "be"
+    },
+    {
+      "startTime": 52.1,
+      "finishTime": 52.44,
+      "word": "installed"
+    },
+    {
+      "startTime": 52.44,
+      "finishTime": 52.68,
+      "word": "by"
+    },
+    {
+      "startTime": 52.68,
+      "finishTime": 52.88,
+      "word": "next"
+    },
+    {
+      "startTime": 52.88,
+      "finishTime": 53.16,
+      "word": "week."
+    },
+    {
+      "startTime": 53.8,
+      "finishTime": 54.28,
+      "word": "Alright,"
+    },
+    {
+      "startTime": 54.44,
+      "finishTime": 54.66,
+      "word": "I'll"
+    },
+    {
+      "startTime": 54.66,
+      "finishTime": 54.94,
+      "word": "schedule"
+    },
+    {
+      "startTime": 54.94,
+      "finishTime": 55.18,
+      "word": "those"
+    },
+    {
+      "startTime": 55.18,
+      "finishTime": 55.54,
+      "word": "updates."
+    },
+    {
+      "startTime": 55.54,
+      "finishTime": 56.24,
+      "word": "Can"
+    },
+    {
+      "startTime": 56.24,
+      "finishTime": 56.42,
+      "word": "we"
+    },
+    {
+      "startTime": 56.42,
+      "finishTime": 56.78,
+      "word": "review"
+    },
+    {
+      "startTime": 56.78,
+      "finishTime": 56.98,
+      "word": "the"
+    },
+    {
+      "startTime": 56.98,
+      "finishTime": 57.3,
+      "word": "usage"
+    },
+    {
+      "startTime": 57.3,
+      "finishTime": 57.66,
+      "word": "stats"
+    },
+    {
+      "startTime": 57.66,
+      "finishTime": 57.94,
+      "word": "for"
+    },
+    {
+      "startTime": 57.94,
+      "finishTime": 58.06,
+      "word": "our"
+    },
+    {
+      "startTime": 58.06,
+      "finishTime": 58.24,
+      "word": "main"
+    },
+    {
+      "startTime": 58.24,
+      "finishTime": 58.5,
+      "word": "design"
+    },
+    {
+      "startTime": 58.5,
+      "finishTime": 58.9,
+      "word": "platform?"
+    },
+    {
+      "startTime": 59.22,
+      "finishTime": 59.66,
+      "word": "I'm"
+    },
+    {
+      "startTime": 59.66,
+      "finishTime": 59.92,
+      "word": "interested"
+    },
+    {
+      "startTime": 59.92,
+      "finishTime": 60.2,
+      "word": "in"
+    },
+    {
+      "startTime": 60.2,
+      "finishTime": 60.32,
+      "word": "the"
+    },
+    {
+      "startTime": 60.32,
+      "finishTime": 60.72,
+      "word": "average"
+    },
+    {
+      "startTime": 60.72,
+      "finishTime": 61.14,
+      "word": "usage"
+    },
+    {
+      "startTime": 61.14,
+      "finishTime": 61.52,
+      "word": "over"
+    },
+    {
+      "startTime": 61.52,
+      "finishTime": 61.66,
+      "word": "the"
+    },
+    {
+      "startTime": 61.66,
+      "finishTime": 61.84,
+      "word": "past"
+    },
+    {
+      "startTime": 61.84,
+      "finishTime": 62.14,
+      "word": "month."
+    },
+    {
+      "startTime": 62.86,
+      "finishTime": 63.38,
+      "word": "Of"
+    },
+    {
+      "startTime": 63.38,
+      "finishTime": 63.66,
+      "word": "course."
+    },
+    {
+      "startTime": 63.74,
+      "finishTime": 64.08,
+      "word": "The"
+    },
+    {
+      "startTime": 64.08,
+      "finishTime": 64.44,
+      "word": "platform"
+    },
+    {
+      "startTime": 64.44,
+      "finishTime": 64.68,
+      "word": "was"
+    },
+    {
+      "startTime": 64.68,
+      "finishTime": 64.92,
+      "word": "used"
+    },
+    {
+      "startTime": 64.92,
+      "finishTime": 65.08,
+      "word": "an"
+    },
+    {
+      "startTime": 65.08,
+      "finishTime": 65.38,
+      "word": "average"
+    },
+    {
+      "startTime": 65.38,
+      "finishTime": 65.6,
+      "word": "of"
+    },
+    {
+      "startTime": 65.6,
+      "finishTime": 65.86,
+      "word": "about"
+    },
+    {
+      "startTime": 65.86,
+      "finishTime": 66.48,
+      "word": "60"
+    },
+    {
+      "startTime": 66.48,
+      "finishTime": 66.96,
+      "word": "hours"
+    },
+    {
+      "startTime": 66.96,
+      "finishTime": 67.24,
+      "word": "per"
+    },
+    {
+      "startTime": 67.24,
+      "finishTime": 67.5,
+      "word": "week"
+    },
+    {
+      "startTime": 67.5,
+      "finishTime": 67.66,
+      "word": "by"
+    },
+    {
+      "startTime": 67.66,
+      "finishTime": 67.8,
+      "word": "the"
+    },
+    {
+      "startTime": 67.8,
+      "finishTime": 68.1,
+      "word": "team."
+    },
+    {
+      "startTime": 68.22,
+      "finishTime": 68.66,
+      "word": "The"
+    },
+    {
+      "startTime": 68.66,
+      "finishTime": 68.94,
+      "word": "peak"
+    },
+    {
+      "startTime": 68.94,
+      "finishTime": 69.4,
+      "word": "usage"
+    },
+    {
+      "startTime": 69.4,
+      "finishTime": 69.94,
+      "word": "was"
+    },
+    {
+      "startTime": 69.94,
+      "finishTime": 70.16,
+      "word": "around"
+    },
+    {
+      "startTime": 70.16,
+      "finishTime": 70.62,
+      "word": "80"
+    },
+    {
+      "startTime": 70.62,
+      "finishTime": 70.98,
+      "word": "hours"
+    },
+    {
+      "startTime": 70.98,
+      "finishTime": 71.34,
+      "word": "two"
+    },
+    {
+      "startTime": 71.34,
+      "finishTime": 71.54,
+      "word": "weeks"
+    },
+    {
+      "startTime": 71.54,
+      "finishTime": 71.76,
+      "word": "ago."
+    },
+    {
+      "startTime": 72.26,
+      "finishTime": 72.7,
+      "word": "Thanks,"
+    },
+    {
+      "startTime": 72.76,
+      "finishTime": 72.94,
+      "word": "Tom."
+    },
+    {
+      "startTime": 73.08,
+      "finishTime": 73.34,
+      "word": "This"
+    },
+    {
+      "startTime": 73.34,
+      "finishTime": 73.6,
+      "word": "information"
+    },
+    {
+      "startTime": 73.6,
+      "finishTime": 74,
+      "word": "helps"
+    },
+    {
+      "startTime": 74,
+      "finishTime": 74.22,
+      "word": "a"
+    },
+    {
+      "startTime": 74.22,
+      "finishTime": 74.36,
+      "word": "lot."
+    },
+    {
+      "startTime": 74.56,
+      "finishTime": 75.04,
+      "word": "I'll"
+    },
+    {
+      "startTime": 75.04,
+      "finishTime": 75.3,
+      "word": "compile"
+    },
+    {
+      "startTime": 75.3,
+      "finishTime": 75.7,
+      "word": "everything"
+    },
+    {
+      "startTime": 75.7,
+      "finishTime": 76.02,
+      "word": "and"
+    },
+    {
+      "startTime": 76.02,
+      "finishTime": 76.2,
+      "word": "send"
+    },
+    {
+      "startTime": 76.2,
+      "finishTime": 76.3,
+      "word": "a"
+    },
+    {
+      "startTime": 76.3,
+      "finishTime": 76.56,
+      "word": "summary"
+    },
+    {
+      "startTime": 76.56,
+      "finishTime": 76.76,
+      "word": "to"
+    },
+    {
+      "startTime": 76.76,
+      "finishTime": 76.86,
+      "word": "the"
+    },
+    {
+      "startTime": 76.86,
+      "finishTime": 77.12,
+      "word": "team"
+    },
+    {
+      "startTime": 77.12,
+      "finishTime": 77.28,
+      "word": "so"
+    },
+    {
+      "startTime": 77.28,
+      "finishTime": 77.4,
+      "word": "we"
+    },
+    {
+      "startTime": 77.4,
+      "finishTime": 77.52,
+      "word": "can"
+    },
+    {
+      "startTime": 77.52,
+      "finishTime": 77.82,
+      "word": "discuss"
+    },
+    {
+      "startTime": 77.82,
+      "finishTime": 78.02,
+      "word": "any"
+    },
+    {
+      "startTime": 78.02,
+      "finishTime": 78.24,
+      "word": "further"
+    },
+    {
+      "startTime": 78.24,
+      "finishTime": 78.52,
+      "word": "needs."
+    },
+    {
+      "startTime": 78.9,
+      "finishTime": 79.38,
+      "word": "Sounds"
+    },
+    {
+      "startTime": 79.38,
+      "finishTime": 79.62,
+      "word": "good,"
+    },
+    {
+      "startTime": 79.68,
+      "finishTime": 79.94,
+      "word": "Sophie."
+    },
+    {
+      "startTime": 80.12,
+      "finishTime": 80.54,
+      "word": "Let"
+    },
+    {
+      "startTime": 80.54,
+      "finishTime": 80.68,
+      "word": "me"
+    },
+    {
+      "startTime": 80.68,
+      "finishTime": 80.8,
+      "word": "know"
+    },
+    {
+      "startTime": 80.8,
+      "finishTime": 80.92,
+      "word": "if"
+    },
+    {
+      "startTime": 80.92,
+      "finishTime": 81.02,
+      "word": "you"
+    },
+    {
+      "startTime": 81.02,
+      "finishTime": 81.18,
+      "word": "need"
+    },
+    {
+      "startTime": 81.18,
+      "finishTime": 81.46,
+      "word": "any"
+    },
+    {
+      "startTime": 81.46,
+      "finishTime": 81.66,
+      "word": "more"
+    },
+    {
+      "startTime": 81.66,
+      "finishTime": 82,
+      "word": "details"
+    },
+    {
+      "startTime": 82,
+      "finishTime": 82.3,
+      "word": "for"
+    },
+    {
+      "startTime": 82.3,
+      "finishTime": 82.42,
+      "word": "the"
+    },
+    {
+      "startTime": 82.42,
+      "finishTime": 82.68,
+      "word": "summary."
+    }
+  ]
+}

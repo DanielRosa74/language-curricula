@@ -1,0 +1,1610 @@
+{
+  "text": "Hey Sarah, we need to decide on the best solution for our new software development project. We've been discussing a few options and I'd like to get your opinion. Sure, Brian. What are the choices? The first option is to build the software in-house. The second option is to outsource part of the project to an external team. What do you think would work best? Well, building in-house is probably the best way to maintain control over the project. We would have more flexibility and we could ensure the quality is up to our standards. That's true, but outsourcing might be more cost effective. It could save us time and resources. What about timelines? Which option is faster? Outsourcing is usually faster because the external team can focus solely on our project. Building in-house might take longer because we have other tasks to handle. However, outsourcing can lead to communication issues which might delay the project. I see. So on the one hand, outsourcing is faster, but it could also cause communication problems. On the other hand, building in-house gives us more control, but it might take longer. Which one do you think is more reliable? Building in-house is more reliable because we can oversee the entire process. However, outsourcing has its advantages, especially when it comes to speed. It depends on what you value more, control or speed. That makes sense. So if we build in-house, we have more control, but it could take longer. If we outsource, it's faster, but there might be communication issues. It's a tough call. Yes, it is. We might need to balance both approaches to get the best of both worlds. How about we build the core components in-house and outsource the less critical parts? That way, we maintain control while speeding up the project. That's a great idea. It could work. Thanks for the suggestion, Sarah.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.5,
+      "word": "Hey"
+    },
+    {
+      "startTime": 0.5,
+      "finishTime": 0.78,
+      "word": "Sarah,"
+    },
+    {
+      "startTime": 1,
+      "finishTime": 1.08,
+      "word": "we"
+    },
+    {
+      "startTime": 1.08,
+      "finishTime": 1.3,
+      "word": "need"
+    },
+    {
+      "startTime": 1.3,
+      "finishTime": 1.48,
+      "word": "to"
+    },
+    {
+      "startTime": 1.48,
+      "finishTime": 1.88,
+      "word": "decide"
+    },
+    {
+      "startTime": 1.88,
+      "finishTime": 2.12,
+      "word": "on"
+    },
+    {
+      "startTime": 2.12,
+      "finishTime": 2.28,
+      "word": "the"
+    },
+    {
+      "startTime": 2.28,
+      "finishTime": 2.48,
+      "word": "best"
+    },
+    {
+      "startTime": 2.48,
+      "finishTime": 2.86,
+      "word": "solution"
+    },
+    {
+      "startTime": 2.86,
+      "finishTime": 3.06,
+      "word": "for"
+    },
+    {
+      "startTime": 3.06,
+      "finishTime": 3.26,
+      "word": "our"
+    },
+    {
+      "startTime": 3.26,
+      "finishTime": 3.44,
+      "word": "new"
+    },
+    {
+      "startTime": 3.44,
+      "finishTime": 3.78,
+      "word": "software"
+    },
+    {
+      "startTime": 3.78,
+      "finishTime": 4.22,
+      "word": "development"
+    },
+    {
+      "startTime": 4.22,
+      "finishTime": 4.72,
+      "word": "project."
+    },
+    {
+      "startTime": 5.06,
+      "finishTime": 5.28,
+      "word": "We've"
+    },
+    {
+      "startTime": 5.28,
+      "finishTime": 5.44,
+      "word": "been"
+    },
+    {
+      "startTime": 5.44,
+      "finishTime": 5.76,
+      "word": "discussing"
+    },
+    {
+      "startTime": 5.76,
+      "finishTime": 5.96,
+      "word": "a"
+    },
+    {
+      "startTime": 5.96,
+      "finishTime": 6.12,
+      "word": "few"
+    },
+    {
+      "startTime": 6.12,
+      "finishTime": 6.56,
+      "word": "options"
+    },
+    {
+      "startTime": 6.56,
+      "finishTime": 6.94,
+      "word": "and"
+    },
+    {
+      "startTime": 6.94,
+      "finishTime": 7.18,
+      "word": "I'd"
+    },
+    {
+      "startTime": 7.18,
+      "finishTime": 7.28,
+      "word": "like"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.38,
+      "word": "to"
+    },
+    {
+      "startTime": 7.38,
+      "finishTime": 7.48,
+      "word": "get"
+    },
+    {
+      "startTime": 7.48,
+      "finishTime": 7.66,
+      "word": "your"
+    },
+    {
+      "startTime": 7.66,
+      "finishTime": 8.14,
+      "word": "opinion."
+    },
+    {
+      "startTime": 8.66,
+      "finishTime": 8.82,
+      "word": "Sure,"
+    },
+    {
+      "startTime": 8.82,
+      "finishTime": 9.14,
+      "word": "Brian."
+    },
+    {
+      "startTime": 9.28,
+      "finishTime": 9.44,
+      "word": "What"
+    },
+    {
+      "startTime": 9.44,
+      "finishTime": 9.56,
+      "word": "are"
+    },
+    {
+      "startTime": 9.56,
+      "finishTime": 9.66,
+      "word": "the"
+    },
+    {
+      "startTime": 9.66,
+      "finishTime": 10.06,
+      "word": "choices?"
+    },
+    {
+      "startTime": 10.54,
+      "finishTime": 10.74,
+      "word": "The"
+    },
+    {
+      "startTime": 10.74,
+      "finishTime": 10.98,
+      "word": "first"
+    },
+    {
+      "startTime": 10.98,
+      "finishTime": 11.26,
+      "word": "option"
+    },
+    {
+      "startTime": 11.26,
+      "finishTime": 11.46,
+      "word": "is"
+    },
+    {
+      "startTime": 11.46,
+      "finishTime": 11.66,
+      "word": "to"
+    },
+    {
+      "startTime": 11.66,
+      "finishTime": 11.78,
+      "word": "build"
+    },
+    {
+      "startTime": 11.78,
+      "finishTime": 12.02,
+      "word": "the"
+    },
+    {
+      "startTime": 12.02,
+      "finishTime": 12.34,
+      "word": "software"
+    },
+    {
+      "startTime": 12.34,
+      "finishTime": 12.82,
+      "word": "in"
+    },
+    {
+      "startTime": 12.82,
+      "finishTime": 13.18,
+      "word": "-house."
+    },
+    {
+      "startTime": 13.56,
+      "finishTime": 13.78,
+      "word": "The"
+    },
+    {
+      "startTime": 13.78,
+      "finishTime": 14.04,
+      "word": "second"
+    },
+    {
+      "startTime": 14.04,
+      "finishTime": 14.36,
+      "word": "option"
+    },
+    {
+      "startTime": 14.36,
+      "finishTime": 14.6,
+      "word": "is"
+    },
+    {
+      "startTime": 14.6,
+      "finishTime": 14.84,
+      "word": "to"
+    },
+    {
+      "startTime": 14.84,
+      "finishTime": 15.56,
+      "word": "outsource"
+    },
+    {
+      "startTime": 15.56,
+      "finishTime": 15.88,
+      "word": "part"
+    },
+    {
+      "startTime": 15.88,
+      "finishTime": 16.06,
+      "word": "of"
+    },
+    {
+      "startTime": 16.06,
+      "finishTime": 16.22,
+      "word": "the"
+    },
+    {
+      "startTime": 16.22,
+      "finishTime": 16.56,
+      "word": "project"
+    },
+    {
+      "startTime": 16.56,
+      "finishTime": 16.8,
+      "word": "to"
+    },
+    {
+      "startTime": 16.8,
+      "finishTime": 16.98,
+      "word": "an"
+    },
+    {
+      "startTime": 16.98,
+      "finishTime": 17.3,
+      "word": "external"
+    },
+    {
+      "startTime": 17.3,
+      "finishTime": 17.68,
+      "word": "team."
+    },
+    {
+      "startTime": 18.12,
+      "finishTime": 18.32,
+      "word": "What"
+    },
+    {
+      "startTime": 18.32,
+      "finishTime": 18.42,
+      "word": "do"
+    },
+    {
+      "startTime": 18.42,
+      "finishTime": 18.56,
+      "word": "you"
+    },
+    {
+      "startTime": 18.56,
+      "finishTime": 18.7,
+      "word": "think"
+    },
+    {
+      "startTime": 18.7,
+      "finishTime": 18.9,
+      "word": "would"
+    },
+    {
+      "startTime": 18.9,
+      "finishTime": 19.1,
+      "word": "work"
+    },
+    {
+      "startTime": 19.1,
+      "finishTime": 19.5,
+      "word": "best?"
+    },
+    {
+      "startTime": 20.6,
+      "finishTime": 20.94,
+      "word": "Well,"
+    },
+    {
+      "startTime": 20.98,
+      "finishTime": 21.36,
+      "word": "building"
+    },
+    {
+      "startTime": 21.36,
+      "finishTime": 21.6,
+      "word": "in"
+    },
+    {
+      "startTime": 21.6,
+      "finishTime": 21.74,
+      "word": "-house"
+    },
+    {
+      "startTime": 21.74,
+      "finishTime": 21.94,
+      "word": "is"
+    },
+    {
+      "startTime": 21.94,
+      "finishTime": 22.2,
+      "word": "probably"
+    },
+    {
+      "startTime": 22.2,
+      "finishTime": 22.38,
+      "word": "the"
+    },
+    {
+      "startTime": 22.38,
+      "finishTime": 22.5,
+      "word": "best"
+    },
+    {
+      "startTime": 22.5,
+      "finishTime": 22.62,
+      "word": "way"
+    },
+    {
+      "startTime": 22.62,
+      "finishTime": 22.82,
+      "word": "to"
+    },
+    {
+      "startTime": 22.82,
+      "finishTime": 23.12,
+      "word": "maintain"
+    },
+    {
+      "startTime": 23.12,
+      "finishTime": 23.58,
+      "word": "control"
+    },
+    {
+      "startTime": 23.58,
+      "finishTime": 23.8,
+      "word": "over"
+    },
+    {
+      "startTime": 23.8,
+      "finishTime": 23.98,
+      "word": "the"
+    },
+    {
+      "startTime": 23.98,
+      "finishTime": 24.4,
+      "word": "project."
+    },
+    {
+      "startTime": 24.82,
+      "finishTime": 25.04,
+      "word": "We"
+    },
+    {
+      "startTime": 25.04,
+      "finishTime": 25.22,
+      "word": "would"
+    },
+    {
+      "startTime": 25.22,
+      "finishTime": 25.38,
+      "word": "have"
+    },
+    {
+      "startTime": 25.38,
+      "finishTime": 25.6,
+      "word": "more"
+    },
+    {
+      "startTime": 25.6,
+      "finishTime": 26.18,
+      "word": "flexibility"
+    },
+    {
+      "startTime": 26.18,
+      "finishTime": 26.46,
+      "word": "and"
+    },
+    {
+      "startTime": 26.46,
+      "finishTime": 26.56,
+      "word": "we"
+    },
+    {
+      "startTime": 26.56,
+      "finishTime": 26.72,
+      "word": "could"
+    },
+    {
+      "startTime": 26.72,
+      "finishTime": 26.96,
+      "word": "ensure"
+    },
+    {
+      "startTime": 26.96,
+      "finishTime": 27.18,
+      "word": "the"
+    },
+    {
+      "startTime": 27.18,
+      "finishTime": 27.42,
+      "word": "quality"
+    },
+    {
+      "startTime": 27.42,
+      "finishTime": 27.6,
+      "word": "is"
+    },
+    {
+      "startTime": 27.6,
+      "finishTime": 27.7,
+      "word": "up"
+    },
+    {
+      "startTime": 27.7,
+      "finishTime": 27.84,
+      "word": "to"
+    },
+    {
+      "startTime": 27.84,
+      "finishTime": 27.94,
+      "word": "our"
+    },
+    {
+      "startTime": 27.94,
+      "finishTime": 28.38,
+      "word": "standards."
+    },
+    {
+      "startTime": 28.38,
+      "finishTime": 29.18,
+      "word": "That's"
+    },
+    {
+      "startTime": 29.18,
+      "finishTime": 29.54,
+      "word": "true,"
+    },
+    {
+      "startTime": 29.9,
+      "finishTime": 30.12,
+      "word": "but"
+    },
+    {
+      "startTime": 30.12,
+      "finishTime": 30.58,
+      "word": "outsourcing"
+    },
+    {
+      "startTime": 30.58,
+      "finishTime": 30.82,
+      "word": "might"
+    },
+    {
+      "startTime": 30.82,
+      "finishTime": 30.96,
+      "word": "be"
+    },
+    {
+      "startTime": 30.96,
+      "finishTime": 31.3,
+      "word": "more"
+    },
+    {
+      "startTime": 31.3,
+      "finishTime": 31.56,
+      "word": "cost"
+    },
+    {
+      "startTime": 31.56,
+      "finishTime": 31.96,
+      "word": "effective."
+    },
+    {
+      "startTime": 32.54,
+      "finishTime": 32.54,
+      "word": "It"
+    },
+    {
+      "startTime": 32.54,
+      "finishTime": 32.76,
+      "word": "could"
+    },
+    {
+      "startTime": 32.76,
+      "finishTime": 32.94,
+      "word": "save"
+    },
+    {
+      "startTime": 32.94,
+      "finishTime": 33.16,
+      "word": "us"
+    },
+    {
+      "startTime": 33.16,
+      "finishTime": 33.46,
+      "word": "time"
+    },
+    {
+      "startTime": 33.46,
+      "finishTime": 33.86,
+      "word": "and"
+    },
+    {
+      "startTime": 33.86,
+      "finishTime": 34.4,
+      "word": "resources."
+    },
+    {
+      "startTime": 35,
+      "finishTime": 35.08,
+      "word": "What"
+    },
+    {
+      "startTime": 35.08,
+      "finishTime": 35.34,
+      "word": "about"
+    },
+    {
+      "startTime": 35.34,
+      "finishTime": 35.86,
+      "word": "timelines?"
+    },
+    {
+      "startTime": 36.24,
+      "finishTime": 36.4,
+      "word": "Which"
+    },
+    {
+      "startTime": 36.4,
+      "finishTime": 36.82,
+      "word": "option"
+    },
+    {
+      "startTime": 36.82,
+      "finishTime": 37.06,
+      "word": "is"
+    },
+    {
+      "startTime": 37.06,
+      "finishTime": 37.52,
+      "word": "faster?"
+    },
+    {
+      "startTime": 38.32,
+      "finishTime": 38.72,
+      "word": "Outsourcing"
+    },
+    {
+      "startTime": 38.72,
+      "finishTime": 38.96,
+      "word": "is"
+    },
+    {
+      "startTime": 38.96,
+      "finishTime": 39.34,
+      "word": "usually"
+    },
+    {
+      "startTime": 39.34,
+      "finishTime": 39.74,
+      "word": "faster"
+    },
+    {
+      "startTime": 39.74,
+      "finishTime": 40.08,
+      "word": "because"
+    },
+    {
+      "startTime": 40.08,
+      "finishTime": 40.28,
+      "word": "the"
+    },
+    {
+      "startTime": 40.28,
+      "finishTime": 40.72,
+      "word": "external"
+    },
+    {
+      "startTime": 40.72,
+      "finishTime": 41.02,
+      "word": "team"
+    },
+    {
+      "startTime": 41.02,
+      "finishTime": 41.28,
+      "word": "can"
+    },
+    {
+      "startTime": 41.28,
+      "finishTime": 41.58,
+      "word": "focus"
+    },
+    {
+      "startTime": 41.58,
+      "finishTime": 41.86,
+      "word": "solely"
+    },
+    {
+      "startTime": 41.86,
+      "finishTime": 42.1,
+      "word": "on"
+    },
+    {
+      "startTime": 42.1,
+      "finishTime": 42.4,
+      "word": "our"
+    },
+    {
+      "startTime": 42.4,
+      "finishTime": 42.82,
+      "word": "project."
+    },
+    {
+      "startTime": 43.3,
+      "finishTime": 43.6,
+      "word": "Building"
+    },
+    {
+      "startTime": 43.6,
+      "finishTime": 43.88,
+      "word": "in"
+    },
+    {
+      "startTime": 43.88,
+      "finishTime": 44.02,
+      "word": "-house"
+    },
+    {
+      "startTime": 44.02,
+      "finishTime": 44.26,
+      "word": "might"
+    },
+    {
+      "startTime": 44.26,
+      "finishTime": 44.5,
+      "word": "take"
+    },
+    {
+      "startTime": 44.5,
+      "finishTime": 44.84,
+      "word": "longer"
+    },
+    {
+      "startTime": 44.84,
+      "finishTime": 45.12,
+      "word": "because"
+    },
+    {
+      "startTime": 45.12,
+      "finishTime": 45.28,
+      "word": "we"
+    },
+    {
+      "startTime": 45.28,
+      "finishTime": 45.38,
+      "word": "have"
+    },
+    {
+      "startTime": 45.38,
+      "finishTime": 45.6,
+      "word": "other"
+    },
+    {
+      "startTime": 45.6,
+      "finishTime": 46.02,
+      "word": "tasks"
+    },
+    {
+      "startTime": 46.02,
+      "finishTime": 46.3,
+      "word": "to"
+    },
+    {
+      "startTime": 46.3,
+      "finishTime": 46.62,
+      "word": "handle."
+    },
+    {
+      "startTime": 47.18,
+      "finishTime": 47.66,
+      "word": "However,"
+    },
+    {
+      "startTime": 47.92,
+      "finishTime": 48.3,
+      "word": "outsourcing"
+    },
+    {
+      "startTime": 48.3,
+      "finishTime": 48.66,
+      "word": "can"
+    },
+    {
+      "startTime": 48.66,
+      "finishTime": 48.84,
+      "word": "lead"
+    },
+    {
+      "startTime": 48.84,
+      "finishTime": 49,
+      "word": "to"
+    },
+    {
+      "startTime": 49,
+      "finishTime": 49.56,
+      "word": "communication"
+    },
+    {
+      "startTime": 49.56,
+      "finishTime": 49.98,
+      "word": "issues"
+    },
+    {
+      "startTime": 49.98,
+      "finishTime": 50.26,
+      "word": "which"
+    },
+    {
+      "startTime": 50.26,
+      "finishTime": 50.54,
+      "word": "might"
+    },
+    {
+      "startTime": 50.54,
+      "finishTime": 50.78,
+      "word": "delay"
+    },
+    {
+      "startTime": 50.78,
+      "finishTime": 50.96,
+      "word": "the"
+    },
+    {
+      "startTime": 50.96,
+      "finishTime": 51.34,
+      "word": "project."
+    },
+    {
+      "startTime": 52.28,
+      "finishTime": 52.6,
+      "word": "I"
+    },
+    {
+      "startTime": 52.6,
+      "finishTime": 52.98,
+      "word": "see."
+    },
+    {
+      "startTime": 53.12,
+      "finishTime": 53.3,
+      "word": "So"
+    },
+    {
+      "startTime": 53.3,
+      "finishTime": 53.44,
+      "word": "on"
+    },
+    {
+      "startTime": 53.44,
+      "finishTime": 53.58,
+      "word": "the"
+    },
+    {
+      "startTime": 53.58,
+      "finishTime": 53.8,
+      "word": "one"
+    },
+    {
+      "startTime": 53.8,
+      "finishTime": 54.04,
+      "word": "hand,"
+    },
+    {
+      "startTime": 54.28,
+      "finishTime": 54.66,
+      "word": "outsourcing"
+    },
+    {
+      "startTime": 54.66,
+      "finishTime": 55.14,
+      "word": "is"
+    },
+    {
+      "startTime": 55.14,
+      "finishTime": 55.58,
+      "word": "faster,"
+    },
+    {
+      "startTime": 55.72,
+      "finishTime": 55.92,
+      "word": "but"
+    },
+    {
+      "startTime": 55.92,
+      "finishTime": 56.06,
+      "word": "it"
+    },
+    {
+      "startTime": 56.06,
+      "finishTime": 56.2,
+      "word": "could"
+    },
+    {
+      "startTime": 56.2,
+      "finishTime": 56.54,
+      "word": "also"
+    },
+    {
+      "startTime": 56.54,
+      "finishTime": 56.74,
+      "word": "cause"
+    },
+    {
+      "startTime": 56.74,
+      "finishTime": 57.38,
+      "word": "communication"
+    },
+    {
+      "startTime": 57.38,
+      "finishTime": 57.86,
+      "word": "problems."
+    },
+    {
+      "startTime": 57.86,
+      "finishTime": 58.46,
+      "word": "On"
+    },
+    {
+      "startTime": 58.46,
+      "finishTime": 58.64,
+      "word": "the"
+    },
+    {
+      "startTime": 58.64,
+      "finishTime": 58.88,
+      "word": "other"
+    },
+    {
+      "startTime": 58.88,
+      "finishTime": 59.3,
+      "word": "hand,"
+    },
+    {
+      "startTime": 59.6,
+      "finishTime": 59.74,
+      "word": "building"
+    },
+    {
+      "startTime": 59.74,
+      "finishTime": 60.08,
+      "word": "in"
+    },
+    {
+      "startTime": 60.08,
+      "finishTime": 60.24,
+      "word": "-house"
+    },
+    {
+      "startTime": 60.24,
+      "finishTime": 60.5,
+      "word": "gives"
+    },
+    {
+      "startTime": 60.5,
+      "finishTime": 60.74,
+      "word": "us"
+    },
+    {
+      "startTime": 60.74,
+      "finishTime": 60.96,
+      "word": "more"
+    },
+    {
+      "startTime": 60.96,
+      "finishTime": 61.44,
+      "word": "control,"
+    },
+    {
+      "startTime": 61.56,
+      "finishTime": 61.68,
+      "word": "but"
+    },
+    {
+      "startTime": 61.68,
+      "finishTime": 61.82,
+      "word": "it"
+    },
+    {
+      "startTime": 61.82,
+      "finishTime": 61.98,
+      "word": "might"
+    },
+    {
+      "startTime": 61.98,
+      "finishTime": 62.22,
+      "word": "take"
+    },
+    {
+      "startTime": 62.22,
+      "finishTime": 62.62,
+      "word": "longer."
+    },
+    {
+      "startTime": 63.02,
+      "finishTime": 63.26,
+      "word": "Which"
+    },
+    {
+      "startTime": 63.26,
+      "finishTime": 63.42,
+      "word": "one"
+    },
+    {
+      "startTime": 63.42,
+      "finishTime": 63.54,
+      "word": "do"
+    },
+    {
+      "startTime": 63.54,
+      "finishTime": 63.66,
+      "word": "you"
+    },
+    {
+      "startTime": 63.66,
+      "finishTime": 63.78,
+      "word": "think"
+    },
+    {
+      "startTime": 63.78,
+      "finishTime": 63.92,
+      "word": "is"
+    },
+    {
+      "startTime": 63.92,
+      "finishTime": 64.18,
+      "word": "more"
+    },
+    {
+      "startTime": 64.18,
+      "finishTime": 64.72,
+      "word": "reliable?"
+    },
+    {
+      "startTime": 65.22,
+      "finishTime": 65.58,
+      "word": "Building"
+    },
+    {
+      "startTime": 65.58,
+      "finishTime": 65.84,
+      "word": "in"
+    },
+    {
+      "startTime": 65.84,
+      "finishTime": 65.96,
+      "word": "-house"
+    },
+    {
+      "startTime": 65.96,
+      "finishTime": 66.1,
+      "word": "is"
+    },
+    {
+      "startTime": 66.1,
+      "finishTime": 66.38,
+      "word": "more"
+    },
+    {
+      "startTime": 66.38,
+      "finishTime": 66.76,
+      "word": "reliable"
+    },
+    {
+      "startTime": 66.76,
+      "finishTime": 67.08,
+      "word": "because"
+    },
+    {
+      "startTime": 67.08,
+      "finishTime": 67.22,
+      "word": "we"
+    },
+    {
+      "startTime": 67.22,
+      "finishTime": 67.48,
+      "word": "can"
+    },
+    {
+      "startTime": 67.48,
+      "finishTime": 67.84,
+      "word": "oversee"
+    },
+    {
+      "startTime": 67.84,
+      "finishTime": 68.1,
+      "word": "the"
+    },
+    {
+      "startTime": 68.1,
+      "finishTime": 68.42,
+      "word": "entire"
+    },
+    {
+      "startTime": 68.42,
+      "finishTime": 68.98,
+      "word": "process."
+    },
+    {
+      "startTime": 69.42,
+      "finishTime": 69.86,
+      "word": "However,"
+    },
+    {
+      "startTime": 70.06,
+      "finishTime": 70.48,
+      "word": "outsourcing"
+    },
+    {
+      "startTime": 70.48,
+      "finishTime": 70.78,
+      "word": "has"
+    },
+    {
+      "startTime": 70.78,
+      "finishTime": 71.02,
+      "word": "its"
+    },
+    {
+      "startTime": 71.02,
+      "finishTime": 71.5,
+      "word": "advantages,"
+    },
+    {
+      "startTime": 71.62,
+      "finishTime": 72.06,
+      "word": "especially"
+    },
+    {
+      "startTime": 72.06,
+      "finishTime": 72.22,
+      "word": "when"
+    },
+    {
+      "startTime": 72.22,
+      "finishTime": 72.3,
+      "word": "it"
+    },
+    {
+      "startTime": 72.3,
+      "finishTime": 72.54,
+      "word": "comes"
+    },
+    {
+      "startTime": 72.54,
+      "finishTime": 72.76,
+      "word": "to"
+    },
+    {
+      "startTime": 72.76,
+      "finishTime": 73.12,
+      "word": "speed."
+    },
+    {
+      "startTime": 73.58,
+      "finishTime": 73.76,
+      "word": "It"
+    },
+    {
+      "startTime": 73.76,
+      "finishTime": 74.02,
+      "word": "depends"
+    },
+    {
+      "startTime": 74.02,
+      "finishTime": 74.16,
+      "word": "on"
+    },
+    {
+      "startTime": 74.16,
+      "finishTime": 74.32,
+      "word": "what"
+    },
+    {
+      "startTime": 74.32,
+      "finishTime": 74.54,
+      "word": "you"
+    },
+    {
+      "startTime": 74.54,
+      "finishTime": 74.82,
+      "word": "value"
+    },
+    {
+      "startTime": 74.82,
+      "finishTime": 75.28,
+      "word": "more,"
+    },
+    {
+      "startTime": 75.34,
+      "finishTime": 75.84,
+      "word": "control"
+    },
+    {
+      "startTime": 75.84,
+      "finishTime": 76.08,
+      "word": "or"
+    },
+    {
+      "startTime": 76.08,
+      "finishTime": 76.46,
+      "word": "speed."
+    },
+    {
+      "startTime": 76.74,
+      "finishTime": 76.94,
+      "word": "That"
+    },
+    {
+      "startTime": 76.94,
+      "finishTime": 77.2,
+      "word": "makes"
+    },
+    {
+      "startTime": 77.2,
+      "finishTime": 77.6,
+      "word": "sense."
+    },
+    {
+      "startTime": 77.88,
+      "finishTime": 78.2,
+      "word": "So"
+    },
+    {
+      "startTime": 78.2,
+      "finishTime": 78.64,
+      "word": "if"
+    },
+    {
+      "startTime": 78.64,
+      "finishTime": 78.86,
+      "word": "we"
+    },
+    {
+      "startTime": 78.86,
+      "finishTime": 79.02,
+      "word": "build"
+    },
+    {
+      "startTime": 79.02,
+      "finishTime": 79.26,
+      "word": "in"
+    },
+    {
+      "startTime": 79.26,
+      "finishTime": 79.48,
+      "word": "-house,"
+    },
+    {
+      "startTime": 79.52,
+      "finishTime": 79.76,
+      "word": "we"
+    },
+    {
+      "startTime": 79.76,
+      "finishTime": 79.9,
+      "word": "have"
+    },
+    {
+      "startTime": 79.9,
+      "finishTime": 80.14,
+      "word": "more"
+    },
+    {
+      "startTime": 80.14,
+      "finishTime": 80.6,
+      "word": "control,"
+    },
+    {
+      "startTime": 80.6,
+      "finishTime": 80.84,
+      "word": "but"
+    },
+    {
+      "startTime": 80.84,
+      "finishTime": 80.94,
+      "word": "it"
+    },
+    {
+      "startTime": 80.94,
+      "finishTime": 81.08,
+      "word": "could"
+    },
+    {
+      "startTime": 81.08,
+      "finishTime": 81.28,
+      "word": "take"
+    },
+    {
+      "startTime": 81.28,
+      "finishTime": 81.64,
+      "word": "longer."
+    },
+    {
+      "startTime": 81.82,
+      "finishTime": 82,
+      "word": "If"
+    },
+    {
+      "startTime": 82,
+      "finishTime": 82.26,
+      "word": "we"
+    },
+    {
+      "startTime": 82.26,
+      "finishTime": 82.8,
+      "word": "outsource,"
+    },
+    {
+      "startTime": 82.98,
+      "finishTime": 83.16,
+      "word": "it's"
+    },
+    {
+      "startTime": 83.16,
+      "finishTime": 83.62,
+      "word": "faster,"
+    },
+    {
+      "startTime": 83.84,
+      "finishTime": 84.1,
+      "word": "but"
+    },
+    {
+      "startTime": 84.1,
+      "finishTime": 84.24,
+      "word": "there"
+    },
+    {
+      "startTime": 84.24,
+      "finishTime": 84.44,
+      "word": "might"
+    },
+    {
+      "startTime": 84.44,
+      "finishTime": 84.66,
+      "word": "be"
+    },
+    {
+      "startTime": 84.66,
+      "finishTime": 85.3,
+      "word": "communication"
+    },
+    {
+      "startTime": 85.3,
+      "finishTime": 85.7,
+      "word": "issues."
+    },
+    {
+      "startTime": 85.8,
+      "finishTime": 86.14,
+      "word": "It's"
+    },
+    {
+      "startTime": 86.14,
+      "finishTime": 86.26,
+      "word": "a"
+    },
+    {
+      "startTime": 86.26,
+      "finishTime": 86.4,
+      "word": "tough"
+    },
+    {
+      "startTime": 86.4,
+      "finishTime": 86.82,
+      "word": "call."
+    },
+    {
+      "startTime": 86.82,
+      "finishTime": 87.76,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 87.76,
+      "finishTime": 87.98,
+      "word": "it"
+    },
+    {
+      "startTime": 87.98,
+      "finishTime": 88.36,
+      "word": "is."
+    },
+    {
+      "startTime": 88.52,
+      "finishTime": 88.66,
+      "word": "We"
+    },
+    {
+      "startTime": 88.66,
+      "finishTime": 88.82,
+      "word": "might"
+    },
+    {
+      "startTime": 88.82,
+      "finishTime": 89.04,
+      "word": "need"
+    },
+    {
+      "startTime": 89.04,
+      "finishTime": 89.24,
+      "word": "to"
+    },
+    {
+      "startTime": 89.24,
+      "finishTime": 89.52,
+      "word": "balance"
+    },
+    {
+      "startTime": 89.52,
+      "finishTime": 89.82,
+      "word": "both"
+    },
+    {
+      "startTime": 89.82,
+      "finishTime": 90.22,
+      "word": "approaches"
+    },
+    {
+      "startTime": 90.22,
+      "finishTime": 90.46,
+      "word": "to"
+    },
+    {
+      "startTime": 90.46,
+      "finishTime": 90.56,
+      "word": "get"
+    },
+    {
+      "startTime": 90.56,
+      "finishTime": 90.72,
+      "word": "the"
+    },
+    {
+      "startTime": 90.72,
+      "finishTime": 90.92,
+      "word": "best"
+    },
+    {
+      "startTime": 90.92,
+      "finishTime": 91.14,
+      "word": "of"
+    },
+    {
+      "startTime": 91.14,
+      "finishTime": 91.32,
+      "word": "both"
+    },
+    {
+      "startTime": 91.32,
+      "finishTime": 91.72,
+      "word": "worlds."
+    },
+    {
+      "startTime": 92.22,
+      "finishTime": 92.42,
+      "word": "How"
+    },
+    {
+      "startTime": 92.42,
+      "finishTime": 92.54,
+      "word": "about"
+    },
+    {
+      "startTime": 92.54,
+      "finishTime": 92.78,
+      "word": "we"
+    },
+    {
+      "startTime": 92.78,
+      "finishTime": 92.94,
+      "word": "build"
+    },
+    {
+      "startTime": 92.94,
+      "finishTime": 93.22,
+      "word": "the"
+    },
+    {
+      "startTime": 93.22,
+      "finishTime": 93.36,
+      "word": "core"
+    },
+    {
+      "startTime": 93.36,
+      "finishTime": 93.9,
+      "word": "components"
+    },
+    {
+      "startTime": 93.9,
+      "finishTime": 94.22,
+      "word": "in"
+    },
+    {
+      "startTime": 94.22,
+      "finishTime": 94.46,
+      "word": "-house"
+    },
+    {
+      "startTime": 94.46,
+      "finishTime": 94.74,
+      "word": "and"
+    },
+    {
+      "startTime": 94.74,
+      "finishTime": 95.22,
+      "word": "outsource"
+    },
+    {
+      "startTime": 95.22,
+      "finishTime": 95.42,
+      "word": "the"
+    },
+    {
+      "startTime": 95.42,
+      "finishTime": 95.6,
+      "word": "less"
+    },
+    {
+      "startTime": 95.6,
+      "finishTime": 95.92,
+      "word": "critical"
+    },
+    {
+      "startTime": 95.92,
+      "finishTime": 96.3,
+      "word": "parts?"
+    },
+    {
+      "startTime": 96.76,
+      "finishTime": 97,
+      "word": "That"
+    },
+    {
+      "startTime": 97,
+      "finishTime": 97.24,
+      "word": "way,"
+    },
+    {
+      "startTime": 97.36,
+      "finishTime": 97.5,
+      "word": "we"
+    },
+    {
+      "startTime": 97.5,
+      "finishTime": 97.8,
+      "word": "maintain"
+    },
+    {
+      "startTime": 97.8,
+      "finishTime": 98.3,
+      "word": "control"
+    },
+    {
+      "startTime": 98.3,
+      "finishTime": 98.56,
+      "word": "while"
+    },
+    {
+      "startTime": 98.56,
+      "finishTime": 98.8,
+      "word": "speeding"
+    },
+    {
+      "startTime": 98.8,
+      "finishTime": 99,
+      "word": "up"
+    },
+    {
+      "startTime": 99,
+      "finishTime": 99.12,
+      "word": "the"
+    },
+    {
+      "startTime": 99.12,
+      "finishTime": 99.42,
+      "word": "project."
+    },
+    {
+      "startTime": 99.96,
+      "finishTime": 100.28,
+      "word": "That's"
+    },
+    {
+      "startTime": 100.28,
+      "finishTime": 100.36,
+      "word": "a"
+    },
+    {
+      "startTime": 100.36,
+      "finishTime": 100.5,
+      "word": "great"
+    },
+    {
+      "startTime": 100.5,
+      "finishTime": 100.9,
+      "word": "idea."
+    },
+    {
+      "startTime": 101.26,
+      "finishTime": 101.42,
+      "word": "It"
+    },
+    {
+      "startTime": 101.42,
+      "finishTime": 101.58,
+      "word": "could"
+    },
+    {
+      "startTime": 101.58,
+      "finishTime": 101.92,
+      "word": "work."
+    },
+    {
+      "startTime": 102.36,
+      "finishTime": 102.54,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 102.54,
+      "finishTime": 102.74,
+      "word": "for"
+    },
+    {
+      "startTime": 102.74,
+      "finishTime": 102.9,
+      "word": "the"
+    },
+    {
+      "startTime": 102.9,
+      "finishTime": 103.42,
+      "word": "suggestion,"
+    },
+    {
+      "startTime": 103.66,
+      "finishTime": 103.92,
+      "word": "Sarah."
+    }
+  ]
+}

@@ -1,0 +1,1275 @@
+{
+  "text": "Hey, Tom. I'm considering switching jobs and I'm looking at a few tech companies. You've been in the industry longer than I have. Which company do you think is the best to work for? Well, Alice, it depends on what you're looking for. In terms of work-life balance, TechCorp is probably the best. They offer the most flexible hours and the most generous leave policy. That's interesting. I'm also interested in career growth. Which company offers the most opportunities for advancement? I'd say Innovate X is best for career growth. They have the most structured training programs and a clear path for promotions. Good to know. What about compensation? Which company pays the highest salaries? In terms of pay, TechCorp usually offers the highest salaries. However, Innovate X has the best bonuses in stock options, which can be even more lucrative in the long run. I see. What about company culture? I don't want to work somewhere that's too rigid or formal. Which company has the most relaxed atmosphere? Oh, that's definitely Startup Labs. They have the most laid-back culture with a casual dress code and a fun work environment. It's a great place to work if you value creativity and innovation. Thanks for all the information, Tom. This gives me a lot to think about. No problem, Alice. If you have any more questions, just let me know. I can also introduce you to a few people in these companies if you'd like. That would be great. I appreciate it, Tom.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.6,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.68,
+      "finishTime": 0.88,
+      "word": "Tom."
+    },
+    {
+      "startTime": 1.16,
+      "finishTime": 1.26,
+      "word": "I'm"
+    },
+    {
+      "startTime": 1.26,
+      "finishTime": 1.66,
+      "word": "considering"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 2.1,
+      "word": "switching"
+    },
+    {
+      "startTime": 2.1,
+      "finishTime": 2.56,
+      "word": "jobs"
+    },
+    {
+      "startTime": 2.56,
+      "finishTime": 2.72,
+      "word": "and"
+    },
+    {
+      "startTime": 2.72,
+      "finishTime": 2.94,
+      "word": "I'm"
+    },
+    {
+      "startTime": 2.94,
+      "finishTime": 3.12,
+      "word": "looking"
+    },
+    {
+      "startTime": 3.12,
+      "finishTime": 3.26,
+      "word": "at"
+    },
+    {
+      "startTime": 3.26,
+      "finishTime": 3.38,
+      "word": "a"
+    },
+    {
+      "startTime": 3.38,
+      "finishTime": 3.54,
+      "word": "few"
+    },
+    {
+      "startTime": 3.54,
+      "finishTime": 3.76,
+      "word": "tech"
+    },
+    {
+      "startTime": 3.76,
+      "finishTime": 4.26,
+      "word": "companies."
+    },
+    {
+      "startTime": 4.7,
+      "finishTime": 4.9,
+      "word": "You've"
+    },
+    {
+      "startTime": 4.9,
+      "finishTime": 5,
+      "word": "been"
+    },
+    {
+      "startTime": 5,
+      "finishTime": 5.16,
+      "word": "in"
+    },
+    {
+      "startTime": 5.16,
+      "finishTime": 5.32,
+      "word": "the"
+    },
+    {
+      "startTime": 5.32,
+      "finishTime": 5.66,
+      "word": "industry"
+    },
+    {
+      "startTime": 5.66,
+      "finishTime": 6,
+      "word": "longer"
+    },
+    {
+      "startTime": 6,
+      "finishTime": 6.12,
+      "word": "than"
+    },
+    {
+      "startTime": 6.12,
+      "finishTime": 6.4,
+      "word": "I"
+    },
+    {
+      "startTime": 6.4,
+      "finishTime": 6.64,
+      "word": "have."
+    },
+    {
+      "startTime": 6.76,
+      "finishTime": 6.98,
+      "word": "Which"
+    },
+    {
+      "startTime": 6.98,
+      "finishTime": 7.28,
+      "word": "company"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.42,
+      "word": "do"
+    },
+    {
+      "startTime": 7.42,
+      "finishTime": 7.52,
+      "word": "you"
+    },
+    {
+      "startTime": 7.52,
+      "finishTime": 7.64,
+      "word": "think"
+    },
+    {
+      "startTime": 7.64,
+      "finishTime": 7.78,
+      "word": "is"
+    },
+    {
+      "startTime": 7.78,
+      "finishTime": 7.9,
+      "word": "the"
+    },
+    {
+      "startTime": 7.9,
+      "finishTime": 8.06,
+      "word": "best"
+    },
+    {
+      "startTime": 8.06,
+      "finishTime": 8.2,
+      "word": "to"
+    },
+    {
+      "startTime": 8.2,
+      "finishTime": 8.36,
+      "word": "work"
+    },
+    {
+      "startTime": 8.36,
+      "finishTime": 8.62,
+      "word": "for?"
+    },
+    {
+      "startTime": 8.88,
+      "finishTime": 9.2,
+      "word": "Well,"
+    },
+    {
+      "startTime": 9.2,
+      "finishTime": 9.58,
+      "word": "Alice,"
+    },
+    {
+      "startTime": 9.72,
+      "finishTime": 9.84,
+      "word": "it"
+    },
+    {
+      "startTime": 9.84,
+      "finishTime": 10.08,
+      "word": "depends"
+    },
+    {
+      "startTime": 10.08,
+      "finishTime": 10.18,
+      "word": "on"
+    },
+    {
+      "startTime": 10.18,
+      "finishTime": 10.32,
+      "word": "what"
+    },
+    {
+      "startTime": 10.32,
+      "finishTime": 10.46,
+      "word": "you're"
+    },
+    {
+      "startTime": 10.46,
+      "finishTime": 10.7,
+      "word": "looking"
+    },
+    {
+      "startTime": 10.7,
+      "finishTime": 11.08,
+      "word": "for."
+    },
+    {
+      "startTime": 11.22,
+      "finishTime": 11.36,
+      "word": "In"
+    },
+    {
+      "startTime": 11.36,
+      "finishTime": 11.62,
+      "word": "terms"
+    },
+    {
+      "startTime": 11.62,
+      "finishTime": 11.88,
+      "word": "of"
+    },
+    {
+      "startTime": 11.88,
+      "finishTime": 12.08,
+      "word": "work"
+    },
+    {
+      "startTime": 12.08,
+      "finishTime": 12.28,
+      "word": "-life"
+    },
+    {
+      "startTime": 12.28,
+      "finishTime": 12.78,
+      "word": "balance,"
+    },
+    {
+      "startTime": 13.18,
+      "finishTime": 13.5,
+      "word": "TechCorp"
+    },
+    {
+      "startTime": 13.5,
+      "finishTime": 13.76,
+      "word": "is"
+    },
+    {
+      "startTime": 13.76,
+      "finishTime": 14.06,
+      "word": "probably"
+    },
+    {
+      "startTime": 14.06,
+      "finishTime": 14.26,
+      "word": "the"
+    },
+    {
+      "startTime": 14.26,
+      "finishTime": 14.56,
+      "word": "best."
+    },
+    {
+      "startTime": 14.64,
+      "finishTime": 14.9,
+      "word": "They"
+    },
+    {
+      "startTime": 14.9,
+      "finishTime": 15.12,
+      "word": "offer"
+    },
+    {
+      "startTime": 15.12,
+      "finishTime": 15.26,
+      "word": "the"
+    },
+    {
+      "startTime": 15.26,
+      "finishTime": 15.56,
+      "word": "most"
+    },
+    {
+      "startTime": 15.56,
+      "finishTime": 15.94,
+      "word": "flexible"
+    },
+    {
+      "startTime": 15.94,
+      "finishTime": 16.34,
+      "word": "hours"
+    },
+    {
+      "startTime": 16.34,
+      "finishTime": 16.66,
+      "word": "and"
+    },
+    {
+      "startTime": 16.66,
+      "finishTime": 16.74,
+      "word": "the"
+    },
+    {
+      "startTime": 16.74,
+      "finishTime": 17,
+      "word": "most"
+    },
+    {
+      "startTime": 17,
+      "finishTime": 17.36,
+      "word": "generous"
+    },
+    {
+      "startTime": 17.36,
+      "finishTime": 17.6,
+      "word": "leave"
+    },
+    {
+      "startTime": 17.6,
+      "finishTime": 18.18,
+      "word": "policy."
+    },
+    {
+      "startTime": 18.72,
+      "finishTime": 19.04,
+      "word": "That's"
+    },
+    {
+      "startTime": 19.04,
+      "finishTime": 19.42,
+      "word": "interesting."
+    },
+    {
+      "startTime": 19.58,
+      "finishTime": 19.82,
+      "word": "I'm"
+    },
+    {
+      "startTime": 19.82,
+      "finishTime": 20.1,
+      "word": "also"
+    },
+    {
+      "startTime": 20.1,
+      "finishTime": 20.4,
+      "word": "interested"
+    },
+    {
+      "startTime": 20.4,
+      "finishTime": 20.66,
+      "word": "in"
+    },
+    {
+      "startTime": 20.66,
+      "finishTime": 20.96,
+      "word": "career"
+    },
+    {
+      "startTime": 20.96,
+      "finishTime": 21.34,
+      "word": "growth."
+    },
+    {
+      "startTime": 21.68,
+      "finishTime": 21.9,
+      "word": "Which"
+    },
+    {
+      "startTime": 21.9,
+      "finishTime": 22.24,
+      "word": "company"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.64,
+      "word": "offers"
+    },
+    {
+      "startTime": 22.64,
+      "finishTime": 22.84,
+      "word": "the"
+    },
+    {
+      "startTime": 22.84,
+      "finishTime": 23.04,
+      "word": "most"
+    },
+    {
+      "startTime": 23.04,
+      "finishTime": 23.58,
+      "word": "opportunities"
+    },
+    {
+      "startTime": 23.58,
+      "finishTime": 23.84,
+      "word": "for"
+    },
+    {
+      "startTime": 23.84,
+      "finishTime": 24.24,
+      "word": "advancement?"
+    },
+    {
+      "startTime": 24.68,
+      "finishTime": 25,
+      "word": "I'd"
+    },
+    {
+      "startTime": 25,
+      "finishTime": 25.28,
+      "word": "say"
+    },
+    {
+      "startTime": 25.28,
+      "finishTime": 25.86,
+      "word": "Innovate"
+    },
+    {
+      "startTime": 25.86,
+      "finishTime": 26.16,
+      "word": "X"
+    },
+    {
+      "startTime": 26.16,
+      "finishTime": 26.54,
+      "word": "is"
+    },
+    {
+      "startTime": 26.54,
+      "finishTime": 26.94,
+      "word": "best"
+    },
+    {
+      "startTime": 26.94,
+      "finishTime": 27.26,
+      "word": "for"
+    },
+    {
+      "startTime": 27.26,
+      "finishTime": 27.54,
+      "word": "career"
+    },
+    {
+      "startTime": 27.54,
+      "finishTime": 27.92,
+      "word": "growth."
+    },
+    {
+      "startTime": 27.92,
+      "finishTime": 28.6,
+      "word": "They"
+    },
+    {
+      "startTime": 28.6,
+      "finishTime": 28.9,
+      "word": "have"
+    },
+    {
+      "startTime": 28.9,
+      "finishTime": 29.02,
+      "word": "the"
+    },
+    {
+      "startTime": 29.02,
+      "finishTime": 29.52,
+      "word": "most"
+    },
+    {
+      "startTime": 29.52,
+      "finishTime": 29.96,
+      "word": "structured"
+    },
+    {
+      "startTime": 29.96,
+      "finishTime": 30.34,
+      "word": "training"
+    },
+    {
+      "startTime": 30.34,
+      "finishTime": 30.92,
+      "word": "programs"
+    },
+    {
+      "startTime": 30.92,
+      "finishTime": 31.44,
+      "word": "and"
+    },
+    {
+      "startTime": 31.44,
+      "finishTime": 31.62,
+      "word": "a"
+    },
+    {
+      "startTime": 31.62,
+      "finishTime": 31.8,
+      "word": "clear"
+    },
+    {
+      "startTime": 31.8,
+      "finishTime": 32.18,
+      "word": "path"
+    },
+    {
+      "startTime": 32.18,
+      "finishTime": 32.48,
+      "word": "for"
+    },
+    {
+      "startTime": 32.48,
+      "finishTime": 33.2,
+      "word": "promotions."
+    },
+    {
+      "startTime": 34,
+      "finishTime": 34.04,
+      "word": "Good"
+    },
+    {
+      "startTime": 34.04,
+      "finishTime": 34.3,
+      "word": "to"
+    },
+    {
+      "startTime": 34.3,
+      "finishTime": 34.52,
+      "word": "know."
+    },
+    {
+      "startTime": 34.62,
+      "finishTime": 34.8,
+      "word": "What"
+    },
+    {
+      "startTime": 34.8,
+      "finishTime": 35.06,
+      "word": "about"
+    },
+    {
+      "startTime": 35.06,
+      "finishTime": 35.66,
+      "word": "compensation?"
+    },
+    {
+      "startTime": 36.18,
+      "finishTime": 36.32,
+      "word": "Which"
+    },
+    {
+      "startTime": 36.32,
+      "finishTime": 36.62,
+      "word": "company"
+    },
+    {
+      "startTime": 36.62,
+      "finishTime": 36.9,
+      "word": "pays"
+    },
+    {
+      "startTime": 36.9,
+      "finishTime": 37.1,
+      "word": "the"
+    },
+    {
+      "startTime": 37.1,
+      "finishTime": 37.32,
+      "word": "highest"
+    },
+    {
+      "startTime": 37.32,
+      "finishTime": 37.8,
+      "word": "salaries?"
+    },
+    {
+      "startTime": 38.26,
+      "finishTime": 38.34,
+      "word": "In"
+    },
+    {
+      "startTime": 38.34,
+      "finishTime": 38.62,
+      "word": "terms"
+    },
+    {
+      "startTime": 38.62,
+      "finishTime": 38.8,
+      "word": "of"
+    },
+    {
+      "startTime": 38.8,
+      "finishTime": 39.12,
+      "word": "pay,"
+    },
+    {
+      "startTime": 39.48,
+      "finishTime": 39.88,
+      "word": "TechCorp"
+    },
+    {
+      "startTime": 39.88,
+      "finishTime": 40.28,
+      "word": "usually"
+    },
+    {
+      "startTime": 40.28,
+      "finishTime": 40.68,
+      "word": "offers"
+    },
+    {
+      "startTime": 40.68,
+      "finishTime": 40.88,
+      "word": "the"
+    },
+    {
+      "startTime": 40.88,
+      "finishTime": 41.06,
+      "word": "highest"
+    },
+    {
+      "startTime": 41.06,
+      "finishTime": 41.48,
+      "word": "salaries."
+    },
+    {
+      "startTime": 41.66,
+      "finishTime": 42.22,
+      "word": "However,"
+    },
+    {
+      "startTime": 42.68,
+      "finishTime": 43,
+      "word": "Innovate"
+    },
+    {
+      "startTime": 43,
+      "finishTime": 43.22,
+      "word": "X"
+    },
+    {
+      "startTime": 43.22,
+      "finishTime": 43.44,
+      "word": "has"
+    },
+    {
+      "startTime": 43.44,
+      "finishTime": 43.66,
+      "word": "the"
+    },
+    {
+      "startTime": 43.66,
+      "finishTime": 43.86,
+      "word": "best"
+    },
+    {
+      "startTime": 43.86,
+      "finishTime": 44.32,
+      "word": "bonuses"
+    },
+    {
+      "startTime": 44.32,
+      "finishTime": 44.64,
+      "word": "in"
+    },
+    {
+      "startTime": 44.64,
+      "finishTime": 44.9,
+      "word": "stock"
+    },
+    {
+      "startTime": 44.9,
+      "finishTime": 45.3,
+      "word": "options,"
+    },
+    {
+      "startTime": 45.58,
+      "finishTime": 45.76,
+      "word": "which"
+    },
+    {
+      "startTime": 45.76,
+      "finishTime": 45.96,
+      "word": "can"
+    },
+    {
+      "startTime": 45.96,
+      "finishTime": 46.18,
+      "word": "be"
+    },
+    {
+      "startTime": 46.18,
+      "finishTime": 46.48,
+      "word": "even"
+    },
+    {
+      "startTime": 46.48,
+      "finishTime": 46.88,
+      "word": "more"
+    },
+    {
+      "startTime": 46.88,
+      "finishTime": 47.26,
+      "word": "lucrative"
+    },
+    {
+      "startTime": 47.26,
+      "finishTime": 47.48,
+      "word": "in"
+    },
+    {
+      "startTime": 47.48,
+      "finishTime": 47.68,
+      "word": "the"
+    },
+    {
+      "startTime": 47.68,
+      "finishTime": 47.9,
+      "word": "long"
+    },
+    {
+      "startTime": 47.9,
+      "finishTime": 48.26,
+      "word": "run."
+    },
+    {
+      "startTime": 48.7,
+      "finishTime": 48.96,
+      "word": "I"
+    },
+    {
+      "startTime": 48.96,
+      "finishTime": 49.26,
+      "word": "see."
+    },
+    {
+      "startTime": 49.5,
+      "finishTime": 49.68,
+      "word": "What"
+    },
+    {
+      "startTime": 49.68,
+      "finishTime": 49.9,
+      "word": "about"
+    },
+    {
+      "startTime": 49.9,
+      "finishTime": 50.24,
+      "word": "company"
+    },
+    {
+      "startTime": 50.24,
+      "finishTime": 50.64,
+      "word": "culture?"
+    },
+    {
+      "startTime": 50.98,
+      "finishTime": 51.16,
+      "word": "I"
+    },
+    {
+      "startTime": 51.16,
+      "finishTime": 51.34,
+      "word": "don't"
+    },
+    {
+      "startTime": 51.34,
+      "finishTime": 51.44,
+      "word": "want"
+    },
+    {
+      "startTime": 51.44,
+      "finishTime": 51.58,
+      "word": "to"
+    },
+    {
+      "startTime": 51.58,
+      "finishTime": 51.76,
+      "word": "work"
+    },
+    {
+      "startTime": 51.76,
+      "finishTime": 52.06,
+      "word": "somewhere"
+    },
+    {
+      "startTime": 52.06,
+      "finishTime": 52.38,
+      "word": "that's"
+    },
+    {
+      "startTime": 52.38,
+      "finishTime": 52.66,
+      "word": "too"
+    },
+    {
+      "startTime": 52.66,
+      "finishTime": 52.92,
+      "word": "rigid"
+    },
+    {
+      "startTime": 52.92,
+      "finishTime": 53.26,
+      "word": "or"
+    },
+    {
+      "startTime": 53.26,
+      "finishTime": 53.6,
+      "word": "formal."
+    },
+    {
+      "startTime": 53.9,
+      "finishTime": 54.14,
+      "word": "Which"
+    },
+    {
+      "startTime": 54.14,
+      "finishTime": 54.44,
+      "word": "company"
+    },
+    {
+      "startTime": 54.44,
+      "finishTime": 54.66,
+      "word": "has"
+    },
+    {
+      "startTime": 54.66,
+      "finishTime": 54.78,
+      "word": "the"
+    },
+    {
+      "startTime": 54.78,
+      "finishTime": 55.06,
+      "word": "most"
+    },
+    {
+      "startTime": 55.06,
+      "finishTime": 55.48,
+      "word": "relaxed"
+    },
+    {
+      "startTime": 55.48,
+      "finishTime": 56,
+      "word": "atmosphere?"
+    },
+    {
+      "startTime": 56,
+      "finishTime": 56.68,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 57.14,
+      "finishTime": 57.4,
+      "word": "that's"
+    },
+    {
+      "startTime": 57.4,
+      "finishTime": 57.74,
+      "word": "definitely"
+    },
+    {
+      "startTime": 57.74,
+      "finishTime": 58.22,
+      "word": "Startup"
+    },
+    {
+      "startTime": 58.22,
+      "finishTime": 58.52,
+      "word": "Labs."
+    },
+    {
+      "startTime": 58.94,
+      "finishTime": 59.08,
+      "word": "They"
+    },
+    {
+      "startTime": 59.08,
+      "finishTime": 59.24,
+      "word": "have"
+    },
+    {
+      "startTime": 59.24,
+      "finishTime": 59.36,
+      "word": "the"
+    },
+    {
+      "startTime": 59.36,
+      "finishTime": 59.58,
+      "word": "most"
+    },
+    {
+      "startTime": 59.58,
+      "finishTime": 59.84,
+      "word": "laid"
+    },
+    {
+      "startTime": 59.84,
+      "finishTime": 60.06,
+      "word": "-back"
+    },
+    {
+      "startTime": 60.06,
+      "finishTime": 60.52,
+      "word": "culture"
+    },
+    {
+      "startTime": 60.52,
+      "finishTime": 61.1,
+      "word": "with"
+    },
+    {
+      "startTime": 61.1,
+      "finishTime": 61.34,
+      "word": "a"
+    },
+    {
+      "startTime": 61.34,
+      "finishTime": 61.72,
+      "word": "casual"
+    },
+    {
+      "startTime": 61.72,
+      "finishTime": 62.1,
+      "word": "dress"
+    },
+    {
+      "startTime": 62.1,
+      "finishTime": 62.38,
+      "word": "code"
+    },
+    {
+      "startTime": 62.38,
+      "finishTime": 62.98,
+      "word": "and"
+    },
+    {
+      "startTime": 62.98,
+      "finishTime": 63.2,
+      "word": "a"
+    },
+    {
+      "startTime": 63.2,
+      "finishTime": 63.34,
+      "word": "fun"
+    },
+    {
+      "startTime": 63.34,
+      "finishTime": 63.62,
+      "word": "work"
+    },
+    {
+      "startTime": 63.62,
+      "finishTime": 64.04,
+      "word": "environment."
+    },
+    {
+      "startTime": 64.32,
+      "finishTime": 64.5,
+      "word": "It's"
+    },
+    {
+      "startTime": 64.5,
+      "finishTime": 64.62,
+      "word": "a"
+    },
+    {
+      "startTime": 64.62,
+      "finishTime": 64.8,
+      "word": "great"
+    },
+    {
+      "startTime": 64.8,
+      "finishTime": 65.08,
+      "word": "place"
+    },
+    {
+      "startTime": 65.08,
+      "finishTime": 65.3,
+      "word": "to"
+    },
+    {
+      "startTime": 65.3,
+      "finishTime": 65.52,
+      "word": "work"
+    },
+    {
+      "startTime": 65.52,
+      "finishTime": 65.78,
+      "word": "if"
+    },
+    {
+      "startTime": 65.78,
+      "finishTime": 65.96,
+      "word": "you"
+    },
+    {
+      "startTime": 65.96,
+      "finishTime": 66.24,
+      "word": "value"
+    },
+    {
+      "startTime": 66.24,
+      "finishTime": 66.86,
+      "word": "creativity"
+    },
+    {
+      "startTime": 66.86,
+      "finishTime": 67.52,
+      "word": "and"
+    },
+    {
+      "startTime": 67.52,
+      "finishTime": 68.02,
+      "word": "innovation."
+    },
+    {
+      "startTime": 68.88,
+      "finishTime": 68.98,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 68.98,
+      "finishTime": 69.16,
+      "word": "for"
+    },
+    {
+      "startTime": 69.16,
+      "finishTime": 69.32,
+      "word": "all"
+    },
+    {
+      "startTime": 69.32,
+      "finishTime": 69.44,
+      "word": "the"
+    },
+    {
+      "startTime": 69.44,
+      "finishTime": 69.86,
+      "word": "information,"
+    },
+    {
+      "startTime": 70.08,
+      "finishTime": 70.14,
+      "word": "Tom."
+    },
+    {
+      "startTime": 70.28,
+      "finishTime": 70.44,
+      "word": "This"
+    },
+    {
+      "startTime": 70.44,
+      "finishTime": 70.58,
+      "word": "gives"
+    },
+    {
+      "startTime": 70.58,
+      "finishTime": 70.76,
+      "word": "me"
+    },
+    {
+      "startTime": 70.76,
+      "finishTime": 70.86,
+      "word": "a"
+    },
+    {
+      "startTime": 70.86,
+      "finishTime": 70.96,
+      "word": "lot"
+    },
+    {
+      "startTime": 70.96,
+      "finishTime": 71.12,
+      "word": "to"
+    },
+    {
+      "startTime": 71.12,
+      "finishTime": 71.24,
+      "word": "think"
+    },
+    {
+      "startTime": 71.24,
+      "finishTime": 71.68,
+      "word": "about."
+    },
+    {
+      "startTime": 72.62,
+      "finishTime": 72.84,
+      "word": "No"
+    },
+    {
+      "startTime": 72.84,
+      "finishTime": 73.1,
+      "word": "problem,"
+    },
+    {
+      "startTime": 73.34,
+      "finishTime": 73.44,
+      "word": "Alice."
+    },
+    {
+      "startTime": 73.9,
+      "finishTime": 74.06,
+      "word": "If"
+    },
+    {
+      "startTime": 74.06,
+      "finishTime": 74.24,
+      "word": "you"
+    },
+    {
+      "startTime": 74.24,
+      "finishTime": 74.48,
+      "word": "have"
+    },
+    {
+      "startTime": 74.48,
+      "finishTime": 74.72,
+      "word": "any"
+    },
+    {
+      "startTime": 74.72,
+      "finishTime": 74.9,
+      "word": "more"
+    },
+    {
+      "startTime": 74.9,
+      "finishTime": 75.26,
+      "word": "questions,"
+    },
+    {
+      "startTime": 75.38,
+      "finishTime": 75.6,
+      "word": "just"
+    },
+    {
+      "startTime": 75.6,
+      "finishTime": 75.78,
+      "word": "let"
+    },
+    {
+      "startTime": 75.78,
+      "finishTime": 75.98,
+      "word": "me"
+    },
+    {
+      "startTime": 75.98,
+      "finishTime": 76.28,
+      "word": "know."
+    },
+    {
+      "startTime": 76.54,
+      "finishTime": 76.76,
+      "word": "I"
+    },
+    {
+      "startTime": 76.76,
+      "finishTime": 77.02,
+      "word": "can"
+    },
+    {
+      "startTime": 77.02,
+      "finishTime": 77.36,
+      "word": "also"
+    },
+    {
+      "startTime": 77.36,
+      "finishTime": 77.7,
+      "word": "introduce"
+    },
+    {
+      "startTime": 77.7,
+      "finishTime": 77.92,
+      "word": "you"
+    },
+    {
+      "startTime": 77.92,
+      "finishTime": 78.14,
+      "word": "to"
+    },
+    {
+      "startTime": 78.14,
+      "finishTime": 78.28,
+      "word": "a"
+    },
+    {
+      "startTime": 78.28,
+      "finishTime": 78.38,
+      "word": "few"
+    },
+    {
+      "startTime": 78.38,
+      "finishTime": 78.66,
+      "word": "people"
+    },
+    {
+      "startTime": 78.66,
+      "finishTime": 78.8,
+      "word": "in"
+    },
+    {
+      "startTime": 78.8,
+      "finishTime": 78.98,
+      "word": "these"
+    },
+    {
+      "startTime": 78.98,
+      "finishTime": 79.26,
+      "word": "companies"
+    },
+    {
+      "startTime": 79.26,
+      "finishTime": 79.44,
+      "word": "if"
+    },
+    {
+      "startTime": 79.44,
+      "finishTime": 79.7,
+      "word": "you'd"
+    },
+    {
+      "startTime": 79.7,
+      "finishTime": 79.94,
+      "word": "like."
+    },
+    {
+      "startTime": 80.42,
+      "finishTime": 80.56,
+      "word": "That"
+    },
+    {
+      "startTime": 80.56,
+      "finishTime": 80.7,
+      "word": "would"
+    },
+    {
+      "startTime": 80.7,
+      "finishTime": 80.9,
+      "word": "be"
+    },
+    {
+      "startTime": 80.9,
+      "finishTime": 81.08,
+      "word": "great."
+    },
+    {
+      "startTime": 81.14,
+      "finishTime": 81.34,
+      "word": "I"
+    },
+    {
+      "startTime": 81.34,
+      "finishTime": 81.64,
+      "word": "appreciate"
+    },
+    {
+      "startTime": 81.64,
+      "finishTime": 81.8,
+      "word": "it,"
+    },
+    {
+      "startTime": 81.86,
+      "finishTime": 82.1,
+      "word": "Tom."
+    }
+  ]
+}

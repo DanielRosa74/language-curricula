@@ -1,0 +1,1170 @@
+{
+  "text": "Good morning, Maria. I've prepared the final report on our recent social media campaign. It really helped increase our engagement levels, especially in Europe. That's great. How much did our engagement improve? Did we reach our targets? Yes, our engagement went up by about 40%. That's a big increase. The UK and Germany saw the most improvement, even more than we expected. That's impressive. What about our budget? Did we stay within it? We went over budget by just 5%, which isn't too much. The ads cost more than we thought they would. I see. Where could we do better? Which areas didn't meet our expectations completely? Our campaign did well in Europe, but not as much in Asia. The impact there was quite low. We need better content that fits each local market. Right. We should improve our strategies in areas where they weren't very effective. And for our next campaign, how can we manage our budget better? I think we should plan our budget based on different regions' costs. We need to spread our funds more wisely to avoid going over budget. Excellent. Can you write a new strategy based on our talk today and share it at our next team meeting? It's important that we use what we've learned to improve. Okay Maria, I'll get a detailed plan ready and go over it with the team to get their thoughts.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.64,
+      "word": "Good"
+    },
+    {
+      "startTime": 0.64,
+      "finishTime": 0.96,
+      "word": "morning,"
+    },
+    {
+      "startTime": 0.96,
+      "finishTime": 1.28,
+      "word": "Maria."
+    },
+    {
+      "startTime": 1.6,
+      "finishTime": 2.08,
+      "word": "I've"
+    },
+    {
+      "startTime": 2.08,
+      "finishTime": 2.46,
+      "word": "prepared"
+    },
+    {
+      "startTime": 2.46,
+      "finishTime": 2.72,
+      "word": "the"
+    },
+    {
+      "startTime": 2.72,
+      "finishTime": 2.98,
+      "word": "final"
+    },
+    {
+      "startTime": 2.98,
+      "finishTime": 3.42,
+      "word": "report"
+    },
+    {
+      "startTime": 3.42,
+      "finishTime": 3.7,
+      "word": "on"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 3.92,
+      "word": "our"
+    },
+    {
+      "startTime": 3.92,
+      "finishTime": 4.16,
+      "word": "recent"
+    },
+    {
+      "startTime": 4.16,
+      "finishTime": 4.52,
+      "word": "social"
+    },
+    {
+      "startTime": 4.52,
+      "finishTime": 4.88,
+      "word": "media"
+    },
+    {
+      "startTime": 4.88,
+      "finishTime": 5.34,
+      "word": "campaign."
+    },
+    {
+      "startTime": 5.52,
+      "finishTime": 5.8,
+      "word": "It"
+    },
+    {
+      "startTime": 5.8,
+      "finishTime": 6.14,
+      "word": "really"
+    },
+    {
+      "startTime": 6.14,
+      "finishTime": 6.36,
+      "word": "helped"
+    },
+    {
+      "startTime": 6.36,
+      "finishTime": 6.8,
+      "word": "increase"
+    },
+    {
+      "startTime": 6.8,
+      "finishTime": 7.1,
+      "word": "our"
+    },
+    {
+      "startTime": 7.1,
+      "finishTime": 7.42,
+      "word": "engagement"
+    },
+    {
+      "startTime": 7.42,
+      "finishTime": 7.8,
+      "word": "levels,"
+    },
+    {
+      "startTime": 7.94,
+      "finishTime": 8.62,
+      "word": "especially"
+    },
+    {
+      "startTime": 8.62,
+      "finishTime": 9.02,
+      "word": "in"
+    },
+    {
+      "startTime": 9.02,
+      "finishTime": 9.36,
+      "word": "Europe."
+    },
+    {
+      "startTime": 9.98,
+      "finishTime": 10.1,
+      "word": "That's"
+    },
+    {
+      "startTime": 10.1,
+      "finishTime": 10.42,
+      "word": "great."
+    },
+    {
+      "startTime": 10.68,
+      "finishTime": 10.8,
+      "word": "How"
+    },
+    {
+      "startTime": 10.8,
+      "finishTime": 11.06,
+      "word": "much"
+    },
+    {
+      "startTime": 11.06,
+      "finishTime": 11.22,
+      "word": "did"
+    },
+    {
+      "startTime": 11.22,
+      "finishTime": 11.42,
+      "word": "our"
+    },
+    {
+      "startTime": 11.42,
+      "finishTime": 11.76,
+      "word": "engagement"
+    },
+    {
+      "startTime": 11.76,
+      "finishTime": 12.32,
+      "word": "improve?"
+    },
+    {
+      "startTime": 12.56,
+      "finishTime": 12.72,
+      "word": "Did"
+    },
+    {
+      "startTime": 12.72,
+      "finishTime": 12.88,
+      "word": "we"
+    },
+    {
+      "startTime": 12.88,
+      "finishTime": 13.06,
+      "word": "reach"
+    },
+    {
+      "startTime": 13.06,
+      "finishTime": 13.26,
+      "word": "our"
+    },
+    {
+      "startTime": 13.26,
+      "finishTime": 13.62,
+      "word": "targets?"
+    },
+    {
+      "startTime": 14.38,
+      "finishTime": 14.78,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 14.92,
+      "finishTime": 15.14,
+      "word": "our"
+    },
+    {
+      "startTime": 15.14,
+      "finishTime": 15.44,
+      "word": "engagement"
+    },
+    {
+      "startTime": 15.44,
+      "finishTime": 15.62,
+      "word": "went"
+    },
+    {
+      "startTime": 15.62,
+      "finishTime": 15.84,
+      "word": "up"
+    },
+    {
+      "startTime": 15.84,
+      "finishTime": 16.08,
+      "word": "by"
+    },
+    {
+      "startTime": 16.08,
+      "finishTime": 16.4,
+      "word": "about"
+    },
+    {
+      "startTime": 16.4,
+      "finishTime": 17.1,
+      "word": "40%."
+    },
+    {
+      "startTime": 17.1,
+      "finishTime": 17.58,
+      "word": "That's"
+    },
+    {
+      "startTime": 17.58,
+      "finishTime": 17.7,
+      "word": "a"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 17.94,
+      "word": "big"
+    },
+    {
+      "startTime": 17.94,
+      "finishTime": 18.4,
+      "word": "increase."
+    },
+    {
+      "startTime": 18.62,
+      "finishTime": 18.76,
+      "word": "The"
+    },
+    {
+      "startTime": 18.76,
+      "finishTime": 19.06,
+      "word": "UK"
+    },
+    {
+      "startTime": 19.06,
+      "finishTime": 19.24,
+      "word": "and"
+    },
+    {
+      "startTime": 19.24,
+      "finishTime": 19.6,
+      "word": "Germany"
+    },
+    {
+      "startTime": 19.6,
+      "finishTime": 19.8,
+      "word": "saw"
+    },
+    {
+      "startTime": 19.8,
+      "finishTime": 20.04,
+      "word": "the"
+    },
+    {
+      "startTime": 20.04,
+      "finishTime": 20.3,
+      "word": "most"
+    },
+    {
+      "startTime": 20.3,
+      "finishTime": 20.74,
+      "word": "improvement,"
+    },
+    {
+      "startTime": 21.24,
+      "finishTime": 21.6,
+      "word": "even"
+    },
+    {
+      "startTime": 21.6,
+      "finishTime": 22.02,
+      "word": "more"
+    },
+    {
+      "startTime": 22.02,
+      "finishTime": 22.44,
+      "word": "than"
+    },
+    {
+      "startTime": 22.44,
+      "finishTime": 22.76,
+      "word": "we"
+    },
+    {
+      "startTime": 22.76,
+      "finishTime": 23.1,
+      "word": "expected."
+    },
+    {
+      "startTime": 23.66,
+      "finishTime": 24.04,
+      "word": "That's"
+    },
+    {
+      "startTime": 24.04,
+      "finishTime": 24.5,
+      "word": "impressive."
+    },
+    {
+      "startTime": 24.74,
+      "finishTime": 24.92,
+      "word": "What"
+    },
+    {
+      "startTime": 24.92,
+      "finishTime": 25.06,
+      "word": "about"
+    },
+    {
+      "startTime": 25.06,
+      "finishTime": 25.26,
+      "word": "our"
+    },
+    {
+      "startTime": 25.26,
+      "finishTime": 25.58,
+      "word": "budget?"
+    },
+    {
+      "startTime": 25.72,
+      "finishTime": 25.86,
+      "word": "Did"
+    },
+    {
+      "startTime": 25.86,
+      "finishTime": 26.06,
+      "word": "we"
+    },
+    {
+      "startTime": 26.06,
+      "finishTime": 26.24,
+      "word": "stay"
+    },
+    {
+      "startTime": 26.24,
+      "finishTime": 26.46,
+      "word": "within"
+    },
+    {
+      "startTime": 26.46,
+      "finishTime": 26.82,
+      "word": "it?"
+    },
+    {
+      "startTime": 26.82,
+      "finishTime": 27.36,
+      "word": "We"
+    },
+    {
+      "startTime": 27.36,
+      "finishTime": 27.54,
+      "word": "went"
+    },
+    {
+      "startTime": 27.54,
+      "finishTime": 27.8,
+      "word": "over"
+    },
+    {
+      "startTime": 27.8,
+      "finishTime": 28.1,
+      "word": "budget"
+    },
+    {
+      "startTime": 28.1,
+      "finishTime": 28.38,
+      "word": "by"
+    },
+    {
+      "startTime": 28.38,
+      "finishTime": 28.8,
+      "word": "just"
+    },
+    {
+      "startTime": 28.8,
+      "finishTime": 29.38,
+      "word": "5%,"
+    },
+    {
+      "startTime": 29.38,
+      "finishTime": 29.6,
+      "word": "which"
+    },
+    {
+      "startTime": 29.6,
+      "finishTime": 29.94,
+      "word": "isn't"
+    },
+    {
+      "startTime": 29.94,
+      "finishTime": 30.24,
+      "word": "too"
+    },
+    {
+      "startTime": 30.24,
+      "finishTime": 30.6,
+      "word": "much."
+    },
+    {
+      "startTime": 30.9,
+      "finishTime": 31.04,
+      "word": "The"
+    },
+    {
+      "startTime": 31.04,
+      "finishTime": 31.16,
+      "word": "ads"
+    },
+    {
+      "startTime": 31.16,
+      "finishTime": 31.46,
+      "word": "cost"
+    },
+    {
+      "startTime": 31.46,
+      "finishTime": 31.68,
+      "word": "more"
+    },
+    {
+      "startTime": 31.68,
+      "finishTime": 31.72,
+      "word": "than"
+    },
+    {
+      "startTime": 31.72,
+      "finishTime": 31.9,
+      "word": "we"
+    },
+    {
+      "startTime": 31.9,
+      "finishTime": 32.06,
+      "word": "thought"
+    },
+    {
+      "startTime": 32.06,
+      "finishTime": 32.28,
+      "word": "they"
+    },
+    {
+      "startTime": 32.28,
+      "finishTime": 32.46,
+      "word": "would."
+    },
+    {
+      "startTime": 33.2,
+      "finishTime": 33.36,
+      "word": "I"
+    },
+    {
+      "startTime": 33.36,
+      "finishTime": 33.76,
+      "word": "see."
+    },
+    {
+      "startTime": 33.92,
+      "finishTime": 34.08,
+      "word": "Where"
+    },
+    {
+      "startTime": 34.08,
+      "finishTime": 34.2,
+      "word": "could"
+    },
+    {
+      "startTime": 34.2,
+      "finishTime": 34.36,
+      "word": "we"
+    },
+    {
+      "startTime": 34.36,
+      "finishTime": 34.52,
+      "word": "do"
+    },
+    {
+      "startTime": 34.52,
+      "finishTime": 34.84,
+      "word": "better?"
+    },
+    {
+      "startTime": 35,
+      "finishTime": 35.2,
+      "word": "Which"
+    },
+    {
+      "startTime": 35.2,
+      "finishTime": 35.52,
+      "word": "areas"
+    },
+    {
+      "startTime": 35.52,
+      "finishTime": 35.84,
+      "word": "didn't"
+    },
+    {
+      "startTime": 35.84,
+      "finishTime": 36.04,
+      "word": "meet"
+    },
+    {
+      "startTime": 36.04,
+      "finishTime": 36.32,
+      "word": "our"
+    },
+    {
+      "startTime": 36.32,
+      "finishTime": 36.78,
+      "word": "expectations"
+    },
+    {
+      "startTime": 36.78,
+      "finishTime": 37.26,
+      "word": "completely?"
+    },
+    {
+      "startTime": 37.9,
+      "finishTime": 38.16,
+      "word": "Our"
+    },
+    {
+      "startTime": 38.16,
+      "finishTime": 38.48,
+      "word": "campaign"
+    },
+    {
+      "startTime": 38.48,
+      "finishTime": 38.72,
+      "word": "did"
+    },
+    {
+      "startTime": 38.72,
+      "finishTime": 38.92,
+      "word": "well"
+    },
+    {
+      "startTime": 38.92,
+      "finishTime": 39.06,
+      "word": "in"
+    },
+    {
+      "startTime": 39.06,
+      "finishTime": 39.34,
+      "word": "Europe,"
+    },
+    {
+      "startTime": 39.5,
+      "finishTime": 39.72,
+      "word": "but"
+    },
+    {
+      "startTime": 39.72,
+      "finishTime": 39.96,
+      "word": "not"
+    },
+    {
+      "startTime": 39.96,
+      "finishTime": 40.14,
+      "word": "as"
+    },
+    {
+      "startTime": 40.14,
+      "finishTime": 40.28,
+      "word": "much"
+    },
+    {
+      "startTime": 40.28,
+      "finishTime": 40.48,
+      "word": "in"
+    },
+    {
+      "startTime": 40.48,
+      "finishTime": 40.76,
+      "word": "Asia."
+    },
+    {
+      "startTime": 41.04,
+      "finishTime": 41.28,
+      "word": "The"
+    },
+    {
+      "startTime": 41.28,
+      "finishTime": 41.56,
+      "word": "impact"
+    },
+    {
+      "startTime": 41.56,
+      "finishTime": 41.76,
+      "word": "there"
+    },
+    {
+      "startTime": 41.76,
+      "finishTime": 42,
+      "word": "was"
+    },
+    {
+      "startTime": 42,
+      "finishTime": 42.28,
+      "word": "quite"
+    },
+    {
+      "startTime": 42.28,
+      "finishTime": 42.54,
+      "word": "low."
+    },
+    {
+      "startTime": 42.7,
+      "finishTime": 42.88,
+      "word": "We"
+    },
+    {
+      "startTime": 42.88,
+      "finishTime": 43.04,
+      "word": "need"
+    },
+    {
+      "startTime": 43.04,
+      "finishTime": 43.4,
+      "word": "better"
+    },
+    {
+      "startTime": 43.4,
+      "finishTime": 43.84,
+      "word": "content"
+    },
+    {
+      "startTime": 43.84,
+      "finishTime": 44.1,
+      "word": "that"
+    },
+    {
+      "startTime": 44.1,
+      "finishTime": 44.28,
+      "word": "fits"
+    },
+    {
+      "startTime": 44.28,
+      "finishTime": 44.7,
+      "word": "each"
+    },
+    {
+      "startTime": 44.7,
+      "finishTime": 45.02,
+      "word": "local"
+    },
+    {
+      "startTime": 45.02,
+      "finishTime": 45.46,
+      "word": "market."
+    },
+    {
+      "startTime": 46.12,
+      "finishTime": 46.46,
+      "word": "Right."
+    },
+    {
+      "startTime": 46.48,
+      "finishTime": 46.68,
+      "word": "We"
+    },
+    {
+      "startTime": 46.68,
+      "finishTime": 46.86,
+      "word": "should"
+    },
+    {
+      "startTime": 46.86,
+      "finishTime": 47.16,
+      "word": "improve"
+    },
+    {
+      "startTime": 47.16,
+      "finishTime": 47.44,
+      "word": "our"
+    },
+    {
+      "startTime": 47.44,
+      "finishTime": 47.78,
+      "word": "strategies"
+    },
+    {
+      "startTime": 47.78,
+      "finishTime": 48.04,
+      "word": "in"
+    },
+    {
+      "startTime": 48.04,
+      "finishTime": 48.3,
+      "word": "areas"
+    },
+    {
+      "startTime": 48.3,
+      "finishTime": 48.46,
+      "word": "where"
+    },
+    {
+      "startTime": 48.46,
+      "finishTime": 48.68,
+      "word": "they"
+    },
+    {
+      "startTime": 48.68,
+      "finishTime": 48.86,
+      "word": "weren't"
+    },
+    {
+      "startTime": 48.86,
+      "finishTime": 49.3,
+      "word": "very"
+    },
+    {
+      "startTime": 49.3,
+      "finishTime": 49.82,
+      "word": "effective."
+    },
+    {
+      "startTime": 50.2,
+      "finishTime": 50.4,
+      "word": "And"
+    },
+    {
+      "startTime": 50.4,
+      "finishTime": 50.56,
+      "word": "for"
+    },
+    {
+      "startTime": 50.56,
+      "finishTime": 50.7,
+      "word": "our"
+    },
+    {
+      "startTime": 50.7,
+      "finishTime": 50.94,
+      "word": "next"
+    },
+    {
+      "startTime": 50.94,
+      "finishTime": 51.38,
+      "word": "campaign,"
+    },
+    {
+      "startTime": 51.52,
+      "finishTime": 51.7,
+      "word": "how"
+    },
+    {
+      "startTime": 51.7,
+      "finishTime": 51.82,
+      "word": "can"
+    },
+    {
+      "startTime": 51.82,
+      "finishTime": 52.02,
+      "word": "we"
+    },
+    {
+      "startTime": 52.02,
+      "finishTime": 52.18,
+      "word": "manage"
+    },
+    {
+      "startTime": 52.18,
+      "finishTime": 52.38,
+      "word": "our"
+    },
+    {
+      "startTime": 52.38,
+      "finishTime": 52.54,
+      "word": "budget"
+    },
+    {
+      "startTime": 52.54,
+      "finishTime": 52.8,
+      "word": "better?"
+    },
+    {
+      "startTime": 53.580000000000005,
+      "finishTime": 54.02,
+      "word": "I"
+    },
+    {
+      "startTime": 54.02,
+      "finishTime": 54.22,
+      "word": "think"
+    },
+    {
+      "startTime": 54.22,
+      "finishTime": 54.38,
+      "word": "we"
+    },
+    {
+      "startTime": 54.38,
+      "finishTime": 54.56,
+      "word": "should"
+    },
+    {
+      "startTime": 54.56,
+      "finishTime": 54.74,
+      "word": "plan"
+    },
+    {
+      "startTime": 54.74,
+      "finishTime": 54.96,
+      "word": "our"
+    },
+    {
+      "startTime": 54.96,
+      "finishTime": 55.14,
+      "word": "budget"
+    },
+    {
+      "startTime": 55.14,
+      "finishTime": 55.42,
+      "word": "based"
+    },
+    {
+      "startTime": 55.42,
+      "finishTime": 55.62,
+      "word": "on"
+    },
+    {
+      "startTime": 55.62,
+      "finishTime": 55.96,
+      "word": "different"
+    },
+    {
+      "startTime": 55.96,
+      "finishTime": 56.26,
+      "word": "regions'"
+    },
+    {
+      "startTime": 56.8,
+      "finishTime": 56.82,
+      "word": "costs."
+    },
+    {
+      "startTime": 57.54,
+      "finishTime": 57.68,
+      "word": "We"
+    },
+    {
+      "startTime": 57.68,
+      "finishTime": 57.84,
+      "word": "need"
+    },
+    {
+      "startTime": 57.84,
+      "finishTime": 58.1,
+      "word": "to"
+    },
+    {
+      "startTime": 58.1,
+      "finishTime": 58.22,
+      "word": "spread"
+    },
+    {
+      "startTime": 58.22,
+      "finishTime": 58.46,
+      "word": "our"
+    },
+    {
+      "startTime": 58.46,
+      "finishTime": 58.66,
+      "word": "funds"
+    },
+    {
+      "startTime": 58.66,
+      "finishTime": 59.06,
+      "word": "more"
+    },
+    {
+      "startTime": 59.06,
+      "finishTime": 59.36,
+      "word": "wisely"
+    },
+    {
+      "startTime": 59.36,
+      "finishTime": 59.7,
+      "word": "to"
+    },
+    {
+      "startTime": 59.7,
+      "finishTime": 59.92,
+      "word": "avoid"
+    },
+    {
+      "startTime": 59.92,
+      "finishTime": 60.18,
+      "word": "going"
+    },
+    {
+      "startTime": 60.18,
+      "finishTime": 60.48,
+      "word": "over"
+    },
+    {
+      "startTime": 60.48,
+      "finishTime": 60.84,
+      "word": "budget."
+    },
+    {
+      "startTime": 61.44,
+      "finishTime": 61.78,
+      "word": "Excellent."
+    },
+    {
+      "startTime": 62.06,
+      "finishTime": 62.22,
+      "word": "Can"
+    },
+    {
+      "startTime": 62.22,
+      "finishTime": 62.36,
+      "word": "you"
+    },
+    {
+      "startTime": 62.36,
+      "finishTime": 62.46,
+      "word": "write"
+    },
+    {
+      "startTime": 62.46,
+      "finishTime": 62.6,
+      "word": "a"
+    },
+    {
+      "startTime": 62.6,
+      "finishTime": 62.76,
+      "word": "new"
+    },
+    {
+      "startTime": 62.76,
+      "finishTime": 63.08,
+      "word": "strategy"
+    },
+    {
+      "startTime": 63.08,
+      "finishTime": 63.34,
+      "word": "based"
+    },
+    {
+      "startTime": 63.34,
+      "finishTime": 63.52,
+      "word": "on"
+    },
+    {
+      "startTime": 63.52,
+      "finishTime": 63.68,
+      "word": "our"
+    },
+    {
+      "startTime": 63.68,
+      "finishTime": 63.82,
+      "word": "talk"
+    },
+    {
+      "startTime": 63.82,
+      "finishTime": 64.12,
+      "word": "today"
+    },
+    {
+      "startTime": 64.12,
+      "finishTime": 64.36,
+      "word": "and"
+    },
+    {
+      "startTime": 64.36,
+      "finishTime": 64.5,
+      "word": "share"
+    },
+    {
+      "startTime": 64.5,
+      "finishTime": 64.58,
+      "word": "it"
+    },
+    {
+      "startTime": 64.58,
+      "finishTime": 64.74,
+      "word": "at"
+    },
+    {
+      "startTime": 64.74,
+      "finishTime": 64.84,
+      "word": "our"
+    },
+    {
+      "startTime": 64.84,
+      "finishTime": 65.04,
+      "word": "next"
+    },
+    {
+      "startTime": 65.04,
+      "finishTime": 65.22,
+      "word": "team"
+    },
+    {
+      "startTime": 65.22,
+      "finishTime": 65.56,
+      "word": "meeting?"
+    },
+    {
+      "startTime": 65.92,
+      "finishTime": 66.2,
+      "word": "It's"
+    },
+    {
+      "startTime": 66.2,
+      "finishTime": 66.48,
+      "word": "important"
+    },
+    {
+      "startTime": 66.48,
+      "finishTime": 66.66,
+      "word": "that"
+    },
+    {
+      "startTime": 66.66,
+      "finishTime": 66.78,
+      "word": "we"
+    },
+    {
+      "startTime": 66.78,
+      "finishTime": 66.94,
+      "word": "use"
+    },
+    {
+      "startTime": 66.94,
+      "finishTime": 67.06,
+      "word": "what"
+    },
+    {
+      "startTime": 67.06,
+      "finishTime": 67.28,
+      "word": "we've"
+    },
+    {
+      "startTime": 67.28,
+      "finishTime": 67.42,
+      "word": "learned"
+    },
+    {
+      "startTime": 67.42,
+      "finishTime": 67.64,
+      "word": "to"
+    },
+    {
+      "startTime": 67.64,
+      "finishTime": 68,
+      "word": "improve."
+    },
+    {
+      "startTime": 68.76,
+      "finishTime": 69.02,
+      "word": "Okay"
+    },
+    {
+      "startTime": 69.02,
+      "finishTime": 69.3,
+      "word": "Maria,"
+    },
+    {
+      "startTime": 69.68,
+      "finishTime": 69.9,
+      "word": "I'll"
+    },
+    {
+      "startTime": 69.9,
+      "finishTime": 70.02,
+      "word": "get"
+    },
+    {
+      "startTime": 70.02,
+      "finishTime": 70.2,
+      "word": "a"
+    },
+    {
+      "startTime": 70.2,
+      "finishTime": 70.48,
+      "word": "detailed"
+    },
+    {
+      "startTime": 70.48,
+      "finishTime": 70.74,
+      "word": "plan"
+    },
+    {
+      "startTime": 70.74,
+      "finishTime": 71,
+      "word": "ready"
+    },
+    {
+      "startTime": 71,
+      "finishTime": 71.32,
+      "word": "and"
+    },
+    {
+      "startTime": 71.32,
+      "finishTime": 71.58,
+      "word": "go"
+    },
+    {
+      "startTime": 71.58,
+      "finishTime": 71.76,
+      "word": "over"
+    },
+    {
+      "startTime": 71.76,
+      "finishTime": 71.88,
+      "word": "it"
+    },
+    {
+      "startTime": 71.88,
+      "finishTime": 72.08,
+      "word": "with"
+    },
+    {
+      "startTime": 72.08,
+      "finishTime": 72.28,
+      "word": "the"
+    },
+    {
+      "startTime": 72.28,
+      "finishTime": 72.48,
+      "word": "team"
+    },
+    {
+      "startTime": 72.48,
+      "finishTime": 72.76,
+      "word": "to"
+    },
+    {
+      "startTime": 72.76,
+      "finishTime": 72.92,
+      "word": "get"
+    },
+    {
+      "startTime": 72.92,
+      "finishTime": 73.12,
+      "word": "their"
+    },
+    {
+      "startTime": 73.12,
+      "finishTime": 73.44,
+      "word": "thoughts."
+    }
+  ]
+}

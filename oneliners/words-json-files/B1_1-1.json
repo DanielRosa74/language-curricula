@@ -1,0 +1,800 @@
+{
+  "text": "Hey Lisa, do you have a minute? Sure, Bob. What's up? I hear you're going to a hackathon this weekend. Is that right? Yes, I am. It looks like it's going to be a great event. What project do you plan to work on? We plan to develop a new app for realtime project collaboration. How does that sound to you? Interesting. Who's on your team? A couple of developers from our branch in Seattle and a UX designer I've collaborated with before. Do you know if we have any similar projects coming up here? Actually, we might. Does your app have a potential name yet? We're thinking of calling it CollabReal. How many people usually participate in these events? Typically around fifty. Why? Do you want to join? Maybe. Where can I find more information? I can help you sign up. When are you available to go over the form? How about tomorrow during lunch? Works for me.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.48,
+      "word": "Hey"
+    },
+    {
+      "startTime": 0.48,
+      "finishTime": 0.82,
+      "word": "Lisa,"
+    },
+    {
+      "startTime": 1.02,
+      "finishTime": 1.04,
+      "word": "do"
+    },
+    {
+      "startTime": 1.04,
+      "finishTime": 1.16,
+      "word": "you"
+    },
+    {
+      "startTime": 1.16,
+      "finishTime": 1.34,
+      "word": "have"
+    },
+    {
+      "startTime": 1.34,
+      "finishTime": 1.44,
+      "word": "a"
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.72,
+      "word": "minute?"
+    },
+    {
+      "startTime": 2.36,
+      "finishTime": 2.52,
+      "word": "Sure,"
+    },
+    {
+      "startTime": 2.52,
+      "finishTime": 2.8,
+      "word": "Bob."
+    },
+    {
+      "startTime": 2.9,
+      "finishTime": 3.18,
+      "word": "What's"
+    },
+    {
+      "startTime": 3.18,
+      "finishTime": 3.48,
+      "word": "up?"
+    },
+    {
+      "startTime": 3.84,
+      "finishTime": 3.94,
+      "word": "I"
+    },
+    {
+      "startTime": 3.94,
+      "finishTime": 4.12,
+      "word": "hear"
+    },
+    {
+      "startTime": 4.12,
+      "finishTime": 4.38,
+      "word": "you're"
+    },
+    {
+      "startTime": 4.38,
+      "finishTime": 4.5,
+      "word": "going"
+    },
+    {
+      "startTime": 4.5,
+      "finishTime": 4.68,
+      "word": "to"
+    },
+    {
+      "startTime": 4.68,
+      "finishTime": 4.84,
+      "word": "a"
+    },
+    {
+      "startTime": 4.84,
+      "finishTime": 5.26,
+      "word": "hackathon"
+    },
+    {
+      "startTime": 5.26,
+      "finishTime": 5.48,
+      "word": "this"
+    },
+    {
+      "startTime": 5.48,
+      "finishTime": 5.86,
+      "word": "weekend."
+    },
+    {
+      "startTime": 5.98,
+      "finishTime": 6.18,
+      "word": "Is"
+    },
+    {
+      "startTime": 6.18,
+      "finishTime": 6.42,
+      "word": "that"
+    },
+    {
+      "startTime": 6.42,
+      "finishTime": 6.7,
+      "word": "right?"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.54,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 7.54,
+      "finishTime": 7.82,
+      "word": "I"
+    },
+    {
+      "startTime": 7.82,
+      "finishTime": 8.12,
+      "word": "am."
+    },
+    {
+      "startTime": 8.28,
+      "finishTime": 8.42,
+      "word": "It"
+    },
+    {
+      "startTime": 8.42,
+      "finishTime": 8.58,
+      "word": "looks"
+    },
+    {
+      "startTime": 8.58,
+      "finishTime": 8.78,
+      "word": "like"
+    },
+    {
+      "startTime": 8.78,
+      "finishTime": 8.96,
+      "word": "it's"
+    },
+    {
+      "startTime": 8.96,
+      "finishTime": 9.08,
+      "word": "going"
+    },
+    {
+      "startTime": 9.08,
+      "finishTime": 9.2,
+      "word": "to"
+    },
+    {
+      "startTime": 9.2,
+      "finishTime": 9.32,
+      "word": "be"
+    },
+    {
+      "startTime": 9.32,
+      "finishTime": 9.48,
+      "word": "a"
+    },
+    {
+      "startTime": 9.48,
+      "finishTime": 9.6,
+      "word": "great"
+    },
+    {
+      "startTime": 9.6,
+      "finishTime": 9.98,
+      "word": "event."
+    },
+    {
+      "startTime": 10.4,
+      "finishTime": 10.68,
+      "word": "What"
+    },
+    {
+      "startTime": 10.68,
+      "finishTime": 11.08,
+      "word": "project"
+    },
+    {
+      "startTime": 11.08,
+      "finishTime": 11.24,
+      "word": "do"
+    },
+    {
+      "startTime": 11.24,
+      "finishTime": 11.36,
+      "word": "you"
+    },
+    {
+      "startTime": 11.36,
+      "finishTime": 11.54,
+      "word": "plan"
+    },
+    {
+      "startTime": 11.54,
+      "finishTime": 11.7,
+      "word": "to"
+    },
+    {
+      "startTime": 11.7,
+      "finishTime": 11.84,
+      "word": "work"
+    },
+    {
+      "startTime": 11.84,
+      "finishTime": 12.16,
+      "word": "on?"
+    },
+    {
+      "startTime": 12.5,
+      "finishTime": 12.64,
+      "word": "We"
+    },
+    {
+      "startTime": 12.64,
+      "finishTime": 12.88,
+      "word": "plan"
+    },
+    {
+      "startTime": 12.88,
+      "finishTime": 13.1,
+      "word": "to"
+    },
+    {
+      "startTime": 13.1,
+      "finishTime": 13.3,
+      "word": "develop"
+    },
+    {
+      "startTime": 13.3,
+      "finishTime": 13.48,
+      "word": "a"
+    },
+    {
+      "startTime": 13.48,
+      "finishTime": 13.62,
+      "word": "new"
+    },
+    {
+      "startTime": 13.62,
+      "finishTime": 13.86,
+      "word": "app"
+    },
+    {
+      "startTime": 13.86,
+      "finishTime": 14.14,
+      "word": "for"
+    },
+    {
+      "startTime": 14.14,
+      "finishTime": 14.66,
+      "word": "realtime"
+    },
+    {
+      "startTime": 14.66,
+      "finishTime": 15.06,
+      "word": "project"
+    },
+    {
+      "startTime": 15.06,
+      "finishTime": 15.6,
+      "word": "collaboration."
+    },
+    {
+      "startTime": 15.96,
+      "finishTime": 16.1,
+      "word": "How"
+    },
+    {
+      "startTime": 16.1,
+      "finishTime": 16.24,
+      "word": "does"
+    },
+    {
+      "startTime": 16.24,
+      "finishTime": 16.42,
+      "word": "that"
+    },
+    {
+      "startTime": 16.42,
+      "finishTime": 16.6,
+      "word": "sound"
+    },
+    {
+      "startTime": 16.6,
+      "finishTime": 16.8,
+      "word": "to"
+    },
+    {
+      "startTime": 16.8,
+      "finishTime": 17,
+      "word": "you?"
+    },
+    {
+      "startTime": 17.4,
+      "finishTime": 17.84,
+      "word": "Interesting."
+    },
+    {
+      "startTime": 18.2,
+      "finishTime": 18.48,
+      "word": "Who's"
+    },
+    {
+      "startTime": 18.48,
+      "finishTime": 18.62,
+      "word": "on"
+    },
+    {
+      "startTime": 18.62,
+      "finishTime": 18.8,
+      "word": "your"
+    },
+    {
+      "startTime": 18.8,
+      "finishTime": 19.1,
+      "word": "team?"
+    },
+    {
+      "startTime": 19.56,
+      "finishTime": 19.72,
+      "word": "A"
+    },
+    {
+      "startTime": 19.72,
+      "finishTime": 19.86,
+      "word": "couple"
+    },
+    {
+      "startTime": 19.86,
+      "finishTime": 20.12,
+      "word": "of"
+    },
+    {
+      "startTime": 20.12,
+      "finishTime": 20.44,
+      "word": "developers"
+    },
+    {
+      "startTime": 20.44,
+      "finishTime": 20.66,
+      "word": "from"
+    },
+    {
+      "startTime": 20.66,
+      "finishTime": 20.88,
+      "word": "our"
+    },
+    {
+      "startTime": 20.88,
+      "finishTime": 21.06,
+      "word": "branch"
+    },
+    {
+      "startTime": 21.06,
+      "finishTime": 21.28,
+      "word": "in"
+    },
+    {
+      "startTime": 21.28,
+      "finishTime": 21.64,
+      "word": "Seattle"
+    },
+    {
+      "startTime": 21.64,
+      "finishTime": 22,
+      "word": "and"
+    },
+    {
+      "startTime": 22,
+      "finishTime": 22.16,
+      "word": "a"
+    },
+    {
+      "startTime": 22.16,
+      "finishTime": 22.42,
+      "word": "UX"
+    },
+    {
+      "startTime": 22.42,
+      "finishTime": 22.78,
+      "word": "designer"
+    },
+    {
+      "startTime": 22.78,
+      "finishTime": 23.08,
+      "word": "I've"
+    },
+    {
+      "startTime": 23.08,
+      "finishTime": 23.42,
+      "word": "collaborated"
+    },
+    {
+      "startTime": 23.42,
+      "finishTime": 23.72,
+      "word": "with"
+    },
+    {
+      "startTime": 23.72,
+      "finishTime": 24.12,
+      "word": "before."
+    },
+    {
+      "startTime": 24.72,
+      "finishTime": 24.92,
+      "word": "Do"
+    },
+    {
+      "startTime": 24.92,
+      "finishTime": 25.04,
+      "word": "you"
+    },
+    {
+      "startTime": 25.04,
+      "finishTime": 25.12,
+      "word": "know"
+    },
+    {
+      "startTime": 25.12,
+      "finishTime": 25.2,
+      "word": "if"
+    },
+    {
+      "startTime": 25.2,
+      "finishTime": 25.38,
+      "word": "we"
+    },
+    {
+      "startTime": 25.38,
+      "finishTime": 25.48,
+      "word": "have"
+    },
+    {
+      "startTime": 25.48,
+      "finishTime": 25.76,
+      "word": "any"
+    },
+    {
+      "startTime": 25.76,
+      "finishTime": 26,
+      "word": "similar"
+    },
+    {
+      "startTime": 26,
+      "finishTime": 26.4,
+      "word": "projects"
+    },
+    {
+      "startTime": 26.4,
+      "finishTime": 26.62,
+      "word": "coming"
+    },
+    {
+      "startTime": 26.62,
+      "finishTime": 26.86,
+      "word": "up"
+    },
+    {
+      "startTime": 26.86,
+      "finishTime": 27.14,
+      "word": "here?"
+    },
+    {
+      "startTime": 27.14,
+      "finishTime": 27.9,
+      "word": "Actually,"
+    },
+    {
+      "startTime": 28.38,
+      "finishTime": 28.46,
+      "word": "we"
+    },
+    {
+      "startTime": 28.46,
+      "finishTime": 28.82,
+      "word": "might."
+    },
+    {
+      "startTime": 29.4,
+      "finishTime": 29.52,
+      "word": "Does"
+    },
+    {
+      "startTime": 29.52,
+      "finishTime": 29.7,
+      "word": "your"
+    },
+    {
+      "startTime": 29.7,
+      "finishTime": 29.96,
+      "word": "app"
+    },
+    {
+      "startTime": 29.96,
+      "finishTime": 30.34,
+      "word": "have"
+    },
+    {
+      "startTime": 30.34,
+      "finishTime": 30.52,
+      "word": "a"
+    },
+    {
+      "startTime": 30.52,
+      "finishTime": 31,
+      "word": "potential"
+    },
+    {
+      "startTime": 31,
+      "finishTime": 31.28,
+      "word": "name"
+    },
+    {
+      "startTime": 31.28,
+      "finishTime": 31.66,
+      "word": "yet?"
+    },
+    {
+      "startTime": 32.14,
+      "finishTime": 32.34,
+      "word": "We're"
+    },
+    {
+      "startTime": 32.34,
+      "finishTime": 32.56,
+      "word": "thinking"
+    },
+    {
+      "startTime": 32.56,
+      "finishTime": 32.74,
+      "word": "of"
+    },
+    {
+      "startTime": 32.74,
+      "finishTime": 32.98,
+      "word": "calling"
+    },
+    {
+      "startTime": 32.98,
+      "finishTime": 33.28,
+      "word": "it"
+    },
+    {
+      "startTime": 33.28,
+      "finishTime": 34,
+      "word": "CollabReal."
+    },
+    {
+      "startTime": 34.6,
+      "finishTime": 34.74,
+      "word": "How"
+    },
+    {
+      "startTime": 34.74,
+      "finishTime": 34.98,
+      "word": "many"
+    },
+    {
+      "startTime": 34.98,
+      "finishTime": 35.3,
+      "word": "people"
+    },
+    {
+      "startTime": 35.3,
+      "finishTime": 35.76,
+      "word": "usually"
+    },
+    {
+      "startTime": 35.76,
+      "finishTime": 36.4,
+      "word": "participate"
+    },
+    {
+      "startTime": 36.4,
+      "finishTime": 36.7,
+      "word": "in"
+    },
+    {
+      "startTime": 36.7,
+      "finishTime": 36.92,
+      "word": "these"
+    },
+    {
+      "startTime": 36.92,
+      "finishTime": 37.3,
+      "word": "events?"
+    },
+    {
+      "startTime": 38,
+      "finishTime": 38.3,
+      "word": "Typically"
+    },
+    {
+      "startTime": 38.3,
+      "finishTime": 38.62,
+      "word": "around"
+    },
+    {
+      "startTime": 38.62,
+      "finishTime": 39.02,
+      "word": "fifty."
+    },
+    {
+      "startTime": 39.28,
+      "finishTime": 39.62,
+      "word": "Why?"
+    },
+    {
+      "startTime": 39.78,
+      "finishTime": 39.88,
+      "word": "Do"
+    },
+    {
+      "startTime": 39.88,
+      "finishTime": 39.94,
+      "word": "you"
+    },
+    {
+      "startTime": 39.94,
+      "finishTime": 40.1,
+      "word": "want"
+    },
+    {
+      "startTime": 40.1,
+      "finishTime": 40.26,
+      "word": "to"
+    },
+    {
+      "startTime": 40.26,
+      "finishTime": 40.4,
+      "word": "join?"
+    },
+    {
+      "startTime": 40.78,
+      "finishTime": 41.24,
+      "word": "Maybe."
+    },
+    {
+      "startTime": 41.58,
+      "finishTime": 41.8,
+      "word": "Where"
+    },
+    {
+      "startTime": 41.8,
+      "finishTime": 42,
+      "word": "can"
+    },
+    {
+      "startTime": 42,
+      "finishTime": 42.2,
+      "word": "I"
+    },
+    {
+      "startTime": 42.2,
+      "finishTime": 42.32,
+      "word": "find"
+    },
+    {
+      "startTime": 42.32,
+      "finishTime": 42.62,
+      "word": "more"
+    },
+    {
+      "startTime": 42.62,
+      "finishTime": 43.22,
+      "word": "information?"
+    },
+    {
+      "startTime": 43.64,
+      "finishTime": 43.78,
+      "word": "I"
+    },
+    {
+      "startTime": 43.78,
+      "finishTime": 43.92,
+      "word": "can"
+    },
+    {
+      "startTime": 43.92,
+      "finishTime": 44.06,
+      "word": "help"
+    },
+    {
+      "startTime": 44.06,
+      "finishTime": 44.22,
+      "word": "you"
+    },
+    {
+      "startTime": 44.22,
+      "finishTime": 44.4,
+      "word": "sign"
+    },
+    {
+      "startTime": 44.4,
+      "finishTime": 44.7,
+      "word": "up."
+    },
+    {
+      "startTime": 44.92,
+      "finishTime": 45.04,
+      "word": "When"
+    },
+    {
+      "startTime": 45.04,
+      "finishTime": 45.16,
+      "word": "are"
+    },
+    {
+      "startTime": 45.16,
+      "finishTime": 45.32,
+      "word": "you"
+    },
+    {
+      "startTime": 45.32,
+      "finishTime": 45.64,
+      "word": "available"
+    },
+    {
+      "startTime": 45.64,
+      "finishTime": 45.78,
+      "word": "to"
+    },
+    {
+      "startTime": 45.78,
+      "finishTime": 45.92,
+      "word": "go"
+    },
+    {
+      "startTime": 45.92,
+      "finishTime": 46.08,
+      "word": "over"
+    },
+    {
+      "startTime": 46.08,
+      "finishTime": 46.24,
+      "word": "the"
+    },
+    {
+      "startTime": 46.24,
+      "finishTime": 46.4,
+      "word": "form?"
+    },
+    {
+      "startTime": 46.9,
+      "finishTime": 47.14,
+      "word": "How"
+    },
+    {
+      "startTime": 47.14,
+      "finishTime": 47.44,
+      "word": "about"
+    },
+    {
+      "startTime": 47.44,
+      "finishTime": 47.9,
+      "word": "tomorrow"
+    },
+    {
+      "startTime": 47.9,
+      "finishTime": 48.26,
+      "word": "during"
+    },
+    {
+      "startTime": 48.26,
+      "finishTime": 48.66,
+      "word": "lunch?"
+    },
+    {
+      "startTime": 49.34,
+      "finishTime": 49.54,
+      "word": "Works"
+    },
+    {
+      "startTime": 49.54,
+      "finishTime": 49.74,
+      "word": "for"
+    },
+    {
+      "startTime": 49.74,
+      "finishTime": 49.96,
+      "word": "me."
+    }
+  ]
+}

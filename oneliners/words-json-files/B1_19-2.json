@@ -1,0 +1,1295 @@
+{
+  "text": "All right, Alice, here's how I plan to start the pitch. In today's fast evolving digital landscape, startups require a robust, cost-effective cybersecurity solution. Guardian Tech offers just that, an innovative and flexible suite that grows with your business. That sounds really good, Jake. You used robust and cost-effective, which highlights the most important qualities right away. Maybe consider emphasizing how essential these features are? Hmm, okay, how about this? Guardian Tech isn't just helpful, it's essential for protecting against the wide array of digital threats facing startups today. Our solution is not only adaptable but also incredibly easy to integrate into any existing infrastructure. Yes, that's clear. You're showing the urgency and ease of integration well. When you talk about integration, maybe specify what makes it easy? Good point, I'll add. With its plug-and-play design, Guardian Tech is a user-friendly option that requires minimal setup time. This seamless integration makes it an ideal choice for startups with limited IT resources. Perfect. That part about minimal setup time really clarifies it. How will you conclude the pitch? I was thinking of finishing with a focus on the future. As your startup grows, Guardian Tech scales effortlessly to meet increasing demands ensuring a secure, sustainable digital environment. That's a strong ending. It reassures that the product is a long-term solution. Just make sure to slow down a bit when you get to secure, sustainable digital environment to let those adjectives sink in. Definitely. I'll make note of that. Thanks for the feedback, Alice.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.62,
+      "word": "All"
+    },
+    {
+      "startTime": 0.62,
+      "finishTime": 0.84,
+      "word": "right,"
+    },
+    {
+      "startTime": 0.92,
+      "finishTime": 1.22,
+      "word": "Alice,"
+    },
+    {
+      "startTime": 1.56,
+      "finishTime": 1.76,
+      "word": "here's"
+    },
+    {
+      "startTime": 1.76,
+      "finishTime": 1.94,
+      "word": "how"
+    },
+    {
+      "startTime": 1.94,
+      "finishTime": 2.12,
+      "word": "I"
+    },
+    {
+      "startTime": 2.12,
+      "finishTime": 2.26,
+      "word": "plan"
+    },
+    {
+      "startTime": 2.26,
+      "finishTime": 2.4,
+      "word": "to"
+    },
+    {
+      "startTime": 2.4,
+      "finishTime": 2.62,
+      "word": "start"
+    },
+    {
+      "startTime": 2.62,
+      "finishTime": 2.88,
+      "word": "the"
+    },
+    {
+      "startTime": 2.88,
+      "finishTime": 3.18,
+      "word": "pitch."
+    },
+    {
+      "startTime": 3.96,
+      "finishTime": 3.96,
+      "word": "In"
+    },
+    {
+      "startTime": 3.96,
+      "finishTime": 4.88,
+      "word": "today's"
+    },
+    {
+      "startTime": 4.88,
+      "finishTime": 5.2,
+      "word": "fast"
+    },
+    {
+      "startTime": 5.2,
+      "finishTime": 5.7,
+      "word": "evolving"
+    },
+    {
+      "startTime": 5.7,
+      "finishTime": 6.24,
+      "word": "digital"
+    },
+    {
+      "startTime": 6.24,
+      "finishTime": 6.94,
+      "word": "landscape,"
+    },
+    {
+      "startTime": 7.66,
+      "finishTime": 7.82,
+      "word": "startups"
+    },
+    {
+      "startTime": 7.82,
+      "finishTime": 8.4,
+      "word": "require"
+    },
+    {
+      "startTime": 8.4,
+      "finishTime": 8.76,
+      "word": "a"
+    },
+    {
+      "startTime": 8.76,
+      "finishTime": 9.44,
+      "word": "robust,"
+    },
+    {
+      "startTime": 10.04,
+      "finishTime": 10.28,
+      "word": "cost"
+    },
+    {
+      "startTime": 10.28,
+      "finishTime": 10.86,
+      "word": "-effective"
+    },
+    {
+      "startTime": 10.86,
+      "finishTime": 11.88,
+      "word": "cybersecurity"
+    },
+    {
+      "startTime": 11.88,
+      "finishTime": 12.68,
+      "word": "solution."
+    },
+    {
+      "startTime": 13.1,
+      "finishTime": 13.5,
+      "word": "Guardian"
+    },
+    {
+      "startTime": 13.5,
+      "finishTime": 13.8,
+      "word": "Tech"
+    },
+    {
+      "startTime": 13.8,
+      "finishTime": 14.26,
+      "word": "offers"
+    },
+    {
+      "startTime": 14.26,
+      "finishTime": 14.7,
+      "word": "just"
+    },
+    {
+      "startTime": 14.7,
+      "finishTime": 15.06,
+      "word": "that,"
+    },
+    {
+      "startTime": 15.36,
+      "finishTime": 15.86,
+      "word": "an"
+    },
+    {
+      "startTime": 15.86,
+      "finishTime": 16.38,
+      "word": "innovative"
+    },
+    {
+      "startTime": 16.38,
+      "finishTime": 17.06,
+      "word": "and"
+    },
+    {
+      "startTime": 17.06,
+      "finishTime": 17.5,
+      "word": "flexible"
+    },
+    {
+      "startTime": 17.5,
+      "finishTime": 17.9,
+      "word": "suite"
+    },
+    {
+      "startTime": 17.9,
+      "finishTime": 18.44,
+      "word": "that"
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 18.78,
+      "word": "grows"
+    },
+    {
+      "startTime": 18.78,
+      "finishTime": 19.04,
+      "word": "with"
+    },
+    {
+      "startTime": 19.04,
+      "finishTime": 19.22,
+      "word": "your"
+    },
+    {
+      "startTime": 19.22,
+      "finishTime": 19.74,
+      "word": "business."
+    },
+    {
+      "startTime": 19.74,
+      "finishTime": 20.56,
+      "word": "That"
+    },
+    {
+      "startTime": 20.56,
+      "finishTime": 20.88,
+      "word": "sounds"
+    },
+    {
+      "startTime": 20.88,
+      "finishTime": 21.24,
+      "word": "really"
+    },
+    {
+      "startTime": 21.24,
+      "finishTime": 21.42,
+      "word": "good,"
+    },
+    {
+      "startTime": 21.54,
+      "finishTime": 21.72,
+      "word": "Jake."
+    },
+    {
+      "startTime": 22,
+      "finishTime": 22.24,
+      "word": "You"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.42,
+      "word": "used"
+    },
+    {
+      "startTime": 22.42,
+      "finishTime": 22.96,
+      "word": "robust"
+    },
+    {
+      "startTime": 22.96,
+      "finishTime": 23.26,
+      "word": "and"
+    },
+    {
+      "startTime": 23.26,
+      "finishTime": 23.56,
+      "word": "cost"
+    },
+    {
+      "startTime": 23.56,
+      "finishTime": 24,
+      "word": "-effective,"
+    },
+    {
+      "startTime": 24.06,
+      "finishTime": 24.3,
+      "word": "which"
+    },
+    {
+      "startTime": 24.3,
+      "finishTime": 24.62,
+      "word": "highlights"
+    },
+    {
+      "startTime": 24.62,
+      "finishTime": 24.8,
+      "word": "the"
+    },
+    {
+      "startTime": 24.8,
+      "finishTime": 25.04,
+      "word": "most"
+    },
+    {
+      "startTime": 25.04,
+      "finishTime": 25.42,
+      "word": "important"
+    },
+    {
+      "startTime": 25.42,
+      "finishTime": 25.82,
+      "word": "qualities"
+    },
+    {
+      "startTime": 25.82,
+      "finishTime": 26.08,
+      "word": "right"
+    },
+    {
+      "startTime": 26.08,
+      "finishTime": 26.42,
+      "word": "away."
+    },
+    {
+      "startTime": 26.92,
+      "finishTime": 27.22,
+      "word": "Maybe"
+    },
+    {
+      "startTime": 27.22,
+      "finishTime": 27.64,
+      "word": "consider"
+    },
+    {
+      "startTime": 27.64,
+      "finishTime": 28.18,
+      "word": "emphasizing"
+    },
+    {
+      "startTime": 28.18,
+      "finishTime": 28.56,
+      "word": "how"
+    },
+    {
+      "startTime": 28.56,
+      "finishTime": 28.88,
+      "word": "essential"
+    },
+    {
+      "startTime": 28.88,
+      "finishTime": 29.1,
+      "word": "these"
+    },
+    {
+      "startTime": 29.1,
+      "finishTime": 29.34,
+      "word": "features"
+    },
+    {
+      "startTime": 29.34,
+      "finishTime": 29.8,
+      "word": "are?"
+    },
+    {
+      "startTime": 30.24,
+      "finishTime": 30.82,
+      "word": "Hmm,"
+    },
+    {
+      "startTime": 31.34,
+      "finishTime": 31.74,
+      "word": "okay,"
+    },
+    {
+      "startTime": 31.86,
+      "finishTime": 32.14,
+      "word": "how"
+    },
+    {
+      "startTime": 32.14,
+      "finishTime": 32.28,
+      "word": "about"
+    },
+    {
+      "startTime": 32.28,
+      "finishTime": 32.82,
+      "word": "this?"
+    },
+    {
+      "startTime": 32.82,
+      "finishTime": 33.86,
+      "word": "Guardian"
+    },
+    {
+      "startTime": 33.86,
+      "finishTime": 34.18,
+      "word": "Tech"
+    },
+    {
+      "startTime": 34.18,
+      "finishTime": 34.5,
+      "word": "isn't"
+    },
+    {
+      "startTime": 34.5,
+      "finishTime": 34.84,
+      "word": "just"
+    },
+    {
+      "startTime": 34.84,
+      "finishTime": 35.26,
+      "word": "helpful,"
+    },
+    {
+      "startTime": 35.68,
+      "finishTime": 35.82,
+      "word": "it's"
+    },
+    {
+      "startTime": 35.82,
+      "finishTime": 36.32,
+      "word": "essential"
+    },
+    {
+      "startTime": 36.32,
+      "finishTime": 36.7,
+      "word": "for"
+    },
+    {
+      "startTime": 36.7,
+      "finishTime": 37.12,
+      "word": "protecting"
+    },
+    {
+      "startTime": 37.12,
+      "finishTime": 37.56,
+      "word": "against"
+    },
+    {
+      "startTime": 37.56,
+      "finishTime": 37.9,
+      "word": "the"
+    },
+    {
+      "startTime": 37.9,
+      "finishTime": 38.26,
+      "word": "wide"
+    },
+    {
+      "startTime": 38.26,
+      "finishTime": 38.84,
+      "word": "array"
+    },
+    {
+      "startTime": 38.84,
+      "finishTime": 39.2,
+      "word": "of"
+    },
+    {
+      "startTime": 39.2,
+      "finishTime": 39.6,
+      "word": "digital"
+    },
+    {
+      "startTime": 39.6,
+      "finishTime": 39.9,
+      "word": "threats"
+    },
+    {
+      "startTime": 39.9,
+      "finishTime": 40.34,
+      "word": "facing"
+    },
+    {
+      "startTime": 40.34,
+      "finishTime": 40.74,
+      "word": "startups"
+    },
+    {
+      "startTime": 40.74,
+      "finishTime": 41.24,
+      "word": "today."
+    },
+    {
+      "startTime": 41.76,
+      "finishTime": 42.04,
+      "word": "Our"
+    },
+    {
+      "startTime": 42.04,
+      "finishTime": 42.5,
+      "word": "solution"
+    },
+    {
+      "startTime": 42.5,
+      "finishTime": 42.98,
+      "word": "is"
+    },
+    {
+      "startTime": 42.98,
+      "finishTime": 43.22,
+      "word": "not"
+    },
+    {
+      "startTime": 43.22,
+      "finishTime": 43.7,
+      "word": "only"
+    },
+    {
+      "startTime": 43.7,
+      "finishTime": 44.4,
+      "word": "adaptable"
+    },
+    {
+      "startTime": 44.4,
+      "finishTime": 44.8,
+      "word": "but"
+    },
+    {
+      "startTime": 44.8,
+      "finishTime": 45.32,
+      "word": "also"
+    },
+    {
+      "startTime": 45.32,
+      "finishTime": 46.06,
+      "word": "incredibly"
+    },
+    {
+      "startTime": 46.06,
+      "finishTime": 46.46,
+      "word": "easy"
+    },
+    {
+      "startTime": 46.46,
+      "finishTime": 46.78,
+      "word": "to"
+    },
+    {
+      "startTime": 46.78,
+      "finishTime": 47.16,
+      "word": "integrate"
+    },
+    {
+      "startTime": 47.16,
+      "finishTime": 47.74,
+      "word": "into"
+    },
+    {
+      "startTime": 47.74,
+      "finishTime": 48.52,
+      "word": "any"
+    },
+    {
+      "startTime": 48.52,
+      "finishTime": 49.06,
+      "word": "existing"
+    },
+    {
+      "startTime": 49.06,
+      "finishTime": 49.78,
+      "word": "infrastructure."
+    },
+    {
+      "startTime": 50.94,
+      "finishTime": 50.96,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 50.96,
+      "finishTime": 51.46,
+      "word": "that's"
+    },
+    {
+      "startTime": 51.46,
+      "finishTime": 51.74,
+      "word": "clear."
+    },
+    {
+      "startTime": 51.94,
+      "finishTime": 52.18,
+      "word": "You're"
+    },
+    {
+      "startTime": 52.18,
+      "finishTime": 52.44,
+      "word": "showing"
+    },
+    {
+      "startTime": 52.44,
+      "finishTime": 52.7,
+      "word": "the"
+    },
+    {
+      "startTime": 52.7,
+      "finishTime": 53.2,
+      "word": "urgency"
+    },
+    {
+      "startTime": 53.2,
+      "finishTime": 53.7,
+      "word": "and"
+    },
+    {
+      "startTime": 53.7,
+      "finishTime": 53.88,
+      "word": "ease"
+    },
+    {
+      "startTime": 53.88,
+      "finishTime": 54.08,
+      "word": "of"
+    },
+    {
+      "startTime": 54.08,
+      "finishTime": 54.48,
+      "word": "integration"
+    },
+    {
+      "startTime": 54.48,
+      "finishTime": 54.94,
+      "word": "well."
+    },
+    {
+      "startTime": 54.94,
+      "finishTime": 55.44,
+      "word": "When"
+    },
+    {
+      "startTime": 55.44,
+      "finishTime": 55.66,
+      "word": "you"
+    },
+    {
+      "startTime": 55.66,
+      "finishTime": 55.84,
+      "word": "talk"
+    },
+    {
+      "startTime": 55.84,
+      "finishTime": 56.04,
+      "word": "about"
+    },
+    {
+      "startTime": 56.04,
+      "finishTime": 56.6,
+      "word": "integration,"
+    },
+    {
+      "startTime": 56.92,
+      "finishTime": 57.14,
+      "word": "maybe"
+    },
+    {
+      "startTime": 57.14,
+      "finishTime": 57.58,
+      "word": "specify"
+    },
+    {
+      "startTime": 57.58,
+      "finishTime": 57.74,
+      "word": "what"
+    },
+    {
+      "startTime": 57.74,
+      "finishTime": 57.96,
+      "word": "makes"
+    },
+    {
+      "startTime": 57.96,
+      "finishTime": 58.08,
+      "word": "it"
+    },
+    {
+      "startTime": 58.08,
+      "finishTime": 58.42,
+      "word": "easy?"
+    },
+    {
+      "startTime": 59.06,
+      "finishTime": 59.06,
+      "word": "Good"
+    },
+    {
+      "startTime": 59.06,
+      "finishTime": 59.5,
+      "word": "point,"
+    },
+    {
+      "startTime": 59.58,
+      "finishTime": 59.82,
+      "word": "I'll"
+    },
+    {
+      "startTime": 59.82,
+      "finishTime": 60.14,
+      "word": "add."
+    },
+    {
+      "startTime": 60.7,
+      "finishTime": 60.7,
+      "word": "With"
+    },
+    {
+      "startTime": 60.7,
+      "finishTime": 61.06,
+      "word": "its"
+    },
+    {
+      "startTime": 61.06,
+      "finishTime": 61.32,
+      "word": "plug"
+    },
+    {
+      "startTime": 61.32,
+      "finishTime": 61.54,
+      "word": "-and"
+    },
+    {
+      "startTime": 61.54,
+      "finishTime": 61.66,
+      "word": "-play"
+    },
+    {
+      "startTime": 61.66,
+      "finishTime": 62.26,
+      "word": "design,"
+    },
+    {
+      "startTime": 62.46,
+      "finishTime": 62.88,
+      "word": "Guardian"
+    },
+    {
+      "startTime": 62.88,
+      "finishTime": 63.18,
+      "word": "Tech"
+    },
+    {
+      "startTime": 63.18,
+      "finishTime": 63.64,
+      "word": "is"
+    },
+    {
+      "startTime": 63.64,
+      "finishTime": 64,
+      "word": "a"
+    },
+    {
+      "startTime": 64,
+      "finishTime": 64.42,
+      "word": "user"
+    },
+    {
+      "startTime": 64.42,
+      "finishTime": 64.74,
+      "word": "-friendly"
+    },
+    {
+      "startTime": 64.74,
+      "finishTime": 65.3,
+      "word": "option"
+    },
+    {
+      "startTime": 65.3,
+      "finishTime": 65.74,
+      "word": "that"
+    },
+    {
+      "startTime": 65.74,
+      "finishTime": 66.34,
+      "word": "requires"
+    },
+    {
+      "startTime": 66.34,
+      "finishTime": 67,
+      "word": "minimal"
+    },
+    {
+      "startTime": 67,
+      "finishTime": 67.3,
+      "word": "setup"
+    },
+    {
+      "startTime": 67.3,
+      "finishTime": 67.76,
+      "word": "time."
+    },
+    {
+      "startTime": 68.48,
+      "finishTime": 68.76,
+      "word": "This"
+    },
+    {
+      "startTime": 68.76,
+      "finishTime": 69.16,
+      "word": "seamless"
+    },
+    {
+      "startTime": 69.16,
+      "finishTime": 69.8,
+      "word": "integration"
+    },
+    {
+      "startTime": 69.8,
+      "finishTime": 70.38,
+      "word": "makes"
+    },
+    {
+      "startTime": 70.38,
+      "finishTime": 70.76,
+      "word": "it"
+    },
+    {
+      "startTime": 70.76,
+      "finishTime": 71.02,
+      "word": "an"
+    },
+    {
+      "startTime": 71.02,
+      "finishTime": 71.48,
+      "word": "ideal"
+    },
+    {
+      "startTime": 71.48,
+      "finishTime": 71.9,
+      "word": "choice"
+    },
+    {
+      "startTime": 71.9,
+      "finishTime": 72.16,
+      "word": "for"
+    },
+    {
+      "startTime": 72.16,
+      "finishTime": 72.46,
+      "word": "startups"
+    },
+    {
+      "startTime": 72.46,
+      "finishTime": 72.78,
+      "word": "with"
+    },
+    {
+      "startTime": 72.78,
+      "finishTime": 73.24,
+      "word": "limited"
+    },
+    {
+      "startTime": 73.24,
+      "finishTime": 73.66,
+      "word": "IT"
+    },
+    {
+      "startTime": 73.66,
+      "finishTime": 74.3,
+      "word": "resources."
+    },
+    {
+      "startTime": 75.28,
+      "finishTime": 75.72,
+      "word": "Perfect."
+    },
+    {
+      "startTime": 76.02,
+      "finishTime": 76.22,
+      "word": "That"
+    },
+    {
+      "startTime": 76.22,
+      "finishTime": 76.46,
+      "word": "part"
+    },
+    {
+      "startTime": 76.46,
+      "finishTime": 76.7,
+      "word": "about"
+    },
+    {
+      "startTime": 76.7,
+      "finishTime": 77.14,
+      "word": "minimal"
+    },
+    {
+      "startTime": 77.14,
+      "finishTime": 77.46,
+      "word": "setup"
+    },
+    {
+      "startTime": 77.46,
+      "finishTime": 77.74,
+      "word": "time"
+    },
+    {
+      "startTime": 77.74,
+      "finishTime": 78.1,
+      "word": "really"
+    },
+    {
+      "startTime": 78.1,
+      "finishTime": 78.58,
+      "word": "clarifies"
+    },
+    {
+      "startTime": 78.58,
+      "finishTime": 78.9,
+      "word": "it."
+    },
+    {
+      "startTime": 78.9,
+      "finishTime": 79.28,
+      "word": "How"
+    },
+    {
+      "startTime": 79.28,
+      "finishTime": 79.46,
+      "word": "will"
+    },
+    {
+      "startTime": 79.46,
+      "finishTime": 79.62,
+      "word": "you"
+    },
+    {
+      "startTime": 79.62,
+      "finishTime": 79.88,
+      "word": "conclude"
+    },
+    {
+      "startTime": 79.88,
+      "finishTime": 80.06,
+      "word": "the"
+    },
+    {
+      "startTime": 80.06,
+      "finishTime": 80.42,
+      "word": "pitch?"
+    },
+    {
+      "startTime": 81.24,
+      "finishTime": 81.24,
+      "word": "I"
+    },
+    {
+      "startTime": 81.24,
+      "finishTime": 81.4,
+      "word": "was"
+    },
+    {
+      "startTime": 81.4,
+      "finishTime": 81.68,
+      "word": "thinking"
+    },
+    {
+      "startTime": 81.68,
+      "finishTime": 81.9,
+      "word": "of"
+    },
+    {
+      "startTime": 81.9,
+      "finishTime": 82.14,
+      "word": "finishing"
+    },
+    {
+      "startTime": 82.14,
+      "finishTime": 82.44,
+      "word": "with"
+    },
+    {
+      "startTime": 82.44,
+      "finishTime": 82.64,
+      "word": "a"
+    },
+    {
+      "startTime": 82.64,
+      "finishTime": 82.84,
+      "word": "focus"
+    },
+    {
+      "startTime": 82.84,
+      "finishTime": 83.06,
+      "word": "on"
+    },
+    {
+      "startTime": 83.06,
+      "finishTime": 83.18,
+      "word": "the"
+    },
+    {
+      "startTime": 83.18,
+      "finishTime": 83.52,
+      "word": "future."
+    },
+    {
+      "startTime": 84.5,
+      "finishTime": 84.7,
+      "word": "As"
+    },
+    {
+      "startTime": 84.7,
+      "finishTime": 85.18,
+      "word": "your"
+    },
+    {
+      "startTime": 85.18,
+      "finishTime": 85.46,
+      "word": "startup"
+    },
+    {
+      "startTime": 85.46,
+      "finishTime": 86.16,
+      "word": "grows,"
+    },
+    {
+      "startTime": 86.72,
+      "finishTime": 86.88,
+      "word": "Guardian"
+    },
+    {
+      "startTime": 86.88,
+      "finishTime": 87.2,
+      "word": "Tech"
+    },
+    {
+      "startTime": 87.2,
+      "finishTime": 87.66,
+      "word": "scales"
+    },
+    {
+      "startTime": 87.66,
+      "finishTime": 88.6,
+      "word": "effortlessly"
+    },
+    {
+      "startTime": 88.6,
+      "finishTime": 88.9,
+      "word": "to"
+    },
+    {
+      "startTime": 88.9,
+      "finishTime": 89.24,
+      "word": "meet"
+    },
+    {
+      "startTime": 89.24,
+      "finishTime": 89.84,
+      "word": "increasing"
+    },
+    {
+      "startTime": 89.84,
+      "finishTime": 90.36,
+      "word": "demands"
+    },
+    {
+      "startTime": 90.36,
+      "finishTime": 91.36,
+      "word": "ensuring"
+    },
+    {
+      "startTime": 91.36,
+      "finishTime": 91.78,
+      "word": "a"
+    },
+    {
+      "startTime": 91.78,
+      "finishTime": 92.38,
+      "word": "secure,"
+    },
+    {
+      "startTime": 93.26,
+      "finishTime": 93.46,
+      "word": "sustainable"
+    },
+    {
+      "startTime": 93.46,
+      "finishTime": 94.08,
+      "word": "digital"
+    },
+    {
+      "startTime": 94.08,
+      "finishTime": 94.66,
+      "word": "environment."
+    },
+    {
+      "startTime": 95.6,
+      "finishTime": 95.86,
+      "word": "That's"
+    },
+    {
+      "startTime": 95.86,
+      "finishTime": 96,
+      "word": "a"
+    },
+    {
+      "startTime": 96,
+      "finishTime": 96.2,
+      "word": "strong"
+    },
+    {
+      "startTime": 96.2,
+      "finishTime": 96.62,
+      "word": "ending."
+    },
+    {
+      "startTime": 97.06,
+      "finishTime": 97.28,
+      "word": "It"
+    },
+    {
+      "startTime": 97.28,
+      "finishTime": 97.84,
+      "word": "reassures"
+    },
+    {
+      "startTime": 97.84,
+      "finishTime": 98.04,
+      "word": "that"
+    },
+    {
+      "startTime": 98.04,
+      "finishTime": 98.28,
+      "word": "the"
+    },
+    {
+      "startTime": 98.28,
+      "finishTime": 98.48,
+      "word": "product"
+    },
+    {
+      "startTime": 98.48,
+      "finishTime": 98.7,
+      "word": "is"
+    },
+    {
+      "startTime": 98.7,
+      "finishTime": 98.88,
+      "word": "a"
+    },
+    {
+      "startTime": 98.88,
+      "finishTime": 99.12,
+      "word": "long"
+    },
+    {
+      "startTime": 99.12,
+      "finishTime": 99.36,
+      "word": "-term"
+    },
+    {
+      "startTime": 99.36,
+      "finishTime": 99.92,
+      "word": "solution."
+    },
+    {
+      "startTime": 99.92,
+      "finishTime": 100.62,
+      "word": "Just"
+    },
+    {
+      "startTime": 100.62,
+      "finishTime": 100.88,
+      "word": "make"
+    },
+    {
+      "startTime": 100.88,
+      "finishTime": 101.24,
+      "word": "sure"
+    },
+    {
+      "startTime": 101.24,
+      "finishTime": 101.54,
+      "word": "to"
+    },
+    {
+      "startTime": 101.54,
+      "finishTime": 101.78,
+      "word": "slow"
+    },
+    {
+      "startTime": 101.78,
+      "finishTime": 102.02,
+      "word": "down"
+    },
+    {
+      "startTime": 102.02,
+      "finishTime": 102.14,
+      "word": "a"
+    },
+    {
+      "startTime": 102.14,
+      "finishTime": 102.22,
+      "word": "bit"
+    },
+    {
+      "startTime": 102.22,
+      "finishTime": 102.4,
+      "word": "when"
+    },
+    {
+      "startTime": 102.4,
+      "finishTime": 102.52,
+      "word": "you"
+    },
+    {
+      "startTime": 102.52,
+      "finishTime": 102.7,
+      "word": "get"
+    },
+    {
+      "startTime": 102.7,
+      "finishTime": 103.04,
+      "word": "to"
+    },
+    {
+      "startTime": 103.04,
+      "finishTime": 103.54,
+      "word": "secure,"
+    },
+    {
+      "startTime": 103.76,
+      "finishTime": 104.48,
+      "word": "sustainable"
+    },
+    {
+      "startTime": 104.48,
+      "finishTime": 104.96,
+      "word": "digital"
+    },
+    {
+      "startTime": 104.96,
+      "finishTime": 105.56,
+      "word": "environment"
+    },
+    {
+      "startTime": 105.56,
+      "finishTime": 105.88,
+      "word": "to"
+    },
+    {
+      "startTime": 105.88,
+      "finishTime": 105.98,
+      "word": "let"
+    },
+    {
+      "startTime": 105.98,
+      "finishTime": 106.26,
+      "word": "those"
+    },
+    {
+      "startTime": 106.26,
+      "finishTime": 106.66,
+      "word": "adjectives"
+    },
+    {
+      "startTime": 106.66,
+      "finishTime": 106.94,
+      "word": "sink"
+    },
+    {
+      "startTime": 106.94,
+      "finishTime": 107.3,
+      "word": "in."
+    },
+    {
+      "startTime": 108.14,
+      "finishTime": 108.14,
+      "word": "Definitely."
+    },
+    {
+      "startTime": 108.4,
+      "finishTime": 108.56,
+      "word": "I'll"
+    },
+    {
+      "startTime": 108.56,
+      "finishTime": 108.7,
+      "word": "make"
+    },
+    {
+      "startTime": 108.7,
+      "finishTime": 108.88,
+      "word": "note"
+    },
+    {
+      "startTime": 108.88,
+      "finishTime": 109.02,
+      "word": "of"
+    },
+    {
+      "startTime": 109.02,
+      "finishTime": 109.22,
+      "word": "that."
+    },
+    {
+      "startTime": 109.4,
+      "finishTime": 109.62,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 109.62,
+      "finishTime": 109.8,
+      "word": "for"
+    },
+    {
+      "startTime": 109.8,
+      "finishTime": 109.96,
+      "word": "the"
+    },
+    {
+      "startTime": 109.96,
+      "finishTime": 110.24,
+      "word": "feedback,"
+    },
+    {
+      "startTime": 110.5,
+      "finishTime": 110.58,
+      "word": "Alice."
+    }
+  ]
+}

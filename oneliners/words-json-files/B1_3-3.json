@@ -1,0 +1,830 @@
+{
+  "text": "Linda, looking back, how long have we been collaborating on these updates? It's been over a year now. We've really come a long way since that first feedback came in. I've been part of the design team for three years and the changes we've made in just this last year have had a great impact. Agreed. I've learned so much about user interface design in the process. Before this, I hadn't focused much on the user experience aspect of development. That's true. You've been integrating UX into your work more than ever before. It's interesting to think about it. I used to just write code without thinking much about the end user, but now ensuring a positive user experience has become a central part of my development process. Exactly. And remember when we rolled out that major update last month? The feedback we've received has been super positive. I'm happy to hear that. After all, we're proactively enhancing the platform based on what we've learned.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.52,
+      "word": "Linda,"
+    },
+    {
+      "startTime": 0.9,
+      "finishTime": 1.12,
+      "word": "looking"
+    },
+    {
+      "startTime": 1.12,
+      "finishTime": 1.56,
+      "word": "back,"
+    },
+    {
+      "startTime": 1.78,
+      "finishTime": 1.92,
+      "word": "how"
+    },
+    {
+      "startTime": 1.92,
+      "finishTime": 2.14,
+      "word": "long"
+    },
+    {
+      "startTime": 2.14,
+      "finishTime": 2.3,
+      "word": "have"
+    },
+    {
+      "startTime": 2.3,
+      "finishTime": 2.36,
+      "word": "we"
+    },
+    {
+      "startTime": 2.36,
+      "finishTime": 2.6,
+      "word": "been"
+    },
+    {
+      "startTime": 2.6,
+      "finishTime": 3.02,
+      "word": "collaborating"
+    },
+    {
+      "startTime": 3.02,
+      "finishTime": 3.24,
+      "word": "on"
+    },
+    {
+      "startTime": 3.24,
+      "finishTime": 3.46,
+      "word": "these"
+    },
+    {
+      "startTime": 3.46,
+      "finishTime": 3.82,
+      "word": "updates?"
+    },
+    {
+      "startTime": 4.34,
+      "finishTime": 4.5,
+      "word": "It's"
+    },
+    {
+      "startTime": 4.5,
+      "finishTime": 4.7,
+      "word": "been"
+    },
+    {
+      "startTime": 4.7,
+      "finishTime": 5.04,
+      "word": "over"
+    },
+    {
+      "startTime": 5.04,
+      "finishTime": 5.18,
+      "word": "a"
+    },
+    {
+      "startTime": 5.18,
+      "finishTime": 5.32,
+      "word": "year"
+    },
+    {
+      "startTime": 5.32,
+      "finishTime": 5.68,
+      "word": "now."
+    },
+    {
+      "startTime": 5.72,
+      "finishTime": 6.06,
+      "word": "We've"
+    },
+    {
+      "startTime": 6.06,
+      "finishTime": 6.32,
+      "word": "really"
+    },
+    {
+      "startTime": 6.32,
+      "finishTime": 6.48,
+      "word": "come"
+    },
+    {
+      "startTime": 6.48,
+      "finishTime": 6.6,
+      "word": "a"
+    },
+    {
+      "startTime": 6.6,
+      "finishTime": 6.8,
+      "word": "long"
+    },
+    {
+      "startTime": 6.8,
+      "finishTime": 7,
+      "word": "way"
+    },
+    {
+      "startTime": 7,
+      "finishTime": 7.22,
+      "word": "since"
+    },
+    {
+      "startTime": 7.22,
+      "finishTime": 7.5,
+      "word": "that"
+    },
+    {
+      "startTime": 7.5,
+      "finishTime": 7.74,
+      "word": "first"
+    },
+    {
+      "startTime": 7.74,
+      "finishTime": 8.06,
+      "word": "feedback"
+    },
+    {
+      "startTime": 8.06,
+      "finishTime": 8.32,
+      "word": "came"
+    },
+    {
+      "startTime": 8.32,
+      "finishTime": 8.6,
+      "word": "in."
+    },
+    {
+      "startTime": 9.1,
+      "finishTime": 9.36,
+      "word": "I've"
+    },
+    {
+      "startTime": 9.36,
+      "finishTime": 9.44,
+      "word": "been"
+    },
+    {
+      "startTime": 9.44,
+      "finishTime": 9.62,
+      "word": "part"
+    },
+    {
+      "startTime": 9.62,
+      "finishTime": 9.74,
+      "word": "of"
+    },
+    {
+      "startTime": 9.74,
+      "finishTime": 9.9,
+      "word": "the"
+    },
+    {
+      "startTime": 9.9,
+      "finishTime": 10.16,
+      "word": "design"
+    },
+    {
+      "startTime": 10.16,
+      "finishTime": 10.34,
+      "word": "team"
+    },
+    {
+      "startTime": 10.34,
+      "finishTime": 10.54,
+      "word": "for"
+    },
+    {
+      "startTime": 10.54,
+      "finishTime": 10.82,
+      "word": "three"
+    },
+    {
+      "startTime": 10.82,
+      "finishTime": 11.28,
+      "word": "years"
+    },
+    {
+      "startTime": 11.28,
+      "finishTime": 11.52,
+      "word": "and"
+    },
+    {
+      "startTime": 11.52,
+      "finishTime": 11.7,
+      "word": "the"
+    },
+    {
+      "startTime": 11.7,
+      "finishTime": 11.94,
+      "word": "changes"
+    },
+    {
+      "startTime": 11.94,
+      "finishTime": 12.22,
+      "word": "we've"
+    },
+    {
+      "startTime": 12.22,
+      "finishTime": 12.48,
+      "word": "made"
+    },
+    {
+      "startTime": 12.48,
+      "finishTime": 12.76,
+      "word": "in"
+    },
+    {
+      "startTime": 12.76,
+      "finishTime": 12.96,
+      "word": "just"
+    },
+    {
+      "startTime": 12.96,
+      "finishTime": 13.2,
+      "word": "this"
+    },
+    {
+      "startTime": 13.2,
+      "finishTime": 13.48,
+      "word": "last"
+    },
+    {
+      "startTime": 13.48,
+      "finishTime": 13.72,
+      "word": "year"
+    },
+    {
+      "startTime": 13.72,
+      "finishTime": 13.92,
+      "word": "have"
+    },
+    {
+      "startTime": 13.92,
+      "finishTime": 14.02,
+      "word": "had"
+    },
+    {
+      "startTime": 14.02,
+      "finishTime": 14.24,
+      "word": "a"
+    },
+    {
+      "startTime": 14.24,
+      "finishTime": 14.38,
+      "word": "great"
+    },
+    {
+      "startTime": 14.38,
+      "finishTime": 15,
+      "word": "impact."
+    },
+    {
+      "startTime": 15.54,
+      "finishTime": 15.98,
+      "word": "Agreed."
+    },
+    {
+      "startTime": 16.18,
+      "finishTime": 16.44,
+      "word": "I've"
+    },
+    {
+      "startTime": 16.44,
+      "finishTime": 16.64,
+      "word": "learned"
+    },
+    {
+      "startTime": 16.64,
+      "finishTime": 17.08,
+      "word": "so"
+    },
+    {
+      "startTime": 17.08,
+      "finishTime": 17.26,
+      "word": "much"
+    },
+    {
+      "startTime": 17.26,
+      "finishTime": 17.56,
+      "word": "about"
+    },
+    {
+      "startTime": 17.56,
+      "finishTime": 17.94,
+      "word": "user"
+    },
+    {
+      "startTime": 17.94,
+      "finishTime": 18.36,
+      "word": "interface"
+    },
+    {
+      "startTime": 18.36,
+      "finishTime": 18.68,
+      "word": "design"
+    },
+    {
+      "startTime": 18.68,
+      "finishTime": 18.82,
+      "word": "in"
+    },
+    {
+      "startTime": 18.82,
+      "finishTime": 19,
+      "word": "the"
+    },
+    {
+      "startTime": 19,
+      "finishTime": 19.46,
+      "word": "process."
+    },
+    {
+      "startTime": 19.7,
+      "finishTime": 19.98,
+      "word": "Before"
+    },
+    {
+      "startTime": 19.98,
+      "finishTime": 20.3,
+      "word": "this,"
+    },
+    {
+      "startTime": 20.46,
+      "finishTime": 20.6,
+      "word": "I"
+    },
+    {
+      "startTime": 20.6,
+      "finishTime": 20.86,
+      "word": "hadn't"
+    },
+    {
+      "startTime": 20.86,
+      "finishTime": 21.26,
+      "word": "focused"
+    },
+    {
+      "startTime": 21.26,
+      "finishTime": 21.52,
+      "word": "much"
+    },
+    {
+      "startTime": 21.52,
+      "finishTime": 21.82,
+      "word": "on"
+    },
+    {
+      "startTime": 21.82,
+      "finishTime": 22,
+      "word": "the"
+    },
+    {
+      "startTime": 22,
+      "finishTime": 22.2,
+      "word": "user"
+    },
+    {
+      "startTime": 22.2,
+      "finishTime": 22.72,
+      "word": "experience"
+    },
+    {
+      "startTime": 22.72,
+      "finishTime": 23.18,
+      "word": "aspect"
+    },
+    {
+      "startTime": 23.18,
+      "finishTime": 23.46,
+      "word": "of"
+    },
+    {
+      "startTime": 23.46,
+      "finishTime": 23.86,
+      "word": "development."
+    },
+    {
+      "startTime": 24.4,
+      "finishTime": 24.78,
+      "word": "That's"
+    },
+    {
+      "startTime": 24.78,
+      "finishTime": 25.12,
+      "word": "true."
+    },
+    {
+      "startTime": 25.32,
+      "finishTime": 25.54,
+      "word": "You've"
+    },
+    {
+      "startTime": 25.54,
+      "finishTime": 25.74,
+      "word": "been"
+    },
+    {
+      "startTime": 25.74,
+      "finishTime": 26.16,
+      "word": "integrating"
+    },
+    {
+      "startTime": 26.16,
+      "finishTime": 26.52,
+      "word": "UX"
+    },
+    {
+      "startTime": 26.52,
+      "finishTime": 26.84,
+      "word": "into"
+    },
+    {
+      "startTime": 26.84,
+      "finishTime": 27.06,
+      "word": "your"
+    },
+    {
+      "startTime": 27.06,
+      "finishTime": 27.26,
+      "word": "work"
+    },
+    {
+      "startTime": 27.26,
+      "finishTime": 27.56,
+      "word": "more"
+    },
+    {
+      "startTime": 27.56,
+      "finishTime": 27.72,
+      "word": "than"
+    },
+    {
+      "startTime": 27.72,
+      "finishTime": 27.92,
+      "word": "ever"
+    },
+    {
+      "startTime": 27.92,
+      "finishTime": 28.28,
+      "word": "before."
+    },
+    {
+      "startTime": 29.28,
+      "finishTime": 29.8,
+      "word": "It's"
+    },
+    {
+      "startTime": 29.8,
+      "finishTime": 30.18,
+      "word": "interesting"
+    },
+    {
+      "startTime": 30.18,
+      "finishTime": 30.38,
+      "word": "to"
+    },
+    {
+      "startTime": 30.38,
+      "finishTime": 30.54,
+      "word": "think"
+    },
+    {
+      "startTime": 30.54,
+      "finishTime": 30.8,
+      "word": "about"
+    },
+    {
+      "startTime": 30.8,
+      "finishTime": 31.02,
+      "word": "it."
+    },
+    {
+      "startTime": 31.1,
+      "finishTime": 31.24,
+      "word": "I"
+    },
+    {
+      "startTime": 31.24,
+      "finishTime": 31.46,
+      "word": "used"
+    },
+    {
+      "startTime": 31.46,
+      "finishTime": 31.64,
+      "word": "to"
+    },
+    {
+      "startTime": 31.64,
+      "finishTime": 31.84,
+      "word": "just"
+    },
+    {
+      "startTime": 31.84,
+      "finishTime": 32.04,
+      "word": "write"
+    },
+    {
+      "startTime": 32.04,
+      "finishTime": 32.4,
+      "word": "code"
+    },
+    {
+      "startTime": 32.4,
+      "finishTime": 32.7,
+      "word": "without"
+    },
+    {
+      "startTime": 32.7,
+      "finishTime": 33.06,
+      "word": "thinking"
+    },
+    {
+      "startTime": 33.06,
+      "finishTime": 33.3,
+      "word": "much"
+    },
+    {
+      "startTime": 33.3,
+      "finishTime": 33.64,
+      "word": "about"
+    },
+    {
+      "startTime": 33.64,
+      "finishTime": 33.86,
+      "word": "the"
+    },
+    {
+      "startTime": 33.86,
+      "finishTime": 34.08,
+      "word": "end"
+    },
+    {
+      "startTime": 34.08,
+      "finishTime": 34.34,
+      "word": "user,"
+    },
+    {
+      "startTime": 34.52,
+      "finishTime": 34.66,
+      "word": "but"
+    },
+    {
+      "startTime": 34.66,
+      "finishTime": 35.1,
+      "word": "now"
+    },
+    {
+      "startTime": 35.1,
+      "finishTime": 35.64,
+      "word": "ensuring"
+    },
+    {
+      "startTime": 35.64,
+      "finishTime": 35.9,
+      "word": "a"
+    },
+    {
+      "startTime": 35.9,
+      "finishTime": 36.36,
+      "word": "positive"
+    },
+    {
+      "startTime": 36.36,
+      "finishTime": 36.68,
+      "word": "user"
+    },
+    {
+      "startTime": 36.68,
+      "finishTime": 37.12,
+      "word": "experience"
+    },
+    {
+      "startTime": 37.12,
+      "finishTime": 37.38,
+      "word": "has"
+    },
+    {
+      "startTime": 37.38,
+      "finishTime": 37.58,
+      "word": "become"
+    },
+    {
+      "startTime": 37.58,
+      "finishTime": 37.8,
+      "word": "a"
+    },
+    {
+      "startTime": 37.8,
+      "finishTime": 38.02,
+      "word": "central"
+    },
+    {
+      "startTime": 38.02,
+      "finishTime": 38.22,
+      "word": "part"
+    },
+    {
+      "startTime": 38.22,
+      "finishTime": 38.4,
+      "word": "of"
+    },
+    {
+      "startTime": 38.4,
+      "finishTime": 38.56,
+      "word": "my"
+    },
+    {
+      "startTime": 38.56,
+      "finishTime": 39.02,
+      "word": "development"
+    },
+    {
+      "startTime": 39.02,
+      "finishTime": 39.7,
+      "word": "process."
+    },
+    {
+      "startTime": 40.78,
+      "finishTime": 40.78,
+      "word": "Exactly."
+    },
+    {
+      "startTime": 41.06,
+      "finishTime": 41.22,
+      "word": "And"
+    },
+    {
+      "startTime": 41.22,
+      "finishTime": 41.4,
+      "word": "remember"
+    },
+    {
+      "startTime": 41.4,
+      "finishTime": 41.54,
+      "word": "when"
+    },
+    {
+      "startTime": 41.54,
+      "finishTime": 41.8,
+      "word": "we"
+    },
+    {
+      "startTime": 41.8,
+      "finishTime": 41.94,
+      "word": "rolled"
+    },
+    {
+      "startTime": 41.94,
+      "finishTime": 42.14,
+      "word": "out"
+    },
+    {
+      "startTime": 42.14,
+      "finishTime": 42.4,
+      "word": "that"
+    },
+    {
+      "startTime": 42.4,
+      "finishTime": 42.7,
+      "word": "major"
+    },
+    {
+      "startTime": 42.7,
+      "finishTime": 43.04,
+      "word": "update"
+    },
+    {
+      "startTime": 43.04,
+      "finishTime": 43.34,
+      "word": "last"
+    },
+    {
+      "startTime": 43.34,
+      "finishTime": 43.64,
+      "word": "month?"
+    },
+    {
+      "startTime": 44.08,
+      "finishTime": 44.26,
+      "word": "The"
+    },
+    {
+      "startTime": 44.26,
+      "finishTime": 44.54,
+      "word": "feedback"
+    },
+    {
+      "startTime": 44.54,
+      "finishTime": 44.88,
+      "word": "we've"
+    },
+    {
+      "startTime": 44.88,
+      "finishTime": 45.1,
+      "word": "received"
+    },
+    {
+      "startTime": 45.1,
+      "finishTime": 45.28,
+      "word": "has"
+    },
+    {
+      "startTime": 45.28,
+      "finishTime": 45.52,
+      "word": "been"
+    },
+    {
+      "startTime": 45.52,
+      "finishTime": 45.86,
+      "word": "super"
+    },
+    {
+      "startTime": 45.86,
+      "finishTime": 46.3,
+      "word": "positive."
+    },
+    {
+      "startTime": 46.7,
+      "finishTime": 46.96,
+      "word": "I'm"
+    },
+    {
+      "startTime": 46.96,
+      "finishTime": 47.14,
+      "word": "happy"
+    },
+    {
+      "startTime": 47.14,
+      "finishTime": 47.3,
+      "word": "to"
+    },
+    {
+      "startTime": 47.3,
+      "finishTime": 47.42,
+      "word": "hear"
+    },
+    {
+      "startTime": 47.42,
+      "finishTime": 47.82,
+      "word": "that."
+    },
+    {
+      "startTime": 48,
+      "finishTime": 48.32,
+      "word": "After"
+    },
+    {
+      "startTime": 48.32,
+      "finishTime": 48.7,
+      "word": "all,"
+    },
+    {
+      "startTime": 49.1,
+      "finishTime": 49.34,
+      "word": "we're"
+    },
+    {
+      "startTime": 49.34,
+      "finishTime": 49.8,
+      "word": "proactively"
+    },
+    {
+      "startTime": 49.8,
+      "finishTime": 50.26,
+      "word": "enhancing"
+    },
+    {
+      "startTime": 50.26,
+      "finishTime": 50.54,
+      "word": "the"
+    },
+    {
+      "startTime": 50.54,
+      "finishTime": 50.9,
+      "word": "platform"
+    },
+    {
+      "startTime": 50.9,
+      "finishTime": 51.22,
+      "word": "based"
+    },
+    {
+      "startTime": 51.22,
+      "finishTime": 51.38,
+      "word": "on"
+    },
+    {
+      "startTime": 51.38,
+      "finishTime": 51.56,
+      "word": "what"
+    },
+    {
+      "startTime": 51.56,
+      "finishTime": 51.88,
+      "word": "we've"
+    },
+    {
+      "startTime": 51.88,
+      "finishTime": 52.08,
+      "word": "learned."
+    }
+  ]
+}

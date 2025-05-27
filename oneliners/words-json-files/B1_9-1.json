@@ -1,0 +1,680 @@
+{
+  "text": "I think Python is the best language for beginners. It's easy to learn and it has tons of libraries, especially for design work. I see. Well, I think JavaScript is more versatile. You can use it for web design and it has some great tools for creating animations. In my case, I prefer Python because it's great for data analysis. Plus it's really good for building prototypes quickly. I'm not a fan of Python syntax. It feels a bit rigid. I find JavaScript more flexible and it's the goto language for frontend development. That's true, but Python works better for backend stuff. You can do a lot with it, especially for automation and datadriven projects. I'd rather stick with JavaScript because it fits my graphic design work. It's perfect for creating interactive elements on websites.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.6,
+      "word": "I"
+    },
+    {
+      "startTime": 0.6,
+      "finishTime": 0.78,
+      "word": "think"
+    },
+    {
+      "startTime": 0.78,
+      "finishTime": 1.18,
+      "word": "Python"
+    },
+    {
+      "startTime": 1.18,
+      "finishTime": 1.34,
+      "word": "is"
+    },
+    {
+      "startTime": 1.34,
+      "finishTime": 1.5,
+      "word": "the"
+    },
+    {
+      "startTime": 1.5,
+      "finishTime": 1.7,
+      "word": "best"
+    },
+    {
+      "startTime": 1.7,
+      "finishTime": 2.06,
+      "word": "language"
+    },
+    {
+      "startTime": 2.06,
+      "finishTime": 2.26,
+      "word": "for"
+    },
+    {
+      "startTime": 2.26,
+      "finishTime": 2.64,
+      "word": "beginners."
+    },
+    {
+      "startTime": 2.94,
+      "finishTime": 3.16,
+      "word": "It's"
+    },
+    {
+      "startTime": 3.16,
+      "finishTime": 3.38,
+      "word": "easy"
+    },
+    {
+      "startTime": 3.38,
+      "finishTime": 3.62,
+      "word": "to"
+    },
+    {
+      "startTime": 3.62,
+      "finishTime": 3.82,
+      "word": "learn"
+    },
+    {
+      "startTime": 3.82,
+      "finishTime": 3.98,
+      "word": "and"
+    },
+    {
+      "startTime": 3.98,
+      "finishTime": 4.14,
+      "word": "it"
+    },
+    {
+      "startTime": 4.14,
+      "finishTime": 4.28,
+      "word": "has"
+    },
+    {
+      "startTime": 4.28,
+      "finishTime": 4.56,
+      "word": "tons"
+    },
+    {
+      "startTime": 4.56,
+      "finishTime": 4.82,
+      "word": "of"
+    },
+    {
+      "startTime": 4.82,
+      "finishTime": 5.18,
+      "word": "libraries,"
+    },
+    {
+      "startTime": 5.24,
+      "finishTime": 5.64,
+      "word": "especially"
+    },
+    {
+      "startTime": 5.64,
+      "finishTime": 5.92,
+      "word": "for"
+    },
+    {
+      "startTime": 5.92,
+      "finishTime": 6.16,
+      "word": "design"
+    },
+    {
+      "startTime": 6.16,
+      "finishTime": 6.48,
+      "word": "work."
+    },
+    {
+      "startTime": 7.24,
+      "finishTime": 7.24,
+      "word": "I"
+    },
+    {
+      "startTime": 7.24,
+      "finishTime": 7.66,
+      "word": "see."
+    },
+    {
+      "startTime": 8.08,
+      "finishTime": 8.44,
+      "word": "Well,"
+    },
+    {
+      "startTime": 8.72,
+      "finishTime": 8.84,
+      "word": "I"
+    },
+    {
+      "startTime": 8.84,
+      "finishTime": 9.1,
+      "word": "think"
+    },
+    {
+      "startTime": 9.1,
+      "finishTime": 9.64,
+      "word": "JavaScript"
+    },
+    {
+      "startTime": 9.64,
+      "finishTime": 9.9,
+      "word": "is"
+    },
+    {
+      "startTime": 9.9,
+      "finishTime": 10.2,
+      "word": "more"
+    },
+    {
+      "startTime": 10.2,
+      "finishTime": 10.8,
+      "word": "versatile."
+    },
+    {
+      "startTime": 11.1,
+      "finishTime": 11.3,
+      "word": "You"
+    },
+    {
+      "startTime": 11.3,
+      "finishTime": 11.48,
+      "word": "can"
+    },
+    {
+      "startTime": 11.48,
+      "finishTime": 11.66,
+      "word": "use"
+    },
+    {
+      "startTime": 11.66,
+      "finishTime": 11.8,
+      "word": "it"
+    },
+    {
+      "startTime": 11.8,
+      "finishTime": 12,
+      "word": "for"
+    },
+    {
+      "startTime": 12,
+      "finishTime": 12.16,
+      "word": "web"
+    },
+    {
+      "startTime": 12.16,
+      "finishTime": 12.6,
+      "word": "design"
+    },
+    {
+      "startTime": 12.6,
+      "finishTime": 12.88,
+      "word": "and"
+    },
+    {
+      "startTime": 12.88,
+      "finishTime": 13.06,
+      "word": "it"
+    },
+    {
+      "startTime": 13.06,
+      "finishTime": 13.16,
+      "word": "has"
+    },
+    {
+      "startTime": 13.16,
+      "finishTime": 13.42,
+      "word": "some"
+    },
+    {
+      "startTime": 13.42,
+      "finishTime": 13.6,
+      "word": "great"
+    },
+    {
+      "startTime": 13.6,
+      "finishTime": 13.94,
+      "word": "tools"
+    },
+    {
+      "startTime": 13.94,
+      "finishTime": 14.26,
+      "word": "for"
+    },
+    {
+      "startTime": 14.26,
+      "finishTime": 14.68,
+      "word": "creating"
+    },
+    {
+      "startTime": 14.68,
+      "finishTime": 15.3,
+      "word": "animations."
+    },
+    {
+      "startTime": 16.04,
+      "finishTime": 16.18,
+      "word": "In"
+    },
+    {
+      "startTime": 16.18,
+      "finishTime": 16.44,
+      "word": "my"
+    },
+    {
+      "startTime": 16.44,
+      "finishTime": 16.64,
+      "word": "case,"
+    },
+    {
+      "startTime": 16.64,
+      "finishTime": 16.82,
+      "word": "I"
+    },
+    {
+      "startTime": 16.82,
+      "finishTime": 17.08,
+      "word": "prefer"
+    },
+    {
+      "startTime": 17.08,
+      "finishTime": 17.54,
+      "word": "Python"
+    },
+    {
+      "startTime": 17.54,
+      "finishTime": 17.86,
+      "word": "because"
+    },
+    {
+      "startTime": 17.86,
+      "finishTime": 18.06,
+      "word": "it's"
+    },
+    {
+      "startTime": 18.06,
+      "finishTime": 18.26,
+      "word": "great"
+    },
+    {
+      "startTime": 18.26,
+      "finishTime": 18.44,
+      "word": "for"
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 18.74,
+      "word": "data"
+    },
+    {
+      "startTime": 18.74,
+      "finishTime": 19.34,
+      "word": "analysis."
+    },
+    {
+      "startTime": 19.68,
+      "finishTime": 19.88,
+      "word": "Plus"
+    },
+    {
+      "startTime": 19.88,
+      "finishTime": 20.12,
+      "word": "it's"
+    },
+    {
+      "startTime": 20.12,
+      "finishTime": 20.34,
+      "word": "really"
+    },
+    {
+      "startTime": 20.34,
+      "finishTime": 20.48,
+      "word": "good"
+    },
+    {
+      "startTime": 20.48,
+      "finishTime": 20.64,
+      "word": "for"
+    },
+    {
+      "startTime": 20.64,
+      "finishTime": 20.92,
+      "word": "building"
+    },
+    {
+      "startTime": 20.92,
+      "finishTime": 21.38,
+      "word": "prototypes"
+    },
+    {
+      "startTime": 21.38,
+      "finishTime": 21.8,
+      "word": "quickly."
+    },
+    {
+      "startTime": 22.46,
+      "finishTime": 22.7,
+      "word": "I'm"
+    },
+    {
+      "startTime": 22.7,
+      "finishTime": 22.86,
+      "word": "not"
+    },
+    {
+      "startTime": 22.86,
+      "finishTime": 23.16,
+      "word": "a"
+    },
+    {
+      "startTime": 23.16,
+      "finishTime": 23.48,
+      "word": "fan"
+    },
+    {
+      "startTime": 23.48,
+      "finishTime": 23.8,
+      "word": "of"
+    },
+    {
+      "startTime": 23.8,
+      "finishTime": 24.3,
+      "word": "Python"
+    },
+    {
+      "startTime": 24.3,
+      "finishTime": 24.9,
+      "word": "syntax."
+    },
+    {
+      "startTime": 25.14,
+      "finishTime": 25.34,
+      "word": "It"
+    },
+    {
+      "startTime": 25.34,
+      "finishTime": 25.58,
+      "word": "feels"
+    },
+    {
+      "startTime": 25.58,
+      "finishTime": 25.76,
+      "word": "a"
+    },
+    {
+      "startTime": 25.76,
+      "finishTime": 25.94,
+      "word": "bit"
+    },
+    {
+      "startTime": 25.94,
+      "finishTime": 26.3,
+      "word": "rigid."
+    },
+    {
+      "startTime": 26.8,
+      "finishTime": 27.04,
+      "word": "I"
+    },
+    {
+      "startTime": 27.04,
+      "finishTime": 27.28,
+      "word": "find"
+    },
+    {
+      "startTime": 27.28,
+      "finishTime": 27.74,
+      "word": "JavaScript"
+    },
+    {
+      "startTime": 27.74,
+      "finishTime": 28.06,
+      "word": "more"
+    },
+    {
+      "startTime": 28.06,
+      "finishTime": 28.56,
+      "word": "flexible"
+    },
+    {
+      "startTime": 28.56,
+      "finishTime": 29.04,
+      "word": "and"
+    },
+    {
+      "startTime": 29.04,
+      "finishTime": 29.3,
+      "word": "it's"
+    },
+    {
+      "startTime": 29.3,
+      "finishTime": 29.48,
+      "word": "the"
+    },
+    {
+      "startTime": 29.48,
+      "finishTime": 29.94,
+      "word": "goto"
+    },
+    {
+      "startTime": 29.94,
+      "finishTime": 30.36,
+      "word": "language"
+    },
+    {
+      "startTime": 30.36,
+      "finishTime": 30.74,
+      "word": "for"
+    },
+    {
+      "startTime": 30.74,
+      "finishTime": 31.36,
+      "word": "frontend"
+    },
+    {
+      "startTime": 31.36,
+      "finishTime": 31.84,
+      "word": "development."
+    },
+    {
+      "startTime": 32.44,
+      "finishTime": 32.84,
+      "word": "That's"
+    },
+    {
+      "startTime": 32.84,
+      "finishTime": 33.12,
+      "word": "true,"
+    },
+    {
+      "startTime": 33.32,
+      "finishTime": 33.46,
+      "word": "but"
+    },
+    {
+      "startTime": 33.46,
+      "finishTime": 33.72,
+      "word": "Python"
+    },
+    {
+      "startTime": 33.72,
+      "finishTime": 33.96,
+      "word": "works"
+    },
+    {
+      "startTime": 33.96,
+      "finishTime": 34.22,
+      "word": "better"
+    },
+    {
+      "startTime": 34.22,
+      "finishTime": 34.46,
+      "word": "for"
+    },
+    {
+      "startTime": 34.46,
+      "finishTime": 34.76,
+      "word": "backend"
+    },
+    {
+      "startTime": 34.76,
+      "finishTime": 35.16,
+      "word": "stuff."
+    },
+    {
+      "startTime": 35.5,
+      "finishTime": 35.6,
+      "word": "You"
+    },
+    {
+      "startTime": 35.6,
+      "finishTime": 35.76,
+      "word": "can"
+    },
+    {
+      "startTime": 35.76,
+      "finishTime": 35.9,
+      "word": "do"
+    },
+    {
+      "startTime": 35.9,
+      "finishTime": 36.02,
+      "word": "a"
+    },
+    {
+      "startTime": 36.02,
+      "finishTime": 36.12,
+      "word": "lot"
+    },
+    {
+      "startTime": 36.12,
+      "finishTime": 36.36,
+      "word": "with"
+    },
+    {
+      "startTime": 36.36,
+      "finishTime": 36.52,
+      "word": "it,"
+    },
+    {
+      "startTime": 36.6,
+      "finishTime": 36.94,
+      "word": "especially"
+    },
+    {
+      "startTime": 36.94,
+      "finishTime": 37.24,
+      "word": "for"
+    },
+    {
+      "startTime": 37.24,
+      "finishTime": 37.62,
+      "word": "automation"
+    },
+    {
+      "startTime": 37.62,
+      "finishTime": 37.84,
+      "word": "and"
+    },
+    {
+      "startTime": 37.84,
+      "finishTime": 38.34,
+      "word": "datadriven"
+    },
+    {
+      "startTime": 38.34,
+      "finishTime": 38.88,
+      "word": "projects."
+    },
+    {
+      "startTime": 39.54,
+      "finishTime": 39.78,
+      "word": "I'd"
+    },
+    {
+      "startTime": 39.78,
+      "finishTime": 40,
+      "word": "rather"
+    },
+    {
+      "startTime": 40,
+      "finishTime": 40.24,
+      "word": "stick"
+    },
+    {
+      "startTime": 40.24,
+      "finishTime": 40.42,
+      "word": "with"
+    },
+    {
+      "startTime": 40.42,
+      "finishTime": 40.8,
+      "word": "JavaScript"
+    },
+    {
+      "startTime": 40.8,
+      "finishTime": 41.2,
+      "word": "because"
+    },
+    {
+      "startTime": 41.2,
+      "finishTime": 41.42,
+      "word": "it"
+    },
+    {
+      "startTime": 41.42,
+      "finishTime": 41.58,
+      "word": "fits"
+    },
+    {
+      "startTime": 41.58,
+      "finishTime": 41.84,
+      "word": "my"
+    },
+    {
+      "startTime": 41.84,
+      "finishTime": 42.16,
+      "word": "graphic"
+    },
+    {
+      "startTime": 42.16,
+      "finishTime": 42.5,
+      "word": "design"
+    },
+    {
+      "startTime": 42.5,
+      "finishTime": 42.74,
+      "word": "work."
+    },
+    {
+      "startTime": 43.18,
+      "finishTime": 43.52,
+      "word": "It's"
+    },
+    {
+      "startTime": 43.52,
+      "finishTime": 43.78,
+      "word": "perfect"
+    },
+    {
+      "startTime": 43.78,
+      "finishTime": 44.04,
+      "word": "for"
+    },
+    {
+      "startTime": 44.04,
+      "finishTime": 44.5,
+      "word": "creating"
+    },
+    {
+      "startTime": 44.5,
+      "finishTime": 44.98,
+      "word": "interactive"
+    },
+    {
+      "startTime": 44.98,
+      "finishTime": 45.42,
+      "word": "elements"
+    },
+    {
+      "startTime": 45.42,
+      "finishTime": 45.74,
+      "word": "on"
+    },
+    {
+      "startTime": 45.74,
+      "finishTime": 46.08,
+      "word": "websites."
+    }
+  ]
+}

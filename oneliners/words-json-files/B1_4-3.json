@@ -1,0 +1,835 @@
+{
+  "text": "Hi Linda have you been working on the new voice command features? Yes, I've been testing them since the latest software update We've had some positive feedback, but there are still a few bugs to fix How long have you been focusing on this evaluation for the past couple weeks? I've been trying to cover all scenarios to ensure that the commands work consistently Have you had any problems with voice recognition a few the system hasn't been responding well to certain accents and it struggles with background Noise we need to improve its accuracy. What about the integration with other systems? Has it been seamless? Not entirely It's had issues connecting with our older devices, but we're working on it. The development team has been brainstorming solutions That's a good start. By the way, have we tested it with real users yet? Not yet, but we plan to I think it would be helpful To get some realworld feedback before we roll it out completely",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.62,
+      "word": "Hi"
+    },
+    {
+      "startTime": 0.62,
+      "finishTime": 0.88,
+      "word": "Linda"
+    },
+    {
+      "startTime": 0.88,
+      "finishTime": 1.32,
+      "word": "have"
+    },
+    {
+      "startTime": 1.32,
+      "finishTime": 1.44,
+      "word": "you"
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.56,
+      "word": "been"
+    },
+    {
+      "startTime": 1.56,
+      "finishTime": 1.8,
+      "word": "working"
+    },
+    {
+      "startTime": 1.8,
+      "finishTime": 1.94,
+      "word": "on"
+    },
+    {
+      "startTime": 1.94,
+      "finishTime": 2.08,
+      "word": "the"
+    },
+    {
+      "startTime": 2.08,
+      "finishTime": 2.28,
+      "word": "new"
+    },
+    {
+      "startTime": 2.28,
+      "finishTime": 2.56,
+      "word": "voice"
+    },
+    {
+      "startTime": 2.56,
+      "finishTime": 2.82,
+      "word": "command"
+    },
+    {
+      "startTime": 2.82,
+      "finishTime": 3.3,
+      "word": "features?"
+    },
+    {
+      "startTime": 3.8,
+      "finishTime": 4.06,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 4.06,
+      "finishTime": 4.28,
+      "word": "I've"
+    },
+    {
+      "startTime": 4.28,
+      "finishTime": 4.44,
+      "word": "been"
+    },
+    {
+      "startTime": 4.44,
+      "finishTime": 4.72,
+      "word": "testing"
+    },
+    {
+      "startTime": 4.72,
+      "finishTime": 4.96,
+      "word": "them"
+    },
+    {
+      "startTime": 4.96,
+      "finishTime": 5.2,
+      "word": "since"
+    },
+    {
+      "startTime": 5.2,
+      "finishTime": 5.4,
+      "word": "the"
+    },
+    {
+      "startTime": 5.4,
+      "finishTime": 5.64,
+      "word": "latest"
+    },
+    {
+      "startTime": 5.64,
+      "finishTime": 6.02,
+      "word": "software"
+    },
+    {
+      "startTime": 6.02,
+      "finishTime": 6.42,
+      "word": "update"
+    },
+    {
+      "startTime": 6.42,
+      "finishTime": 6.96,
+      "word": "We've"
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.04,
+      "word": "had"
+    },
+    {
+      "startTime": 7.04,
+      "finishTime": 7.24,
+      "word": "some"
+    },
+    {
+      "startTime": 7.24,
+      "finishTime": 7.7,
+      "word": "positive"
+    },
+    {
+      "startTime": 7.7,
+      "finishTime": 8.08,
+      "word": "feedback,"
+    },
+    {
+      "startTime": 8.08,
+      "finishTime": 8.28,
+      "word": "but"
+    },
+    {
+      "startTime": 8.28,
+      "finishTime": 8.46,
+      "word": "there"
+    },
+    {
+      "startTime": 8.46,
+      "finishTime": 8.62,
+      "word": "are"
+    },
+    {
+      "startTime": 8.62,
+      "finishTime": 8.78,
+      "word": "still"
+    },
+    {
+      "startTime": 8.78,
+      "finishTime": 8.9,
+      "word": "a"
+    },
+    {
+      "startTime": 8.9,
+      "finishTime": 9,
+      "word": "few"
+    },
+    {
+      "startTime": 9,
+      "finishTime": 9.24,
+      "word": "bugs"
+    },
+    {
+      "startTime": 9.24,
+      "finishTime": 9.46,
+      "word": "to"
+    },
+    {
+      "startTime": 9.46,
+      "finishTime": 9.78,
+      "word": "fix"
+    },
+    {
+      "startTime": 9.78,
+      "finishTime": 10.28,
+      "word": "How"
+    },
+    {
+      "startTime": 10.28,
+      "finishTime": 10.5,
+      "word": "long"
+    },
+    {
+      "startTime": 10.5,
+      "finishTime": 10.68,
+      "word": "have"
+    },
+    {
+      "startTime": 10.68,
+      "finishTime": 10.76,
+      "word": "you"
+    },
+    {
+      "startTime": 10.76,
+      "finishTime": 10.92,
+      "word": "been"
+    },
+    {
+      "startTime": 10.92,
+      "finishTime": 11.28,
+      "word": "focusing"
+    },
+    {
+      "startTime": 11.28,
+      "finishTime": 11.48,
+      "word": "on"
+    },
+    {
+      "startTime": 11.48,
+      "finishTime": 11.72,
+      "word": "this"
+    },
+    {
+      "startTime": 11.72,
+      "finishTime": 12.34,
+      "word": "evaluation"
+    },
+    {
+      "startTime": 12.34,
+      "finishTime": 12.84,
+      "word": "for"
+    },
+    {
+      "startTime": 12.84,
+      "finishTime": 13.02,
+      "word": "the"
+    },
+    {
+      "startTime": 13.02,
+      "finishTime": 13.2,
+      "word": "past"
+    },
+    {
+      "startTime": 13.2,
+      "finishTime": 13.44,
+      "word": "couple"
+    },
+    {
+      "startTime": 13.44,
+      "finishTime": 13.82,
+      "word": "weeks?"
+    },
+    {
+      "startTime": 14.14,
+      "finishTime": 14.42,
+      "word": "I've"
+    },
+    {
+      "startTime": 14.42,
+      "finishTime": 14.58,
+      "word": "been"
+    },
+    {
+      "startTime": 14.58,
+      "finishTime": 14.78,
+      "word": "trying"
+    },
+    {
+      "startTime": 14.78,
+      "finishTime": 14.98,
+      "word": "to"
+    },
+    {
+      "startTime": 14.98,
+      "finishTime": 15.18,
+      "word": "cover"
+    },
+    {
+      "startTime": 15.18,
+      "finishTime": 15.48,
+      "word": "all"
+    },
+    {
+      "startTime": 15.48,
+      "finishTime": 15.9,
+      "word": "scenarios"
+    },
+    {
+      "startTime": 15.9,
+      "finishTime": 16.22,
+      "word": "to"
+    },
+    {
+      "startTime": 16.22,
+      "finishTime": 16.48,
+      "word": "ensure"
+    },
+    {
+      "startTime": 16.48,
+      "finishTime": 16.66,
+      "word": "that"
+    },
+    {
+      "startTime": 16.66,
+      "finishTime": 16.82,
+      "word": "the"
+    },
+    {
+      "startTime": 16.82,
+      "finishTime": 17.06,
+      "word": "commands"
+    },
+    {
+      "startTime": 17.06,
+      "finishTime": 17.3,
+      "word": "work"
+    },
+    {
+      "startTime": 17.3,
+      "finishTime": 17.92,
+      "word": "consistently"
+    },
+    {
+      "startTime": 17.92,
+      "finishTime": 18.38,
+      "word": "Have"
+    },
+    {
+      "startTime": 18.38,
+      "finishTime": 18.54,
+      "word": "you"
+    },
+    {
+      "startTime": 18.54,
+      "finishTime": 18.7,
+      "word": "had"
+    },
+    {
+      "startTime": 18.7,
+      "finishTime": 19,
+      "word": "any"
+    },
+    {
+      "startTime": 19,
+      "finishTime": 19.32,
+      "word": "problems"
+    },
+    {
+      "startTime": 19.32,
+      "finishTime": 19.54,
+      "word": "with"
+    },
+    {
+      "startTime": 19.54,
+      "finishTime": 19.84,
+      "word": "voice"
+    },
+    {
+      "startTime": 19.84,
+      "finishTime": 20.38,
+      "word": "recognition"
+    },
+    {
+      "startTime": 20.38,
+      "finishTime": 21.12,
+      "word": "a"
+    },
+    {
+      "startTime": 21.12,
+      "finishTime": 21.38,
+      "word": "few"
+    },
+    {
+      "startTime": 21.38,
+      "finishTime": 21.72,
+      "word": "the"
+    },
+    {
+      "startTime": 21.72,
+      "finishTime": 21.98,
+      "word": "system"
+    },
+    {
+      "startTime": 21.98,
+      "finishTime": 22.28,
+      "word": "hasn't"
+    },
+    {
+      "startTime": 22.28,
+      "finishTime": 22.48,
+      "word": "been"
+    },
+    {
+      "startTime": 22.48,
+      "finishTime": 22.8,
+      "word": "responding"
+    },
+    {
+      "startTime": 22.8,
+      "finishTime": 23.04,
+      "word": "well"
+    },
+    {
+      "startTime": 23.04,
+      "finishTime": 23.26,
+      "word": "to"
+    },
+    {
+      "startTime": 23.26,
+      "finishTime": 23.56,
+      "word": "certain"
+    },
+    {
+      "startTime": 23.56,
+      "finishTime": 24.02,
+      "word": "accents"
+    },
+    {
+      "startTime": 24.02,
+      "finishTime": 24.46,
+      "word": "and"
+    },
+    {
+      "startTime": 24.46,
+      "finishTime": 24.62,
+      "word": "it"
+    },
+    {
+      "startTime": 24.62,
+      "finishTime": 24.9,
+      "word": "struggles"
+    },
+    {
+      "startTime": 24.9,
+      "finishTime": 25.12,
+      "word": "with"
+    },
+    {
+      "startTime": 25.12,
+      "finishTime": 25.5,
+      "word": "background"
+    },
+    {
+      "startTime": 25.5,
+      "finishTime": 25.82,
+      "word": "Noise"
+    },
+    {
+      "startTime": 25.82,
+      "finishTime": 26.06,
+      "word": "we"
+    },
+    {
+      "startTime": 26.06,
+      "finishTime": 26.26,
+      "word": "need"
+    },
+    {
+      "startTime": 26.26,
+      "finishTime": 26.42,
+      "word": "to"
+    },
+    {
+      "startTime": 26.42,
+      "finishTime": 26.64,
+      "word": "improve"
+    },
+    {
+      "startTime": 26.64,
+      "finishTime": 26.94,
+      "word": "its"
+    },
+    {
+      "startTime": 26.94,
+      "finishTime": 27.36,
+      "word": "accuracy."
+    },
+    {
+      "startTime": 27.66,
+      "finishTime": 27.86,
+      "word": "What"
+    },
+    {
+      "startTime": 27.86,
+      "finishTime": 28.12,
+      "word": "about"
+    },
+    {
+      "startTime": 28.12,
+      "finishTime": 28.34,
+      "word": "the"
+    },
+    {
+      "startTime": 28.34,
+      "finishTime": 28.68,
+      "word": "integration"
+    },
+    {
+      "startTime": 28.68,
+      "finishTime": 29,
+      "word": "with"
+    },
+    {
+      "startTime": 29,
+      "finishTime": 29.26,
+      "word": "other"
+    },
+    {
+      "startTime": 29.26,
+      "finishTime": 29.68,
+      "word": "systems?"
+    },
+    {
+      "startTime": 30.04,
+      "finishTime": 30.22,
+      "word": "Has"
+    },
+    {
+      "startTime": 30.22,
+      "finishTime": 30.38,
+      "word": "it"
+    },
+    {
+      "startTime": 30.38,
+      "finishTime": 30.56,
+      "word": "been"
+    },
+    {
+      "startTime": 30.56,
+      "finishTime": 30.96,
+      "word": "seamless?"
+    },
+    {
+      "startTime": 31.5,
+      "finishTime": 31.74,
+      "word": "Not"
+    },
+    {
+      "startTime": 31.74,
+      "finishTime": 32.32,
+      "word": "entirely"
+    },
+    {
+      "startTime": 32.32,
+      "finishTime": 33.08,
+      "word": "It's"
+    },
+    {
+      "startTime": 33.08,
+      "finishTime": 33.2,
+      "word": "had"
+    },
+    {
+      "startTime": 33.2,
+      "finishTime": 33.52,
+      "word": "issues"
+    },
+    {
+      "startTime": 33.52,
+      "finishTime": 33.88,
+      "word": "connecting"
+    },
+    {
+      "startTime": 33.88,
+      "finishTime": 34.12,
+      "word": "with"
+    },
+    {
+      "startTime": 34.12,
+      "finishTime": 34.3,
+      "word": "our"
+    },
+    {
+      "startTime": 34.3,
+      "finishTime": 34.5,
+      "word": "older"
+    },
+    {
+      "startTime": 34.5,
+      "finishTime": 34.88,
+      "word": "devices,"
+    },
+    {
+      "startTime": 34.88,
+      "finishTime": 35.1,
+      "word": "but"
+    },
+    {
+      "startTime": 35.1,
+      "finishTime": 35.32,
+      "word": "we're"
+    },
+    {
+      "startTime": 35.32,
+      "finishTime": 35.52,
+      "word": "working"
+    },
+    {
+      "startTime": 35.52,
+      "finishTime": 35.72,
+      "word": "on"
+    },
+    {
+      "startTime": 35.72,
+      "finishTime": 35.94,
+      "word": "it."
+    },
+    {
+      "startTime": 36,
+      "finishTime": 36.2,
+      "word": "The"
+    },
+    {
+      "startTime": 36.2,
+      "finishTime": 36.58,
+      "word": "development"
+    },
+    {
+      "startTime": 36.58,
+      "finishTime": 36.76,
+      "word": "team"
+    },
+    {
+      "startTime": 36.76,
+      "finishTime": 36.94,
+      "word": "has"
+    },
+    {
+      "startTime": 36.94,
+      "finishTime": 37.14,
+      "word": "been"
+    },
+    {
+      "startTime": 37.14,
+      "finishTime": 37.74,
+      "word": "brainstorming"
+    },
+    {
+      "startTime": 37.74,
+      "finishTime": 38.24,
+      "word": "solutions"
+    },
+    {
+      "startTime": 38.24,
+      "finishTime": 39.06,
+      "word": "That's"
+    },
+    {
+      "startTime": 39.06,
+      "finishTime": 39.14,
+      "word": "a"
+    },
+    {
+      "startTime": 39.14,
+      "finishTime": 39.32,
+      "word": "good"
+    },
+    {
+      "startTime": 39.32,
+      "finishTime": 39.72,
+      "word": "start."
+    },
+    {
+      "startTime": 40.06,
+      "finishTime": 40.18,
+      "word": "By"
+    },
+    {
+      "startTime": 40.18,
+      "finishTime": 40.38,
+      "word": "the"
+    },
+    {
+      "startTime": 40.38,
+      "finishTime": 40.7,
+      "word": "way,"
+    },
+    {
+      "startTime": 40.92,
+      "finishTime": 41.02,
+      "word": "have"
+    },
+    {
+      "startTime": 41.02,
+      "finishTime": 41.22,
+      "word": "we"
+    },
+    {
+      "startTime": 41.22,
+      "finishTime": 41.52,
+      "word": "tested"
+    },
+    {
+      "startTime": 41.52,
+      "finishTime": 41.72,
+      "word": "it"
+    },
+    {
+      "startTime": 41.72,
+      "finishTime": 42.02,
+      "word": "with"
+    },
+    {
+      "startTime": 42.02,
+      "finishTime": 42.3,
+      "word": "real"
+    },
+    {
+      "startTime": 42.3,
+      "finishTime": 42.7,
+      "word": "users"
+    },
+    {
+      "startTime": 42.7,
+      "finishTime": 43.08,
+      "word": "yet?"
+    },
+    {
+      "startTime": 43.38,
+      "finishTime": 43.6,
+      "word": "Not"
+    },
+    {
+      "startTime": 43.6,
+      "finishTime": 43.82,
+      "word": "yet,"
+    },
+    {
+      "startTime": 43.86,
+      "finishTime": 44,
+      "word": "but"
+    },
+    {
+      "startTime": 44,
+      "finishTime": 44.2,
+      "word": "we"
+    },
+    {
+      "startTime": 44.2,
+      "finishTime": 44.38,
+      "word": "plan"
+    },
+    {
+      "startTime": 44.38,
+      "finishTime": 44.7,
+      "word": "to"
+    },
+    {
+      "startTime": 44.7,
+      "finishTime": 44.92,
+      "word": "I"
+    },
+    {
+      "startTime": 44.92,
+      "finishTime": 45.06,
+      "word": "think"
+    },
+    {
+      "startTime": 45.06,
+      "finishTime": 45.2,
+      "word": "it"
+    },
+    {
+      "startTime": 45.2,
+      "finishTime": 45.3,
+      "word": "would"
+    },
+    {
+      "startTime": 45.3,
+      "finishTime": 45.46,
+      "word": "be"
+    },
+    {
+      "startTime": 45.46,
+      "finishTime": 45.68,
+      "word": "helpful"
+    },
+    {
+      "startTime": 45.68,
+      "finishTime": 45.86,
+      "word": "To"
+    },
+    {
+      "startTime": 45.86,
+      "finishTime": 45.98,
+      "word": "get"
+    },
+    {
+      "startTime": 45.98,
+      "finishTime": 46.3,
+      "word": "some"
+    },
+    {
+      "startTime": 46.3,
+      "finishTime": 46.78,
+      "word": "realworld"
+    },
+    {
+      "startTime": 46.78,
+      "finishTime": 47.18,
+      "word": "feedback"
+    },
+    {
+      "startTime": 47.18,
+      "finishTime": 47.62,
+      "word": "before"
+    },
+    {
+      "startTime": 47.62,
+      "finishTime": 47.84,
+      "word": "we"
+    },
+    {
+      "startTime": 47.84,
+      "finishTime": 47.92,
+      "word": "roll"
+    },
+    {
+      "startTime": 47.92,
+      "finishTime": 48.06,
+      "word": "it"
+    },
+    {
+      "startTime": 48.06,
+      "finishTime": 48.24,
+      "word": "out"
+    },
+    {
+      "startTime": 48.24,
+      "finishTime": 48.56,
+      "word": "completely"
+    }
+  ]
+}

@@ -1,0 +1,995 @@
+{
+  "text": "Anna, I've been reviewing the survey results for the remote work stipend. It seems most people prefer using it for office furniture. Do you think that's a good idea? I don't think so, Bob. While furniture is important, many people mentioned that their computers need upgrades. This might be more critical for productivity. I understand, but isn't office furniture also a priority? I mean, a lot of people are working from home with makeshift setups. A comfortable desk and a chair can make a big difference. Not necessarily. Having the latest technology can be just as important. If people are working with outdated computers, it can be a setback for productivity. True, but good office furniture can prevent health issues that result from bad posture and make remote work more enjoyable. I agree that comfort is important, but we shouldn't neglect technology. So maybe we should focus on both. Find a balance between comfort and technology to ensure everyone has what they need. That makes sense. Let's see how we can adjust the stipend to cover both technology and office furniture. Good plan. Thanks for discussing this with me, Anna. No problem, Bob. Let's work on the details.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.52,
+      "word": "Anna,"
+    },
+    {
+      "startTime": 0.68,
+      "finishTime": 0.98,
+      "word": "I've"
+    },
+    {
+      "startTime": 0.98,
+      "finishTime": 1.14,
+      "word": "been"
+    },
+    {
+      "startTime": 1.14,
+      "finishTime": 1.52,
+      "word": "reviewing"
+    },
+    {
+      "startTime": 1.52,
+      "finishTime": 1.84,
+      "word": "the"
+    },
+    {
+      "startTime": 1.84,
+      "finishTime": 2.06,
+      "word": "survey"
+    },
+    {
+      "startTime": 2.06,
+      "finishTime": 2.48,
+      "word": "results"
+    },
+    {
+      "startTime": 2.48,
+      "finishTime": 2.82,
+      "word": "for"
+    },
+    {
+      "startTime": 2.82,
+      "finishTime": 3,
+      "word": "the"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.3,
+      "word": "remote"
+    },
+    {
+      "startTime": 3.3,
+      "finishTime": 3.62,
+      "word": "work"
+    },
+    {
+      "startTime": 3.62,
+      "finishTime": 4.16,
+      "word": "stipend."
+    },
+    {
+      "startTime": 4.46,
+      "finishTime": 4.7,
+      "word": "It"
+    },
+    {
+      "startTime": 4.7,
+      "finishTime": 4.96,
+      "word": "seems"
+    },
+    {
+      "startTime": 4.96,
+      "finishTime": 5.26,
+      "word": "most"
+    },
+    {
+      "startTime": 5.26,
+      "finishTime": 5.62,
+      "word": "people"
+    },
+    {
+      "startTime": 5.62,
+      "finishTime": 6.2,
+      "word": "prefer"
+    },
+    {
+      "startTime": 6.2,
+      "finishTime": 6.52,
+      "word": "using"
+    },
+    {
+      "startTime": 6.52,
+      "finishTime": 6.84,
+      "word": "it"
+    },
+    {
+      "startTime": 6.84,
+      "finishTime": 7.12,
+      "word": "for"
+    },
+    {
+      "startTime": 7.12,
+      "finishTime": 7.52,
+      "word": "office"
+    },
+    {
+      "startTime": 7.52,
+      "finishTime": 8,
+      "word": "furniture."
+    },
+    {
+      "startTime": 8.6,
+      "finishTime": 8.76,
+      "word": "Do"
+    },
+    {
+      "startTime": 8.76,
+      "finishTime": 8.86,
+      "word": "you"
+    },
+    {
+      "startTime": 8.86,
+      "finishTime": 9.1,
+      "word": "think"
+    },
+    {
+      "startTime": 9.1,
+      "finishTime": 9.38,
+      "word": "that's"
+    },
+    {
+      "startTime": 9.38,
+      "finishTime": 9.46,
+      "word": "a"
+    },
+    {
+      "startTime": 9.46,
+      "finishTime": 9.6,
+      "word": "good"
+    },
+    {
+      "startTime": 9.6,
+      "finishTime": 10.04,
+      "word": "idea?"
+    },
+    {
+      "startTime": 10.86,
+      "finishTime": 10.94,
+      "word": "I"
+    },
+    {
+      "startTime": 10.94,
+      "finishTime": 11.1,
+      "word": "don't"
+    },
+    {
+      "startTime": 11.1,
+      "finishTime": 11.32,
+      "word": "think"
+    },
+    {
+      "startTime": 11.32,
+      "finishTime": 11.58,
+      "word": "so,"
+    },
+    {
+      "startTime": 11.62,
+      "finishTime": 11.8,
+      "word": "Bob."
+    },
+    {
+      "startTime": 12.26,
+      "finishTime": 12.44,
+      "word": "While"
+    },
+    {
+      "startTime": 12.44,
+      "finishTime": 12.76,
+      "word": "furniture"
+    },
+    {
+      "startTime": 12.76,
+      "finishTime": 12.98,
+      "word": "is"
+    },
+    {
+      "startTime": 12.98,
+      "finishTime": 13.4,
+      "word": "important,"
+    },
+    {
+      "startTime": 13.48,
+      "finishTime": 13.72,
+      "word": "many"
+    },
+    {
+      "startTime": 13.72,
+      "finishTime": 14,
+      "word": "people"
+    },
+    {
+      "startTime": 14,
+      "finishTime": 14.36,
+      "word": "mentioned"
+    },
+    {
+      "startTime": 14.36,
+      "finishTime": 14.54,
+      "word": "that"
+    },
+    {
+      "startTime": 14.54,
+      "finishTime": 14.82,
+      "word": "their"
+    },
+    {
+      "startTime": 14.82,
+      "finishTime": 15.1,
+      "word": "computers"
+    },
+    {
+      "startTime": 15.1,
+      "finishTime": 15.34,
+      "word": "need"
+    },
+    {
+      "startTime": 15.34,
+      "finishTime": 15.8,
+      "word": "upgrades."
+    },
+    {
+      "startTime": 16.2,
+      "finishTime": 16.44,
+      "word": "This"
+    },
+    {
+      "startTime": 16.44,
+      "finishTime": 16.62,
+      "word": "might"
+    },
+    {
+      "startTime": 16.62,
+      "finishTime": 16.8,
+      "word": "be"
+    },
+    {
+      "startTime": 16.8,
+      "finishTime": 17.04,
+      "word": "more"
+    },
+    {
+      "startTime": 17.04,
+      "finishTime": 17.34,
+      "word": "critical"
+    },
+    {
+      "startTime": 17.34,
+      "finishTime": 17.64,
+      "word": "for"
+    },
+    {
+      "startTime": 17.64,
+      "finishTime": 18.1,
+      "word": "productivity."
+    },
+    {
+      "startTime": 18.9,
+      "finishTime": 19.06,
+      "word": "I"
+    },
+    {
+      "startTime": 19.06,
+      "finishTime": 19.5,
+      "word": "understand,"
+    },
+    {
+      "startTime": 19.6,
+      "finishTime": 19.82,
+      "word": "but"
+    },
+    {
+      "startTime": 19.82,
+      "finishTime": 20.14,
+      "word": "isn't"
+    },
+    {
+      "startTime": 20.14,
+      "finishTime": 20.5,
+      "word": "office"
+    },
+    {
+      "startTime": 20.5,
+      "finishTime": 20.84,
+      "word": "furniture"
+    },
+    {
+      "startTime": 20.84,
+      "finishTime": 21.32,
+      "word": "also"
+    },
+    {
+      "startTime": 21.32,
+      "finishTime": 21.58,
+      "word": "a"
+    },
+    {
+      "startTime": 21.58,
+      "finishTime": 21.78,
+      "word": "priority?"
+    },
+    {
+      "startTime": 22.2,
+      "finishTime": 22.22,
+      "word": "I"
+    },
+    {
+      "startTime": 22.22,
+      "finishTime": 22.66,
+      "word": "mean,"
+    },
+    {
+      "startTime": 22.98,
+      "finishTime": 23.12,
+      "word": "a"
+    },
+    {
+      "startTime": 23.12,
+      "finishTime": 23.32,
+      "word": "lot"
+    },
+    {
+      "startTime": 23.32,
+      "finishTime": 23.48,
+      "word": "of"
+    },
+    {
+      "startTime": 23.48,
+      "finishTime": 23.7,
+      "word": "people"
+    },
+    {
+      "startTime": 23.7,
+      "finishTime": 23.94,
+      "word": "are"
+    },
+    {
+      "startTime": 23.94,
+      "finishTime": 24.14,
+      "word": "working"
+    },
+    {
+      "startTime": 24.14,
+      "finishTime": 24.42,
+      "word": "from"
+    },
+    {
+      "startTime": 24.42,
+      "finishTime": 24.76,
+      "word": "home"
+    },
+    {
+      "startTime": 24.76,
+      "finishTime": 25.12,
+      "word": "with"
+    },
+    {
+      "startTime": 25.12,
+      "finishTime": 25.86,
+      "word": "makeshift"
+    },
+    {
+      "startTime": 25.86,
+      "finishTime": 26.26,
+      "word": "setups."
+    },
+    {
+      "startTime": 26.860000000000003,
+      "finishTime": 27.28,
+      "word": "A"
+    },
+    {
+      "startTime": 27.28,
+      "finishTime": 27.66,
+      "word": "comfortable"
+    },
+    {
+      "startTime": 27.66,
+      "finishTime": 28.22,
+      "word": "desk"
+    },
+    {
+      "startTime": 28.22,
+      "finishTime": 28.62,
+      "word": "and"
+    },
+    {
+      "startTime": 28.62,
+      "finishTime": 28.84,
+      "word": "a"
+    },
+    {
+      "startTime": 28.84,
+      "finishTime": 29.06,
+      "word": "chair"
+    },
+    {
+      "startTime": 29.06,
+      "finishTime": 29.38,
+      "word": "can"
+    },
+    {
+      "startTime": 29.38,
+      "finishTime": 29.56,
+      "word": "make"
+    },
+    {
+      "startTime": 29.56,
+      "finishTime": 29.72,
+      "word": "a"
+    },
+    {
+      "startTime": 29.72,
+      "finishTime": 29.92,
+      "word": "big"
+    },
+    {
+      "startTime": 29.92,
+      "finishTime": 30.5,
+      "word": "difference."
+    },
+    {
+      "startTime": 31.16,
+      "finishTime": 31.4,
+      "word": "Not"
+    },
+    {
+      "startTime": 31.4,
+      "finishTime": 32.14,
+      "word": "necessarily."
+    },
+    {
+      "startTime": 33.18,
+      "finishTime": 33.36,
+      "word": "Having"
+    },
+    {
+      "startTime": 33.36,
+      "finishTime": 33.54,
+      "word": "the"
+    },
+    {
+      "startTime": 33.54,
+      "finishTime": 33.76,
+      "word": "latest"
+    },
+    {
+      "startTime": 33.76,
+      "finishTime": 34.22,
+      "word": "technology"
+    },
+    {
+      "startTime": 34.22,
+      "finishTime": 34.42,
+      "word": "can"
+    },
+    {
+      "startTime": 34.42,
+      "finishTime": 34.56,
+      "word": "be"
+    },
+    {
+      "startTime": 34.56,
+      "finishTime": 34.76,
+      "word": "just"
+    },
+    {
+      "startTime": 34.76,
+      "finishTime": 35.08,
+      "word": "as"
+    },
+    {
+      "startTime": 35.08,
+      "finishTime": 35.46,
+      "word": "important."
+    },
+    {
+      "startTime": 35.98,
+      "finishTime": 36.06,
+      "word": "If"
+    },
+    {
+      "startTime": 36.06,
+      "finishTime": 36.28,
+      "word": "people"
+    },
+    {
+      "startTime": 36.28,
+      "finishTime": 36.52,
+      "word": "are"
+    },
+    {
+      "startTime": 36.52,
+      "finishTime": 36.74,
+      "word": "working"
+    },
+    {
+      "startTime": 36.74,
+      "finishTime": 37,
+      "word": "with"
+    },
+    {
+      "startTime": 37,
+      "finishTime": 37.34,
+      "word": "outdated"
+    },
+    {
+      "startTime": 37.34,
+      "finishTime": 37.88,
+      "word": "computers,"
+    },
+    {
+      "startTime": 37.96,
+      "finishTime": 38.06,
+      "word": "it"
+    },
+    {
+      "startTime": 38.06,
+      "finishTime": 38.24,
+      "word": "can"
+    },
+    {
+      "startTime": 38.24,
+      "finishTime": 38.4,
+      "word": "be"
+    },
+    {
+      "startTime": 38.4,
+      "finishTime": 38.54,
+      "word": "a"
+    },
+    {
+      "startTime": 38.54,
+      "finishTime": 38.86,
+      "word": "setback"
+    },
+    {
+      "startTime": 38.86,
+      "finishTime": 39.18,
+      "word": "for"
+    },
+    {
+      "startTime": 39.18,
+      "finishTime": 39.68,
+      "word": "productivity."
+    },
+    {
+      "startTime": 40.3,
+      "finishTime": 40.7,
+      "word": "True,"
+    },
+    {
+      "startTime": 40.76,
+      "finishTime": 41.06,
+      "word": "but"
+    },
+    {
+      "startTime": 41.06,
+      "finishTime": 41.38,
+      "word": "good"
+    },
+    {
+      "startTime": 41.38,
+      "finishTime": 41.76,
+      "word": "office"
+    },
+    {
+      "startTime": 41.76,
+      "finishTime": 42.16,
+      "word": "furniture"
+    },
+    {
+      "startTime": 42.16,
+      "finishTime": 42.54,
+      "word": "can"
+    },
+    {
+      "startTime": 42.54,
+      "finishTime": 42.88,
+      "word": "prevent"
+    },
+    {
+      "startTime": 42.88,
+      "finishTime": 43.16,
+      "word": "health"
+    },
+    {
+      "startTime": 43.16,
+      "finishTime": 43.52,
+      "word": "issues"
+    },
+    {
+      "startTime": 43.52,
+      "finishTime": 43.82,
+      "word": "that"
+    },
+    {
+      "startTime": 43.82,
+      "finishTime": 44,
+      "word": "result"
+    },
+    {
+      "startTime": 44,
+      "finishTime": 44.3,
+      "word": "from"
+    },
+    {
+      "startTime": 44.3,
+      "finishTime": 44.52,
+      "word": "bad"
+    },
+    {
+      "startTime": 44.52,
+      "finishTime": 45,
+      "word": "posture"
+    },
+    {
+      "startTime": 45,
+      "finishTime": 45.66,
+      "word": "and"
+    },
+    {
+      "startTime": 45.66,
+      "finishTime": 45.86,
+      "word": "make"
+    },
+    {
+      "startTime": 45.86,
+      "finishTime": 46.18,
+      "word": "remote"
+    },
+    {
+      "startTime": 46.18,
+      "finishTime": 46.5,
+      "word": "work"
+    },
+    {
+      "startTime": 46.5,
+      "finishTime": 46.84,
+      "word": "more"
+    },
+    {
+      "startTime": 46.84,
+      "finishTime": 47.34,
+      "word": "enjoyable."
+    },
+    {
+      "startTime": 48.04,
+      "finishTime": 48.28,
+      "word": "I"
+    },
+    {
+      "startTime": 48.28,
+      "finishTime": 48.46,
+      "word": "agree"
+    },
+    {
+      "startTime": 48.46,
+      "finishTime": 48.7,
+      "word": "that"
+    },
+    {
+      "startTime": 48.7,
+      "finishTime": 48.9,
+      "word": "comfort"
+    },
+    {
+      "startTime": 48.9,
+      "finishTime": 49.12,
+      "word": "is"
+    },
+    {
+      "startTime": 49.12,
+      "finishTime": 49.5,
+      "word": "important,"
+    },
+    {
+      "startTime": 49.52,
+      "finishTime": 49.64,
+      "word": "but"
+    },
+    {
+      "startTime": 49.64,
+      "finishTime": 49.86,
+      "word": "we"
+    },
+    {
+      "startTime": 49.86,
+      "finishTime": 50.04,
+      "word": "shouldn't"
+    },
+    {
+      "startTime": 50.04,
+      "finishTime": 50.48,
+      "word": "neglect"
+    },
+    {
+      "startTime": 50.48,
+      "finishTime": 51.1,
+      "word": "technology."
+    },
+    {
+      "startTime": 52,
+      "finishTime": 52.22,
+      "word": "So"
+    },
+    {
+      "startTime": 52.22,
+      "finishTime": 52.4,
+      "word": "maybe"
+    },
+    {
+      "startTime": 52.4,
+      "finishTime": 52.6,
+      "word": "we"
+    },
+    {
+      "startTime": 52.6,
+      "finishTime": 52.72,
+      "word": "should"
+    },
+    {
+      "startTime": 52.72,
+      "finishTime": 53.02,
+      "word": "focus"
+    },
+    {
+      "startTime": 53.02,
+      "finishTime": 53.24,
+      "word": "on"
+    },
+    {
+      "startTime": 53.24,
+      "finishTime": 53.54,
+      "word": "both."
+    },
+    {
+      "startTime": 53.54,
+      "finishTime": 54.06,
+      "word": "Find"
+    },
+    {
+      "startTime": 54.06,
+      "finishTime": 54.26,
+      "word": "a"
+    },
+    {
+      "startTime": 54.26,
+      "finishTime": 54.62,
+      "word": "balance"
+    },
+    {
+      "startTime": 54.62,
+      "finishTime": 55.02,
+      "word": "between"
+    },
+    {
+      "startTime": 55.02,
+      "finishTime": 55.42,
+      "word": "comfort"
+    },
+    {
+      "startTime": 55.42,
+      "finishTime": 55.64,
+      "word": "and"
+    },
+    {
+      "startTime": 55.64,
+      "finishTime": 56.18,
+      "word": "technology"
+    },
+    {
+      "startTime": 56.18,
+      "finishTime": 56.52,
+      "word": "to"
+    },
+    {
+      "startTime": 56.52,
+      "finishTime": 56.84,
+      "word": "ensure"
+    },
+    {
+      "startTime": 56.84,
+      "finishTime": 57.3,
+      "word": "everyone"
+    },
+    {
+      "startTime": 57.3,
+      "finishTime": 57.58,
+      "word": "has"
+    },
+    {
+      "startTime": 57.58,
+      "finishTime": 57.72,
+      "word": "what"
+    },
+    {
+      "startTime": 57.72,
+      "finishTime": 57.96,
+      "word": "they"
+    },
+    {
+      "startTime": 57.96,
+      "finishTime": 58.24,
+      "word": "need."
+    },
+    {
+      "startTime": 58.84,
+      "finishTime": 58.84,
+      "word": "That"
+    },
+    {
+      "startTime": 58.84,
+      "finishTime": 59.08,
+      "word": "makes"
+    },
+    {
+      "startTime": 59.08,
+      "finishTime": 59.5,
+      "word": "sense."
+    },
+    {
+      "startTime": 59.78,
+      "finishTime": 59.92,
+      "word": "Let's"
+    },
+    {
+      "startTime": 59.92,
+      "finishTime": 60.06,
+      "word": "see"
+    },
+    {
+      "startTime": 60.06,
+      "finishTime": 60.18,
+      "word": "how"
+    },
+    {
+      "startTime": 60.18,
+      "finishTime": 60.32,
+      "word": "we"
+    },
+    {
+      "startTime": 60.32,
+      "finishTime": 60.5,
+      "word": "can"
+    },
+    {
+      "startTime": 60.5,
+      "finishTime": 60.76,
+      "word": "adjust"
+    },
+    {
+      "startTime": 60.76,
+      "finishTime": 61.02,
+      "word": "the"
+    },
+    {
+      "startTime": 61.02,
+      "finishTime": 61.34,
+      "word": "stipend"
+    },
+    {
+      "startTime": 61.34,
+      "finishTime": 61.56,
+      "word": "to"
+    },
+    {
+      "startTime": 61.56,
+      "finishTime": 61.7,
+      "word": "cover"
+    },
+    {
+      "startTime": 61.7,
+      "finishTime": 61.96,
+      "word": "both"
+    },
+    {
+      "startTime": 61.96,
+      "finishTime": 62.48,
+      "word": "technology"
+    },
+    {
+      "startTime": 62.48,
+      "finishTime": 62.88,
+      "word": "and"
+    },
+    {
+      "startTime": 62.88,
+      "finishTime": 63.08,
+      "word": "office"
+    },
+    {
+      "startTime": 63.08,
+      "finishTime": 63.52,
+      "word": "furniture."
+    },
+    {
+      "startTime": 63.94,
+      "finishTime": 64.12,
+      "word": "Good"
+    },
+    {
+      "startTime": 64.12,
+      "finishTime": 64.52,
+      "word": "plan."
+    },
+    {
+      "startTime": 64.94,
+      "finishTime": 65.1,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 65.1,
+      "finishTime": 65.34,
+      "word": "for"
+    },
+    {
+      "startTime": 65.34,
+      "finishTime": 65.66,
+      "word": "discussing"
+    },
+    {
+      "startTime": 65.66,
+      "finishTime": 65.96,
+      "word": "this"
+    },
+    {
+      "startTime": 65.96,
+      "finishTime": 66.16,
+      "word": "with"
+    },
+    {
+      "startTime": 66.16,
+      "finishTime": 66.36,
+      "word": "me,"
+    },
+    {
+      "startTime": 66.46,
+      "finishTime": 66.64,
+      "word": "Anna."
+    },
+    {
+      "startTime": 67.08,
+      "finishTime": 67.24,
+      "word": "No"
+    },
+    {
+      "startTime": 67.24,
+      "finishTime": 67.48,
+      "word": "problem,"
+    },
+    {
+      "startTime": 67.62,
+      "finishTime": 67.72,
+      "word": "Bob."
+    },
+    {
+      "startTime": 67.88,
+      "finishTime": 68.12,
+      "word": "Let's"
+    },
+    {
+      "startTime": 68.12,
+      "finishTime": 68.22,
+      "word": "work"
+    },
+    {
+      "startTime": 68.22,
+      "finishTime": 68.38,
+      "word": "on"
+    },
+    {
+      "startTime": 68.38,
+      "finishTime": 68.5,
+      "word": "the"
+    },
+    {
+      "startTime": 68.5,
+      "finishTime": 68.74,
+      "word": "details."
+    }
+  ]
+}

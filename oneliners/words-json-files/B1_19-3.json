@@ -1,0 +1,1585 @@
+{
+  "text": "Good morning, James. Today we need to compare two versions of our software. Let's start with how they look. The new one seems easier to use and cleaner than the old one. Yes, Jessica. I agree. The new version not only looks better, but also works better. It's faster and responds quicker when we do things on it. That's good to hear. What about how stable they are? Does the new version work without stopping or crashing? The new version is much more stable. We've seen fewer problems and it doesn't stop working as much. It can handle more data now, which is much better. Great. How about adjusting to different screen sizes? The old version was quite good at this, but the new one is even better, right? Yes, it changes size really well. It works great on different devices. Everything adjusts by itself and looks good, which makes it nicer to use. That's good. And installing it, is it faster now? Yes, it now installs much quicker. It's easier for users to start using it immediately after they download it. The setup is simple, which helps a lot. That's a good improvement. Have people reported fewer problems with this new version? Yes, there are fewer big problems now. Most issues are small and not so serious. It looks like we fixed many of the big problems from before. That sounds good. Lastly, can the new version handle more users than the old one? Definitely. The new version can support more users and handle more actions at once. We've made sure it can grow as more users join without slowing down. Fantastic, James. I'll put all this information into a report and talk about it with the team tomorrow. This feedback should help us know what to do next. I'm glad to help. Let me know if you need any more information for the report.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.6,
+      "word": "Good"
+    },
+    {
+      "startTime": 0.6,
+      "finishTime": 0.9,
+      "word": "morning,"
+    },
+    {
+      "startTime": 0.9,
+      "finishTime": 1.4,
+      "word": "James."
+    },
+    {
+      "startTime": 1.68,
+      "finishTime": 1.98,
+      "word": "Today"
+    },
+    {
+      "startTime": 1.98,
+      "finishTime": 2.1,
+      "word": "we"
+    },
+    {
+      "startTime": 2.1,
+      "finishTime": 2.3,
+      "word": "need"
+    },
+    {
+      "startTime": 2.3,
+      "finishTime": 2.46,
+      "word": "to"
+    },
+    {
+      "startTime": 2.46,
+      "finishTime": 2.72,
+      "word": "compare"
+    },
+    {
+      "startTime": 2.72,
+      "finishTime": 3.04,
+      "word": "two"
+    },
+    {
+      "startTime": 3.04,
+      "finishTime": 3.4,
+      "word": "versions"
+    },
+    {
+      "startTime": 3.4,
+      "finishTime": 3.58,
+      "word": "of"
+    },
+    {
+      "startTime": 3.58,
+      "finishTime": 3.78,
+      "word": "our"
+    },
+    {
+      "startTime": 3.78,
+      "finishTime": 4.14,
+      "word": "software."
+    },
+    {
+      "startTime": 4.64,
+      "finishTime": 4.92,
+      "word": "Let's"
+    },
+    {
+      "startTime": 4.92,
+      "finishTime": 5.16,
+      "word": "start"
+    },
+    {
+      "startTime": 5.16,
+      "finishTime": 5.32,
+      "word": "with"
+    },
+    {
+      "startTime": 5.32,
+      "finishTime": 5.52,
+      "word": "how"
+    },
+    {
+      "startTime": 5.52,
+      "finishTime": 5.72,
+      "word": "they"
+    },
+    {
+      "startTime": 5.72,
+      "finishTime": 5.98,
+      "word": "look."
+    },
+    {
+      "startTime": 6.18,
+      "finishTime": 6.32,
+      "word": "The"
+    },
+    {
+      "startTime": 6.32,
+      "finishTime": 6.48,
+      "word": "new"
+    },
+    {
+      "startTime": 6.48,
+      "finishTime": 6.66,
+      "word": "one"
+    },
+    {
+      "startTime": 6.66,
+      "finishTime": 6.94,
+      "word": "seems"
+    },
+    {
+      "startTime": 6.94,
+      "finishTime": 7.26,
+      "word": "easier"
+    },
+    {
+      "startTime": 7.26,
+      "finishTime": 7.56,
+      "word": "to"
+    },
+    {
+      "startTime": 7.56,
+      "finishTime": 7.78,
+      "word": "use"
+    },
+    {
+      "startTime": 7.78,
+      "finishTime": 8.08,
+      "word": "and"
+    },
+    {
+      "startTime": 8.08,
+      "finishTime": 8.28,
+      "word": "cleaner"
+    },
+    {
+      "startTime": 8.28,
+      "finishTime": 8.46,
+      "word": "than"
+    },
+    {
+      "startTime": 8.46,
+      "finishTime": 8.6,
+      "word": "the"
+    },
+    {
+      "startTime": 8.6,
+      "finishTime": 8.76,
+      "word": "old"
+    },
+    {
+      "startTime": 8.76,
+      "finishTime": 9.06,
+      "word": "one."
+    },
+    {
+      "startTime": 9.34,
+      "finishTime": 9.62,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 9.62,
+      "finishTime": 9.98,
+      "word": "Jessica."
+    },
+    {
+      "startTime": 9.98,
+      "finishTime": 10.38,
+      "word": "I"
+    },
+    {
+      "startTime": 10.38,
+      "finishTime": 10.68,
+      "word": "agree."
+    },
+    {
+      "startTime": 10.86,
+      "finishTime": 11,
+      "word": "The"
+    },
+    {
+      "startTime": 11,
+      "finishTime": 11.2,
+      "word": "new"
+    },
+    {
+      "startTime": 11.2,
+      "finishTime": 11.5,
+      "word": "version"
+    },
+    {
+      "startTime": 11.5,
+      "finishTime": 11.78,
+      "word": "not"
+    },
+    {
+      "startTime": 11.78,
+      "finishTime": 12.06,
+      "word": "only"
+    },
+    {
+      "startTime": 12.06,
+      "finishTime": 12.3,
+      "word": "looks"
+    },
+    {
+      "startTime": 12.3,
+      "finishTime": 12.6,
+      "word": "better,"
+    },
+    {
+      "startTime": 12.7,
+      "finishTime": 12.82,
+      "word": "but"
+    },
+    {
+      "startTime": 12.82,
+      "finishTime": 13.24,
+      "word": "also"
+    },
+    {
+      "startTime": 13.24,
+      "finishTime": 13.48,
+      "word": "works"
+    },
+    {
+      "startTime": 13.48,
+      "finishTime": 13.84,
+      "word": "better."
+    },
+    {
+      "startTime": 14,
+      "finishTime": 14.36,
+      "word": "It's"
+    },
+    {
+      "startTime": 14.36,
+      "finishTime": 14.76,
+      "word": "faster"
+    },
+    {
+      "startTime": 14.76,
+      "finishTime": 15.06,
+      "word": "and"
+    },
+    {
+      "startTime": 15.06,
+      "finishTime": 15.38,
+      "word": "responds"
+    },
+    {
+      "startTime": 15.38,
+      "finishTime": 15.74,
+      "word": "quicker"
+    },
+    {
+      "startTime": 15.74,
+      "finishTime": 16.06,
+      "word": "when"
+    },
+    {
+      "startTime": 16.06,
+      "finishTime": 16.22,
+      "word": "we"
+    },
+    {
+      "startTime": 16.22,
+      "finishTime": 16.4,
+      "word": "do"
+    },
+    {
+      "startTime": 16.4,
+      "finishTime": 16.6,
+      "word": "things"
+    },
+    {
+      "startTime": 16.6,
+      "finishTime": 16.8,
+      "word": "on"
+    },
+    {
+      "startTime": 16.8,
+      "finishTime": 16.9,
+      "word": "it."
+    },
+    {
+      "startTime": 17.6,
+      "finishTime": 17.86,
+      "word": "That's"
+    },
+    {
+      "startTime": 17.86,
+      "finishTime": 17.98,
+      "word": "good"
+    },
+    {
+      "startTime": 17.98,
+      "finishTime": 18.2,
+      "word": "to"
+    },
+    {
+      "startTime": 18.2,
+      "finishTime": 18.48,
+      "word": "hear."
+    },
+    {
+      "startTime": 18.78,
+      "finishTime": 18.92,
+      "word": "What"
+    },
+    {
+      "startTime": 18.92,
+      "finishTime": 19.08,
+      "word": "about"
+    },
+    {
+      "startTime": 19.08,
+      "finishTime": 19.38,
+      "word": "how"
+    },
+    {
+      "startTime": 19.38,
+      "finishTime": 19.62,
+      "word": "stable"
+    },
+    {
+      "startTime": 19.62,
+      "finishTime": 19.88,
+      "word": "they"
+    },
+    {
+      "startTime": 19.88,
+      "finishTime": 20.1,
+      "word": "are?"
+    },
+    {
+      "startTime": 20.14,
+      "finishTime": 20.3,
+      "word": "Does"
+    },
+    {
+      "startTime": 20.3,
+      "finishTime": 20.5,
+      "word": "the"
+    },
+    {
+      "startTime": 20.5,
+      "finishTime": 20.64,
+      "word": "new"
+    },
+    {
+      "startTime": 20.64,
+      "finishTime": 20.98,
+      "word": "version"
+    },
+    {
+      "startTime": 20.98,
+      "finishTime": 21.24,
+      "word": "work"
+    },
+    {
+      "startTime": 21.24,
+      "finishTime": 21.56,
+      "word": "without"
+    },
+    {
+      "startTime": 21.56,
+      "finishTime": 21.86,
+      "word": "stopping"
+    },
+    {
+      "startTime": 21.86,
+      "finishTime": 22.12,
+      "word": "or"
+    },
+    {
+      "startTime": 22.12,
+      "finishTime": 22.36,
+      "word": "crashing?"
+    },
+    {
+      "startTime": 22.82,
+      "finishTime": 22.98,
+      "word": "The"
+    },
+    {
+      "startTime": 22.98,
+      "finishTime": 23.2,
+      "word": "new"
+    },
+    {
+      "startTime": 23.2,
+      "finishTime": 23.52,
+      "word": "version"
+    },
+    {
+      "startTime": 23.52,
+      "finishTime": 24,
+      "word": "is"
+    },
+    {
+      "startTime": 24,
+      "finishTime": 24.26,
+      "word": "much"
+    },
+    {
+      "startTime": 24.26,
+      "finishTime": 24.62,
+      "word": "more"
+    },
+    {
+      "startTime": 24.62,
+      "finishTime": 24.92,
+      "word": "stable."
+    },
+    {
+      "startTime": 25.1,
+      "finishTime": 25.44,
+      "word": "We've"
+    },
+    {
+      "startTime": 25.44,
+      "finishTime": 25.58,
+      "word": "seen"
+    },
+    {
+      "startTime": 25.58,
+      "finishTime": 25.96,
+      "word": "fewer"
+    },
+    {
+      "startTime": 25.96,
+      "finishTime": 26.44,
+      "word": "problems"
+    },
+    {
+      "startTime": 26.44,
+      "finishTime": 26.76,
+      "word": "and"
+    },
+    {
+      "startTime": 26.76,
+      "finishTime": 27.06,
+      "word": "it"
+    },
+    {
+      "startTime": 27.06,
+      "finishTime": 27.24,
+      "word": "doesn't"
+    },
+    {
+      "startTime": 27.24,
+      "finishTime": 27.44,
+      "word": "stop"
+    },
+    {
+      "startTime": 27.44,
+      "finishTime": 27.78,
+      "word": "working"
+    },
+    {
+      "startTime": 27.78,
+      "finishTime": 28.04,
+      "word": "as"
+    },
+    {
+      "startTime": 28.04,
+      "finishTime": 28.28,
+      "word": "much."
+    },
+    {
+      "startTime": 28.28,
+      "finishTime": 28.62,
+      "word": "It"
+    },
+    {
+      "startTime": 28.62,
+      "finishTime": 28.86,
+      "word": "can"
+    },
+    {
+      "startTime": 28.86,
+      "finishTime": 29.12,
+      "word": "handle"
+    },
+    {
+      "startTime": 29.12,
+      "finishTime": 29.42,
+      "word": "more"
+    },
+    {
+      "startTime": 29.42,
+      "finishTime": 29.66,
+      "word": "data"
+    },
+    {
+      "startTime": 29.66,
+      "finishTime": 30.02,
+      "word": "now,"
+    },
+    {
+      "startTime": 30.2,
+      "finishTime": 30.4,
+      "word": "which"
+    },
+    {
+      "startTime": 30.4,
+      "finishTime": 30.84,
+      "word": "is"
+    },
+    {
+      "startTime": 30.84,
+      "finishTime": 31.08,
+      "word": "much"
+    },
+    {
+      "startTime": 31.08,
+      "finishTime": 31.58,
+      "word": "better."
+    },
+    {
+      "startTime": 32.58,
+      "finishTime": 32.64,
+      "word": "Great."
+    },
+    {
+      "startTime": 32.72,
+      "finishTime": 32.94,
+      "word": "How"
+    },
+    {
+      "startTime": 32.94,
+      "finishTime": 33.14,
+      "word": "about"
+    },
+    {
+      "startTime": 33.14,
+      "finishTime": 33.48,
+      "word": "adjusting"
+    },
+    {
+      "startTime": 33.48,
+      "finishTime": 33.7,
+      "word": "to"
+    },
+    {
+      "startTime": 33.7,
+      "finishTime": 34,
+      "word": "different"
+    },
+    {
+      "startTime": 34,
+      "finishTime": 34.3,
+      "word": "screen"
+    },
+    {
+      "startTime": 34.3,
+      "finishTime": 34.74,
+      "word": "sizes?"
+    },
+    {
+      "startTime": 35.12,
+      "finishTime": 35.28,
+      "word": "The"
+    },
+    {
+      "startTime": 35.28,
+      "finishTime": 35.48,
+      "word": "old"
+    },
+    {
+      "startTime": 35.48,
+      "finishTime": 35.78,
+      "word": "version"
+    },
+    {
+      "startTime": 35.78,
+      "finishTime": 36,
+      "word": "was"
+    },
+    {
+      "startTime": 36,
+      "finishTime": 36.2,
+      "word": "quite"
+    },
+    {
+      "startTime": 36.2,
+      "finishTime": 36.34,
+      "word": "good"
+    },
+    {
+      "startTime": 36.34,
+      "finishTime": 36.54,
+      "word": "at"
+    },
+    {
+      "startTime": 36.54,
+      "finishTime": 36.74,
+      "word": "this,"
+    },
+    {
+      "startTime": 36.84,
+      "finishTime": 36.9,
+      "word": "but"
+    },
+    {
+      "startTime": 36.9,
+      "finishTime": 37.02,
+      "word": "the"
+    },
+    {
+      "startTime": 37.02,
+      "finishTime": 37.14,
+      "word": "new"
+    },
+    {
+      "startTime": 37.14,
+      "finishTime": 37.24,
+      "word": "one"
+    },
+    {
+      "startTime": 37.24,
+      "finishTime": 37.36,
+      "word": "is"
+    },
+    {
+      "startTime": 37.36,
+      "finishTime": 37.58,
+      "word": "even"
+    },
+    {
+      "startTime": 37.58,
+      "finishTime": 37.82,
+      "word": "better,"
+    },
+    {
+      "startTime": 37.84,
+      "finishTime": 38.2,
+      "word": "right?"
+    },
+    {
+      "startTime": 38.54,
+      "finishTime": 38.96,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 38.98,
+      "finishTime": 39.3,
+      "word": "it"
+    },
+    {
+      "startTime": 39.3,
+      "finishTime": 39.58,
+      "word": "changes"
+    },
+    {
+      "startTime": 39.58,
+      "finishTime": 39.92,
+      "word": "size"
+    },
+    {
+      "startTime": 39.92,
+      "finishTime": 40.42,
+      "word": "really"
+    },
+    {
+      "startTime": 40.42,
+      "finishTime": 40.7,
+      "word": "well."
+    },
+    {
+      "startTime": 40.98,
+      "finishTime": 41.16,
+      "word": "It"
+    },
+    {
+      "startTime": 41.16,
+      "finishTime": 41.34,
+      "word": "works"
+    },
+    {
+      "startTime": 41.34,
+      "finishTime": 41.68,
+      "word": "great"
+    },
+    {
+      "startTime": 41.68,
+      "finishTime": 41.92,
+      "word": "on"
+    },
+    {
+      "startTime": 41.92,
+      "finishTime": 42.2,
+      "word": "different"
+    },
+    {
+      "startTime": 42.2,
+      "finishTime": 42.62,
+      "word": "devices."
+    },
+    {
+      "startTime": 42.94,
+      "finishTime": 43.2,
+      "word": "Everything"
+    },
+    {
+      "startTime": 43.2,
+      "finishTime": 43.74,
+      "word": "adjusts"
+    },
+    {
+      "startTime": 43.74,
+      "finishTime": 43.92,
+      "word": "by"
+    },
+    {
+      "startTime": 43.92,
+      "finishTime": 44.3,
+      "word": "itself"
+    },
+    {
+      "startTime": 44.3,
+      "finishTime": 44.5,
+      "word": "and"
+    },
+    {
+      "startTime": 44.5,
+      "finishTime": 44.72,
+      "word": "looks"
+    },
+    {
+      "startTime": 44.72,
+      "finishTime": 45.08,
+      "word": "good,"
+    },
+    {
+      "startTime": 45.2,
+      "finishTime": 45.48,
+      "word": "which"
+    },
+    {
+      "startTime": 45.48,
+      "finishTime": 45.7,
+      "word": "makes"
+    },
+    {
+      "startTime": 45.7,
+      "finishTime": 46.1,
+      "word": "it"
+    },
+    {
+      "startTime": 46.1,
+      "finishTime": 46.38,
+      "word": "nicer"
+    },
+    {
+      "startTime": 46.38,
+      "finishTime": 46.66,
+      "word": "to"
+    },
+    {
+      "startTime": 46.66,
+      "finishTime": 47.02,
+      "word": "use."
+    },
+    {
+      "startTime": 47.52,
+      "finishTime": 47.86,
+      "word": "That's"
+    },
+    {
+      "startTime": 47.86,
+      "finishTime": 48.12,
+      "word": "good."
+    },
+    {
+      "startTime": 48.34,
+      "finishTime": 48.6,
+      "word": "And"
+    },
+    {
+      "startTime": 48.6,
+      "finishTime": 48.86,
+      "word": "installing"
+    },
+    {
+      "startTime": 48.86,
+      "finishTime": 49.12,
+      "word": "it,"
+    },
+    {
+      "startTime": 49.12,
+      "finishTime": 49.28,
+      "word": "is"
+    },
+    {
+      "startTime": 49.28,
+      "finishTime": 49.4,
+      "word": "it"
+    },
+    {
+      "startTime": 49.4,
+      "finishTime": 49.68,
+      "word": "faster"
+    },
+    {
+      "startTime": 49.68,
+      "finishTime": 49.94,
+      "word": "now?"
+    },
+    {
+      "startTime": 50.42,
+      "finishTime": 50.88,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 51,
+      "finishTime": 51.24,
+      "word": "it"
+    },
+    {
+      "startTime": 51.24,
+      "finishTime": 51.56,
+      "word": "now"
+    },
+    {
+      "startTime": 51.56,
+      "finishTime": 51.84,
+      "word": "installs"
+    },
+    {
+      "startTime": 51.84,
+      "finishTime": 52.02,
+      "word": "much"
+    },
+    {
+      "startTime": 52.02,
+      "finishTime": 52.32,
+      "word": "quicker."
+    },
+    {
+      "startTime": 52.58,
+      "finishTime": 52.84,
+      "word": "It's"
+    },
+    {
+      "startTime": 52.84,
+      "finishTime": 53.12,
+      "word": "easier"
+    },
+    {
+      "startTime": 53.12,
+      "finishTime": 53.36,
+      "word": "for"
+    },
+    {
+      "startTime": 53.36,
+      "finishTime": 53.68,
+      "word": "users"
+    },
+    {
+      "startTime": 53.68,
+      "finishTime": 53.92,
+      "word": "to"
+    },
+    {
+      "startTime": 53.92,
+      "finishTime": 54.04,
+      "word": "start"
+    },
+    {
+      "startTime": 54.04,
+      "finishTime": 54.28,
+      "word": "using"
+    },
+    {
+      "startTime": 54.28,
+      "finishTime": 54.52,
+      "word": "it"
+    },
+    {
+      "startTime": 54.52,
+      "finishTime": 55,
+      "word": "immediately"
+    },
+    {
+      "startTime": 55,
+      "finishTime": 55.3,
+      "word": "after"
+    },
+    {
+      "startTime": 55.3,
+      "finishTime": 55.54,
+      "word": "they"
+    },
+    {
+      "startTime": 55.54,
+      "finishTime": 55.86,
+      "word": "download"
+    },
+    {
+      "startTime": 55.86,
+      "finishTime": 56.06,
+      "word": "it."
+    },
+    {
+      "startTime": 56.06,
+      "finishTime": 56.52,
+      "word": "The"
+    },
+    {
+      "startTime": 56.52,
+      "finishTime": 56.72,
+      "word": "setup"
+    },
+    {
+      "startTime": 56.72,
+      "finishTime": 56.98,
+      "word": "is"
+    },
+    {
+      "startTime": 56.98,
+      "finishTime": 57.3,
+      "word": "simple,"
+    },
+    {
+      "startTime": 57.5,
+      "finishTime": 57.6,
+      "word": "which"
+    },
+    {
+      "startTime": 57.6,
+      "finishTime": 57.84,
+      "word": "helps"
+    },
+    {
+      "startTime": 57.84,
+      "finishTime": 58.04,
+      "word": "a"
+    },
+    {
+      "startTime": 58.04,
+      "finishTime": 58.42,
+      "word": "lot."
+    },
+    {
+      "startTime": 59.68,
+      "finishTime": 59.86,
+      "word": "That's"
+    },
+    {
+      "startTime": 59.86,
+      "finishTime": 59.92,
+      "word": "a"
+    },
+    {
+      "startTime": 59.92,
+      "finishTime": 60.08,
+      "word": "good"
+    },
+    {
+      "startTime": 60.08,
+      "finishTime": 60.52,
+      "word": "improvement."
+    },
+    {
+      "startTime": 60.76,
+      "finishTime": 60.92,
+      "word": "Have"
+    },
+    {
+      "startTime": 60.92,
+      "finishTime": 61.14,
+      "word": "people"
+    },
+    {
+      "startTime": 61.14,
+      "finishTime": 61.6,
+      "word": "reported"
+    },
+    {
+      "startTime": 61.6,
+      "finishTime": 61.88,
+      "word": "fewer"
+    },
+    {
+      "startTime": 61.88,
+      "finishTime": 62.3,
+      "word": "problems"
+    },
+    {
+      "startTime": 62.3,
+      "finishTime": 62.52,
+      "word": "with"
+    },
+    {
+      "startTime": 62.52,
+      "finishTime": 62.76,
+      "word": "this"
+    },
+    {
+      "startTime": 62.76,
+      "finishTime": 62.92,
+      "word": "new"
+    },
+    {
+      "startTime": 62.92,
+      "finishTime": 63.28,
+      "word": "version?"
+    },
+    {
+      "startTime": 63.68,
+      "finishTime": 64.12,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 64.18,
+      "finishTime": 64.36,
+      "word": "there"
+    },
+    {
+      "startTime": 64.36,
+      "finishTime": 64.5,
+      "word": "are"
+    },
+    {
+      "startTime": 64.5,
+      "finishTime": 64.74,
+      "word": "fewer"
+    },
+    {
+      "startTime": 64.74,
+      "finishTime": 64.96,
+      "word": "big"
+    },
+    {
+      "startTime": 64.96,
+      "finishTime": 65.32,
+      "word": "problems"
+    },
+    {
+      "startTime": 65.32,
+      "finishTime": 65.74,
+      "word": "now."
+    },
+    {
+      "startTime": 66,
+      "finishTime": 66.32,
+      "word": "Most"
+    },
+    {
+      "startTime": 66.32,
+      "finishTime": 66.66,
+      "word": "issues"
+    },
+    {
+      "startTime": 66.66,
+      "finishTime": 66.96,
+      "word": "are"
+    },
+    {
+      "startTime": 66.96,
+      "finishTime": 67.32,
+      "word": "small"
+    },
+    {
+      "startTime": 67.32,
+      "finishTime": 67.54,
+      "word": "and"
+    },
+    {
+      "startTime": 67.54,
+      "finishTime": 67.8,
+      "word": "not"
+    },
+    {
+      "startTime": 67.8,
+      "finishTime": 68.06,
+      "word": "so"
+    },
+    {
+      "startTime": 68.06,
+      "finishTime": 68.4,
+      "word": "serious."
+    },
+    {
+      "startTime": 68.88,
+      "finishTime": 69.08,
+      "word": "It"
+    },
+    {
+      "startTime": 69.08,
+      "finishTime": 69.3,
+      "word": "looks"
+    },
+    {
+      "startTime": 69.3,
+      "finishTime": 69.52,
+      "word": "like"
+    },
+    {
+      "startTime": 69.52,
+      "finishTime": 69.76,
+      "word": "we"
+    },
+    {
+      "startTime": 69.76,
+      "finishTime": 69.98,
+      "word": "fixed"
+    },
+    {
+      "startTime": 69.98,
+      "finishTime": 70.24,
+      "word": "many"
+    },
+    {
+      "startTime": 70.24,
+      "finishTime": 70.4,
+      "word": "of"
+    },
+    {
+      "startTime": 70.4,
+      "finishTime": 70.44,
+      "word": "the"
+    },
+    {
+      "startTime": 70.44,
+      "finishTime": 70.6,
+      "word": "big"
+    },
+    {
+      "startTime": 70.6,
+      "finishTime": 70.94,
+      "word": "problems"
+    },
+    {
+      "startTime": 70.94,
+      "finishTime": 71.16,
+      "word": "from"
+    },
+    {
+      "startTime": 71.16,
+      "finishTime": 71.64,
+      "word": "before."
+    },
+    {
+      "startTime": 72.18,
+      "finishTime": 72.3,
+      "word": "That"
+    },
+    {
+      "startTime": 72.3,
+      "finishTime": 72.58,
+      "word": "sounds"
+    },
+    {
+      "startTime": 72.58,
+      "finishTime": 73.02,
+      "word": "good."
+    },
+    {
+      "startTime": 73.44,
+      "finishTime": 73.9,
+      "word": "Lastly,"
+    },
+    {
+      "startTime": 74.02,
+      "finishTime": 74.18,
+      "word": "can"
+    },
+    {
+      "startTime": 74.18,
+      "finishTime": 74.34,
+      "word": "the"
+    },
+    {
+      "startTime": 74.34,
+      "finishTime": 74.46,
+      "word": "new"
+    },
+    {
+      "startTime": 74.46,
+      "finishTime": 74.7,
+      "word": "version"
+    },
+    {
+      "startTime": 74.7,
+      "finishTime": 75.02,
+      "word": "handle"
+    },
+    {
+      "startTime": 75.02,
+      "finishTime": 75.28,
+      "word": "more"
+    },
+    {
+      "startTime": 75.28,
+      "finishTime": 75.66,
+      "word": "users"
+    },
+    {
+      "startTime": 75.66,
+      "finishTime": 75.82,
+      "word": "than"
+    },
+    {
+      "startTime": 75.82,
+      "finishTime": 75.96,
+      "word": "the"
+    },
+    {
+      "startTime": 75.96,
+      "finishTime": 76.1,
+      "word": "old"
+    },
+    {
+      "startTime": 76.1,
+      "finishTime": 76.34,
+      "word": "one?"
+    },
+    {
+      "startTime": 76.66,
+      "finishTime": 77.18,
+      "word": "Definitely."
+    },
+    {
+      "startTime": 77.62,
+      "finishTime": 77.78,
+      "word": "The"
+    },
+    {
+      "startTime": 77.78,
+      "finishTime": 77.98,
+      "word": "new"
+    },
+    {
+      "startTime": 77.98,
+      "finishTime": 78.26,
+      "word": "version"
+    },
+    {
+      "startTime": 78.26,
+      "finishTime": 78.5,
+      "word": "can"
+    },
+    {
+      "startTime": 78.5,
+      "finishTime": 78.84,
+      "word": "support"
+    },
+    {
+      "startTime": 78.84,
+      "finishTime": 79.12,
+      "word": "more"
+    },
+    {
+      "startTime": 79.12,
+      "finishTime": 79.5,
+      "word": "users"
+    },
+    {
+      "startTime": 79.5,
+      "finishTime": 79.86,
+      "word": "and"
+    },
+    {
+      "startTime": 79.86,
+      "finishTime": 80.06,
+      "word": "handle"
+    },
+    {
+      "startTime": 80.06,
+      "finishTime": 80.36,
+      "word": "more"
+    },
+    {
+      "startTime": 80.36,
+      "finishTime": 80.66,
+      "word": "actions"
+    },
+    {
+      "startTime": 80.66,
+      "finishTime": 80.92,
+      "word": "at"
+    },
+    {
+      "startTime": 80.92,
+      "finishTime": 81.18,
+      "word": "once."
+    },
+    {
+      "startTime": 81.18,
+      "finishTime": 81.9,
+      "word": "We've"
+    },
+    {
+      "startTime": 81.9,
+      "finishTime": 82.06,
+      "word": "made"
+    },
+    {
+      "startTime": 82.06,
+      "finishTime": 82.32,
+      "word": "sure"
+    },
+    {
+      "startTime": 82.32,
+      "finishTime": 82.5,
+      "word": "it"
+    },
+    {
+      "startTime": 82.5,
+      "finishTime": 82.76,
+      "word": "can"
+    },
+    {
+      "startTime": 82.76,
+      "finishTime": 83.16,
+      "word": "grow"
+    },
+    {
+      "startTime": 83.16,
+      "finishTime": 83.66,
+      "word": "as"
+    },
+    {
+      "startTime": 83.66,
+      "finishTime": 83.94,
+      "word": "more"
+    },
+    {
+      "startTime": 83.94,
+      "finishTime": 84.26,
+      "word": "users"
+    },
+    {
+      "startTime": 84.26,
+      "finishTime": 84.62,
+      "word": "join"
+    },
+    {
+      "startTime": 84.62,
+      "finishTime": 85.1,
+      "word": "without"
+    },
+    {
+      "startTime": 85.1,
+      "finishTime": 85.4,
+      "word": "slowing"
+    },
+    {
+      "startTime": 85.4,
+      "finishTime": 86.08,
+      "word": "down."
+    },
+    {
+      "startTime": 86.76,
+      "finishTime": 86.8,
+      "word": "Fantastic,"
+    },
+    {
+      "startTime": 87.04,
+      "finishTime": 87.2,
+      "word": "James."
+    },
+    {
+      "startTime": 87.64,
+      "finishTime": 87.84,
+      "word": "I'll"
+    },
+    {
+      "startTime": 87.84,
+      "finishTime": 87.94,
+      "word": "put"
+    },
+    {
+      "startTime": 87.94,
+      "finishTime": 88.14,
+      "word": "all"
+    },
+    {
+      "startTime": 88.14,
+      "finishTime": 88.32,
+      "word": "this"
+    },
+    {
+      "startTime": 88.32,
+      "finishTime": 88.76,
+      "word": "information"
+    },
+    {
+      "startTime": 88.76,
+      "finishTime": 89.04,
+      "word": "into"
+    },
+    {
+      "startTime": 89.04,
+      "finishTime": 89.32,
+      "word": "a"
+    },
+    {
+      "startTime": 89.32,
+      "finishTime": 89.56,
+      "word": "report"
+    },
+    {
+      "startTime": 89.56,
+      "finishTime": 89.8,
+      "word": "and"
+    },
+    {
+      "startTime": 89.8,
+      "finishTime": 90.02,
+      "word": "talk"
+    },
+    {
+      "startTime": 90.02,
+      "finishTime": 90.2,
+      "word": "about"
+    },
+    {
+      "startTime": 90.2,
+      "finishTime": 90.28,
+      "word": "it"
+    },
+    {
+      "startTime": 90.28,
+      "finishTime": 90.42,
+      "word": "with"
+    },
+    {
+      "startTime": 90.42,
+      "finishTime": 90.54,
+      "word": "the"
+    },
+    {
+      "startTime": 90.54,
+      "finishTime": 90.7,
+      "word": "team"
+    },
+    {
+      "startTime": 90.7,
+      "finishTime": 91.16,
+      "word": "tomorrow."
+    },
+    {
+      "startTime": 91.52,
+      "finishTime": 91.68,
+      "word": "This"
+    },
+    {
+      "startTime": 91.68,
+      "finishTime": 91.98,
+      "word": "feedback"
+    },
+    {
+      "startTime": 91.98,
+      "finishTime": 92.18,
+      "word": "should"
+    },
+    {
+      "startTime": 92.18,
+      "finishTime": 92.32,
+      "word": "help"
+    },
+    {
+      "startTime": 92.32,
+      "finishTime": 92.56,
+      "word": "us"
+    },
+    {
+      "startTime": 92.56,
+      "finishTime": 92.72,
+      "word": "know"
+    },
+    {
+      "startTime": 92.72,
+      "finishTime": 92.92,
+      "word": "what"
+    },
+    {
+      "startTime": 92.92,
+      "finishTime": 93.02,
+      "word": "to"
+    },
+    {
+      "startTime": 93.02,
+      "finishTime": 93.14,
+      "word": "do"
+    },
+    {
+      "startTime": 93.14,
+      "finishTime": 93.52,
+      "word": "next."
+    },
+    {
+      "startTime": 93.94,
+      "finishTime": 94.16,
+      "word": "I'm"
+    },
+    {
+      "startTime": 94.16,
+      "finishTime": 94.28,
+      "word": "glad"
+    },
+    {
+      "startTime": 94.28,
+      "finishTime": 94.48,
+      "word": "to"
+    },
+    {
+      "startTime": 94.48,
+      "finishTime": 94.72,
+      "word": "help."
+    },
+    {
+      "startTime": 94.92,
+      "finishTime": 95.08,
+      "word": "Let"
+    },
+    {
+      "startTime": 95.08,
+      "finishTime": 95.18,
+      "word": "me"
+    },
+    {
+      "startTime": 95.18,
+      "finishTime": 95.3,
+      "word": "know"
+    },
+    {
+      "startTime": 95.3,
+      "finishTime": 95.44,
+      "word": "if"
+    },
+    {
+      "startTime": 95.44,
+      "finishTime": 95.58,
+      "word": "you"
+    },
+    {
+      "startTime": 95.58,
+      "finishTime": 95.74,
+      "word": "need"
+    },
+    {
+      "startTime": 95.74,
+      "finishTime": 96.02,
+      "word": "any"
+    },
+    {
+      "startTime": 96.02,
+      "finishTime": 96.2,
+      "word": "more"
+    },
+    {
+      "startTime": 96.2,
+      "finishTime": 96.76,
+      "word": "information"
+    },
+    {
+      "startTime": 96.76,
+      "finishTime": 97.02,
+      "word": "for"
+    },
+    {
+      "startTime": 97.02,
+      "finishTime": 97.26,
+      "word": "the"
+    },
+    {
+      "startTime": 97.26,
+      "finishTime": 97.46,
+      "word": "report."
+    }
+  ]
+}

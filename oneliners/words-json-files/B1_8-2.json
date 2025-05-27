@@ -1,0 +1,855 @@
+{
+  "text": "Hi, Lisa. What do you think about the recent team meeting? Some people seem to have strong opinions about our approach to the project. I noticed that too. If everyone has a different opinion, it could be difficult to make progress. Yes, but I think it's healthy to have some disagreement. If we all agreed on everything, we might miss important details. Don't you think? I understand, but sometimes too much disagreement can slow things down. If we want to meet our deadlines, we need to work together. True, but if we ignore different perspectives, we could end up with a less effective solution. I guess you're right. I just feel that if we focus too much on debating, we won't have enough time to get the actual work done. Perhaps, but it's also important to make sure everyone feels heard. If people don't feel valued, they might lose motivation, right? That's a good point. Maybe we can find a balance between listening to feedback and keeping things on track.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.54,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 0.64,
+      "finishTime": 0.84,
+      "word": "Lisa."
+    },
+    {
+      "startTime": 1.14,
+      "finishTime": 1.28,
+      "word": "What"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.42,
+      "word": "do"
+    },
+    {
+      "startTime": 1.42,
+      "finishTime": 1.52,
+      "word": "you"
+    },
+    {
+      "startTime": 1.52,
+      "finishTime": 1.66,
+      "word": "think"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 1.84,
+      "word": "about"
+    },
+    {
+      "startTime": 1.84,
+      "finishTime": 2,
+      "word": "the"
+    },
+    {
+      "startTime": 2,
+      "finishTime": 2.3,
+      "word": "recent"
+    },
+    {
+      "startTime": 2.3,
+      "finishTime": 2.54,
+      "word": "team"
+    },
+    {
+      "startTime": 2.54,
+      "finishTime": 2.84,
+      "word": "meeting?"
+    },
+    {
+      "startTime": 3.24,
+      "finishTime": 3.5,
+      "word": "Some"
+    },
+    {
+      "startTime": 3.5,
+      "finishTime": 3.84,
+      "word": "people"
+    },
+    {
+      "startTime": 3.84,
+      "finishTime": 4.12,
+      "word": "seem"
+    },
+    {
+      "startTime": 4.12,
+      "finishTime": 4.36,
+      "word": "to"
+    },
+    {
+      "startTime": 4.36,
+      "finishTime": 4.56,
+      "word": "have"
+    },
+    {
+      "startTime": 4.56,
+      "finishTime": 4.84,
+      "word": "strong"
+    },
+    {
+      "startTime": 4.84,
+      "finishTime": 5.26,
+      "word": "opinions"
+    },
+    {
+      "startTime": 5.26,
+      "finishTime": 5.66,
+      "word": "about"
+    },
+    {
+      "startTime": 5.66,
+      "finishTime": 5.9,
+      "word": "our"
+    },
+    {
+      "startTime": 5.9,
+      "finishTime": 6.32,
+      "word": "approach"
+    },
+    {
+      "startTime": 6.32,
+      "finishTime": 6.52,
+      "word": "to"
+    },
+    {
+      "startTime": 6.52,
+      "finishTime": 6.68,
+      "word": "the"
+    },
+    {
+      "startTime": 6.68,
+      "finishTime": 7.1,
+      "word": "project."
+    },
+    {
+      "startTime": 7.66,
+      "finishTime": 7.74,
+      "word": "I"
+    },
+    {
+      "startTime": 7.74,
+      "finishTime": 8.04,
+      "word": "noticed"
+    },
+    {
+      "startTime": 8.04,
+      "finishTime": 8.4,
+      "word": "that"
+    },
+    {
+      "startTime": 8.4,
+      "finishTime": 8.74,
+      "word": "too."
+    },
+    {
+      "startTime": 8.86,
+      "finishTime": 9.08,
+      "word": "If"
+    },
+    {
+      "startTime": 9.08,
+      "finishTime": 9.3,
+      "word": "everyone"
+    },
+    {
+      "startTime": 9.3,
+      "finishTime": 9.54,
+      "word": "has"
+    },
+    {
+      "startTime": 9.54,
+      "finishTime": 9.66,
+      "word": "a"
+    },
+    {
+      "startTime": 9.66,
+      "finishTime": 9.86,
+      "word": "different"
+    },
+    {
+      "startTime": 9.86,
+      "finishTime": 10.22,
+      "word": "opinion,"
+    },
+    {
+      "startTime": 10.28,
+      "finishTime": 10.46,
+      "word": "it"
+    },
+    {
+      "startTime": 10.46,
+      "finishTime": 10.64,
+      "word": "could"
+    },
+    {
+      "startTime": 10.64,
+      "finishTime": 10.84,
+      "word": "be"
+    },
+    {
+      "startTime": 10.84,
+      "finishTime": 11.16,
+      "word": "difficult"
+    },
+    {
+      "startTime": 11.16,
+      "finishTime": 11.32,
+      "word": "to"
+    },
+    {
+      "startTime": 11.32,
+      "finishTime": 11.5,
+      "word": "make"
+    },
+    {
+      "startTime": 11.5,
+      "finishTime": 12,
+      "word": "progress."
+    },
+    {
+      "startTime": 12.48,
+      "finishTime": 12.86,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 12.86,
+      "finishTime": 13.22,
+      "word": "but"
+    },
+    {
+      "startTime": 13.22,
+      "finishTime": 13.32,
+      "word": "I"
+    },
+    {
+      "startTime": 13.32,
+      "finishTime": 13.42,
+      "word": "think"
+    },
+    {
+      "startTime": 13.42,
+      "finishTime": 13.66,
+      "word": "it's"
+    },
+    {
+      "startTime": 13.66,
+      "finishTime": 13.88,
+      "word": "healthy"
+    },
+    {
+      "startTime": 13.88,
+      "finishTime": 14.12,
+      "word": "to"
+    },
+    {
+      "startTime": 14.12,
+      "finishTime": 14.24,
+      "word": "have"
+    },
+    {
+      "startTime": 14.24,
+      "finishTime": 14.52,
+      "word": "some"
+    },
+    {
+      "startTime": 14.52,
+      "finishTime": 15.02,
+      "word": "disagreement."
+    },
+    {
+      "startTime": 15.4,
+      "finishTime": 15.54,
+      "word": "If"
+    },
+    {
+      "startTime": 15.54,
+      "finishTime": 15.72,
+      "word": "we"
+    },
+    {
+      "startTime": 15.72,
+      "finishTime": 15.9,
+      "word": "all"
+    },
+    {
+      "startTime": 15.9,
+      "finishTime": 16.08,
+      "word": "agreed"
+    },
+    {
+      "startTime": 16.08,
+      "finishTime": 16.3,
+      "word": "on"
+    },
+    {
+      "startTime": 16.3,
+      "finishTime": 16.66,
+      "word": "everything,"
+    },
+    {
+      "startTime": 16.92,
+      "finishTime": 17.06,
+      "word": "we"
+    },
+    {
+      "startTime": 17.06,
+      "finishTime": 17.28,
+      "word": "might"
+    },
+    {
+      "startTime": 17.28,
+      "finishTime": 17.5,
+      "word": "miss"
+    },
+    {
+      "startTime": 17.5,
+      "finishTime": 17.86,
+      "word": "important"
+    },
+    {
+      "startTime": 17.86,
+      "finishTime": 18.38,
+      "word": "details."
+    },
+    {
+      "startTime": 18.66,
+      "finishTime": 18.8,
+      "word": "Don't"
+    },
+    {
+      "startTime": 18.8,
+      "finishTime": 18.98,
+      "word": "you"
+    },
+    {
+      "startTime": 18.98,
+      "finishTime": 19.24,
+      "word": "think?"
+    },
+    {
+      "startTime": 19.84,
+      "finishTime": 20.08,
+      "word": "I"
+    },
+    {
+      "startTime": 20.08,
+      "finishTime": 20.58,
+      "word": "understand,"
+    },
+    {
+      "startTime": 20.6,
+      "finishTime": 20.92,
+      "word": "but"
+    },
+    {
+      "startTime": 20.92,
+      "finishTime": 21.34,
+      "word": "sometimes"
+    },
+    {
+      "startTime": 21.34,
+      "finishTime": 21.58,
+      "word": "too"
+    },
+    {
+      "startTime": 21.58,
+      "finishTime": 21.8,
+      "word": "much"
+    },
+    {
+      "startTime": 21.8,
+      "finishTime": 22.24,
+      "word": "disagreement"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.46,
+      "word": "can"
+    },
+    {
+      "startTime": 22.46,
+      "finishTime": 22.62,
+      "word": "slow"
+    },
+    {
+      "startTime": 22.62,
+      "finishTime": 22.9,
+      "word": "things"
+    },
+    {
+      "startTime": 22.9,
+      "finishTime": 23.32,
+      "word": "down."
+    },
+    {
+      "startTime": 23.56,
+      "finishTime": 23.78,
+      "word": "If"
+    },
+    {
+      "startTime": 23.78,
+      "finishTime": 23.94,
+      "word": "we"
+    },
+    {
+      "startTime": 23.94,
+      "finishTime": 24.04,
+      "word": "want"
+    },
+    {
+      "startTime": 24.04,
+      "finishTime": 24.22,
+      "word": "to"
+    },
+    {
+      "startTime": 24.22,
+      "finishTime": 24.3,
+      "word": "meet"
+    },
+    {
+      "startTime": 24.3,
+      "finishTime": 24.52,
+      "word": "our"
+    },
+    {
+      "startTime": 24.52,
+      "finishTime": 24.86,
+      "word": "deadlines,"
+    },
+    {
+      "startTime": 24.96,
+      "finishTime": 25.08,
+      "word": "we"
+    },
+    {
+      "startTime": 25.08,
+      "finishTime": 25.24,
+      "word": "need"
+    },
+    {
+      "startTime": 25.24,
+      "finishTime": 25.36,
+      "word": "to"
+    },
+    {
+      "startTime": 25.36,
+      "finishTime": 25.5,
+      "word": "work"
+    },
+    {
+      "startTime": 25.5,
+      "finishTime": 25.96,
+      "word": "together."
+    },
+    {
+      "startTime": 25.96,
+      "finishTime": 26.88,
+      "word": "True,"
+    },
+    {
+      "startTime": 27.14,
+      "finishTime": 27.28,
+      "word": "but"
+    },
+    {
+      "startTime": 27.28,
+      "finishTime": 27.44,
+      "word": "if"
+    },
+    {
+      "startTime": 27.44,
+      "finishTime": 27.64,
+      "word": "we"
+    },
+    {
+      "startTime": 27.64,
+      "finishTime": 27.98,
+      "word": "ignore"
+    },
+    {
+      "startTime": 27.98,
+      "finishTime": 28.4,
+      "word": "different"
+    },
+    {
+      "startTime": 28.4,
+      "finishTime": 28.94,
+      "word": "perspectives,"
+    },
+    {
+      "startTime": 29.26,
+      "finishTime": 29.32,
+      "word": "we"
+    },
+    {
+      "startTime": 29.32,
+      "finishTime": 29.54,
+      "word": "could"
+    },
+    {
+      "startTime": 29.54,
+      "finishTime": 29.74,
+      "word": "end"
+    },
+    {
+      "startTime": 29.74,
+      "finishTime": 29.98,
+      "word": "up"
+    },
+    {
+      "startTime": 29.98,
+      "finishTime": 30.26,
+      "word": "with"
+    },
+    {
+      "startTime": 30.26,
+      "finishTime": 30.4,
+      "word": "a"
+    },
+    {
+      "startTime": 30.4,
+      "finishTime": 30.64,
+      "word": "less"
+    },
+    {
+      "startTime": 30.64,
+      "finishTime": 31.14,
+      "word": "effective"
+    },
+    {
+      "startTime": 31.14,
+      "finishTime": 31.72,
+      "word": "solution."
+    },
+    {
+      "startTime": 32.36,
+      "finishTime": 32.4,
+      "word": "I"
+    },
+    {
+      "startTime": 32.4,
+      "finishTime": 32.58,
+      "word": "guess"
+    },
+    {
+      "startTime": 32.58,
+      "finishTime": 32.74,
+      "word": "you're"
+    },
+    {
+      "startTime": 32.74,
+      "finishTime": 33.08,
+      "word": "right."
+    },
+    {
+      "startTime": 33.32,
+      "finishTime": 33.46,
+      "word": "I"
+    },
+    {
+      "startTime": 33.46,
+      "finishTime": 33.68,
+      "word": "just"
+    },
+    {
+      "startTime": 33.68,
+      "finishTime": 33.86,
+      "word": "feel"
+    },
+    {
+      "startTime": 33.86,
+      "finishTime": 34.02,
+      "word": "that"
+    },
+    {
+      "startTime": 34.02,
+      "finishTime": 34.12,
+      "word": "if"
+    },
+    {
+      "startTime": 34.12,
+      "finishTime": 34.28,
+      "word": "we"
+    },
+    {
+      "startTime": 34.28,
+      "finishTime": 34.54,
+      "word": "focus"
+    },
+    {
+      "startTime": 34.54,
+      "finishTime": 34.8,
+      "word": "too"
+    },
+    {
+      "startTime": 34.8,
+      "finishTime": 35,
+      "word": "much"
+    },
+    {
+      "startTime": 35,
+      "finishTime": 35.2,
+      "word": "on"
+    },
+    {
+      "startTime": 35.2,
+      "finishTime": 35.52,
+      "word": "debating,"
+    },
+    {
+      "startTime": 35.88,
+      "finishTime": 35.98,
+      "word": "we"
+    },
+    {
+      "startTime": 35.98,
+      "finishTime": 36.16,
+      "word": "won't"
+    },
+    {
+      "startTime": 36.16,
+      "finishTime": 36.34,
+      "word": "have"
+    },
+    {
+      "startTime": 36.34,
+      "finishTime": 36.56,
+      "word": "enough"
+    },
+    {
+      "startTime": 36.56,
+      "finishTime": 36.78,
+      "word": "time"
+    },
+    {
+      "startTime": 36.78,
+      "finishTime": 36.92,
+      "word": "to"
+    },
+    {
+      "startTime": 36.92,
+      "finishTime": 37.06,
+      "word": "get"
+    },
+    {
+      "startTime": 37.06,
+      "finishTime": 37.24,
+      "word": "the"
+    },
+    {
+      "startTime": 37.24,
+      "finishTime": 37.56,
+      "word": "actual"
+    },
+    {
+      "startTime": 37.56,
+      "finishTime": 37.76,
+      "word": "work"
+    },
+    {
+      "startTime": 37.76,
+      "finishTime": 38.1,
+      "word": "done."
+    },
+    {
+      "startTime": 38.52,
+      "finishTime": 38.94,
+      "word": "Perhaps,"
+    },
+    {
+      "startTime": 39.26,
+      "finishTime": 39.42,
+      "word": "but"
+    },
+    {
+      "startTime": 39.42,
+      "finishTime": 39.7,
+      "word": "it's"
+    },
+    {
+      "startTime": 39.7,
+      "finishTime": 39.98,
+      "word": "also"
+    },
+    {
+      "startTime": 39.98,
+      "finishTime": 40.46,
+      "word": "important"
+    },
+    {
+      "startTime": 40.46,
+      "finishTime": 40.76,
+      "word": "to"
+    },
+    {
+      "startTime": 40.76,
+      "finishTime": 40.9,
+      "word": "make"
+    },
+    {
+      "startTime": 40.9,
+      "finishTime": 41.14,
+      "word": "sure"
+    },
+    {
+      "startTime": 41.14,
+      "finishTime": 41.48,
+      "word": "everyone"
+    },
+    {
+      "startTime": 41.48,
+      "finishTime": 41.78,
+      "word": "feels"
+    },
+    {
+      "startTime": 41.78,
+      "finishTime": 42.1,
+      "word": "heard."
+    },
+    {
+      "startTime": 42.54,
+      "finishTime": 42.72,
+      "word": "If"
+    },
+    {
+      "startTime": 42.72,
+      "finishTime": 43,
+      "word": "people"
+    },
+    {
+      "startTime": 43,
+      "finishTime": 43.28,
+      "word": "don't"
+    },
+    {
+      "startTime": 43.28,
+      "finishTime": 43.52,
+      "word": "feel"
+    },
+    {
+      "startTime": 43.52,
+      "finishTime": 43.92,
+      "word": "valued,"
+    },
+    {
+      "startTime": 44.18,
+      "finishTime": 44.34,
+      "word": "they"
+    },
+    {
+      "startTime": 44.34,
+      "finishTime": 44.58,
+      "word": "might"
+    },
+    {
+      "startTime": 44.58,
+      "finishTime": 44.86,
+      "word": "lose"
+    },
+    {
+      "startTime": 44.86,
+      "finishTime": 45.5,
+      "word": "motivation,"
+    },
+    {
+      "startTime": 45.84,
+      "finishTime": 46.1,
+      "word": "right?"
+    },
+    {
+      "startTime": 46.64,
+      "finishTime": 46.88,
+      "word": "That's"
+    },
+    {
+      "startTime": 46.88,
+      "finishTime": 46.92,
+      "word": "a"
+    },
+    {
+      "startTime": 46.92,
+      "finishTime": 47.08,
+      "word": "good"
+    },
+    {
+      "startTime": 47.08,
+      "finishTime": 47.36,
+      "word": "point."
+    },
+    {
+      "startTime": 47.64,
+      "finishTime": 47.82,
+      "word": "Maybe"
+    },
+    {
+      "startTime": 47.82,
+      "finishTime": 47.96,
+      "word": "we"
+    },
+    {
+      "startTime": 47.96,
+      "finishTime": 48.14,
+      "word": "can"
+    },
+    {
+      "startTime": 48.14,
+      "finishTime": 48.3,
+      "word": "find"
+    },
+    {
+      "startTime": 48.3,
+      "finishTime": 48.5,
+      "word": "a"
+    },
+    {
+      "startTime": 48.5,
+      "finishTime": 48.78,
+      "word": "balance"
+    },
+    {
+      "startTime": 48.78,
+      "finishTime": 49.14,
+      "word": "between"
+    },
+    {
+      "startTime": 49.14,
+      "finishTime": 49.48,
+      "word": "listening"
+    },
+    {
+      "startTime": 49.48,
+      "finishTime": 49.68,
+      "word": "to"
+    },
+    {
+      "startTime": 49.68,
+      "finishTime": 49.96,
+      "word": "feedback"
+    },
+    {
+      "startTime": 49.96,
+      "finishTime": 50.22,
+      "word": "and"
+    },
+    {
+      "startTime": 50.22,
+      "finishTime": 50.42,
+      "word": "keeping"
+    },
+    {
+      "startTime": 50.42,
+      "finishTime": 50.68,
+      "word": "things"
+    },
+    {
+      "startTime": 50.68,
+      "finishTime": 50.94,
+      "word": "on"
+    },
+    {
+      "startTime": 50.94,
+      "finishTime": 51.16,
+      "word": "track."
+    }
+  ]
+}

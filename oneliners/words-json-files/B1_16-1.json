@@ -1,0 +1,1165 @@
+{
+  "text": "Hey Sophie. Thanks for letting me sit in on the code review. I heard some terms that were new to me. Can I ask you about a few of them? Sure Mark. What's on your mind? Well, you mentioned polymorphism. I think it means a code structure that can have multiple shapes or forms. Is that right? Kind of. Polymorphism refers to a function or object that can behave differently depending on the context. It's not just about having different shapes, but about being flexible in how it operates. Oh, okay. Thanks for explaining. I also heard encapsulation. Does that mean breaking code into smaller parts like encapsulating it? Not quite. Encapsulation is about keeping some details hidden to make the code easier to work with. Think of it as wrapping code to limit what other parts can see. Got it. And what about inheritance? Does this mean passing down code from one project to another? Not exactly. Inheritance is when one class inherits properties and methods from another class, allowing for code reuse and extending functionality within a project. Thanks for clarifying. And abstraction. Does it mean simplifying complex systems by hiding unnecessary details? Yes, that's correct. Abstraction is about reducing complexity by showing only what's necessary, keeping the details hidden. At least I got one right. I think I'm starting to understand these terms better. Thanks for the explanation, Sophie.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.54,
+      "word": "Hey"
+    },
+    {
+      "startTime": 0.54,
+      "finishTime": 0.86,
+      "word": "Sophie."
+    },
+    {
+      "startTime": 1.22,
+      "finishTime": 1.38,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 1.38,
+      "finishTime": 1.5,
+      "word": "for"
+    },
+    {
+      "startTime": 1.5,
+      "finishTime": 1.74,
+      "word": "letting"
+    },
+    {
+      "startTime": 1.74,
+      "finishTime": 1.96,
+      "word": "me"
+    },
+    {
+      "startTime": 1.96,
+      "finishTime": 2.16,
+      "word": "sit"
+    },
+    {
+      "startTime": 2.16,
+      "finishTime": 2.4,
+      "word": "in"
+    },
+    {
+      "startTime": 2.4,
+      "finishTime": 2.6,
+      "word": "on"
+    },
+    {
+      "startTime": 2.6,
+      "finishTime": 2.78,
+      "word": "the"
+    },
+    {
+      "startTime": 2.78,
+      "finishTime": 2.94,
+      "word": "code"
+    },
+    {
+      "startTime": 2.94,
+      "finishTime": 3.24,
+      "word": "review."
+    },
+    {
+      "startTime": 3.54,
+      "finishTime": 3.7,
+      "word": "I"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 3.9,
+      "word": "heard"
+    },
+    {
+      "startTime": 3.9,
+      "finishTime": 4.12,
+      "word": "some"
+    },
+    {
+      "startTime": 4.12,
+      "finishTime": 4.36,
+      "word": "terms"
+    },
+    {
+      "startTime": 4.36,
+      "finishTime": 4.54,
+      "word": "that"
+    },
+    {
+      "startTime": 4.54,
+      "finishTime": 4.72,
+      "word": "were"
+    },
+    {
+      "startTime": 4.72,
+      "finishTime": 4.86,
+      "word": "new"
+    },
+    {
+      "startTime": 4.86,
+      "finishTime": 5.04,
+      "word": "to"
+    },
+    {
+      "startTime": 5.04,
+      "finishTime": 5.24,
+      "word": "me."
+    },
+    {
+      "startTime": 5.58,
+      "finishTime": 5.82,
+      "word": "Can"
+    },
+    {
+      "startTime": 5.82,
+      "finishTime": 5.92,
+      "word": "I"
+    },
+    {
+      "startTime": 5.92,
+      "finishTime": 6.1,
+      "word": "ask"
+    },
+    {
+      "startTime": 6.1,
+      "finishTime": 6.26,
+      "word": "you"
+    },
+    {
+      "startTime": 6.26,
+      "finishTime": 6.44,
+      "word": "about"
+    },
+    {
+      "startTime": 6.44,
+      "finishTime": 6.56,
+      "word": "a"
+    },
+    {
+      "startTime": 6.56,
+      "finishTime": 6.68,
+      "word": "few"
+    },
+    {
+      "startTime": 6.68,
+      "finishTime": 6.82,
+      "word": "of"
+    },
+    {
+      "startTime": 6.82,
+      "finishTime": 7.08,
+      "word": "them?"
+    },
+    {
+      "startTime": 7.44,
+      "finishTime": 7.68,
+      "word": "Sure"
+    },
+    {
+      "startTime": 7.68,
+      "finishTime": 7.9,
+      "word": "Mark."
+    },
+    {
+      "startTime": 8.02,
+      "finishTime": 8.24,
+      "word": "What's"
+    },
+    {
+      "startTime": 8.24,
+      "finishTime": 8.34,
+      "word": "on"
+    },
+    {
+      "startTime": 8.34,
+      "finishTime": 8.52,
+      "word": "your"
+    },
+    {
+      "startTime": 8.52,
+      "finishTime": 8.84,
+      "word": "mind?"
+    },
+    {
+      "startTime": 9.34,
+      "finishTime": 9.64,
+      "word": "Well,"
+    },
+    {
+      "startTime": 9.92,
+      "finishTime": 10.04,
+      "word": "you"
+    },
+    {
+      "startTime": 10.04,
+      "finishTime": 10.44,
+      "word": "mentioned"
+    },
+    {
+      "startTime": 10.44,
+      "finishTime": 11.62,
+      "word": "polymorphism."
+    },
+    {
+      "startTime": 12.1,
+      "finishTime": 12.36,
+      "word": "I"
+    },
+    {
+      "startTime": 12.36,
+      "finishTime": 12.62,
+      "word": "think"
+    },
+    {
+      "startTime": 12.62,
+      "finishTime": 12.78,
+      "word": "it"
+    },
+    {
+      "startTime": 12.78,
+      "finishTime": 13.08,
+      "word": "means"
+    },
+    {
+      "startTime": 13.08,
+      "finishTime": 13.38,
+      "word": "a"
+    },
+    {
+      "startTime": 13.38,
+      "finishTime": 13.6,
+      "word": "code"
+    },
+    {
+      "startTime": 13.6,
+      "finishTime": 13.9,
+      "word": "structure"
+    },
+    {
+      "startTime": 13.9,
+      "finishTime": 14.08,
+      "word": "that"
+    },
+    {
+      "startTime": 14.08,
+      "finishTime": 14.22,
+      "word": "can"
+    },
+    {
+      "startTime": 14.22,
+      "finishTime": 14.38,
+      "word": "have"
+    },
+    {
+      "startTime": 14.38,
+      "finishTime": 14.84,
+      "word": "multiple"
+    },
+    {
+      "startTime": 14.84,
+      "finishTime": 15.16,
+      "word": "shapes"
+    },
+    {
+      "startTime": 15.16,
+      "finishTime": 15.44,
+      "word": "or"
+    },
+    {
+      "startTime": 15.44,
+      "finishTime": 15.72,
+      "word": "forms."
+    },
+    {
+      "startTime": 15.9,
+      "finishTime": 16.06,
+      "word": "Is"
+    },
+    {
+      "startTime": 16.06,
+      "finishTime": 16.32,
+      "word": "that"
+    },
+    {
+      "startTime": 16.32,
+      "finishTime": 16.6,
+      "word": "right?"
+    },
+    {
+      "startTime": 17.2,
+      "finishTime": 17.52,
+      "word": "Kind"
+    },
+    {
+      "startTime": 17.52,
+      "finishTime": 18.02,
+      "word": "of."
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 18.92,
+      "word": "Polymorphism"
+    },
+    {
+      "startTime": 18.92,
+      "finishTime": 19.26,
+      "word": "refers"
+    },
+    {
+      "startTime": 19.26,
+      "finishTime": 19.48,
+      "word": "to"
+    },
+    {
+      "startTime": 19.48,
+      "finishTime": 19.66,
+      "word": "a"
+    },
+    {
+      "startTime": 19.66,
+      "finishTime": 19.96,
+      "word": "function"
+    },
+    {
+      "startTime": 19.96,
+      "finishTime": 20.26,
+      "word": "or"
+    },
+    {
+      "startTime": 20.26,
+      "finishTime": 20.62,
+      "word": "object"
+    },
+    {
+      "startTime": 20.62,
+      "finishTime": 20.84,
+      "word": "that"
+    },
+    {
+      "startTime": 20.84,
+      "finishTime": 21.04,
+      "word": "can"
+    },
+    {
+      "startTime": 21.04,
+      "finishTime": 21.38,
+      "word": "behave"
+    },
+    {
+      "startTime": 21.38,
+      "finishTime": 21.78,
+      "word": "differently"
+    },
+    {
+      "startTime": 21.78,
+      "finishTime": 22.24,
+      "word": "depending"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.4,
+      "word": "on"
+    },
+    {
+      "startTime": 22.4,
+      "finishTime": 22.6,
+      "word": "the"
+    },
+    {
+      "startTime": 22.6,
+      "finishTime": 23.1,
+      "word": "context."
+    },
+    {
+      "startTime": 23.52,
+      "finishTime": 23.7,
+      "word": "It's"
+    },
+    {
+      "startTime": 23.7,
+      "finishTime": 23.94,
+      "word": "not"
+    },
+    {
+      "startTime": 23.94,
+      "finishTime": 24.12,
+      "word": "just"
+    },
+    {
+      "startTime": 24.12,
+      "finishTime": 24.32,
+      "word": "about"
+    },
+    {
+      "startTime": 24.32,
+      "finishTime": 24.58,
+      "word": "having"
+    },
+    {
+      "startTime": 24.58,
+      "finishTime": 24.94,
+      "word": "different"
+    },
+    {
+      "startTime": 24.94,
+      "finishTime": 25.38,
+      "word": "shapes,"
+    },
+    {
+      "startTime": 25.5,
+      "finishTime": 25.64,
+      "word": "but"
+    },
+    {
+      "startTime": 25.64,
+      "finishTime": 25.86,
+      "word": "about"
+    },
+    {
+      "startTime": 25.86,
+      "finishTime": 26.16,
+      "word": "being"
+    },
+    {
+      "startTime": 26.16,
+      "finishTime": 26.74,
+      "word": "flexible"
+    },
+    {
+      "startTime": 26.74,
+      "finishTime": 27.02,
+      "word": "in"
+    },
+    {
+      "startTime": 27.02,
+      "finishTime": 27.2,
+      "word": "how"
+    },
+    {
+      "startTime": 27.2,
+      "finishTime": 27.4,
+      "word": "it"
+    },
+    {
+      "startTime": 27.4,
+      "finishTime": 27.86,
+      "word": "operates."
+    },
+    {
+      "startTime": 27.86,
+      "finishTime": 28.82,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 28.94,
+      "finishTime": 29.46,
+      "word": "okay."
+    },
+    {
+      "startTime": 29.62,
+      "finishTime": 29.82,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 29.82,
+      "finishTime": 30.02,
+      "word": "for"
+    },
+    {
+      "startTime": 30.02,
+      "finishTime": 30.44,
+      "word": "explaining."
+    },
+    {
+      "startTime": 31.14,
+      "finishTime": 31.34,
+      "word": "I"
+    },
+    {
+      "startTime": 31.34,
+      "finishTime": 31.72,
+      "word": "also"
+    },
+    {
+      "startTime": 31.72,
+      "finishTime": 32.06,
+      "word": "heard"
+    },
+    {
+      "startTime": 32.06,
+      "finishTime": 33.26,
+      "word": "encapsulation."
+    },
+    {
+      "startTime": 33.56,
+      "finishTime": 33.7,
+      "word": "Does"
+    },
+    {
+      "startTime": 33.7,
+      "finishTime": 33.9,
+      "word": "that"
+    },
+    {
+      "startTime": 33.9,
+      "finishTime": 34.04,
+      "word": "mean"
+    },
+    {
+      "startTime": 34.04,
+      "finishTime": 34.32,
+      "word": "breaking"
+    },
+    {
+      "startTime": 34.32,
+      "finishTime": 34.62,
+      "word": "code"
+    },
+    {
+      "startTime": 34.62,
+      "finishTime": 34.9,
+      "word": "into"
+    },
+    {
+      "startTime": 34.9,
+      "finishTime": 35.18,
+      "word": "smaller"
+    },
+    {
+      "startTime": 35.18,
+      "finishTime": 35.58,
+      "word": "parts"
+    },
+    {
+      "startTime": 35.58,
+      "finishTime": 36.18,
+      "word": "like"
+    },
+    {
+      "startTime": 36.18,
+      "finishTime": 36.96,
+      "word": "encapsulating"
+    },
+    {
+      "startTime": 36.96,
+      "finishTime": 37.42,
+      "word": "it?"
+    },
+    {
+      "startTime": 37.88,
+      "finishTime": 38.02,
+      "word": "Not"
+    },
+    {
+      "startTime": 38.02,
+      "finishTime": 38.5,
+      "word": "quite."
+    },
+    {
+      "startTime": 39.04,
+      "finishTime": 39.6,
+      "word": "Encapsulation"
+    },
+    {
+      "startTime": 39.6,
+      "finishTime": 39.9,
+      "word": "is"
+    },
+    {
+      "startTime": 39.9,
+      "finishTime": 40.16,
+      "word": "about"
+    },
+    {
+      "startTime": 40.16,
+      "finishTime": 40.48,
+      "word": "keeping"
+    },
+    {
+      "startTime": 40.48,
+      "finishTime": 40.82,
+      "word": "some"
+    },
+    {
+      "startTime": 40.82,
+      "finishTime": 41.2,
+      "word": "details"
+    },
+    {
+      "startTime": 41.2,
+      "finishTime": 41.56,
+      "word": "hidden"
+    },
+    {
+      "startTime": 41.56,
+      "finishTime": 41.82,
+      "word": "to"
+    },
+    {
+      "startTime": 41.82,
+      "finishTime": 41.94,
+      "word": "make"
+    },
+    {
+      "startTime": 41.94,
+      "finishTime": 42.18,
+      "word": "the"
+    },
+    {
+      "startTime": 42.18,
+      "finishTime": 42.3,
+      "word": "code"
+    },
+    {
+      "startTime": 42.3,
+      "finishTime": 42.66,
+      "word": "easier"
+    },
+    {
+      "startTime": 42.66,
+      "finishTime": 42.88,
+      "word": "to"
+    },
+    {
+      "startTime": 42.88,
+      "finishTime": 43.06,
+      "word": "work"
+    },
+    {
+      "startTime": 43.06,
+      "finishTime": 43.36,
+      "word": "with."
+    },
+    {
+      "startTime": 43.7,
+      "finishTime": 43.88,
+      "word": "Think"
+    },
+    {
+      "startTime": 43.88,
+      "finishTime": 43.98,
+      "word": "of"
+    },
+    {
+      "startTime": 43.98,
+      "finishTime": 44.14,
+      "word": "it"
+    },
+    {
+      "startTime": 44.14,
+      "finishTime": 44.36,
+      "word": "as"
+    },
+    {
+      "startTime": 44.36,
+      "finishTime": 44.66,
+      "word": "wrapping"
+    },
+    {
+      "startTime": 44.66,
+      "finishTime": 45.06,
+      "word": "code"
+    },
+    {
+      "startTime": 45.06,
+      "finishTime": 45.34,
+      "word": "to"
+    },
+    {
+      "startTime": 45.34,
+      "finishTime": 45.54,
+      "word": "limit"
+    },
+    {
+      "startTime": 45.54,
+      "finishTime": 45.72,
+      "word": "what"
+    },
+    {
+      "startTime": 45.72,
+      "finishTime": 45.96,
+      "word": "other"
+    },
+    {
+      "startTime": 45.96,
+      "finishTime": 46.2,
+      "word": "parts"
+    },
+    {
+      "startTime": 46.2,
+      "finishTime": 46.48,
+      "word": "can"
+    },
+    {
+      "startTime": 46.48,
+      "finishTime": 46.86,
+      "word": "see."
+    },
+    {
+      "startTime": 47.3,
+      "finishTime": 47.56,
+      "word": "Got"
+    },
+    {
+      "startTime": 47.56,
+      "finishTime": 47.88,
+      "word": "it."
+    },
+    {
+      "startTime": 47.98,
+      "finishTime": 48.16,
+      "word": "And"
+    },
+    {
+      "startTime": 48.16,
+      "finishTime": 48.34,
+      "word": "what"
+    },
+    {
+      "startTime": 48.34,
+      "finishTime": 48.72,
+      "word": "about"
+    },
+    {
+      "startTime": 48.72,
+      "finishTime": 49.38,
+      "word": "inheritance?"
+    },
+    {
+      "startTime": 49.82,
+      "finishTime": 49.98,
+      "word": "Does"
+    },
+    {
+      "startTime": 49.98,
+      "finishTime": 50.22,
+      "word": "this"
+    },
+    {
+      "startTime": 50.22,
+      "finishTime": 50.36,
+      "word": "mean"
+    },
+    {
+      "startTime": 50.36,
+      "finishTime": 50.88,
+      "word": "passing"
+    },
+    {
+      "startTime": 50.88,
+      "finishTime": 51.22,
+      "word": "down"
+    },
+    {
+      "startTime": 51.22,
+      "finishTime": 51.52,
+      "word": "code"
+    },
+    {
+      "startTime": 51.52,
+      "finishTime": 51.76,
+      "word": "from"
+    },
+    {
+      "startTime": 51.76,
+      "finishTime": 52.02,
+      "word": "one"
+    },
+    {
+      "startTime": 52.02,
+      "finishTime": 52.34,
+      "word": "project"
+    },
+    {
+      "startTime": 52.34,
+      "finishTime": 52.6,
+      "word": "to"
+    },
+    {
+      "startTime": 52.6,
+      "finishTime": 52.88,
+      "word": "another?"
+    },
+    {
+      "startTime": 52.88,
+      "finishTime": 53.78,
+      "word": "Not"
+    },
+    {
+      "startTime": 53.78,
+      "finishTime": 54.4,
+      "word": "exactly."
+    },
+    {
+      "startTime": 54.66,
+      "finishTime": 55.24,
+      "word": "Inheritance"
+    },
+    {
+      "startTime": 55.24,
+      "finishTime": 55.36,
+      "word": "is"
+    },
+    {
+      "startTime": 55.36,
+      "finishTime": 55.52,
+      "word": "when"
+    },
+    {
+      "startTime": 55.52,
+      "finishTime": 55.82,
+      "word": "one"
+    },
+    {
+      "startTime": 55.82,
+      "finishTime": 56.12,
+      "word": "class"
+    },
+    {
+      "startTime": 56.12,
+      "finishTime": 56.72,
+      "word": "inherits"
+    },
+    {
+      "startTime": 56.72,
+      "finishTime": 57.14,
+      "word": "properties"
+    },
+    {
+      "startTime": 57.14,
+      "finishTime": 57.4,
+      "word": "and"
+    },
+    {
+      "startTime": 57.4,
+      "finishTime": 57.82,
+      "word": "methods"
+    },
+    {
+      "startTime": 57.82,
+      "finishTime": 58.04,
+      "word": "from"
+    },
+    {
+      "startTime": 58.04,
+      "finishTime": 58.32,
+      "word": "another"
+    },
+    {
+      "startTime": 58.32,
+      "finishTime": 58.96,
+      "word": "class,"
+    },
+    {
+      "startTime": 59.04,
+      "finishTime": 59.38,
+      "word": "allowing"
+    },
+    {
+      "startTime": 59.38,
+      "finishTime": 59.66,
+      "word": "for"
+    },
+    {
+      "startTime": 59.66,
+      "finishTime": 59.92,
+      "word": "code"
+    },
+    {
+      "startTime": 59.92,
+      "finishTime": 60.3,
+      "word": "reuse"
+    },
+    {
+      "startTime": 60.3,
+      "finishTime": 60.6,
+      "word": "and"
+    },
+    {
+      "startTime": 60.6,
+      "finishTime": 60.94,
+      "word": "extending"
+    },
+    {
+      "startTime": 60.94,
+      "finishTime": 61.6,
+      "word": "functionality"
+    },
+    {
+      "startTime": 61.6,
+      "finishTime": 61.84,
+      "word": "within"
+    },
+    {
+      "startTime": 61.84,
+      "finishTime": 62.04,
+      "word": "a"
+    },
+    {
+      "startTime": 62.04,
+      "finishTime": 62.38,
+      "word": "project."
+    },
+    {
+      "startTime": 63.1,
+      "finishTime": 63.28,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 63.28,
+      "finishTime": 63.54,
+      "word": "for"
+    },
+    {
+      "startTime": 63.54,
+      "finishTime": 64.16,
+      "word": "clarifying."
+    },
+    {
+      "startTime": 64.58,
+      "finishTime": 65.04,
+      "word": "And"
+    },
+    {
+      "startTime": 65.04,
+      "finishTime": 65.66,
+      "word": "abstraction."
+    },
+    {
+      "startTime": 65.9,
+      "finishTime": 66.1,
+      "word": "Does"
+    },
+    {
+      "startTime": 66.1,
+      "finishTime": 66.22,
+      "word": "it"
+    },
+    {
+      "startTime": 66.22,
+      "finishTime": 66.42,
+      "word": "mean"
+    },
+    {
+      "startTime": 66.42,
+      "finishTime": 66.98,
+      "word": "simplifying"
+    },
+    {
+      "startTime": 66.98,
+      "finishTime": 67.36,
+      "word": "complex"
+    },
+    {
+      "startTime": 67.36,
+      "finishTime": 67.76,
+      "word": "systems"
+    },
+    {
+      "startTime": 67.76,
+      "finishTime": 68.08,
+      "word": "by"
+    },
+    {
+      "startTime": 68.08,
+      "finishTime": 68.5,
+      "word": "hiding"
+    },
+    {
+      "startTime": 68.5,
+      "finishTime": 69.16,
+      "word": "unnecessary"
+    },
+    {
+      "startTime": 69.16,
+      "finishTime": 69.58,
+      "word": "details?"
+    },
+    {
+      "startTime": 70.2,
+      "finishTime": 70.46,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 70.46,
+      "finishTime": 70.82,
+      "word": "that's"
+    },
+    {
+      "startTime": 70.82,
+      "finishTime": 71.2,
+      "word": "correct."
+    },
+    {
+      "startTime": 71.42,
+      "finishTime": 71.92,
+      "word": "Abstraction"
+    },
+    {
+      "startTime": 71.92,
+      "finishTime": 72.16,
+      "word": "is"
+    },
+    {
+      "startTime": 72.16,
+      "finishTime": 72.36,
+      "word": "about"
+    },
+    {
+      "startTime": 72.36,
+      "finishTime": 72.74,
+      "word": "reducing"
+    },
+    {
+      "startTime": 72.74,
+      "finishTime": 73.26,
+      "word": "complexity"
+    },
+    {
+      "startTime": 73.26,
+      "finishTime": 73.52,
+      "word": "by"
+    },
+    {
+      "startTime": 73.52,
+      "finishTime": 73.72,
+      "word": "showing"
+    },
+    {
+      "startTime": 73.72,
+      "finishTime": 74.04,
+      "word": "only"
+    },
+    {
+      "startTime": 74.04,
+      "finishTime": 74.42,
+      "word": "what's"
+    },
+    {
+      "startTime": 74.42,
+      "finishTime": 74.84,
+      "word": "necessary,"
+    },
+    {
+      "startTime": 74.98,
+      "finishTime": 75.22,
+      "word": "keeping"
+    },
+    {
+      "startTime": 75.22,
+      "finishTime": 75.48,
+      "word": "the"
+    },
+    {
+      "startTime": 75.48,
+      "finishTime": 75.68,
+      "word": "details"
+    },
+    {
+      "startTime": 75.68,
+      "finishTime": 76,
+      "word": "hidden."
+    },
+    {
+      "startTime": 76.44,
+      "finishTime": 76.6,
+      "word": "At"
+    },
+    {
+      "startTime": 76.6,
+      "finishTime": 76.78,
+      "word": "least"
+    },
+    {
+      "startTime": 76.78,
+      "finishTime": 76.9,
+      "word": "I"
+    },
+    {
+      "startTime": 76.9,
+      "finishTime": 77.08,
+      "word": "got"
+    },
+    {
+      "startTime": 77.08,
+      "finishTime": 77.3,
+      "word": "one"
+    },
+    {
+      "startTime": 77.3,
+      "finishTime": 77.62,
+      "word": "right."
+    },
+    {
+      "startTime": 78.06,
+      "finishTime": 78.3,
+      "word": "I"
+    },
+    {
+      "startTime": 78.3,
+      "finishTime": 78.46,
+      "word": "think"
+    },
+    {
+      "startTime": 78.46,
+      "finishTime": 78.62,
+      "word": "I'm"
+    },
+    {
+      "startTime": 78.62,
+      "finishTime": 78.82,
+      "word": "starting"
+    },
+    {
+      "startTime": 78.82,
+      "finishTime": 79.08,
+      "word": "to"
+    },
+    {
+      "startTime": 79.08,
+      "finishTime": 79.4,
+      "word": "understand"
+    },
+    {
+      "startTime": 79.4,
+      "finishTime": 79.58,
+      "word": "these"
+    },
+    {
+      "startTime": 79.58,
+      "finishTime": 79.82,
+      "word": "terms"
+    },
+    {
+      "startTime": 79.82,
+      "finishTime": 80.14,
+      "word": "better."
+    },
+    {
+      "startTime": 80.36,
+      "finishTime": 80.58,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 80.58,
+      "finishTime": 80.76,
+      "word": "for"
+    },
+    {
+      "startTime": 80.76,
+      "finishTime": 80.98,
+      "word": "the"
+    },
+    {
+      "startTime": 80.98,
+      "finishTime": 81.44,
+      "word": "explanation,"
+    },
+    {
+      "startTime": 81.74,
+      "finishTime": 81.82,
+      "word": "Sophie."
+    }
+  ]
+}

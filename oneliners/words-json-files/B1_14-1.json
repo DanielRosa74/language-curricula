@@ -1,0 +1,1135 @@
+{
+  "text": "Hi, Mark. We need to talk about security protocols for the new project. There are a few things you must do to ensure compliance. Sure, Jessica. What do I need to do? First, you must update your software tools to the latest versions. This is crucial for maintaining security. Okay, I can do that. Is there anything else I need to be aware of? Yes, you have to set up multi-factor authentication for all user accounts. It's mandatory for this project. Got it. Does that apply to the development team as well? Yes, everyone must use multi-factor authentication, including QA. It's a non-negotiable requirement. Understood. I'll make sure to update the team. By the way, do we have to follow any specific guidelines for data encryption? Yes, all sensitive data must be encrypted, and you have to ensure that the encryption keys are stored securely. This is essential for preventing data breaches. Okay, thanks for letting me know. I'll handle it. Is there anything else I need to do? Besides that, you should run regular security audits. It's not mandatory, but it's a good idea to catch vulnerabilities early. Sounds like a plan. I'll start with the updates and set up the authentication. Thanks for the guidance, Jessica. No problem, Mark. Let me know if you need any help or have more questions.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.6,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 0.64,
+      "finishTime": 0.88,
+      "word": "Mark."
+    },
+    {
+      "startTime": 1.08,
+      "finishTime": 1.14,
+      "word": "We"
+    },
+    {
+      "startTime": 1.14,
+      "finishTime": 1.34,
+      "word": "need"
+    },
+    {
+      "startTime": 1.34,
+      "finishTime": 1.42,
+      "word": "to"
+    },
+    {
+      "startTime": 1.42,
+      "finishTime": 1.62,
+      "word": "talk"
+    },
+    {
+      "startTime": 1.62,
+      "finishTime": 1.82,
+      "word": "about"
+    },
+    {
+      "startTime": 1.82,
+      "finishTime": 2.3,
+      "word": "security"
+    },
+    {
+      "startTime": 2.3,
+      "finishTime": 2.8,
+      "word": "protocols"
+    },
+    {
+      "startTime": 2.8,
+      "finishTime": 3.02,
+      "word": "for"
+    },
+    {
+      "startTime": 3.02,
+      "finishTime": 3.12,
+      "word": "the"
+    },
+    {
+      "startTime": 3.12,
+      "finishTime": 3.32,
+      "word": "new"
+    },
+    {
+      "startTime": 3.32,
+      "finishTime": 3.74,
+      "word": "project."
+    },
+    {
+      "startTime": 4.22,
+      "finishTime": 4.22,
+      "word": "There"
+    },
+    {
+      "startTime": 4.22,
+      "finishTime": 4.48,
+      "word": "are"
+    },
+    {
+      "startTime": 4.48,
+      "finishTime": 4.62,
+      "word": "a"
+    },
+    {
+      "startTime": 4.62,
+      "finishTime": 4.7,
+      "word": "few"
+    },
+    {
+      "startTime": 4.7,
+      "finishTime": 4.98,
+      "word": "things"
+    },
+    {
+      "startTime": 4.98,
+      "finishTime": 5.14,
+      "word": "you"
+    },
+    {
+      "startTime": 5.14,
+      "finishTime": 5.42,
+      "word": "must"
+    },
+    {
+      "startTime": 5.42,
+      "finishTime": 5.6,
+      "word": "do"
+    },
+    {
+      "startTime": 5.6,
+      "finishTime": 5.7,
+      "word": "to"
+    },
+    {
+      "startTime": 5.7,
+      "finishTime": 6,
+      "word": "ensure"
+    },
+    {
+      "startTime": 6,
+      "finishTime": 6.62,
+      "word": "compliance."
+    },
+    {
+      "startTime": 7,
+      "finishTime": 7.3,
+      "word": "Sure,"
+    },
+    {
+      "startTime": 7.32,
+      "finishTime": 7.72,
+      "word": "Jessica."
+    },
+    {
+      "startTime": 8.08,
+      "finishTime": 8.2,
+      "word": "What"
+    },
+    {
+      "startTime": 8.2,
+      "finishTime": 8.36,
+      "word": "do"
+    },
+    {
+      "startTime": 8.36,
+      "finishTime": 8.44,
+      "word": "I"
+    },
+    {
+      "startTime": 8.44,
+      "finishTime": 8.62,
+      "word": "need"
+    },
+    {
+      "startTime": 8.62,
+      "finishTime": 8.84,
+      "word": "to"
+    },
+    {
+      "startTime": 8.84,
+      "finishTime": 9.08,
+      "word": "do?"
+    },
+    {
+      "startTime": 9.68,
+      "finishTime": 9.98,
+      "word": "First,"
+    },
+    {
+      "startTime": 10.12,
+      "finishTime": 10.18,
+      "word": "you"
+    },
+    {
+      "startTime": 10.18,
+      "finishTime": 10.48,
+      "word": "must"
+    },
+    {
+      "startTime": 10.48,
+      "finishTime": 10.8,
+      "word": "update"
+    },
+    {
+      "startTime": 10.8,
+      "finishTime": 11.04,
+      "word": "your"
+    },
+    {
+      "startTime": 11.04,
+      "finishTime": 11.36,
+      "word": "software"
+    },
+    {
+      "startTime": 11.36,
+      "finishTime": 11.64,
+      "word": "tools"
+    },
+    {
+      "startTime": 11.64,
+      "finishTime": 11.82,
+      "word": "to"
+    },
+    {
+      "startTime": 11.82,
+      "finishTime": 11.98,
+      "word": "the"
+    },
+    {
+      "startTime": 11.98,
+      "finishTime": 12.24,
+      "word": "latest"
+    },
+    {
+      "startTime": 12.24,
+      "finishTime": 12.72,
+      "word": "versions."
+    },
+    {
+      "startTime": 12.98,
+      "finishTime": 13.16,
+      "word": "This"
+    },
+    {
+      "startTime": 13.16,
+      "finishTime": 13.38,
+      "word": "is"
+    },
+    {
+      "startTime": 13.38,
+      "finishTime": 13.7,
+      "word": "crucial"
+    },
+    {
+      "startTime": 13.7,
+      "finishTime": 13.88,
+      "word": "for"
+    },
+    {
+      "startTime": 13.88,
+      "finishTime": 14.3,
+      "word": "maintaining"
+    },
+    {
+      "startTime": 14.3,
+      "finishTime": 14.84,
+      "word": "security."
+    },
+    {
+      "startTime": 14.84,
+      "finishTime": 15.62,
+      "word": "Okay,"
+    },
+    {
+      "startTime": 15.64,
+      "finishTime": 15.9,
+      "word": "I"
+    },
+    {
+      "startTime": 15.9,
+      "finishTime": 16.08,
+      "word": "can"
+    },
+    {
+      "startTime": 16.08,
+      "finishTime": 16.28,
+      "word": "do"
+    },
+    {
+      "startTime": 16.28,
+      "finishTime": 16.5,
+      "word": "that."
+    },
+    {
+      "startTime": 16.7,
+      "finishTime": 16.74,
+      "word": "Is"
+    },
+    {
+      "startTime": 16.74,
+      "finishTime": 16.96,
+      "word": "there"
+    },
+    {
+      "startTime": 16.96,
+      "finishTime": 17.22,
+      "word": "anything"
+    },
+    {
+      "startTime": 17.22,
+      "finishTime": 17.5,
+      "word": "else"
+    },
+    {
+      "startTime": 17.5,
+      "finishTime": 17.74,
+      "word": "I"
+    },
+    {
+      "startTime": 17.74,
+      "finishTime": 17.86,
+      "word": "need"
+    },
+    {
+      "startTime": 17.86,
+      "finishTime": 17.96,
+      "word": "to"
+    },
+    {
+      "startTime": 17.96,
+      "finishTime": 18.12,
+      "word": "be"
+    },
+    {
+      "startTime": 18.12,
+      "finishTime": 18.34,
+      "word": "aware"
+    },
+    {
+      "startTime": 18.34,
+      "finishTime": 18.74,
+      "word": "of?"
+    },
+    {
+      "startTime": 19.52,
+      "finishTime": 19.52,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 19.54,
+      "finishTime": 19.62,
+      "word": "you"
+    },
+    {
+      "startTime": 19.62,
+      "finishTime": 19.88,
+      "word": "have"
+    },
+    {
+      "startTime": 19.88,
+      "finishTime": 20.02,
+      "word": "to"
+    },
+    {
+      "startTime": 20.02,
+      "finishTime": 20.14,
+      "word": "set"
+    },
+    {
+      "startTime": 20.14,
+      "finishTime": 20.36,
+      "word": "up"
+    },
+    {
+      "startTime": 20.36,
+      "finishTime": 20.7,
+      "word": "multi"
+    },
+    {
+      "startTime": 20.7,
+      "finishTime": 20.96,
+      "word": "-factor"
+    },
+    {
+      "startTime": 20.96,
+      "finishTime": 21.6,
+      "word": "authentication"
+    },
+    {
+      "startTime": 21.6,
+      "finishTime": 21.92,
+      "word": "for"
+    },
+    {
+      "startTime": 21.92,
+      "finishTime": 22.22,
+      "word": "all"
+    },
+    {
+      "startTime": 22.22,
+      "finishTime": 22.56,
+      "word": "user"
+    },
+    {
+      "startTime": 22.56,
+      "finishTime": 22.94,
+      "word": "accounts."
+    },
+    {
+      "startTime": 23.38,
+      "finishTime": 23.52,
+      "word": "It's"
+    },
+    {
+      "startTime": 23.52,
+      "finishTime": 24,
+      "word": "mandatory"
+    },
+    {
+      "startTime": 24,
+      "finishTime": 24.2,
+      "word": "for"
+    },
+    {
+      "startTime": 24.2,
+      "finishTime": 24.38,
+      "word": "this"
+    },
+    {
+      "startTime": 24.38,
+      "finishTime": 24.84,
+      "word": "project."
+    },
+    {
+      "startTime": 25.12,
+      "finishTime": 25.38,
+      "word": "Got"
+    },
+    {
+      "startTime": 25.38,
+      "finishTime": 25.58,
+      "word": "it."
+    },
+    {
+      "startTime": 25.96,
+      "finishTime": 26.12,
+      "word": "Does"
+    },
+    {
+      "startTime": 26.12,
+      "finishTime": 26.34,
+      "word": "that"
+    },
+    {
+      "startTime": 26.34,
+      "finishTime": 26.74,
+      "word": "apply"
+    },
+    {
+      "startTime": 26.74,
+      "finishTime": 26.96,
+      "word": "to"
+    },
+    {
+      "startTime": 26.96,
+      "finishTime": 27.2,
+      "word": "the"
+    },
+    {
+      "startTime": 27.2,
+      "finishTime": 27.52,
+      "word": "development"
+    },
+    {
+      "startTime": 27.52,
+      "finishTime": 27.72,
+      "word": "team"
+    },
+    {
+      "startTime": 27.72,
+      "finishTime": 27.96,
+      "word": "as"
+    },
+    {
+      "startTime": 27.96,
+      "finishTime": 28.22,
+      "word": "well?"
+    },
+    {
+      "startTime": 28.86,
+      "finishTime": 29.1,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 29.32,
+      "finishTime": 29.58,
+      "word": "everyone"
+    },
+    {
+      "startTime": 29.58,
+      "finishTime": 30,
+      "word": "must"
+    },
+    {
+      "startTime": 30,
+      "finishTime": 30.26,
+      "word": "use"
+    },
+    {
+      "startTime": 30.26,
+      "finishTime": 30.62,
+      "word": "multi"
+    },
+    {
+      "startTime": 30.62,
+      "finishTime": 30.9,
+      "word": "-factor"
+    },
+    {
+      "startTime": 30.9,
+      "finishTime": 31.54,
+      "word": "authentication,"
+    },
+    {
+      "startTime": 31.7,
+      "finishTime": 32.32,
+      "word": "including"
+    },
+    {
+      "startTime": 32.32,
+      "finishTime": 32.84,
+      "word": "QA."
+    },
+    {
+      "startTime": 33.26,
+      "finishTime": 33.42,
+      "word": "It's"
+    },
+    {
+      "startTime": 33.42,
+      "finishTime": 33.56,
+      "word": "a"
+    },
+    {
+      "startTime": 33.56,
+      "finishTime": 33.78,
+      "word": "non"
+    },
+    {
+      "startTime": 33.78,
+      "finishTime": 34.18,
+      "word": "-negotiable"
+    },
+    {
+      "startTime": 34.18,
+      "finishTime": 34.74,
+      "word": "requirement."
+    },
+    {
+      "startTime": 35.18,
+      "finishTime": 35.62,
+      "word": "Understood."
+    },
+    {
+      "startTime": 35.92,
+      "finishTime": 36.14,
+      "word": "I'll"
+    },
+    {
+      "startTime": 36.14,
+      "finishTime": 36.24,
+      "word": "make"
+    },
+    {
+      "startTime": 36.24,
+      "finishTime": 36.42,
+      "word": "sure"
+    },
+    {
+      "startTime": 36.42,
+      "finishTime": 36.6,
+      "word": "to"
+    },
+    {
+      "startTime": 36.6,
+      "finishTime": 36.82,
+      "word": "update"
+    },
+    {
+      "startTime": 36.82,
+      "finishTime": 37.1,
+      "word": "the"
+    },
+    {
+      "startTime": 37.1,
+      "finishTime": 37.34,
+      "word": "team."
+    },
+    {
+      "startTime": 37.34,
+      "finishTime": 37.84,
+      "word": "By"
+    },
+    {
+      "startTime": 37.84,
+      "finishTime": 38.06,
+      "word": "the"
+    },
+    {
+      "startTime": 38.06,
+      "finishTime": 38.38,
+      "word": "way,"
+    },
+    {
+      "startTime": 38.58,
+      "finishTime": 38.72,
+      "word": "do"
+    },
+    {
+      "startTime": 38.72,
+      "finishTime": 38.88,
+      "word": "we"
+    },
+    {
+      "startTime": 38.88,
+      "finishTime": 39.14,
+      "word": "have"
+    },
+    {
+      "startTime": 39.14,
+      "finishTime": 39.34,
+      "word": "to"
+    },
+    {
+      "startTime": 39.34,
+      "finishTime": 39.56,
+      "word": "follow"
+    },
+    {
+      "startTime": 39.56,
+      "finishTime": 39.94,
+      "word": "any"
+    },
+    {
+      "startTime": 39.94,
+      "finishTime": 40.46,
+      "word": "specific"
+    },
+    {
+      "startTime": 40.46,
+      "finishTime": 40.94,
+      "word": "guidelines"
+    },
+    {
+      "startTime": 40.94,
+      "finishTime": 41.18,
+      "word": "for"
+    },
+    {
+      "startTime": 41.18,
+      "finishTime": 41.5,
+      "word": "data"
+    },
+    {
+      "startTime": 41.5,
+      "finishTime": 41.9,
+      "word": "encryption?"
+    },
+    {
+      "startTime": 42.82,
+      "finishTime": 43.02,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 43.18,
+      "finishTime": 43.4,
+      "word": "all"
+    },
+    {
+      "startTime": 43.4,
+      "finishTime": 43.76,
+      "word": "sensitive"
+    },
+    {
+      "startTime": 43.76,
+      "finishTime": 44.06,
+      "word": "data"
+    },
+    {
+      "startTime": 44.06,
+      "finishTime": 44.34,
+      "word": "must"
+    },
+    {
+      "startTime": 44.34,
+      "finishTime": 44.66,
+      "word": "be"
+    },
+    {
+      "startTime": 44.66,
+      "finishTime": 45,
+      "word": "encrypted,"
+    },
+    {
+      "startTime": 45.3,
+      "finishTime": 45.3,
+      "word": "and"
+    },
+    {
+      "startTime": 45.3,
+      "finishTime": 45.46,
+      "word": "you"
+    },
+    {
+      "startTime": 45.46,
+      "finishTime": 45.66,
+      "word": "have"
+    },
+    {
+      "startTime": 45.66,
+      "finishTime": 45.78,
+      "word": "to"
+    },
+    {
+      "startTime": 45.78,
+      "finishTime": 46.14,
+      "word": "ensure"
+    },
+    {
+      "startTime": 46.14,
+      "finishTime": 46.32,
+      "word": "that"
+    },
+    {
+      "startTime": 46.32,
+      "finishTime": 46.5,
+      "word": "the"
+    },
+    {
+      "startTime": 46.5,
+      "finishTime": 46.86,
+      "word": "encryption"
+    },
+    {
+      "startTime": 46.86,
+      "finishTime": 47.18,
+      "word": "keys"
+    },
+    {
+      "startTime": 47.18,
+      "finishTime": 47.52,
+      "word": "are"
+    },
+    {
+      "startTime": 47.52,
+      "finishTime": 47.76,
+      "word": "stored"
+    },
+    {
+      "startTime": 47.76,
+      "finishTime": 48.24,
+      "word": "securely."
+    },
+    {
+      "startTime": 48.58,
+      "finishTime": 48.72,
+      "word": "This"
+    },
+    {
+      "startTime": 48.72,
+      "finishTime": 48.92,
+      "word": "is"
+    },
+    {
+      "startTime": 48.92,
+      "finishTime": 49.3,
+      "word": "essential"
+    },
+    {
+      "startTime": 49.3,
+      "finishTime": 49.6,
+      "word": "for"
+    },
+    {
+      "startTime": 49.6,
+      "finishTime": 49.94,
+      "word": "preventing"
+    },
+    {
+      "startTime": 49.94,
+      "finishTime": 50.26,
+      "word": "data"
+    },
+    {
+      "startTime": 50.26,
+      "finishTime": 51.18,
+      "word": "breaches."
+    },
+    {
+      "startTime": 51.42,
+      "finishTime": 51.82,
+      "word": "Okay,"
+    },
+    {
+      "startTime": 52,
+      "finishTime": 52.24,
+      "word": "thanks"
+    },
+    {
+      "startTime": 52.24,
+      "finishTime": 52.36,
+      "word": "for"
+    },
+    {
+      "startTime": 52.36,
+      "finishTime": 52.54,
+      "word": "letting"
+    },
+    {
+      "startTime": 52.54,
+      "finishTime": 52.74,
+      "word": "me"
+    },
+    {
+      "startTime": 52.74,
+      "finishTime": 52.96,
+      "word": "know."
+    },
+    {
+      "startTime": 53.06,
+      "finishTime": 53.32,
+      "word": "I'll"
+    },
+    {
+      "startTime": 53.32,
+      "finishTime": 53.54,
+      "word": "handle"
+    },
+    {
+      "startTime": 53.54,
+      "finishTime": 53.72,
+      "word": "it."
+    },
+    {
+      "startTime": 53.9,
+      "finishTime": 54.04,
+      "word": "Is"
+    },
+    {
+      "startTime": 54.04,
+      "finishTime": 54.28,
+      "word": "there"
+    },
+    {
+      "startTime": 54.28,
+      "finishTime": 54.56,
+      "word": "anything"
+    },
+    {
+      "startTime": 54.56,
+      "finishTime": 54.8,
+      "word": "else"
+    },
+    {
+      "startTime": 54.8,
+      "finishTime": 54.96,
+      "word": "I"
+    },
+    {
+      "startTime": 54.96,
+      "finishTime": 55.1,
+      "word": "need"
+    },
+    {
+      "startTime": 55.1,
+      "finishTime": 55.3,
+      "word": "to"
+    },
+    {
+      "startTime": 55.3,
+      "finishTime": 55.54,
+      "word": "do?"
+    },
+    {
+      "startTime": 56.1,
+      "finishTime": 56.44,
+      "word": "Besides"
+    },
+    {
+      "startTime": 56.44,
+      "finishTime": 56.72,
+      "word": "that,"
+    },
+    {
+      "startTime": 56.72,
+      "finishTime": 56.86,
+      "word": "you"
+    },
+    {
+      "startTime": 56.86,
+      "finishTime": 57.02,
+      "word": "should"
+    },
+    {
+      "startTime": 57.02,
+      "finishTime": 57.28,
+      "word": "run"
+    },
+    {
+      "startTime": 57.28,
+      "finishTime": 57.72,
+      "word": "regular"
+    },
+    {
+      "startTime": 57.72,
+      "finishTime": 58.22,
+      "word": "security"
+    },
+    {
+      "startTime": 58.22,
+      "finishTime": 58.66,
+      "word": "audits."
+    },
+    {
+      "startTime": 58.88,
+      "finishTime": 59.1,
+      "word": "It's"
+    },
+    {
+      "startTime": 59.1,
+      "finishTime": 59.3,
+      "word": "not"
+    },
+    {
+      "startTime": 59.3,
+      "finishTime": 59.8,
+      "word": "mandatory,"
+    },
+    {
+      "startTime": 59.8,
+      "finishTime": 59.94,
+      "word": "but"
+    },
+    {
+      "startTime": 59.94,
+      "finishTime": 60.16,
+      "word": "it's"
+    },
+    {
+      "startTime": 60.16,
+      "finishTime": 60.18,
+      "word": "a"
+    },
+    {
+      "startTime": 60.18,
+      "finishTime": 60.36,
+      "word": "good"
+    },
+    {
+      "startTime": 60.36,
+      "finishTime": 60.64,
+      "word": "idea"
+    },
+    {
+      "startTime": 60.64,
+      "finishTime": 60.86,
+      "word": "to"
+    },
+    {
+      "startTime": 60.86,
+      "finishTime": 61.08,
+      "word": "catch"
+    },
+    {
+      "startTime": 61.08,
+      "finishTime": 61.7,
+      "word": "vulnerabilities"
+    },
+    {
+      "startTime": 61.7,
+      "finishTime": 62.24,
+      "word": "early."
+    },
+    {
+      "startTime": 62.24,
+      "finishTime": 62.84,
+      "word": "Sounds"
+    },
+    {
+      "startTime": 62.84,
+      "finishTime": 63.1,
+      "word": "like"
+    },
+    {
+      "startTime": 63.1,
+      "finishTime": 63.26,
+      "word": "a"
+    },
+    {
+      "startTime": 63.26,
+      "finishTime": 63.48,
+      "word": "plan."
+    },
+    {
+      "startTime": 63.82,
+      "finishTime": 63.92,
+      "word": "I'll"
+    },
+    {
+      "startTime": 63.92,
+      "finishTime": 64.04,
+      "word": "start"
+    },
+    {
+      "startTime": 64.04,
+      "finishTime": 64.22,
+      "word": "with"
+    },
+    {
+      "startTime": 64.22,
+      "finishTime": 64.38,
+      "word": "the"
+    },
+    {
+      "startTime": 64.38,
+      "finishTime": 64.64,
+      "word": "updates"
+    },
+    {
+      "startTime": 64.64,
+      "finishTime": 64.94,
+      "word": "and"
+    },
+    {
+      "startTime": 64.94,
+      "finishTime": 65.08,
+      "word": "set"
+    },
+    {
+      "startTime": 65.08,
+      "finishTime": 65.28,
+      "word": "up"
+    },
+    {
+      "startTime": 65.28,
+      "finishTime": 65.46,
+      "word": "the"
+    },
+    {
+      "startTime": 65.46,
+      "finishTime": 65.9,
+      "word": "authentication."
+    },
+    {
+      "startTime": 66.32,
+      "finishTime": 66.5,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 66.5,
+      "finishTime": 66.66,
+      "word": "for"
+    },
+    {
+      "startTime": 66.66,
+      "finishTime": 66.84,
+      "word": "the"
+    },
+    {
+      "startTime": 66.84,
+      "finishTime": 67.1,
+      "word": "guidance,"
+    },
+    {
+      "startTime": 67.48,
+      "finishTime": 67.58,
+      "word": "Jessica."
+    },
+    {
+      "startTime": 68.34,
+      "finishTime": 68.48,
+      "word": "No"
+    },
+    {
+      "startTime": 68.48,
+      "finishTime": 68.76,
+      "word": "problem,"
+    },
+    {
+      "startTime": 68.9,
+      "finishTime": 69.02,
+      "word": "Mark."
+    },
+    {
+      "startTime": 69.18,
+      "finishTime": 69.32,
+      "word": "Let"
+    },
+    {
+      "startTime": 69.32,
+      "finishTime": 69.44,
+      "word": "me"
+    },
+    {
+      "startTime": 69.44,
+      "finishTime": 69.56,
+      "word": "know"
+    },
+    {
+      "startTime": 69.56,
+      "finishTime": 69.72,
+      "word": "if"
+    },
+    {
+      "startTime": 69.72,
+      "finishTime": 69.86,
+      "word": "you"
+    },
+    {
+      "startTime": 69.86,
+      "finishTime": 69.98,
+      "word": "need"
+    },
+    {
+      "startTime": 69.98,
+      "finishTime": 70.18,
+      "word": "any"
+    },
+    {
+      "startTime": 70.18,
+      "finishTime": 70.36,
+      "word": "help"
+    },
+    {
+      "startTime": 70.36,
+      "finishTime": 70.62,
+      "word": "or"
+    },
+    {
+      "startTime": 70.62,
+      "finishTime": 70.76,
+      "word": "have"
+    },
+    {
+      "startTime": 70.76,
+      "finishTime": 70.98,
+      "word": "more"
+    },
+    {
+      "startTime": 70.98,
+      "finishTime": 71.4,
+      "word": "questions."
+    }
+  ]
+}

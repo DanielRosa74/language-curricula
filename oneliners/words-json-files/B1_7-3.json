@@ -1,0 +1,885 @@
+{
+  "text": "Hey Tom, have you ever thought about what would happen if TechCorp went out of business? If TechCorp went out of business, it would be a big shock. They work with so many companies. Why do you ask? I read they might be having money problems. If they closed, it would affect a lot of tech companies, wouldn't it? Yes, it would. If they shut down, a lot of people would lose their jobs and their current projects would stop, wouldn't they? That's right. If that happened, a lot of smaller companies would be in trouble too. TechCorp helps fund some of their projects. True. If that money goes away, those companies might not survive. It would be a big change for everyone. Do you think they can fix their money problems? Maybe, but it's hard to know. If they get new investors, it might help, but it doesn't look likely. I hope they do. If they go out of business, it would change everything. It definitely would. Let's watch the news and see what happens.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.74,
+      "word": "Hey"
+    },
+    {
+      "startTime": 0.74,
+      "finishTime": 1.04,
+      "word": "Tom,"
+    },
+    {
+      "startTime": 1.16,
+      "finishTime": 1.28,
+      "word": "have"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.36,
+      "word": "you"
+    },
+    {
+      "startTime": 1.36,
+      "finishTime": 1.56,
+      "word": "ever"
+    },
+    {
+      "startTime": 1.56,
+      "finishTime": 1.74,
+      "word": "thought"
+    },
+    {
+      "startTime": 1.74,
+      "finishTime": 1.94,
+      "word": "about"
+    },
+    {
+      "startTime": 1.94,
+      "finishTime": 2.1,
+      "word": "what"
+    },
+    {
+      "startTime": 2.1,
+      "finishTime": 2.34,
+      "word": "would"
+    },
+    {
+      "startTime": 2.34,
+      "finishTime": 2.6,
+      "word": "happen"
+    },
+    {
+      "startTime": 2.6,
+      "finishTime": 2.82,
+      "word": "if"
+    },
+    {
+      "startTime": 2.82,
+      "finishTime": 3.26,
+      "word": "TechCorp"
+    },
+    {
+      "startTime": 3.26,
+      "finishTime": 3.46,
+      "word": "went"
+    },
+    {
+      "startTime": 3.46,
+      "finishTime": 3.66,
+      "word": "out"
+    },
+    {
+      "startTime": 3.66,
+      "finishTime": 3.72,
+      "word": "of"
+    },
+    {
+      "startTime": 3.72,
+      "finishTime": 4.08,
+      "word": "business?"
+    },
+    {
+      "startTime": 4.86,
+      "finishTime": 4.98,
+      "word": "If"
+    },
+    {
+      "startTime": 4.98,
+      "finishTime": 5.42,
+      "word": "TechCorp"
+    },
+    {
+      "startTime": 5.42,
+      "finishTime": 5.62,
+      "word": "went"
+    },
+    {
+      "startTime": 5.62,
+      "finishTime": 5.86,
+      "word": "out"
+    },
+    {
+      "startTime": 5.86,
+      "finishTime": 5.94,
+      "word": "of"
+    },
+    {
+      "startTime": 5.94,
+      "finishTime": 6.24,
+      "word": "business,"
+    },
+    {
+      "startTime": 6.46,
+      "finishTime": 6.46,
+      "word": "it"
+    },
+    {
+      "startTime": 6.46,
+      "finishTime": 6.64,
+      "word": "would"
+    },
+    {
+      "startTime": 6.64,
+      "finishTime": 6.8,
+      "word": "be"
+    },
+    {
+      "startTime": 6.8,
+      "finishTime": 6.88,
+      "word": "a"
+    },
+    {
+      "startTime": 6.88,
+      "finishTime": 7.06,
+      "word": "big"
+    },
+    {
+      "startTime": 7.06,
+      "finishTime": 7.4,
+      "word": "shock."
+    },
+    {
+      "startTime": 7.76,
+      "finishTime": 7.92,
+      "word": "They"
+    },
+    {
+      "startTime": 7.92,
+      "finishTime": 8.1,
+      "word": "work"
+    },
+    {
+      "startTime": 8.1,
+      "finishTime": 8.26,
+      "word": "with"
+    },
+    {
+      "startTime": 8.26,
+      "finishTime": 8.52,
+      "word": "so"
+    },
+    {
+      "startTime": 8.52,
+      "finishTime": 8.68,
+      "word": "many"
+    },
+    {
+      "startTime": 8.68,
+      "finishTime": 9.1,
+      "word": "companies."
+    },
+    {
+      "startTime": 9.24,
+      "finishTime": 9.42,
+      "word": "Why"
+    },
+    {
+      "startTime": 9.42,
+      "finishTime": 9.56,
+      "word": "do"
+    },
+    {
+      "startTime": 9.56,
+      "finishTime": 9.68,
+      "word": "you"
+    },
+    {
+      "startTime": 9.68,
+      "finishTime": 10.08,
+      "word": "ask?"
+    },
+    {
+      "startTime": 10.62,
+      "finishTime": 10.78,
+      "word": "I"
+    },
+    {
+      "startTime": 10.78,
+      "finishTime": 10.98,
+      "word": "read"
+    },
+    {
+      "startTime": 10.98,
+      "finishTime": 11.14,
+      "word": "they"
+    },
+    {
+      "startTime": 11.14,
+      "finishTime": 11.36,
+      "word": "might"
+    },
+    {
+      "startTime": 11.36,
+      "finishTime": 11.54,
+      "word": "be"
+    },
+    {
+      "startTime": 11.54,
+      "finishTime": 11.74,
+      "word": "having"
+    },
+    {
+      "startTime": 11.74,
+      "finishTime": 12,
+      "word": "money"
+    },
+    {
+      "startTime": 12,
+      "finishTime": 12.46,
+      "word": "problems."
+    },
+    {
+      "startTime": 12.72,
+      "finishTime": 12.82,
+      "word": "If"
+    },
+    {
+      "startTime": 12.82,
+      "finishTime": 13.08,
+      "word": "they"
+    },
+    {
+      "startTime": 13.08,
+      "finishTime": 13.42,
+      "word": "closed,"
+    },
+    {
+      "startTime": 13.42,
+      "finishTime": 13.5,
+      "word": "it"
+    },
+    {
+      "startTime": 13.5,
+      "finishTime": 13.66,
+      "word": "would"
+    },
+    {
+      "startTime": 13.66,
+      "finishTime": 13.9,
+      "word": "affect"
+    },
+    {
+      "startTime": 13.9,
+      "finishTime": 14,
+      "word": "a"
+    },
+    {
+      "startTime": 14,
+      "finishTime": 14.22,
+      "word": "lot"
+    },
+    {
+      "startTime": 14.22,
+      "finishTime": 14.38,
+      "word": "of"
+    },
+    {
+      "startTime": 14.38,
+      "finishTime": 14.54,
+      "word": "tech"
+    },
+    {
+      "startTime": 14.54,
+      "finishTime": 14.9,
+      "word": "companies,"
+    },
+    {
+      "startTime": 15,
+      "finishTime": 15.1,
+      "word": "wouldn't"
+    },
+    {
+      "startTime": 15.1,
+      "finishTime": 15.5,
+      "word": "it?"
+    },
+    {
+      "startTime": 15.94,
+      "finishTime": 16.34,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 16.34,
+      "finishTime": 16.58,
+      "word": "it"
+    },
+    {
+      "startTime": 16.58,
+      "finishTime": 16.86,
+      "word": "would."
+    },
+    {
+      "startTime": 17.16,
+      "finishTime": 17.28,
+      "word": "If"
+    },
+    {
+      "startTime": 17.28,
+      "finishTime": 17.48,
+      "word": "they"
+    },
+    {
+      "startTime": 17.48,
+      "finishTime": 17.68,
+      "word": "shut"
+    },
+    {
+      "startTime": 17.68,
+      "finishTime": 18.04,
+      "word": "down,"
+    },
+    {
+      "startTime": 18.1,
+      "finishTime": 18.18,
+      "word": "a"
+    },
+    {
+      "startTime": 18.18,
+      "finishTime": 18.4,
+      "word": "lot"
+    },
+    {
+      "startTime": 18.4,
+      "finishTime": 18.48,
+      "word": "of"
+    },
+    {
+      "startTime": 18.48,
+      "finishTime": 18.7,
+      "word": "people"
+    },
+    {
+      "startTime": 18.7,
+      "finishTime": 18.86,
+      "word": "would"
+    },
+    {
+      "startTime": 18.86,
+      "finishTime": 19.1,
+      "word": "lose"
+    },
+    {
+      "startTime": 19.1,
+      "finishTime": 19.3,
+      "word": "their"
+    },
+    {
+      "startTime": 19.3,
+      "finishTime": 19.68,
+      "word": "jobs"
+    },
+    {
+      "startTime": 19.68,
+      "finishTime": 20.28,
+      "word": "and"
+    },
+    {
+      "startTime": 20.28,
+      "finishTime": 20.56,
+      "word": "their"
+    },
+    {
+      "startTime": 20.56,
+      "finishTime": 20.82,
+      "word": "current"
+    },
+    {
+      "startTime": 20.82,
+      "finishTime": 21.18,
+      "word": "projects"
+    },
+    {
+      "startTime": 21.18,
+      "finishTime": 21.48,
+      "word": "would"
+    },
+    {
+      "startTime": 21.48,
+      "finishTime": 21.84,
+      "word": "stop,"
+    },
+    {
+      "startTime": 22.02,
+      "finishTime": 22.2,
+      "word": "wouldn't"
+    },
+    {
+      "startTime": 22.2,
+      "finishTime": 22.5,
+      "word": "they?"
+    },
+    {
+      "startTime": 22.86,
+      "finishTime": 23.18,
+      "word": "That's"
+    },
+    {
+      "startTime": 23.18,
+      "finishTime": 23.48,
+      "word": "right."
+    },
+    {
+      "startTime": 23.64,
+      "finishTime": 23.76,
+      "word": "If"
+    },
+    {
+      "startTime": 23.76,
+      "finishTime": 24,
+      "word": "that"
+    },
+    {
+      "startTime": 24,
+      "finishTime": 24.3,
+      "word": "happened,"
+    },
+    {
+      "startTime": 24.38,
+      "finishTime": 24.4,
+      "word": "a"
+    },
+    {
+      "startTime": 24.4,
+      "finishTime": 24.62,
+      "word": "lot"
+    },
+    {
+      "startTime": 24.62,
+      "finishTime": 24.8,
+      "word": "of"
+    },
+    {
+      "startTime": 24.8,
+      "finishTime": 25,
+      "word": "smaller"
+    },
+    {
+      "startTime": 25,
+      "finishTime": 25.36,
+      "word": "companies"
+    },
+    {
+      "startTime": 25.36,
+      "finishTime": 25.52,
+      "word": "would"
+    },
+    {
+      "startTime": 25.52,
+      "finishTime": 25.66,
+      "word": "be"
+    },
+    {
+      "startTime": 25.66,
+      "finishTime": 25.82,
+      "word": "in"
+    },
+    {
+      "startTime": 25.82,
+      "finishTime": 26.06,
+      "word": "trouble"
+    },
+    {
+      "startTime": 26.06,
+      "finishTime": 26.56,
+      "word": "too."
+    },
+    {
+      "startTime": 26.96,
+      "finishTime": 27.4,
+      "word": "TechCorp"
+    },
+    {
+      "startTime": 27.4,
+      "finishTime": 27.72,
+      "word": "helps"
+    },
+    {
+      "startTime": 27.72,
+      "finishTime": 27.98,
+      "word": "fund"
+    },
+    {
+      "startTime": 27.98,
+      "finishTime": 28.2,
+      "word": "some"
+    },
+    {
+      "startTime": 28.2,
+      "finishTime": 28.24,
+      "word": "of"
+    },
+    {
+      "startTime": 28.24,
+      "finishTime": 28.42,
+      "word": "their"
+    },
+    {
+      "startTime": 28.42,
+      "finishTime": 28.86,
+      "word": "projects."
+    },
+    {
+      "startTime": 28.86,
+      "finishTime": 29.6,
+      "word": "True."
+    },
+    {
+      "startTime": 29.94,
+      "finishTime": 30.02,
+      "word": "If"
+    },
+    {
+      "startTime": 30.02,
+      "finishTime": 30.22,
+      "word": "that"
+    },
+    {
+      "startTime": 30.22,
+      "finishTime": 30.36,
+      "word": "money"
+    },
+    {
+      "startTime": 30.36,
+      "finishTime": 30.62,
+      "word": "goes"
+    },
+    {
+      "startTime": 30.62,
+      "finishTime": 30.86,
+      "word": "away,"
+    },
+    {
+      "startTime": 31.12,
+      "finishTime": 31.24,
+      "word": "those"
+    },
+    {
+      "startTime": 31.24,
+      "finishTime": 31.52,
+      "word": "companies"
+    },
+    {
+      "startTime": 31.52,
+      "finishTime": 31.74,
+      "word": "might"
+    },
+    {
+      "startTime": 31.74,
+      "finishTime": 31.96,
+      "word": "not"
+    },
+    {
+      "startTime": 31.96,
+      "finishTime": 32.42,
+      "word": "survive."
+    },
+    {
+      "startTime": 32.68,
+      "finishTime": 32.8,
+      "word": "It"
+    },
+    {
+      "startTime": 32.8,
+      "finishTime": 33,
+      "word": "would"
+    },
+    {
+      "startTime": 33,
+      "finishTime": 33.14,
+      "word": "be"
+    },
+    {
+      "startTime": 33.14,
+      "finishTime": 33.26,
+      "word": "a"
+    },
+    {
+      "startTime": 33.26,
+      "finishTime": 33.42,
+      "word": "big"
+    },
+    {
+      "startTime": 33.42,
+      "finishTime": 33.68,
+      "word": "change"
+    },
+    {
+      "startTime": 33.68,
+      "finishTime": 33.96,
+      "word": "for"
+    },
+    {
+      "startTime": 33.96,
+      "finishTime": 34.26,
+      "word": "everyone."
+    },
+    {
+      "startTime": 34.88,
+      "finishTime": 34.98,
+      "word": "Do"
+    },
+    {
+      "startTime": 34.98,
+      "finishTime": 35.08,
+      "word": "you"
+    },
+    {
+      "startTime": 35.08,
+      "finishTime": 35.24,
+      "word": "think"
+    },
+    {
+      "startTime": 35.24,
+      "finishTime": 35.36,
+      "word": "they"
+    },
+    {
+      "startTime": 35.36,
+      "finishTime": 35.58,
+      "word": "can"
+    },
+    {
+      "startTime": 35.58,
+      "finishTime": 35.8,
+      "word": "fix"
+    },
+    {
+      "startTime": 35.8,
+      "finishTime": 35.98,
+      "word": "their"
+    },
+    {
+      "startTime": 35.98,
+      "finishTime": 36.16,
+      "word": "money"
+    },
+    {
+      "startTime": 36.16,
+      "finishTime": 36.6,
+      "word": "problems?"
+    },
+    {
+      "startTime": 37.22,
+      "finishTime": 37.46,
+      "word": "Maybe,"
+    },
+    {
+      "startTime": 37.58,
+      "finishTime": 37.76,
+      "word": "but"
+    },
+    {
+      "startTime": 37.76,
+      "finishTime": 37.9,
+      "word": "it's"
+    },
+    {
+      "startTime": 37.9,
+      "finishTime": 38.08,
+      "word": "hard"
+    },
+    {
+      "startTime": 38.08,
+      "finishTime": 38.26,
+      "word": "to"
+    },
+    {
+      "startTime": 38.26,
+      "finishTime": 38.5,
+      "word": "know."
+    },
+    {
+      "startTime": 38.7,
+      "finishTime": 38.84,
+      "word": "If"
+    },
+    {
+      "startTime": 38.84,
+      "finishTime": 39.04,
+      "word": "they"
+    },
+    {
+      "startTime": 39.04,
+      "finishTime": 39.16,
+      "word": "get"
+    },
+    {
+      "startTime": 39.16,
+      "finishTime": 39.42,
+      "word": "new"
+    },
+    {
+      "startTime": 39.42,
+      "finishTime": 39.82,
+      "word": "investors,"
+    },
+    {
+      "startTime": 40.06,
+      "finishTime": 40.16,
+      "word": "it"
+    },
+    {
+      "startTime": 40.16,
+      "finishTime": 40.38,
+      "word": "might"
+    },
+    {
+      "startTime": 40.38,
+      "finishTime": 40.66,
+      "word": "help,"
+    },
+    {
+      "startTime": 40.86,
+      "finishTime": 41.04,
+      "word": "but"
+    },
+    {
+      "startTime": 41.04,
+      "finishTime": 41.16,
+      "word": "it"
+    },
+    {
+      "startTime": 41.16,
+      "finishTime": 41.4,
+      "word": "doesn't"
+    },
+    {
+      "startTime": 41.4,
+      "finishTime": 41.66,
+      "word": "look"
+    },
+    {
+      "startTime": 41.66,
+      "finishTime": 42.02,
+      "word": "likely."
+    },
+    {
+      "startTime": 42.6,
+      "finishTime": 42.74,
+      "word": "I"
+    },
+    {
+      "startTime": 42.74,
+      "finishTime": 42.88,
+      "word": "hope"
+    },
+    {
+      "startTime": 42.88,
+      "finishTime": 43.1,
+      "word": "they"
+    },
+    {
+      "startTime": 43.1,
+      "finishTime": 43.28,
+      "word": "do."
+    },
+    {
+      "startTime": 43.42,
+      "finishTime": 43.52,
+      "word": "If"
+    },
+    {
+      "startTime": 43.52,
+      "finishTime": 43.68,
+      "word": "they"
+    },
+    {
+      "startTime": 43.68,
+      "finishTime": 43.82,
+      "word": "go"
+    },
+    {
+      "startTime": 43.82,
+      "finishTime": 43.96,
+      "word": "out"
+    },
+    {
+      "startTime": 43.96,
+      "finishTime": 44.12,
+      "word": "of"
+    },
+    {
+      "startTime": 44.12,
+      "finishTime": 44.34,
+      "word": "business,"
+    },
+    {
+      "startTime": 44.4,
+      "finishTime": 44.48,
+      "word": "it"
+    },
+    {
+      "startTime": 44.48,
+      "finishTime": 44.66,
+      "word": "would"
+    },
+    {
+      "startTime": 44.66,
+      "finishTime": 44.92,
+      "word": "change"
+    },
+    {
+      "startTime": 44.92,
+      "finishTime": 45.28,
+      "word": "everything."
+    },
+    {
+      "startTime": 45.72,
+      "finishTime": 45.94,
+      "word": "It"
+    },
+    {
+      "startTime": 45.94,
+      "finishTime": 46.24,
+      "word": "definitely"
+    },
+    {
+      "startTime": 46.24,
+      "finishTime": 46.52,
+      "word": "would."
+    },
+    {
+      "startTime": 46.72,
+      "finishTime": 46.98,
+      "word": "Let's"
+    },
+    {
+      "startTime": 46.98,
+      "finishTime": 47.18,
+      "word": "watch"
+    },
+    {
+      "startTime": 47.18,
+      "finishTime": 47.38,
+      "word": "the"
+    },
+    {
+      "startTime": 47.38,
+      "finishTime": 47.56,
+      "word": "news"
+    },
+    {
+      "startTime": 47.56,
+      "finishTime": 47.8,
+      "word": "and"
+    },
+    {
+      "startTime": 47.8,
+      "finishTime": 47.96,
+      "word": "see"
+    },
+    {
+      "startTime": 47.96,
+      "finishTime": 48.14,
+      "word": "what"
+    },
+    {
+      "startTime": 48.14,
+      "finishTime": 48.5,
+      "word": "happens."
+    }
+  ]
+}

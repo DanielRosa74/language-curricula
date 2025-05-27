@@ -1,0 +1,1195 @@
+{
+  "text": "Hey Jake, I'm looking at two software tools for our next project. Can you help me decide which one is better for security? Sure Sophie, what are the options? The first one is SecureSoft and the other is Safeguard. SecureSoft seems more user-friendly, but I'm not sure about its security features. I know SecureSoft. It's a bit easier to use, but I think Safeguard is more robust when it comes to security. It has stronger encryption and better protection against vulnerabilities. That makes sense. SecureSoft does have a nicer interface, but if Safeguard is more secure, it's probably the better choice. What about performance? Which one is faster? From my experience, Safeguard is slightly faster. It has more efficient processing, so it doesn't slow down the system as much. SecureSoft is good, but it can be a bit sluggish when handling large datasets. Thanks for pointing that out. I noticed that SecureSoft has more integration options with other tools. Is Safeguard as flexible? Not really. Safeguard is more focused on security, so it might not integrate as easily with other platforms. If integration is crucial, you might have to do some extra work with Safeguard. That's good to know. I think I'll go with Safeguard since security is our top priority, but I'll keep in mind the integration challenges. Thanks for your help, Jake. No problem, Sophie. If you have any other questions, just let me know.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.42,
+      "word": "Hey"
+    },
+    {
+      "startTime": 0.42,
+      "finishTime": 0.72,
+      "word": "Jake,"
+    },
+    {
+      "startTime": 1,
+      "finishTime": 1.1,
+      "word": "I'm"
+    },
+    {
+      "startTime": 1.1,
+      "finishTime": 1.36,
+      "word": "looking"
+    },
+    {
+      "startTime": 1.36,
+      "finishTime": 1.5,
+      "word": "at"
+    },
+    {
+      "startTime": 1.5,
+      "finishTime": 1.86,
+      "word": "two"
+    },
+    {
+      "startTime": 1.86,
+      "finishTime": 2.24,
+      "word": "software"
+    },
+    {
+      "startTime": 2.24,
+      "finishTime": 2.58,
+      "word": "tools"
+    },
+    {
+      "startTime": 2.58,
+      "finishTime": 2.76,
+      "word": "for"
+    },
+    {
+      "startTime": 2.76,
+      "finishTime": 2.9,
+      "word": "our"
+    },
+    {
+      "startTime": 2.9,
+      "finishTime": 3.14,
+      "word": "next"
+    },
+    {
+      "startTime": 3.14,
+      "finishTime": 3.62,
+      "word": "project."
+    },
+    {
+      "startTime": 4,
+      "finishTime": 4.14,
+      "word": "Can"
+    },
+    {
+      "startTime": 4.14,
+      "finishTime": 4.22,
+      "word": "you"
+    },
+    {
+      "startTime": 4.22,
+      "finishTime": 4.36,
+      "word": "help"
+    },
+    {
+      "startTime": 4.36,
+      "finishTime": 4.52,
+      "word": "me"
+    },
+    {
+      "startTime": 4.52,
+      "finishTime": 4.8,
+      "word": "decide"
+    },
+    {
+      "startTime": 4.8,
+      "finishTime": 5.04,
+      "word": "which"
+    },
+    {
+      "startTime": 5.04,
+      "finishTime": 5.2,
+      "word": "one"
+    },
+    {
+      "startTime": 5.2,
+      "finishTime": 5.3,
+      "word": "is"
+    },
+    {
+      "startTime": 5.3,
+      "finishTime": 5.52,
+      "word": "better"
+    },
+    {
+      "startTime": 5.52,
+      "finishTime": 5.72,
+      "word": "for"
+    },
+    {
+      "startTime": 5.72,
+      "finishTime": 6.12,
+      "word": "security?"
+    },
+    {
+      "startTime": 6.54,
+      "finishTime": 6.88,
+      "word": "Sure"
+    },
+    {
+      "startTime": 6.88,
+      "finishTime": 7.2,
+      "word": "Sophie,"
+    },
+    {
+      "startTime": 7.48,
+      "finishTime": 7.7,
+      "word": "what"
+    },
+    {
+      "startTime": 7.7,
+      "finishTime": 7.84,
+      "word": "are"
+    },
+    {
+      "startTime": 7.84,
+      "finishTime": 7.94,
+      "word": "the"
+    },
+    {
+      "startTime": 7.94,
+      "finishTime": 8.4,
+      "word": "options?"
+    },
+    {
+      "startTime": 8.88,
+      "finishTime": 9.02,
+      "word": "The"
+    },
+    {
+      "startTime": 9.02,
+      "finishTime": 9.26,
+      "word": "first"
+    },
+    {
+      "startTime": 9.26,
+      "finishTime": 9.48,
+      "word": "one"
+    },
+    {
+      "startTime": 9.48,
+      "finishTime": 9.7,
+      "word": "is"
+    },
+    {
+      "startTime": 9.7,
+      "finishTime": 10.38,
+      "word": "SecureSoft"
+    },
+    {
+      "startTime": 10.38,
+      "finishTime": 10.62,
+      "word": "and"
+    },
+    {
+      "startTime": 10.62,
+      "finishTime": 10.72,
+      "word": "the"
+    },
+    {
+      "startTime": 10.72,
+      "finishTime": 10.96,
+      "word": "other"
+    },
+    {
+      "startTime": 10.96,
+      "finishTime": 11.16,
+      "word": "is"
+    },
+    {
+      "startTime": 11.16,
+      "finishTime": 11.76,
+      "word": "Safeguard."
+    },
+    {
+      "startTime": 12.32,
+      "finishTime": 12.8,
+      "word": "SecureSoft"
+    },
+    {
+      "startTime": 12.8,
+      "finishTime": 13.08,
+      "word": "seems"
+    },
+    {
+      "startTime": 13.08,
+      "finishTime": 13.44,
+      "word": "more"
+    },
+    {
+      "startTime": 13.44,
+      "finishTime": 13.76,
+      "word": "user"
+    },
+    {
+      "startTime": 13.76,
+      "finishTime": 14.12,
+      "word": "-friendly,"
+    },
+    {
+      "startTime": 14.36,
+      "finishTime": 14.46,
+      "word": "but"
+    },
+    {
+      "startTime": 14.46,
+      "finishTime": 14.62,
+      "word": "I'm"
+    },
+    {
+      "startTime": 14.62,
+      "finishTime": 14.94,
+      "word": "not"
+    },
+    {
+      "startTime": 14.94,
+      "finishTime": 15.16,
+      "word": "sure"
+    },
+    {
+      "startTime": 15.16,
+      "finishTime": 15.38,
+      "word": "about"
+    },
+    {
+      "startTime": 15.38,
+      "finishTime": 15.6,
+      "word": "its"
+    },
+    {
+      "startTime": 15.6,
+      "finishTime": 15.9,
+      "word": "security"
+    },
+    {
+      "startTime": 15.9,
+      "finishTime": 16.4,
+      "word": "features."
+    },
+    {
+      "startTime": 17.32,
+      "finishTime": 17.46,
+      "word": "I"
+    },
+    {
+      "startTime": 17.46,
+      "finishTime": 17.68,
+      "word": "know"
+    },
+    {
+      "startTime": 17.68,
+      "finishTime": 18.58,
+      "word": "SecureSoft."
+    },
+    {
+      "startTime": 18.82,
+      "finishTime": 19.04,
+      "word": "It's"
+    },
+    {
+      "startTime": 19.04,
+      "finishTime": 19.16,
+      "word": "a"
+    },
+    {
+      "startTime": 19.16,
+      "finishTime": 19.3,
+      "word": "bit"
+    },
+    {
+      "startTime": 19.3,
+      "finishTime": 19.64,
+      "word": "easier"
+    },
+    {
+      "startTime": 19.64,
+      "finishTime": 19.92,
+      "word": "to"
+    },
+    {
+      "startTime": 19.92,
+      "finishTime": 20.2,
+      "word": "use,"
+    },
+    {
+      "startTime": 20.26,
+      "finishTime": 20.48,
+      "word": "but"
+    },
+    {
+      "startTime": 20.48,
+      "finishTime": 20.6,
+      "word": "I"
+    },
+    {
+      "startTime": 20.6,
+      "finishTime": 20.82,
+      "word": "think"
+    },
+    {
+      "startTime": 20.82,
+      "finishTime": 21.3,
+      "word": "Safeguard"
+    },
+    {
+      "startTime": 21.3,
+      "finishTime": 21.48,
+      "word": "is"
+    },
+    {
+      "startTime": 21.48,
+      "finishTime": 21.7,
+      "word": "more"
+    },
+    {
+      "startTime": 21.7,
+      "finishTime": 22.1,
+      "word": "robust"
+    },
+    {
+      "startTime": 22.1,
+      "finishTime": 22.3,
+      "word": "when"
+    },
+    {
+      "startTime": 22.3,
+      "finishTime": 22.38,
+      "word": "it"
+    },
+    {
+      "startTime": 22.38,
+      "finishTime": 22.6,
+      "word": "comes"
+    },
+    {
+      "startTime": 22.6,
+      "finishTime": 22.82,
+      "word": "to"
+    },
+    {
+      "startTime": 22.82,
+      "finishTime": 23.28,
+      "word": "security."
+    },
+    {
+      "startTime": 23.56,
+      "finishTime": 23.72,
+      "word": "It"
+    },
+    {
+      "startTime": 23.72,
+      "finishTime": 23.98,
+      "word": "has"
+    },
+    {
+      "startTime": 23.98,
+      "finishTime": 24.34,
+      "word": "stronger"
+    },
+    {
+      "startTime": 24.34,
+      "finishTime": 24.86,
+      "word": "encryption"
+    },
+    {
+      "startTime": 24.86,
+      "finishTime": 25.3,
+      "word": "and"
+    },
+    {
+      "startTime": 25.3,
+      "finishTime": 25.6,
+      "word": "better"
+    },
+    {
+      "startTime": 25.6,
+      "finishTime": 26.02,
+      "word": "protection"
+    },
+    {
+      "startTime": 26.02,
+      "finishTime": 26.32,
+      "word": "against"
+    },
+    {
+      "startTime": 26.32,
+      "finishTime": 27.06,
+      "word": "vulnerabilities."
+    },
+    {
+      "startTime": 27.06,
+      "finishTime": 27.86,
+      "word": "That"
+    },
+    {
+      "startTime": 27.86,
+      "finishTime": 28.16,
+      "word": "makes"
+    },
+    {
+      "startTime": 28.16,
+      "finishTime": 28.7,
+      "word": "sense."
+    },
+    {
+      "startTime": 28.98,
+      "finishTime": 29.46,
+      "word": "SecureSoft"
+    },
+    {
+      "startTime": 29.46,
+      "finishTime": 29.76,
+      "word": "does"
+    },
+    {
+      "startTime": 29.76,
+      "finishTime": 29.94,
+      "word": "have"
+    },
+    {
+      "startTime": 29.94,
+      "finishTime": 29.96,
+      "word": "a"
+    },
+    {
+      "startTime": 29.96,
+      "finishTime": 30.26,
+      "word": "nicer"
+    },
+    {
+      "startTime": 30.26,
+      "finishTime": 30.76,
+      "word": "interface,"
+    },
+    {
+      "startTime": 31.26,
+      "finishTime": 31.3,
+      "word": "but"
+    },
+    {
+      "startTime": 31.3,
+      "finishTime": 31.52,
+      "word": "if"
+    },
+    {
+      "startTime": 31.52,
+      "finishTime": 31.84,
+      "word": "Safeguard"
+    },
+    {
+      "startTime": 31.84,
+      "finishTime": 31.98,
+      "word": "is"
+    },
+    {
+      "startTime": 31.98,
+      "finishTime": 32.2,
+      "word": "more"
+    },
+    {
+      "startTime": 32.2,
+      "finishTime": 32.62,
+      "word": "secure,"
+    },
+    {
+      "startTime": 32.78,
+      "finishTime": 32.92,
+      "word": "it's"
+    },
+    {
+      "startTime": 32.92,
+      "finishTime": 33.24,
+      "word": "probably"
+    },
+    {
+      "startTime": 33.24,
+      "finishTime": 33.36,
+      "word": "the"
+    },
+    {
+      "startTime": 33.36,
+      "finishTime": 33.54,
+      "word": "better"
+    },
+    {
+      "startTime": 33.54,
+      "finishTime": 33.98,
+      "word": "choice."
+    },
+    {
+      "startTime": 34.36,
+      "finishTime": 34.5,
+      "word": "What"
+    },
+    {
+      "startTime": 34.5,
+      "finishTime": 34.72,
+      "word": "about"
+    },
+    {
+      "startTime": 34.72,
+      "finishTime": 35.3,
+      "word": "performance?"
+    },
+    {
+      "startTime": 35.5,
+      "finishTime": 35.64,
+      "word": "Which"
+    },
+    {
+      "startTime": 35.64,
+      "finishTime": 35.8,
+      "word": "one"
+    },
+    {
+      "startTime": 35.8,
+      "finishTime": 35.94,
+      "word": "is"
+    },
+    {
+      "startTime": 35.94,
+      "finishTime": 36.36,
+      "word": "faster?"
+    },
+    {
+      "startTime": 36.74,
+      "finishTime": 36.9,
+      "word": "From"
+    },
+    {
+      "startTime": 36.9,
+      "finishTime": 37.24,
+      "word": "my"
+    },
+    {
+      "startTime": 37.24,
+      "finishTime": 37.7,
+      "word": "experience,"
+    },
+    {
+      "startTime": 38.1,
+      "finishTime": 38.5,
+      "word": "Safeguard"
+    },
+    {
+      "startTime": 38.5,
+      "finishTime": 38.84,
+      "word": "is"
+    },
+    {
+      "startTime": 38.84,
+      "finishTime": 39.24,
+      "word": "slightly"
+    },
+    {
+      "startTime": 39.24,
+      "finishTime": 39.7,
+      "word": "faster."
+    },
+    {
+      "startTime": 39.94,
+      "finishTime": 40.04,
+      "word": "It"
+    },
+    {
+      "startTime": 40.04,
+      "finishTime": 40.44,
+      "word": "has"
+    },
+    {
+      "startTime": 40.44,
+      "finishTime": 40.8,
+      "word": "more"
+    },
+    {
+      "startTime": 40.8,
+      "finishTime": 41.18,
+      "word": "efficient"
+    },
+    {
+      "startTime": 41.18,
+      "finishTime": 41.84,
+      "word": "processing,"
+    },
+    {
+      "startTime": 42.16,
+      "finishTime": 42.36,
+      "word": "so"
+    },
+    {
+      "startTime": 42.36,
+      "finishTime": 42.46,
+      "word": "it"
+    },
+    {
+      "startTime": 42.46,
+      "finishTime": 42.78,
+      "word": "doesn't"
+    },
+    {
+      "startTime": 42.78,
+      "finishTime": 43.04,
+      "word": "slow"
+    },
+    {
+      "startTime": 43.04,
+      "finishTime": 43.32,
+      "word": "down"
+    },
+    {
+      "startTime": 43.32,
+      "finishTime": 43.42,
+      "word": "the"
+    },
+    {
+      "startTime": 43.42,
+      "finishTime": 43.72,
+      "word": "system"
+    },
+    {
+      "startTime": 43.72,
+      "finishTime": 43.96,
+      "word": "as"
+    },
+    {
+      "startTime": 43.96,
+      "finishTime": 44.22,
+      "word": "much."
+    },
+    {
+      "startTime": 44.76,
+      "finishTime": 45.32,
+      "word": "SecureSoft"
+    },
+    {
+      "startTime": 45.32,
+      "finishTime": 45.54,
+      "word": "is"
+    },
+    {
+      "startTime": 45.54,
+      "finishTime": 45.9,
+      "word": "good,"
+    },
+    {
+      "startTime": 46,
+      "finishTime": 46.2,
+      "word": "but"
+    },
+    {
+      "startTime": 46.2,
+      "finishTime": 46.4,
+      "word": "it"
+    },
+    {
+      "startTime": 46.4,
+      "finishTime": 46.58,
+      "word": "can"
+    },
+    {
+      "startTime": 46.58,
+      "finishTime": 46.76,
+      "word": "be"
+    },
+    {
+      "startTime": 46.76,
+      "finishTime": 46.76,
+      "word": "a"
+    },
+    {
+      "startTime": 46.76,
+      "finishTime": 47.12,
+      "word": "bit"
+    },
+    {
+      "startTime": 47.12,
+      "finishTime": 47.56,
+      "word": "sluggish"
+    },
+    {
+      "startTime": 47.56,
+      "finishTime": 47.74,
+      "word": "when"
+    },
+    {
+      "startTime": 47.74,
+      "finishTime": 48.12,
+      "word": "handling"
+    },
+    {
+      "startTime": 48.12,
+      "finishTime": 48.48,
+      "word": "large"
+    },
+    {
+      "startTime": 48.48,
+      "finishTime": 48.98,
+      "word": "datasets."
+    },
+    {
+      "startTime": 49.78,
+      "finishTime": 50,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 50,
+      "finishTime": 50.18,
+      "word": "for"
+    },
+    {
+      "startTime": 50.18,
+      "finishTime": 50.4,
+      "word": "pointing"
+    },
+    {
+      "startTime": 50.4,
+      "finishTime": 50.62,
+      "word": "that"
+    },
+    {
+      "startTime": 50.62,
+      "finishTime": 50.9,
+      "word": "out."
+    },
+    {
+      "startTime": 51.18,
+      "finishTime": 51.4,
+      "word": "I"
+    },
+    {
+      "startTime": 51.4,
+      "finishTime": 51.66,
+      "word": "noticed"
+    },
+    {
+      "startTime": 51.66,
+      "finishTime": 51.88,
+      "word": "that"
+    },
+    {
+      "startTime": 51.88,
+      "finishTime": 52.46,
+      "word": "SecureSoft"
+    },
+    {
+      "startTime": 52.46,
+      "finishTime": 52.7,
+      "word": "has"
+    },
+    {
+      "startTime": 52.7,
+      "finishTime": 52.94,
+      "word": "more"
+    },
+    {
+      "startTime": 52.94,
+      "finishTime": 53.44,
+      "word": "integration"
+    },
+    {
+      "startTime": 53.44,
+      "finishTime": 53.84,
+      "word": "options"
+    },
+    {
+      "startTime": 53.84,
+      "finishTime": 54.1,
+      "word": "with"
+    },
+    {
+      "startTime": 54.1,
+      "finishTime": 54.3,
+      "word": "other"
+    },
+    {
+      "startTime": 54.3,
+      "finishTime": 54.7,
+      "word": "tools."
+    },
+    {
+      "startTime": 55.14,
+      "finishTime": 55.36,
+      "word": "Is"
+    },
+    {
+      "startTime": 55.36,
+      "finishTime": 55.68,
+      "word": "Safeguard"
+    },
+    {
+      "startTime": 55.68,
+      "finishTime": 55.9,
+      "word": "as"
+    },
+    {
+      "startTime": 55.9,
+      "finishTime": 56.22,
+      "word": "flexible?"
+    },
+    {
+      "startTime": 56.88,
+      "finishTime": 57.18,
+      "word": "Not"
+    },
+    {
+      "startTime": 57.18,
+      "finishTime": 57.6,
+      "word": "really."
+    },
+    {
+      "startTime": 57.82,
+      "finishTime": 58.26,
+      "word": "Safeguard"
+    },
+    {
+      "startTime": 58.26,
+      "finishTime": 58.4,
+      "word": "is"
+    },
+    {
+      "startTime": 58.4,
+      "finishTime": 58.62,
+      "word": "more"
+    },
+    {
+      "startTime": 58.62,
+      "finishTime": 58.92,
+      "word": "focused"
+    },
+    {
+      "startTime": 58.92,
+      "finishTime": 59.16,
+      "word": "on"
+    },
+    {
+      "startTime": 59.16,
+      "finishTime": 59.64,
+      "word": "security,"
+    },
+    {
+      "startTime": 59.86,
+      "finishTime": 60.08,
+      "word": "so"
+    },
+    {
+      "startTime": 60.08,
+      "finishTime": 60.22,
+      "word": "it"
+    },
+    {
+      "startTime": 60.22,
+      "finishTime": 60.42,
+      "word": "might"
+    },
+    {
+      "startTime": 60.42,
+      "finishTime": 60.72,
+      "word": "not"
+    },
+    {
+      "startTime": 60.72,
+      "finishTime": 61.04,
+      "word": "integrate"
+    },
+    {
+      "startTime": 61.04,
+      "finishTime": 61.32,
+      "word": "as"
+    },
+    {
+      "startTime": 61.32,
+      "finishTime": 61.58,
+      "word": "easily"
+    },
+    {
+      "startTime": 61.58,
+      "finishTime": 61.84,
+      "word": "with"
+    },
+    {
+      "startTime": 61.84,
+      "finishTime": 62.04,
+      "word": "other"
+    },
+    {
+      "startTime": 62.04,
+      "finishTime": 62.58,
+      "word": "platforms."
+    },
+    {
+      "startTime": 63.08,
+      "finishTime": 63.34,
+      "word": "If"
+    },
+    {
+      "startTime": 63.34,
+      "finishTime": 63.76,
+      "word": "integration"
+    },
+    {
+      "startTime": 63.76,
+      "finishTime": 64.2,
+      "word": "is"
+    },
+    {
+      "startTime": 64.2,
+      "finishTime": 64.58,
+      "word": "crucial,"
+    },
+    {
+      "startTime": 65.08,
+      "finishTime": 65.26,
+      "word": "you"
+    },
+    {
+      "startTime": 65.26,
+      "finishTime": 65.46,
+      "word": "might"
+    },
+    {
+      "startTime": 65.46,
+      "finishTime": 65.66,
+      "word": "have"
+    },
+    {
+      "startTime": 65.66,
+      "finishTime": 65.82,
+      "word": "to"
+    },
+    {
+      "startTime": 65.82,
+      "finishTime": 65.9,
+      "word": "do"
+    },
+    {
+      "startTime": 65.9,
+      "finishTime": 66.12,
+      "word": "some"
+    },
+    {
+      "startTime": 66.12,
+      "finishTime": 66.42,
+      "word": "extra"
+    },
+    {
+      "startTime": 66.42,
+      "finishTime": 66.68,
+      "word": "work"
+    },
+    {
+      "startTime": 66.68,
+      "finishTime": 66.9,
+      "word": "with"
+    },
+    {
+      "startTime": 66.9,
+      "finishTime": 67.4,
+      "word": "Safeguard."
+    },
+    {
+      "startTime": 67.98,
+      "finishTime": 68.26,
+      "word": "That's"
+    },
+    {
+      "startTime": 68.26,
+      "finishTime": 68.38,
+      "word": "good"
+    },
+    {
+      "startTime": 68.38,
+      "finishTime": 68.6,
+      "word": "to"
+    },
+    {
+      "startTime": 68.6,
+      "finishTime": 68.78,
+      "word": "know."
+    },
+    {
+      "startTime": 69,
+      "finishTime": 69.1,
+      "word": "I"
+    },
+    {
+      "startTime": 69.1,
+      "finishTime": 69.28,
+      "word": "think"
+    },
+    {
+      "startTime": 69.28,
+      "finishTime": 69.4,
+      "word": "I'll"
+    },
+    {
+      "startTime": 69.4,
+      "finishTime": 69.54,
+      "word": "go"
+    },
+    {
+      "startTime": 69.54,
+      "finishTime": 69.74,
+      "word": "with"
+    },
+    {
+      "startTime": 69.74,
+      "finishTime": 70.24,
+      "word": "Safeguard"
+    },
+    {
+      "startTime": 70.24,
+      "finishTime": 70.46,
+      "word": "since"
+    },
+    {
+      "startTime": 70.46,
+      "finishTime": 70.9,
+      "word": "security"
+    },
+    {
+      "startTime": 70.9,
+      "finishTime": 71.1,
+      "word": "is"
+    },
+    {
+      "startTime": 71.1,
+      "finishTime": 71.28,
+      "word": "our"
+    },
+    {
+      "startTime": 71.28,
+      "finishTime": 71.46,
+      "word": "top"
+    },
+    {
+      "startTime": 71.46,
+      "finishTime": 71.9,
+      "word": "priority,"
+    },
+    {
+      "startTime": 72.14,
+      "finishTime": 72.42,
+      "word": "but"
+    },
+    {
+      "startTime": 72.42,
+      "finishTime": 72.58,
+      "word": "I'll"
+    },
+    {
+      "startTime": 72.58,
+      "finishTime": 72.76,
+      "word": "keep"
+    },
+    {
+      "startTime": 72.76,
+      "finishTime": 72.94,
+      "word": "in"
+    },
+    {
+      "startTime": 72.94,
+      "finishTime": 73.08,
+      "word": "mind"
+    },
+    {
+      "startTime": 73.08,
+      "finishTime": 73.26,
+      "word": "the"
+    },
+    {
+      "startTime": 73.26,
+      "finishTime": 73.64,
+      "word": "integration"
+    },
+    {
+      "startTime": 73.64,
+      "finishTime": 74.08,
+      "word": "challenges."
+    },
+    {
+      "startTime": 74.42,
+      "finishTime": 74.62,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 74.62,
+      "finishTime": 74.78,
+      "word": "for"
+    },
+    {
+      "startTime": 74.78,
+      "finishTime": 74.9,
+      "word": "your"
+    },
+    {
+      "startTime": 74.9,
+      "finishTime": 75.06,
+      "word": "help,"
+    },
+    {
+      "startTime": 75.2,
+      "finishTime": 75.32,
+      "word": "Jake."
+    },
+    {
+      "startTime": 75.74,
+      "finishTime": 75.9,
+      "word": "No"
+    },
+    {
+      "startTime": 75.9,
+      "finishTime": 76.16,
+      "word": "problem,"
+    },
+    {
+      "startTime": 76.22,
+      "finishTime": 76.46,
+      "word": "Sophie."
+    },
+    {
+      "startTime": 76.66,
+      "finishTime": 76.78,
+      "word": "If"
+    },
+    {
+      "startTime": 76.78,
+      "finishTime": 76.94,
+      "word": "you"
+    },
+    {
+      "startTime": 76.94,
+      "finishTime": 77.12,
+      "word": "have"
+    },
+    {
+      "startTime": 77.12,
+      "finishTime": 77.34,
+      "word": "any"
+    },
+    {
+      "startTime": 77.34,
+      "finishTime": 77.58,
+      "word": "other"
+    },
+    {
+      "startTime": 77.58,
+      "finishTime": 77.98,
+      "word": "questions,"
+    },
+    {
+      "startTime": 78.16,
+      "finishTime": 78.36,
+      "word": "just"
+    },
+    {
+      "startTime": 78.36,
+      "finishTime": 78.48,
+      "word": "let"
+    },
+    {
+      "startTime": 78.48,
+      "finishTime": 78.64,
+      "word": "me"
+    },
+    {
+      "startTime": 78.64,
+      "finishTime": 78.84,
+      "word": "know."
+    }
+  ]
+}

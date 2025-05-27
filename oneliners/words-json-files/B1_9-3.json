@@ -1,0 +1,1045 @@
+{
+  "text": "Lisa, we're thinking of using a cloud platform for our next project. Do you have any suggestions? Well, it could be a good idea to use AWS. It's quite popular and there's a lot of documentation for it. I see, but I'm not sure if AWS is the best option for us. It might be a bit complex for some of our team members. That's true. It seems like Google Cloud might be easier to use, especially for smaller projects. It could be a better fit if we're looking for simplicity. Maybe. I think Azure could work too, since it integrates well with other Microsoft products and we already use those. What do you think? It might work, but I'm not sure if Azure has the same level of support as AWS. I've heard that their customer service isn't as responsive. I guess that's something to consider. We could try asking around to see what other teams have experienced with these platforms. Would that be a good idea? That might be the best approach. It could help us make a more informed decision. I'll ask on the team channel. I might even create a poll and see the votes. This might be fun. Thank you for your help.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.8,
+      "word": "Lisa,"
+    },
+    {
+      "startTime": 1.4,
+      "finishTime": 1.42,
+      "word": "we're"
+    },
+    {
+      "startTime": 1.42,
+      "finishTime": 1.74,
+      "word": "thinking"
+    },
+    {
+      "startTime": 1.74,
+      "finishTime": 1.9,
+      "word": "of"
+    },
+    {
+      "startTime": 1.9,
+      "finishTime": 2.26,
+      "word": "using"
+    },
+    {
+      "startTime": 2.26,
+      "finishTime": 2.48,
+      "word": "a"
+    },
+    {
+      "startTime": 2.48,
+      "finishTime": 2.72,
+      "word": "cloud"
+    },
+    {
+      "startTime": 2.72,
+      "finishTime": 3.2,
+      "word": "platform"
+    },
+    {
+      "startTime": 3.2,
+      "finishTime": 3.42,
+      "word": "for"
+    },
+    {
+      "startTime": 3.42,
+      "finishTime": 3.6,
+      "word": "our"
+    },
+    {
+      "startTime": 3.6,
+      "finishTime": 3.8,
+      "word": "next"
+    },
+    {
+      "startTime": 3.8,
+      "finishTime": 4.18,
+      "word": "project."
+    },
+    {
+      "startTime": 4.38,
+      "finishTime": 4.52,
+      "word": "Do"
+    },
+    {
+      "startTime": 4.52,
+      "finishTime": 4.66,
+      "word": "you"
+    },
+    {
+      "startTime": 4.66,
+      "finishTime": 4.8,
+      "word": "have"
+    },
+    {
+      "startTime": 4.8,
+      "finishTime": 5.04,
+      "word": "any"
+    },
+    {
+      "startTime": 5.04,
+      "finishTime": 5.54,
+      "word": "suggestions?"
+    },
+    {
+      "startTime": 6.44,
+      "finishTime": 6.7,
+      "word": "Well,"
+    },
+    {
+      "startTime": 6.86,
+      "finishTime": 6.9,
+      "word": "it"
+    },
+    {
+      "startTime": 6.9,
+      "finishTime": 7.1,
+      "word": "could"
+    },
+    {
+      "startTime": 7.1,
+      "finishTime": 7.26,
+      "word": "be"
+    },
+    {
+      "startTime": 7.26,
+      "finishTime": 7.28,
+      "word": "a"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.44,
+      "word": "good"
+    },
+    {
+      "startTime": 7.44,
+      "finishTime": 7.72,
+      "word": "idea"
+    },
+    {
+      "startTime": 7.72,
+      "finishTime": 7.92,
+      "word": "to"
+    },
+    {
+      "startTime": 7.92,
+      "finishTime": 8.2,
+      "word": "use"
+    },
+    {
+      "startTime": 8.2,
+      "finishTime": 8.7,
+      "word": "AWS."
+    },
+    {
+      "startTime": 9.22,
+      "finishTime": 9.4,
+      "word": "It's"
+    },
+    {
+      "startTime": 9.4,
+      "finishTime": 9.64,
+      "word": "quite"
+    },
+    {
+      "startTime": 9.64,
+      "finishTime": 10.04,
+      "word": "popular"
+    },
+    {
+      "startTime": 10.04,
+      "finishTime": 10.22,
+      "word": "and"
+    },
+    {
+      "startTime": 10.22,
+      "finishTime": 10.42,
+      "word": "there's"
+    },
+    {
+      "startTime": 10.42,
+      "finishTime": 10.54,
+      "word": "a"
+    },
+    {
+      "startTime": 10.54,
+      "finishTime": 10.64,
+      "word": "lot"
+    },
+    {
+      "startTime": 10.64,
+      "finishTime": 10.84,
+      "word": "of"
+    },
+    {
+      "startTime": 10.84,
+      "finishTime": 11.26,
+      "word": "documentation"
+    },
+    {
+      "startTime": 11.26,
+      "finishTime": 11.56,
+      "word": "for"
+    },
+    {
+      "startTime": 11.56,
+      "finishTime": 11.92,
+      "word": "it."
+    },
+    {
+      "startTime": 12.14,
+      "finishTime": 12.34,
+      "word": "I"
+    },
+    {
+      "startTime": 12.34,
+      "finishTime": 12.68,
+      "word": "see,"
+    },
+    {
+      "startTime": 12.74,
+      "finishTime": 12.9,
+      "word": "but"
+    },
+    {
+      "startTime": 12.9,
+      "finishTime": 13.06,
+      "word": "I'm"
+    },
+    {
+      "startTime": 13.06,
+      "finishTime": 13.26,
+      "word": "not"
+    },
+    {
+      "startTime": 13.26,
+      "finishTime": 13.54,
+      "word": "sure"
+    },
+    {
+      "startTime": 13.54,
+      "finishTime": 13.94,
+      "word": "if"
+    },
+    {
+      "startTime": 13.94,
+      "finishTime": 14.46,
+      "word": "AWS"
+    },
+    {
+      "startTime": 14.46,
+      "finishTime": 14.88,
+      "word": "is"
+    },
+    {
+      "startTime": 14.88,
+      "finishTime": 15.1,
+      "word": "the"
+    },
+    {
+      "startTime": 15.1,
+      "finishTime": 15.28,
+      "word": "best"
+    },
+    {
+      "startTime": 15.28,
+      "finishTime": 15.6,
+      "word": "option"
+    },
+    {
+      "startTime": 15.6,
+      "finishTime": 15.84,
+      "word": "for"
+    },
+    {
+      "startTime": 15.84,
+      "finishTime": 16.1,
+      "word": "us."
+    },
+    {
+      "startTime": 16.22,
+      "finishTime": 16.4,
+      "word": "It"
+    },
+    {
+      "startTime": 16.4,
+      "finishTime": 16.56,
+      "word": "might"
+    },
+    {
+      "startTime": 16.56,
+      "finishTime": 16.72,
+      "word": "be"
+    },
+    {
+      "startTime": 16.72,
+      "finishTime": 16.82,
+      "word": "a"
+    },
+    {
+      "startTime": 16.82,
+      "finishTime": 16.98,
+      "word": "bit"
+    },
+    {
+      "startTime": 16.98,
+      "finishTime": 17.46,
+      "word": "complex"
+    },
+    {
+      "startTime": 17.46,
+      "finishTime": 17.64,
+      "word": "for"
+    },
+    {
+      "startTime": 17.64,
+      "finishTime": 17.82,
+      "word": "some"
+    },
+    {
+      "startTime": 17.82,
+      "finishTime": 18,
+      "word": "of"
+    },
+    {
+      "startTime": 18,
+      "finishTime": 18.1,
+      "word": "our"
+    },
+    {
+      "startTime": 18.1,
+      "finishTime": 18.3,
+      "word": "team"
+    },
+    {
+      "startTime": 18.3,
+      "finishTime": 18.66,
+      "word": "members."
+    },
+    {
+      "startTime": 19.16,
+      "finishTime": 19.5,
+      "word": "That's"
+    },
+    {
+      "startTime": 19.5,
+      "finishTime": 19.8,
+      "word": "true."
+    },
+    {
+      "startTime": 20.08,
+      "finishTime": 20.2,
+      "word": "It"
+    },
+    {
+      "startTime": 20.2,
+      "finishTime": 20.46,
+      "word": "seems"
+    },
+    {
+      "startTime": 20.46,
+      "finishTime": 20.64,
+      "word": "like"
+    },
+    {
+      "startTime": 20.64,
+      "finishTime": 20.96,
+      "word": "Google"
+    },
+    {
+      "startTime": 20.96,
+      "finishTime": 21.22,
+      "word": "Cloud"
+    },
+    {
+      "startTime": 21.22,
+      "finishTime": 21.42,
+      "word": "might"
+    },
+    {
+      "startTime": 21.42,
+      "finishTime": 21.66,
+      "word": "be"
+    },
+    {
+      "startTime": 21.66,
+      "finishTime": 21.86,
+      "word": "easier"
+    },
+    {
+      "startTime": 21.86,
+      "finishTime": 22.16,
+      "word": "to"
+    },
+    {
+      "startTime": 22.16,
+      "finishTime": 22.4,
+      "word": "use,"
+    },
+    {
+      "startTime": 22.42,
+      "finishTime": 22.86,
+      "word": "especially"
+    },
+    {
+      "startTime": 22.86,
+      "finishTime": 23.16,
+      "word": "for"
+    },
+    {
+      "startTime": 23.16,
+      "finishTime": 23.42,
+      "word": "smaller"
+    },
+    {
+      "startTime": 23.42,
+      "finishTime": 23.92,
+      "word": "projects."
+    },
+    {
+      "startTime": 24.32,
+      "finishTime": 24.5,
+      "word": "It"
+    },
+    {
+      "startTime": 24.5,
+      "finishTime": 24.64,
+      "word": "could"
+    },
+    {
+      "startTime": 24.64,
+      "finishTime": 24.8,
+      "word": "be"
+    },
+    {
+      "startTime": 24.8,
+      "finishTime": 24.88,
+      "word": "a"
+    },
+    {
+      "startTime": 24.88,
+      "finishTime": 25.06,
+      "word": "better"
+    },
+    {
+      "startTime": 25.06,
+      "finishTime": 25.26,
+      "word": "fit"
+    },
+    {
+      "startTime": 25.26,
+      "finishTime": 25.42,
+      "word": "if"
+    },
+    {
+      "startTime": 25.42,
+      "finishTime": 25.58,
+      "word": "we're"
+    },
+    {
+      "startTime": 25.58,
+      "finishTime": 25.76,
+      "word": "looking"
+    },
+    {
+      "startTime": 25.76,
+      "finishTime": 25.98,
+      "word": "for"
+    },
+    {
+      "startTime": 25.98,
+      "finishTime": 26.46,
+      "word": "simplicity."
+    },
+    {
+      "startTime": 26.98,
+      "finishTime": 27.4,
+      "word": "Maybe."
+    },
+    {
+      "startTime": 27.4,
+      "finishTime": 27.68,
+      "word": "I"
+    },
+    {
+      "startTime": 27.68,
+      "finishTime": 27.92,
+      "word": "think"
+    },
+    {
+      "startTime": 27.92,
+      "finishTime": 28.38,
+      "word": "Azure"
+    },
+    {
+      "startTime": 28.38,
+      "finishTime": 28.62,
+      "word": "could"
+    },
+    {
+      "startTime": 28.62,
+      "finishTime": 28.92,
+      "word": "work"
+    },
+    {
+      "startTime": 28.92,
+      "finishTime": 29.38,
+      "word": "too,"
+    },
+    {
+      "startTime": 29.76,
+      "finishTime": 30,
+      "word": "since"
+    },
+    {
+      "startTime": 30,
+      "finishTime": 30.28,
+      "word": "it"
+    },
+    {
+      "startTime": 30.28,
+      "finishTime": 30.62,
+      "word": "integrates"
+    },
+    {
+      "startTime": 30.62,
+      "finishTime": 30.88,
+      "word": "well"
+    },
+    {
+      "startTime": 30.88,
+      "finishTime": 31.1,
+      "word": "with"
+    },
+    {
+      "startTime": 31.1,
+      "finishTime": 31.42,
+      "word": "other"
+    },
+    {
+      "startTime": 31.42,
+      "finishTime": 31.9,
+      "word": "Microsoft"
+    },
+    {
+      "startTime": 31.9,
+      "finishTime": 32.26,
+      "word": "products"
+    },
+    {
+      "startTime": 32.26,
+      "finishTime": 32.42,
+      "word": "and"
+    },
+    {
+      "startTime": 32.42,
+      "finishTime": 32.6,
+      "word": "we"
+    },
+    {
+      "startTime": 32.6,
+      "finishTime": 32.84,
+      "word": "already"
+    },
+    {
+      "startTime": 32.84,
+      "finishTime": 33.08,
+      "word": "use"
+    },
+    {
+      "startTime": 33.08,
+      "finishTime": 33.42,
+      "word": "those."
+    },
+    {
+      "startTime": 33.62,
+      "finishTime": 33.82,
+      "word": "What"
+    },
+    {
+      "startTime": 33.82,
+      "finishTime": 33.94,
+      "word": "do"
+    },
+    {
+      "startTime": 33.94,
+      "finishTime": 34.08,
+      "word": "you"
+    },
+    {
+      "startTime": 34.08,
+      "finishTime": 34.4,
+      "word": "think?"
+    },
+    {
+      "startTime": 35.04,
+      "finishTime": 35.12,
+      "word": "It"
+    },
+    {
+      "startTime": 35.12,
+      "finishTime": 35.36,
+      "word": "might"
+    },
+    {
+      "startTime": 35.36,
+      "finishTime": 35.72,
+      "word": "work,"
+    },
+    {
+      "startTime": 35.8,
+      "finishTime": 35.82,
+      "word": "but"
+    },
+    {
+      "startTime": 35.82,
+      "finishTime": 35.94,
+      "word": "I'm"
+    },
+    {
+      "startTime": 35.94,
+      "finishTime": 36.26,
+      "word": "not"
+    },
+    {
+      "startTime": 36.26,
+      "finishTime": 36.46,
+      "word": "sure"
+    },
+    {
+      "startTime": 36.46,
+      "finishTime": 36.68,
+      "word": "if"
+    },
+    {
+      "startTime": 36.68,
+      "finishTime": 36.9,
+      "word": "Azure"
+    },
+    {
+      "startTime": 36.9,
+      "finishTime": 37.1,
+      "word": "has"
+    },
+    {
+      "startTime": 37.1,
+      "finishTime": 37.28,
+      "word": "the"
+    },
+    {
+      "startTime": 37.28,
+      "finishTime": 37.48,
+      "word": "same"
+    },
+    {
+      "startTime": 37.48,
+      "finishTime": 37.74,
+      "word": "level"
+    },
+    {
+      "startTime": 37.74,
+      "finishTime": 37.96,
+      "word": "of"
+    },
+    {
+      "startTime": 37.96,
+      "finishTime": 38.22,
+      "word": "support"
+    },
+    {
+      "startTime": 38.22,
+      "finishTime": 38.48,
+      "word": "as"
+    },
+    {
+      "startTime": 38.48,
+      "finishTime": 38.94,
+      "word": "AWS."
+    },
+    {
+      "startTime": 39.52,
+      "finishTime": 39.78,
+      "word": "I've"
+    },
+    {
+      "startTime": 39.78,
+      "finishTime": 39.86,
+      "word": "heard"
+    },
+    {
+      "startTime": 39.86,
+      "finishTime": 40.04,
+      "word": "that"
+    },
+    {
+      "startTime": 40.04,
+      "finishTime": 40.3,
+      "word": "their"
+    },
+    {
+      "startTime": 40.3,
+      "finishTime": 40.54,
+      "word": "customer"
+    },
+    {
+      "startTime": 40.54,
+      "finishTime": 40.88,
+      "word": "service"
+    },
+    {
+      "startTime": 40.88,
+      "finishTime": 41.16,
+      "word": "isn't"
+    },
+    {
+      "startTime": 41.16,
+      "finishTime": 41.38,
+      "word": "as"
+    },
+    {
+      "startTime": 41.38,
+      "finishTime": 41.84,
+      "word": "responsive."
+    },
+    {
+      "startTime": 42.32,
+      "finishTime": 42.44,
+      "word": "I"
+    },
+    {
+      "startTime": 42.44,
+      "finishTime": 42.6,
+      "word": "guess"
+    },
+    {
+      "startTime": 42.6,
+      "finishTime": 42.92,
+      "word": "that's"
+    },
+    {
+      "startTime": 42.92,
+      "finishTime": 43.08,
+      "word": "something"
+    },
+    {
+      "startTime": 43.08,
+      "finishTime": 43.3,
+      "word": "to"
+    },
+    {
+      "startTime": 43.3,
+      "finishTime": 43.68,
+      "word": "consider."
+    },
+    {
+      "startTime": 44.2,
+      "finishTime": 44.34,
+      "word": "We"
+    },
+    {
+      "startTime": 44.34,
+      "finishTime": 44.6,
+      "word": "could"
+    },
+    {
+      "startTime": 44.6,
+      "finishTime": 44.9,
+      "word": "try"
+    },
+    {
+      "startTime": 44.9,
+      "finishTime": 45.24,
+      "word": "asking"
+    },
+    {
+      "startTime": 45.24,
+      "finishTime": 45.64,
+      "word": "around"
+    },
+    {
+      "startTime": 45.64,
+      "finishTime": 45.82,
+      "word": "to"
+    },
+    {
+      "startTime": 45.82,
+      "finishTime": 46,
+      "word": "see"
+    },
+    {
+      "startTime": 46,
+      "finishTime": 46.24,
+      "word": "what"
+    },
+    {
+      "startTime": 46.24,
+      "finishTime": 46.5,
+      "word": "other"
+    },
+    {
+      "startTime": 46.5,
+      "finishTime": 46.74,
+      "word": "teams"
+    },
+    {
+      "startTime": 46.74,
+      "finishTime": 47,
+      "word": "have"
+    },
+    {
+      "startTime": 47,
+      "finishTime": 47.32,
+      "word": "experienced"
+    },
+    {
+      "startTime": 47.32,
+      "finishTime": 47.52,
+      "word": "with"
+    },
+    {
+      "startTime": 47.52,
+      "finishTime": 47.74,
+      "word": "these"
+    },
+    {
+      "startTime": 47.74,
+      "finishTime": 48.24,
+      "word": "platforms."
+    },
+    {
+      "startTime": 48.6,
+      "finishTime": 48.74,
+      "word": "Would"
+    },
+    {
+      "startTime": 48.74,
+      "finishTime": 48.94,
+      "word": "that"
+    },
+    {
+      "startTime": 48.94,
+      "finishTime": 49.06,
+      "word": "be"
+    },
+    {
+      "startTime": 49.06,
+      "finishTime": 49.14,
+      "word": "a"
+    },
+    {
+      "startTime": 49.14,
+      "finishTime": 49.26,
+      "word": "good"
+    },
+    {
+      "startTime": 49.26,
+      "finishTime": 49.64,
+      "word": "idea?"
+    },
+    {
+      "startTime": 50.1,
+      "finishTime": 50.26,
+      "word": "That"
+    },
+    {
+      "startTime": 50.26,
+      "finishTime": 50.44,
+      "word": "might"
+    },
+    {
+      "startTime": 50.44,
+      "finishTime": 50.58,
+      "word": "be"
+    },
+    {
+      "startTime": 50.58,
+      "finishTime": 50.68,
+      "word": "the"
+    },
+    {
+      "startTime": 50.68,
+      "finishTime": 50.88,
+      "word": "best"
+    },
+    {
+      "startTime": 50.88,
+      "finishTime": 51.3,
+      "word": "approach."
+    },
+    {
+      "startTime": 51.46,
+      "finishTime": 51.54,
+      "word": "It"
+    },
+    {
+      "startTime": 51.54,
+      "finishTime": 51.7,
+      "word": "could"
+    },
+    {
+      "startTime": 51.7,
+      "finishTime": 51.84,
+      "word": "help"
+    },
+    {
+      "startTime": 51.84,
+      "finishTime": 52.06,
+      "word": "us"
+    },
+    {
+      "startTime": 52.06,
+      "finishTime": 52.22,
+      "word": "make"
+    },
+    {
+      "startTime": 52.22,
+      "finishTime": 52.34,
+      "word": "a"
+    },
+    {
+      "startTime": 52.34,
+      "finishTime": 52.54,
+      "word": "more"
+    },
+    {
+      "startTime": 52.54,
+      "finishTime": 52.92,
+      "word": "informed"
+    },
+    {
+      "startTime": 52.92,
+      "finishTime": 53.5,
+      "word": "decision."
+    },
+    {
+      "startTime": 54.24,
+      "finishTime": 54.62,
+      "word": "I'll"
+    },
+    {
+      "startTime": 54.62,
+      "finishTime": 54.8,
+      "word": "ask"
+    },
+    {
+      "startTime": 54.8,
+      "finishTime": 54.96,
+      "word": "on"
+    },
+    {
+      "startTime": 54.96,
+      "finishTime": 55.12,
+      "word": "the"
+    },
+    {
+      "startTime": 55.12,
+      "finishTime": 55.32,
+      "word": "team"
+    },
+    {
+      "startTime": 55.32,
+      "finishTime": 55.62,
+      "word": "channel."
+    },
+    {
+      "startTime": 55.62,
+      "finishTime": 55.96,
+      "word": "I"
+    },
+    {
+      "startTime": 55.96,
+      "finishTime": 56.18,
+      "word": "might"
+    },
+    {
+      "startTime": 56.18,
+      "finishTime": 56.5,
+      "word": "even"
+    },
+    {
+      "startTime": 56.5,
+      "finishTime": 56.7,
+      "word": "create"
+    },
+    {
+      "startTime": 56.7,
+      "finishTime": 56.92,
+      "word": "a"
+    },
+    {
+      "startTime": 56.92,
+      "finishTime": 57.12,
+      "word": "poll"
+    },
+    {
+      "startTime": 57.12,
+      "finishTime": 57.48,
+      "word": "and"
+    },
+    {
+      "startTime": 57.48,
+      "finishTime": 57.62,
+      "word": "see"
+    },
+    {
+      "startTime": 57.62,
+      "finishTime": 57.8,
+      "word": "the"
+    },
+    {
+      "startTime": 57.8,
+      "finishTime": 58.04,
+      "word": "votes."
+    },
+    {
+      "startTime": 58.6,
+      "finishTime": 58.78,
+      "word": "This"
+    },
+    {
+      "startTime": 58.78,
+      "finishTime": 58.96,
+      "word": "might"
+    },
+    {
+      "startTime": 58.96,
+      "finishTime": 59.18,
+      "word": "be"
+    },
+    {
+      "startTime": 59.18,
+      "finishTime": 59.44,
+      "word": "fun."
+    },
+    {
+      "startTime": 59.74,
+      "finishTime": 59.94,
+      "word": "Thank"
+    },
+    {
+      "startTime": 59.94,
+      "finishTime": 60.1,
+      "word": "you"
+    },
+    {
+      "startTime": 60.1,
+      "finishTime": 60.22,
+      "word": "for"
+    },
+    {
+      "startTime": 60.22,
+      "finishTime": 60.38,
+      "word": "your"
+    },
+    {
+      "startTime": 60.38,
+      "finishTime": 60.58,
+      "word": "help."
+    }
+  ]
+}

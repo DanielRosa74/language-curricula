@@ -1,0 +1,1035 @@
+{
+  "text": "I was thinking we could do a quick postmortem of the design project. Sure. I was reviewing our security protocols for the project just yesterday. What's on your mind? Well, during the project, I was working closely with the development team, and we were constantly updating the user interface based on user feedback. I noticed that. But there was a time when we weren't considering security implications during those updates, right? Yes, that's true. We used to focus solely on design aspects and user experience. Did you use to check the updates for security vulnerabilities? I did, but not always in real time. Sometimes I was checking them a day later, which wasn't ideal. I remember there was a week when we were all working overtime. You were fixing a security issue, weren't you? Exactly. There was a major vulnerability that needed immediate action. While I was addressing that, the team was waiting for my green light to proceed. It was quite a learning curve for us. We didn't use to integrate security and design as much as we should. Agreed. Moving forward, we should ensure that security checks are happening while the design updates are being made. We can't afford to overlook this aspect again.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.74,
+      "word": "I"
+    },
+    {
+      "startTime": 0.74,
+      "finishTime": 0.94,
+      "word": "was"
+    },
+    {
+      "startTime": 0.94,
+      "finishTime": 1.14,
+      "word": "thinking"
+    },
+    {
+      "startTime": 1.14,
+      "finishTime": 1.58,
+      "word": "we"
+    },
+    {
+      "startTime": 1.58,
+      "finishTime": 1.76,
+      "word": "could"
+    },
+    {
+      "startTime": 1.76,
+      "finishTime": 1.9,
+      "word": "do"
+    },
+    {
+      "startTime": 1.9,
+      "finishTime": 2.02,
+      "word": "a"
+    },
+    {
+      "startTime": 2.02,
+      "finishTime": 2.22,
+      "word": "quick"
+    },
+    {
+      "startTime": 2.22,
+      "finishTime": 2.94,
+      "word": "postmortem"
+    },
+    {
+      "startTime": 2.94,
+      "finishTime": 3.14,
+      "word": "of"
+    },
+    {
+      "startTime": 3.14,
+      "finishTime": 3.28,
+      "word": "the"
+    },
+    {
+      "startTime": 3.28,
+      "finishTime": 3.54,
+      "word": "design"
+    },
+    {
+      "startTime": 3.54,
+      "finishTime": 3.88,
+      "word": "project."
+    },
+    {
+      "startTime": 4.42,
+      "finishTime": 4.94,
+      "word": "Sure."
+    },
+    {
+      "startTime": 5.1,
+      "finishTime": 5.36,
+      "word": "I"
+    },
+    {
+      "startTime": 5.36,
+      "finishTime": 5.5,
+      "word": "was"
+    },
+    {
+      "startTime": 5.5,
+      "finishTime": 5.8,
+      "word": "reviewing"
+    },
+    {
+      "startTime": 5.8,
+      "finishTime": 6.12,
+      "word": "our"
+    },
+    {
+      "startTime": 6.12,
+      "finishTime": 6.44,
+      "word": "security"
+    },
+    {
+      "startTime": 6.44,
+      "finishTime": 6.96,
+      "word": "protocols"
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.28,
+      "word": "for"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.36,
+      "word": "the"
+    },
+    {
+      "startTime": 7.36,
+      "finishTime": 7.68,
+      "word": "project"
+    },
+    {
+      "startTime": 7.68,
+      "finishTime": 7.94,
+      "word": "just"
+    },
+    {
+      "startTime": 7.94,
+      "finishTime": 8.3,
+      "word": "yesterday."
+    },
+    {
+      "startTime": 8.52,
+      "finishTime": 8.9,
+      "word": "What's"
+    },
+    {
+      "startTime": 8.9,
+      "finishTime": 8.98,
+      "word": "on"
+    },
+    {
+      "startTime": 8.98,
+      "finishTime": 9.14,
+      "word": "your"
+    },
+    {
+      "startTime": 9.14,
+      "finishTime": 9.42,
+      "word": "mind?"
+    },
+    {
+      "startTime": 10.08,
+      "finishTime": 10.42,
+      "word": "Well,"
+    },
+    {
+      "startTime": 10.48,
+      "finishTime": 10.76,
+      "word": "during"
+    },
+    {
+      "startTime": 10.76,
+      "finishTime": 10.92,
+      "word": "the"
+    },
+    {
+      "startTime": 10.92,
+      "finishTime": 11.32,
+      "word": "project,"
+    },
+    {
+      "startTime": 11.44,
+      "finishTime": 11.66,
+      "word": "I"
+    },
+    {
+      "startTime": 11.66,
+      "finishTime": 11.78,
+      "word": "was"
+    },
+    {
+      "startTime": 11.78,
+      "finishTime": 11.98,
+      "word": "working"
+    },
+    {
+      "startTime": 11.98,
+      "finishTime": 12.4,
+      "word": "closely"
+    },
+    {
+      "startTime": 12.4,
+      "finishTime": 12.66,
+      "word": "with"
+    },
+    {
+      "startTime": 12.66,
+      "finishTime": 12.76,
+      "word": "the"
+    },
+    {
+      "startTime": 12.76,
+      "finishTime": 13.02,
+      "word": "development"
+    },
+    {
+      "startTime": 13.02,
+      "finishTime": 13.44,
+      "word": "team,"
+    },
+    {
+      "startTime": 13.58,
+      "finishTime": 13.78,
+      "word": "and"
+    },
+    {
+      "startTime": 13.78,
+      "finishTime": 13.88,
+      "word": "we"
+    },
+    {
+      "startTime": 13.88,
+      "finishTime": 14.02,
+      "word": "were"
+    },
+    {
+      "startTime": 14.02,
+      "finishTime": 14.5,
+      "word": "constantly"
+    },
+    {
+      "startTime": 14.5,
+      "finishTime": 14.94,
+      "word": "updating"
+    },
+    {
+      "startTime": 14.94,
+      "finishTime": 15.18,
+      "word": "the"
+    },
+    {
+      "startTime": 15.18,
+      "finishTime": 15.34,
+      "word": "user"
+    },
+    {
+      "startTime": 15.34,
+      "finishTime": 15.68,
+      "word": "interface"
+    },
+    {
+      "startTime": 15.68,
+      "finishTime": 16.06,
+      "word": "based"
+    },
+    {
+      "startTime": 16.06,
+      "finishTime": 16.36,
+      "word": "on"
+    },
+    {
+      "startTime": 16.36,
+      "finishTime": 16.6,
+      "word": "user"
+    },
+    {
+      "startTime": 16.6,
+      "finishTime": 16.94,
+      "word": "feedback."
+    },
+    {
+      "startTime": 17.58,
+      "finishTime": 17.94,
+      "word": "I"
+    },
+    {
+      "startTime": 17.94,
+      "finishTime": 18.24,
+      "word": "noticed"
+    },
+    {
+      "startTime": 18.24,
+      "finishTime": 18.5,
+      "word": "that."
+    },
+    {
+      "startTime": 18.68,
+      "finishTime": 19.12,
+      "word": "But"
+    },
+    {
+      "startTime": 19.12,
+      "finishTime": 19.28,
+      "word": "there"
+    },
+    {
+      "startTime": 19.28,
+      "finishTime": 19.42,
+      "word": "was"
+    },
+    {
+      "startTime": 19.42,
+      "finishTime": 19.52,
+      "word": "a"
+    },
+    {
+      "startTime": 19.52,
+      "finishTime": 19.78,
+      "word": "time"
+    },
+    {
+      "startTime": 19.78,
+      "finishTime": 20.1,
+      "word": "when"
+    },
+    {
+      "startTime": 20.1,
+      "finishTime": 20.3,
+      "word": "we"
+    },
+    {
+      "startTime": 20.3,
+      "finishTime": 20.58,
+      "word": "weren't"
+    },
+    {
+      "startTime": 20.58,
+      "finishTime": 20.94,
+      "word": "considering"
+    },
+    {
+      "startTime": 20.94,
+      "finishTime": 21.36,
+      "word": "security"
+    },
+    {
+      "startTime": 21.36,
+      "finishTime": 21.88,
+      "word": "implications"
+    },
+    {
+      "startTime": 21.88,
+      "finishTime": 22.34,
+      "word": "during"
+    },
+    {
+      "startTime": 22.34,
+      "finishTime": 22.56,
+      "word": "those"
+    },
+    {
+      "startTime": 22.56,
+      "finishTime": 22.92,
+      "word": "updates,"
+    },
+    {
+      "startTime": 23.08,
+      "finishTime": 23.26,
+      "word": "right?"
+    },
+    {
+      "startTime": 23.66,
+      "finishTime": 24.18,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 24.18,
+      "finishTime": 24.44,
+      "word": "that's"
+    },
+    {
+      "startTime": 24.44,
+      "finishTime": 24.7,
+      "word": "true."
+    },
+    {
+      "startTime": 24.8,
+      "finishTime": 25.14,
+      "word": "We"
+    },
+    {
+      "startTime": 25.14,
+      "finishTime": 25.32,
+      "word": "used"
+    },
+    {
+      "startTime": 25.32,
+      "finishTime": 25.48,
+      "word": "to"
+    },
+    {
+      "startTime": 25.48,
+      "finishTime": 25.72,
+      "word": "focus"
+    },
+    {
+      "startTime": 25.72,
+      "finishTime": 26.08,
+      "word": "solely"
+    },
+    {
+      "startTime": 26.08,
+      "finishTime": 26.38,
+      "word": "on"
+    },
+    {
+      "startTime": 26.38,
+      "finishTime": 26.62,
+      "word": "design"
+    },
+    {
+      "startTime": 26.62,
+      "finishTime": 27.1,
+      "word": "aspects"
+    },
+    {
+      "startTime": 27.1,
+      "finishTime": 27.4,
+      "word": "and"
+    },
+    {
+      "startTime": 27.4,
+      "finishTime": 27.6,
+      "word": "user"
+    },
+    {
+      "startTime": 27.6,
+      "finishTime": 28.14,
+      "word": "experience."
+    },
+    {
+      "startTime": 28.14,
+      "finishTime": 28.94,
+      "word": "Did"
+    },
+    {
+      "startTime": 28.94,
+      "finishTime": 29.08,
+      "word": "you"
+    },
+    {
+      "startTime": 29.08,
+      "finishTime": 29.32,
+      "word": "use"
+    },
+    {
+      "startTime": 29.32,
+      "finishTime": 29.48,
+      "word": "to"
+    },
+    {
+      "startTime": 29.48,
+      "finishTime": 29.7,
+      "word": "check"
+    },
+    {
+      "startTime": 29.7,
+      "finishTime": 29.88,
+      "word": "the"
+    },
+    {
+      "startTime": 29.88,
+      "finishTime": 30.2,
+      "word": "updates"
+    },
+    {
+      "startTime": 30.2,
+      "finishTime": 30.42,
+      "word": "for"
+    },
+    {
+      "startTime": 30.42,
+      "finishTime": 30.82,
+      "word": "security"
+    },
+    {
+      "startTime": 30.82,
+      "finishTime": 31.18,
+      "word": "vulnerabilities?"
+    },
+    {
+      "startTime": 31.9,
+      "finishTime": 32.22,
+      "word": "I"
+    },
+    {
+      "startTime": 32.22,
+      "finishTime": 32.46,
+      "word": "did,"
+    },
+    {
+      "startTime": 32.66,
+      "finishTime": 33.16,
+      "word": "but"
+    },
+    {
+      "startTime": 33.16,
+      "finishTime": 33.36,
+      "word": "not"
+    },
+    {
+      "startTime": 33.36,
+      "finishTime": 33.8,
+      "word": "always"
+    },
+    {
+      "startTime": 33.8,
+      "finishTime": 34.02,
+      "word": "in"
+    },
+    {
+      "startTime": 34.02,
+      "finishTime": 34.18,
+      "word": "real"
+    },
+    {
+      "startTime": 34.18,
+      "finishTime": 34.5,
+      "word": "time."
+    },
+    {
+      "startTime": 34.78,
+      "finishTime": 35.26,
+      "word": "Sometimes"
+    },
+    {
+      "startTime": 35.26,
+      "finishTime": 35.76,
+      "word": "I"
+    },
+    {
+      "startTime": 35.76,
+      "finishTime": 35.94,
+      "word": "was"
+    },
+    {
+      "startTime": 35.94,
+      "finishTime": 36.22,
+      "word": "checking"
+    },
+    {
+      "startTime": 36.22,
+      "finishTime": 36.54,
+      "word": "them"
+    },
+    {
+      "startTime": 36.54,
+      "finishTime": 36.7,
+      "word": "a"
+    },
+    {
+      "startTime": 36.7,
+      "finishTime": 36.92,
+      "word": "day"
+    },
+    {
+      "startTime": 36.92,
+      "finishTime": 37.22,
+      "word": "later,"
+    },
+    {
+      "startTime": 37.28,
+      "finishTime": 37.5,
+      "word": "which"
+    },
+    {
+      "startTime": 37.5,
+      "finishTime": 37.88,
+      "word": "wasn't"
+    },
+    {
+      "startTime": 37.88,
+      "finishTime": 38.12,
+      "word": "ideal."
+    },
+    {
+      "startTime": 38.68,
+      "finishTime": 39.16,
+      "word": "I"
+    },
+    {
+      "startTime": 39.16,
+      "finishTime": 39.44,
+      "word": "remember"
+    },
+    {
+      "startTime": 39.44,
+      "finishTime": 39.76,
+      "word": "there"
+    },
+    {
+      "startTime": 39.76,
+      "finishTime": 39.92,
+      "word": "was"
+    },
+    {
+      "startTime": 39.92,
+      "finishTime": 40.04,
+      "word": "a"
+    },
+    {
+      "startTime": 40.04,
+      "finishTime": 40.2,
+      "word": "week"
+    },
+    {
+      "startTime": 40.2,
+      "finishTime": 40.4,
+      "word": "when"
+    },
+    {
+      "startTime": 40.4,
+      "finishTime": 40.54,
+      "word": "we"
+    },
+    {
+      "startTime": 40.54,
+      "finishTime": 40.7,
+      "word": "were"
+    },
+    {
+      "startTime": 40.7,
+      "finishTime": 40.94,
+      "word": "all"
+    },
+    {
+      "startTime": 40.94,
+      "finishTime": 41.28,
+      "word": "working"
+    },
+    {
+      "startTime": 41.28,
+      "finishTime": 41.66,
+      "word": "overtime."
+    },
+    {
+      "startTime": 42,
+      "finishTime": 42.32,
+      "word": "You"
+    },
+    {
+      "startTime": 42.32,
+      "finishTime": 42.44,
+      "word": "were"
+    },
+    {
+      "startTime": 42.44,
+      "finishTime": 42.68,
+      "word": "fixing"
+    },
+    {
+      "startTime": 42.68,
+      "finishTime": 42.9,
+      "word": "a"
+    },
+    {
+      "startTime": 42.9,
+      "finishTime": 43.28,
+      "word": "security"
+    },
+    {
+      "startTime": 43.28,
+      "finishTime": 43.64,
+      "word": "issue,"
+    },
+    {
+      "startTime": 43.76,
+      "finishTime": 43.96,
+      "word": "weren't"
+    },
+    {
+      "startTime": 43.96,
+      "finishTime": 44.1,
+      "word": "you?"
+    },
+    {
+      "startTime": 44.88000000000001,
+      "finishTime": 45.36000000000001,
+      "word": "Exactly."
+    },
+    {
+      "startTime": 45.36000000000001,
+      "finishTime": 45.84,
+      "word": "There"
+    },
+    {
+      "startTime": 45.84,
+      "finishTime": 45.96,
+      "word": "was"
+    },
+    {
+      "startTime": 45.96,
+      "finishTime": 46.06,
+      "word": "a"
+    },
+    {
+      "startTime": 46.06,
+      "finishTime": 46.3,
+      "word": "major"
+    },
+    {
+      "startTime": 46.3,
+      "finishTime": 46.78,
+      "word": "vulnerability"
+    },
+    {
+      "startTime": 46.78,
+      "finishTime": 47.22,
+      "word": "that"
+    },
+    {
+      "startTime": 47.22,
+      "finishTime": 47.5,
+      "word": "needed"
+    },
+    {
+      "startTime": 47.5,
+      "finishTime": 47.9,
+      "word": "immediate"
+    },
+    {
+      "startTime": 47.9,
+      "finishTime": 48.48,
+      "word": "action."
+    },
+    {
+      "startTime": 48.68,
+      "finishTime": 49.04,
+      "word": "While"
+    },
+    {
+      "startTime": 49.04,
+      "finishTime": 49.2,
+      "word": "I"
+    },
+    {
+      "startTime": 49.2,
+      "finishTime": 49.34,
+      "word": "was"
+    },
+    {
+      "startTime": 49.34,
+      "finishTime": 49.66,
+      "word": "addressing"
+    },
+    {
+      "startTime": 49.66,
+      "finishTime": 49.92,
+      "word": "that,"
+    },
+    {
+      "startTime": 50.06,
+      "finishTime": 50.24,
+      "word": "the"
+    },
+    {
+      "startTime": 50.24,
+      "finishTime": 50.48,
+      "word": "team"
+    },
+    {
+      "startTime": 50.48,
+      "finishTime": 50.62,
+      "word": "was"
+    },
+    {
+      "startTime": 50.62,
+      "finishTime": 50.86,
+      "word": "waiting"
+    },
+    {
+      "startTime": 50.86,
+      "finishTime": 51.1,
+      "word": "for"
+    },
+    {
+      "startTime": 51.1,
+      "finishTime": 51.24,
+      "word": "my"
+    },
+    {
+      "startTime": 51.24,
+      "finishTime": 51.46,
+      "word": "green"
+    },
+    {
+      "startTime": 51.46,
+      "finishTime": 51.72,
+      "word": "light"
+    },
+    {
+      "startTime": 51.72,
+      "finishTime": 51.88,
+      "word": "to"
+    },
+    {
+      "startTime": 51.88,
+      "finishTime": 52.2,
+      "word": "proceed."
+    },
+    {
+      "startTime": 52.72,
+      "finishTime": 53.18,
+      "word": "It"
+    },
+    {
+      "startTime": 53.18,
+      "finishTime": 53.3,
+      "word": "was"
+    },
+    {
+      "startTime": 53.3,
+      "finishTime": 53.58,
+      "word": "quite"
+    },
+    {
+      "startTime": 53.58,
+      "finishTime": 53.72,
+      "word": "a"
+    },
+    {
+      "startTime": 53.72,
+      "finishTime": 53.94,
+      "word": "learning"
+    },
+    {
+      "startTime": 53.94,
+      "finishTime": 54.2,
+      "word": "curve"
+    },
+    {
+      "startTime": 54.2,
+      "finishTime": 54.36,
+      "word": "for"
+    },
+    {
+      "startTime": 54.36,
+      "finishTime": 54.56,
+      "word": "us."
+    },
+    {
+      "startTime": 54.74,
+      "finishTime": 55.2,
+      "word": "We"
+    },
+    {
+      "startTime": 55.2,
+      "finishTime": 55.46,
+      "word": "didn't"
+    },
+    {
+      "startTime": 55.46,
+      "finishTime": 55.6,
+      "word": "use"
+    },
+    {
+      "startTime": 55.6,
+      "finishTime": 55.8,
+      "word": "to"
+    },
+    {
+      "startTime": 55.8,
+      "finishTime": 55.98,
+      "word": "integrate"
+    },
+    {
+      "startTime": 55.98,
+      "finishTime": 56.44,
+      "word": "security"
+    },
+    {
+      "startTime": 56.44,
+      "finishTime": 56.76,
+      "word": "and"
+    },
+    {
+      "startTime": 56.76,
+      "finishTime": 57.02,
+      "word": "design"
+    },
+    {
+      "startTime": 57.02,
+      "finishTime": 57.28,
+      "word": "as"
+    },
+    {
+      "startTime": 57.28,
+      "finishTime": 57.46,
+      "word": "much"
+    },
+    {
+      "startTime": 57.46,
+      "finishTime": 57.6,
+      "word": "as"
+    },
+    {
+      "startTime": 57.6,
+      "finishTime": 57.7,
+      "word": "we"
+    },
+    {
+      "startTime": 57.7,
+      "finishTime": 57.92,
+      "word": "should."
+    },
+    {
+      "startTime": 58.7,
+      "finishTime": 59.16,
+      "word": "Agreed."
+    },
+    {
+      "startTime": 59.16,
+      "finishTime": 59.68,
+      "word": "Moving"
+    },
+    {
+      "startTime": 59.68,
+      "finishTime": 60.26,
+      "word": "forward,"
+    },
+    {
+      "startTime": 60.4,
+      "finishTime": 60.72,
+      "word": "we"
+    },
+    {
+      "startTime": 60.72,
+      "finishTime": 60.92,
+      "word": "should"
+    },
+    {
+      "startTime": 60.92,
+      "finishTime": 61.24,
+      "word": "ensure"
+    },
+    {
+      "startTime": 61.24,
+      "finishTime": 61.54,
+      "word": "that"
+    },
+    {
+      "startTime": 61.54,
+      "finishTime": 61.86,
+      "word": "security"
+    },
+    {
+      "startTime": 61.86,
+      "finishTime": 62.3,
+      "word": "checks"
+    },
+    {
+      "startTime": 62.3,
+      "finishTime": 62.48,
+      "word": "are"
+    },
+    {
+      "startTime": 62.48,
+      "finishTime": 62.8,
+      "word": "happening"
+    },
+    {
+      "startTime": 62.8,
+      "finishTime": 63.26,
+      "word": "while"
+    },
+    {
+      "startTime": 63.26,
+      "finishTime": 63.64,
+      "word": "the"
+    },
+    {
+      "startTime": 63.64,
+      "finishTime": 63.88,
+      "word": "design"
+    },
+    {
+      "startTime": 63.88,
+      "finishTime": 64.24,
+      "word": "updates"
+    },
+    {
+      "startTime": 64.24,
+      "finishTime": 64.46,
+      "word": "are"
+    },
+    {
+      "startTime": 64.46,
+      "finishTime": 64.6,
+      "word": "being"
+    },
+    {
+      "startTime": 64.6,
+      "finishTime": 64.94,
+      "word": "made."
+    },
+    {
+      "startTime": 65.06,
+      "finishTime": 65.54,
+      "word": "We"
+    },
+    {
+      "startTime": 65.54,
+      "finishTime": 65.86,
+      "word": "can't"
+    },
+    {
+      "startTime": 65.86,
+      "finishTime": 66.04,
+      "word": "afford"
+    },
+    {
+      "startTime": 66.04,
+      "finishTime": 66.26,
+      "word": "to"
+    },
+    {
+      "startTime": 66.26,
+      "finishTime": 66.54,
+      "word": "overlook"
+    },
+    {
+      "startTime": 66.54,
+      "finishTime": 66.9,
+      "word": "this"
+    },
+    {
+      "startTime": 66.9,
+      "finishTime": 67.28,
+      "word": "aspect"
+    },
+    {
+      "startTime": 67.28,
+      "finishTime": 67.64,
+      "word": "again."
+    }
+  ]
+}

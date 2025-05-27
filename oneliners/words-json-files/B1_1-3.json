@@ -1,0 +1,920 @@
+{
+  "text": "Hey Sarah, do you have a moment? I'm struggling with these IDEs. Sure, I'm not busy. What's the problem? The live preview isn't showing in Visual Studio Code. Isn't it supposed to support that feature? It should, but it's not displaying because the live server extension might not be running. Are you using that extension for real-time previews? I think we are, but maybe it's not set up right. Also, in IntelliJ IDEA, the code autocompletion isn't popping up. Isn't it automatic? It usually is, but it doesn't work if the project isn't set up right. Have you checked the settings? I'll have to check again. And in Eclipse, it's not showing the Git tools. Are they built in? Yes, they are, but they're not visible if the project isn't linked to Git. Is your project connected to Git in Eclipse? It's supposed to be. This is frustrating. Are these IDEs always this tricky? Not always, but they can be when they're not set up properly. Do you want to walk through on setting them up? Yes, please. That would be great.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.7,
+      "word": "Hey"
+    },
+    {
+      "startTime": 0.7,
+      "finishTime": 1.02,
+      "word": "Sarah,"
+    },
+    {
+      "startTime": 1.1,
+      "finishTime": 1.28,
+      "word": "do"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.4,
+      "word": "you"
+    },
+    {
+      "startTime": 1.4,
+      "finishTime": 1.56,
+      "word": "have"
+    },
+    {
+      "startTime": 1.56,
+      "finishTime": 1.7,
+      "word": "a"
+    },
+    {
+      "startTime": 1.7,
+      "finishTime": 1.92,
+      "word": "moment?"
+    },
+    {
+      "startTime": 2.08,
+      "finishTime": 2.34,
+      "word": "I'm"
+    },
+    {
+      "startTime": 2.34,
+      "finishTime": 2.72,
+      "word": "struggling"
+    },
+    {
+      "startTime": 2.72,
+      "finishTime": 3,
+      "word": "with"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.36,
+      "word": "these"
+    },
+    {
+      "startTime": 3.36,
+      "finishTime": 4.14,
+      "word": "IDEs."
+    },
+    {
+      "startTime": 4.54,
+      "finishTime": 4.94,
+      "word": "Sure,"
+    },
+    {
+      "startTime": 4.94,
+      "finishTime": 5.18,
+      "word": "I'm"
+    },
+    {
+      "startTime": 5.18,
+      "finishTime": 5.36,
+      "word": "not"
+    },
+    {
+      "startTime": 5.36,
+      "finishTime": 5.64,
+      "word": "busy."
+    },
+    {
+      "startTime": 5.82,
+      "finishTime": 6.08,
+      "word": "What's"
+    },
+    {
+      "startTime": 6.08,
+      "finishTime": 6.2,
+      "word": "the"
+    },
+    {
+      "startTime": 6.2,
+      "finishTime": 6.5,
+      "word": "problem?"
+    },
+    {
+      "startTime": 6.72,
+      "finishTime": 6.96,
+      "word": "The"
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.28,
+      "word": "live"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.6,
+      "word": "preview"
+    },
+    {
+      "startTime": 7.6,
+      "finishTime": 7.94,
+      "word": "isn't"
+    },
+    {
+      "startTime": 7.94,
+      "finishTime": 8.34,
+      "word": "showing"
+    },
+    {
+      "startTime": 8.34,
+      "finishTime": 8.62,
+      "word": "in"
+    },
+    {
+      "startTime": 8.62,
+      "finishTime": 8.94,
+      "word": "Visual"
+    },
+    {
+      "startTime": 8.94,
+      "finishTime": 9.38,
+      "word": "Studio"
+    },
+    {
+      "startTime": 9.38,
+      "finishTime": 9.82,
+      "word": "Code."
+    },
+    {
+      "startTime": 10.28,
+      "finishTime": 10.58,
+      "word": "Isn't"
+    },
+    {
+      "startTime": 10.58,
+      "finishTime": 10.82,
+      "word": "it"
+    },
+    {
+      "startTime": 10.82,
+      "finishTime": 11.12,
+      "word": "supposed"
+    },
+    {
+      "startTime": 11.12,
+      "finishTime": 11.36,
+      "word": "to"
+    },
+    {
+      "startTime": 11.36,
+      "finishTime": 11.58,
+      "word": "support"
+    },
+    {
+      "startTime": 11.58,
+      "finishTime": 11.84,
+      "word": "that"
+    },
+    {
+      "startTime": 11.84,
+      "finishTime": 12.16,
+      "word": "feature?"
+    },
+    {
+      "startTime": 12.62,
+      "finishTime": 12.92,
+      "word": "It"
+    },
+    {
+      "startTime": 12.92,
+      "finishTime": 13.2,
+      "word": "should,"
+    },
+    {
+      "startTime": 13.22,
+      "finishTime": 13.34,
+      "word": "but"
+    },
+    {
+      "startTime": 13.34,
+      "finishTime": 13.62,
+      "word": "it's"
+    },
+    {
+      "startTime": 13.62,
+      "finishTime": 13.84,
+      "word": "not"
+    },
+    {
+      "startTime": 13.84,
+      "finishTime": 14.24,
+      "word": "displaying"
+    },
+    {
+      "startTime": 14.24,
+      "finishTime": 14.62,
+      "word": "because"
+    },
+    {
+      "startTime": 14.62,
+      "finishTime": 14.86,
+      "word": "the"
+    },
+    {
+      "startTime": 14.86,
+      "finishTime": 15.08,
+      "word": "live"
+    },
+    {
+      "startTime": 15.08,
+      "finishTime": 15.34,
+      "word": "server"
+    },
+    {
+      "startTime": 15.34,
+      "finishTime": 15.78,
+      "word": "extension"
+    },
+    {
+      "startTime": 15.78,
+      "finishTime": 16.04,
+      "word": "might"
+    },
+    {
+      "startTime": 16.04,
+      "finishTime": 16.22,
+      "word": "not"
+    },
+    {
+      "startTime": 16.22,
+      "finishTime": 16.42,
+      "word": "be"
+    },
+    {
+      "startTime": 16.42,
+      "finishTime": 16.66,
+      "word": "running."
+    },
+    {
+      "startTime": 17,
+      "finishTime": 17.3,
+      "word": "Are"
+    },
+    {
+      "startTime": 17.3,
+      "finishTime": 17.52,
+      "word": "you"
+    },
+    {
+      "startTime": 17.52,
+      "finishTime": 17.7,
+      "word": "using"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 17.94,
+      "word": "that"
+    },
+    {
+      "startTime": 17.94,
+      "finishTime": 18.28,
+      "word": "extension"
+    },
+    {
+      "startTime": 18.28,
+      "finishTime": 18.54,
+      "word": "for"
+    },
+    {
+      "startTime": 18.54,
+      "finishTime": 18.76,
+      "word": "real"
+    },
+    {
+      "startTime": 18.76,
+      "finishTime": 18.94,
+      "word": "-time"
+    },
+    {
+      "startTime": 18.94,
+      "finishTime": 19.200000000000003,
+      "word": "previews?"
+    },
+    {
+      "startTime": 19.64,
+      "finishTime": 19.9,
+      "word": "I"
+    },
+    {
+      "startTime": 19.9,
+      "finishTime": 20.08,
+      "word": "think"
+    },
+    {
+      "startTime": 20.08,
+      "finishTime": 20.34,
+      "word": "we"
+    },
+    {
+      "startTime": 20.34,
+      "finishTime": 20.6,
+      "word": "are,"
+    },
+    {
+      "startTime": 20.64,
+      "finishTime": 20.9,
+      "word": "but"
+    },
+    {
+      "startTime": 20.9,
+      "finishTime": 21.22,
+      "word": "maybe"
+    },
+    {
+      "startTime": 21.22,
+      "finishTime": 21.44,
+      "word": "it's"
+    },
+    {
+      "startTime": 21.44,
+      "finishTime": 21.58,
+      "word": "not"
+    },
+    {
+      "startTime": 21.58,
+      "finishTime": 21.78,
+      "word": "set"
+    },
+    {
+      "startTime": 21.78,
+      "finishTime": 21.98,
+      "word": "up"
+    },
+    {
+      "startTime": 21.98,
+      "finishTime": 22.22,
+      "word": "right."
+    },
+    {
+      "startTime": 22.6,
+      "finishTime": 23.1,
+      "word": "Also,"
+    },
+    {
+      "startTime": 23.62,
+      "finishTime": 23.98,
+      "word": "in"
+    },
+    {
+      "startTime": 23.98,
+      "finishTime": 24.64,
+      "word": "IntelliJ"
+    },
+    {
+      "startTime": 24.64,
+      "finishTime": 25.34,
+      "word": "IDEA,"
+    },
+    {
+      "startTime": 25.6,
+      "finishTime": 25.8,
+      "word": "the"
+    },
+    {
+      "startTime": 25.8,
+      "finishTime": 26.14,
+      "word": "code"
+    },
+    {
+      "startTime": 26.14,
+      "finishTime": 27.04,
+      "word": "autocompletion"
+    },
+    {
+      "startTime": 27.04,
+      "finishTime": 27.38,
+      "word": "isn't"
+    },
+    {
+      "startTime": 27.38,
+      "finishTime": 27.66,
+      "word": "popping"
+    },
+    {
+      "startTime": 27.66,
+      "finishTime": 28.02,
+      "word": "up."
+    },
+    {
+      "startTime": 28.02,
+      "finishTime": 28.56,
+      "word": "Isn't"
+    },
+    {
+      "startTime": 28.56,
+      "finishTime": 28.92,
+      "word": "it"
+    },
+    {
+      "startTime": 28.92,
+      "finishTime": 29.46,
+      "word": "automatic?"
+    },
+    {
+      "startTime": 30.3,
+      "finishTime": 30.48,
+      "word": "It"
+    },
+    {
+      "startTime": 30.48,
+      "finishTime": 30.82,
+      "word": "usually"
+    },
+    {
+      "startTime": 30.82,
+      "finishTime": 31.16,
+      "word": "is,"
+    },
+    {
+      "startTime": 31.16,
+      "finishTime": 31.28,
+      "word": "but"
+    },
+    {
+      "startTime": 31.28,
+      "finishTime": 31.46,
+      "word": "it"
+    },
+    {
+      "startTime": 31.46,
+      "finishTime": 31.64,
+      "word": "doesn't"
+    },
+    {
+      "startTime": 31.64,
+      "finishTime": 31.84,
+      "word": "work"
+    },
+    {
+      "startTime": 31.84,
+      "finishTime": 31.98,
+      "word": "if"
+    },
+    {
+      "startTime": 31.98,
+      "finishTime": 32.18,
+      "word": "the"
+    },
+    {
+      "startTime": 32.18,
+      "finishTime": 32.44,
+      "word": "project"
+    },
+    {
+      "startTime": 32.44,
+      "finishTime": 32.72,
+      "word": "isn't"
+    },
+    {
+      "startTime": 32.72,
+      "finishTime": 32.92,
+      "word": "set"
+    },
+    {
+      "startTime": 32.92,
+      "finishTime": 33.1,
+      "word": "up"
+    },
+    {
+      "startTime": 33.1,
+      "finishTime": 33.36,
+      "word": "right."
+    },
+    {
+      "startTime": 33.52,
+      "finishTime": 33.66,
+      "word": "Have"
+    },
+    {
+      "startTime": 33.66,
+      "finishTime": 33.86,
+      "word": "you"
+    },
+    {
+      "startTime": 33.86,
+      "finishTime": 34,
+      "word": "checked"
+    },
+    {
+      "startTime": 34,
+      "finishTime": 34.26,
+      "word": "the"
+    },
+    {
+      "startTime": 34.26,
+      "finishTime": 34.6,
+      "word": "settings?"
+    },
+    {
+      "startTime": 34.96,
+      "finishTime": 35.22,
+      "word": "I'll"
+    },
+    {
+      "startTime": 35.22,
+      "finishTime": 35.34,
+      "word": "have"
+    },
+    {
+      "startTime": 35.34,
+      "finishTime": 35.54,
+      "word": "to"
+    },
+    {
+      "startTime": 35.54,
+      "finishTime": 35.72,
+      "word": "check"
+    },
+    {
+      "startTime": 35.72,
+      "finishTime": 36.1,
+      "word": "again."
+    },
+    {
+      "startTime": 36.32,
+      "finishTime": 36.54,
+      "word": "And"
+    },
+    {
+      "startTime": 36.54,
+      "finishTime": 36.76,
+      "word": "in"
+    },
+    {
+      "startTime": 36.76,
+      "finishTime": 37.16,
+      "word": "Eclipse,"
+    },
+    {
+      "startTime": 37.58,
+      "finishTime": 37.96,
+      "word": "it's"
+    },
+    {
+      "startTime": 37.96,
+      "finishTime": 38.22,
+      "word": "not"
+    },
+    {
+      "startTime": 38.22,
+      "finishTime": 38.48,
+      "word": "showing"
+    },
+    {
+      "startTime": 38.48,
+      "finishTime": 38.88,
+      "word": "the"
+    },
+    {
+      "startTime": 38.88,
+      "finishTime": 39.06,
+      "word": "Git"
+    },
+    {
+      "startTime": 39.06,
+      "finishTime": 39.56,
+      "word": "tools."
+    },
+    {
+      "startTime": 39.84,
+      "finishTime": 39.96,
+      "word": "Are"
+    },
+    {
+      "startTime": 39.96,
+      "finishTime": 40.14,
+      "word": "they"
+    },
+    {
+      "startTime": 40.14,
+      "finishTime": 40.44,
+      "word": "built"
+    },
+    {
+      "startTime": 40.44,
+      "finishTime": 40.76,
+      "word": "in?"
+    },
+    {
+      "startTime": 41.28,
+      "finishTime": 41.58,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 41.58,
+      "finishTime": 41.78,
+      "word": "they"
+    },
+    {
+      "startTime": 41.78,
+      "finishTime": 42.02,
+      "word": "are,"
+    },
+    {
+      "startTime": 42.02,
+      "finishTime": 42.14,
+      "word": "but"
+    },
+    {
+      "startTime": 42.14,
+      "finishTime": 42.36,
+      "word": "they're"
+    },
+    {
+      "startTime": 42.36,
+      "finishTime": 42.56,
+      "word": "not"
+    },
+    {
+      "startTime": 42.56,
+      "finishTime": 42.86,
+      "word": "visible"
+    },
+    {
+      "startTime": 42.86,
+      "finishTime": 43.04,
+      "word": "if"
+    },
+    {
+      "startTime": 43.04,
+      "finishTime": 43.28,
+      "word": "the"
+    },
+    {
+      "startTime": 43.28,
+      "finishTime": 43.52,
+      "word": "project"
+    },
+    {
+      "startTime": 43.52,
+      "finishTime": 43.82,
+      "word": "isn't"
+    },
+    {
+      "startTime": 43.82,
+      "finishTime": 44.12,
+      "word": "linked"
+    },
+    {
+      "startTime": 44.12,
+      "finishTime": 44.38,
+      "word": "to"
+    },
+    {
+      "startTime": 44.38,
+      "finishTime": 44.56,
+      "word": "Git."
+    },
+    {
+      "startTime": 44.82,
+      "finishTime": 45.02,
+      "word": "Is"
+    },
+    {
+      "startTime": 45.02,
+      "finishTime": 45.22,
+      "word": "your"
+    },
+    {
+      "startTime": 45.22,
+      "finishTime": 45.46,
+      "word": "project"
+    },
+    {
+      "startTime": 45.46,
+      "finishTime": 45.88,
+      "word": "connected"
+    },
+    {
+      "startTime": 45.88,
+      "finishTime": 46.14,
+      "word": "to"
+    },
+    {
+      "startTime": 46.14,
+      "finishTime": 46.28,
+      "word": "Git"
+    },
+    {
+      "startTime": 46.28,
+      "finishTime": 46.46,
+      "word": "in"
+    },
+    {
+      "startTime": 46.46,
+      "finishTime": 46.8,
+      "word": "Eclipse?"
+    },
+    {
+      "startTime": 47.3,
+      "finishTime": 47.78,
+      "word": "It's"
+    },
+    {
+      "startTime": 47.78,
+      "finishTime": 48.06,
+      "word": "supposed"
+    },
+    {
+      "startTime": 48.06,
+      "finishTime": 48.24,
+      "word": "to"
+    },
+    {
+      "startTime": 48.24,
+      "finishTime": 48.44,
+      "word": "be."
+    },
+    {
+      "startTime": 48.58,
+      "finishTime": 48.86,
+      "word": "This"
+    },
+    {
+      "startTime": 48.86,
+      "finishTime": 49.14,
+      "word": "is"
+    },
+    {
+      "startTime": 49.14,
+      "finishTime": 49.6,
+      "word": "frustrating."
+    },
+    {
+      "startTime": 49.94,
+      "finishTime": 50.14,
+      "word": "Are"
+    },
+    {
+      "startTime": 50.14,
+      "finishTime": 50.5,
+      "word": "these"
+    },
+    {
+      "startTime": 50.5,
+      "finishTime": 50.98,
+      "word": "IDEs"
+    },
+    {
+      "startTime": 50.98,
+      "finishTime": 51.5,
+      "word": "always"
+    },
+    {
+      "startTime": 51.5,
+      "finishTime": 51.84,
+      "word": "this"
+    },
+    {
+      "startTime": 51.84,
+      "finishTime": 52.12,
+      "word": "tricky?"
+    },
+    {
+      "startTime": 52.72,
+      "finishTime": 53.04,
+      "word": "Not"
+    },
+    {
+      "startTime": 53.04,
+      "finishTime": 53.38,
+      "word": "always,"
+    },
+    {
+      "startTime": 53.4,
+      "finishTime": 53.54,
+      "word": "but"
+    },
+    {
+      "startTime": 53.54,
+      "finishTime": 53.74,
+      "word": "they"
+    },
+    {
+      "startTime": 53.74,
+      "finishTime": 53.98,
+      "word": "can"
+    },
+    {
+      "startTime": 53.98,
+      "finishTime": 54.14,
+      "word": "be"
+    },
+    {
+      "startTime": 54.14,
+      "finishTime": 54.24,
+      "word": "when"
+    },
+    {
+      "startTime": 54.24,
+      "finishTime": 54.44,
+      "word": "they're"
+    },
+    {
+      "startTime": 54.44,
+      "finishTime": 54.62,
+      "word": "not"
+    },
+    {
+      "startTime": 54.62,
+      "finishTime": 54.74,
+      "word": "set"
+    },
+    {
+      "startTime": 54.74,
+      "finishTime": 54.94,
+      "word": "up"
+    },
+    {
+      "startTime": 54.94,
+      "finishTime": 55.28,
+      "word": "properly."
+    },
+    {
+      "startTime": 55.5,
+      "finishTime": 55.66,
+      "word": "Do"
+    },
+    {
+      "startTime": 55.66,
+      "finishTime": 55.76,
+      "word": "you"
+    },
+    {
+      "startTime": 55.76,
+      "finishTime": 55.88,
+      "word": "want"
+    },
+    {
+      "startTime": 55.88,
+      "finishTime": 56.04,
+      "word": "to"
+    },
+    {
+      "startTime": 56.04,
+      "finishTime": 56.2,
+      "word": "walk"
+    },
+    {
+      "startTime": 56.2,
+      "finishTime": 56.36,
+      "word": "through"
+    },
+    {
+      "startTime": 56.36,
+      "finishTime": 56.58,
+      "word": "on"
+    },
+    {
+      "startTime": 56.58,
+      "finishTime": 56.72,
+      "word": "setting"
+    },
+    {
+      "startTime": 56.72,
+      "finishTime": 56.9,
+      "word": "them"
+    },
+    {
+      "startTime": 56.9,
+      "finishTime": 57.2,
+      "word": "up?"
+    },
+    {
+      "startTime": 57.88,
+      "finishTime": 58.36,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 58.48,
+      "finishTime": 58.8,
+      "word": "please."
+    },
+    {
+      "startTime": 59.04,
+      "finishTime": 59.18,
+      "word": "That"
+    },
+    {
+      "startTime": 59.18,
+      "finishTime": 59.34,
+      "word": "would"
+    },
+    {
+      "startTime": 59.34,
+      "finishTime": 59.56,
+      "word": "be"
+    },
+    {
+      "startTime": 59.56,
+      "finishTime": 59.8,
+      "word": "great."
+    }
+  ]
+}
